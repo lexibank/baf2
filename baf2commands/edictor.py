@@ -58,7 +58,7 @@ def run(args):
     for key, values in etd.items():
         idxs = [idx[0] for idx in values if idx]
         subs = [lex[idx, 'family'] for idx in idxs]
-        if len(set(subs)) == 1:
+        if len(set(subs)) == 1 or len(idxs) == 1:
             for idx in idxs:
                 lex[idx, 'borid'] = 0
                 
@@ -83,7 +83,11 @@ def run(args):
     for idx in wl:
         D[idx] = [wl[idx, h] for h in D[0]]
     
-    lex = LexiBase(lex, dbase=ds.dir.joinpath('analysis',
+    lex = LexiBase(D, dbase=ds.dir.joinpath('analysis',
         'bangime.sqlite3').as_posix())
     lex.create('bangime')
+
+    lex.output('tsv', filename=ds.dir.joinpath(
+        'analysis',
+        'wordlist').as_posix(), ignore='all', prettify=False)
 

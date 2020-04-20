@@ -8,7 +8,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "work in progress on Bangime",
+    "dcat:accessURL": "https://github.com/lexibank/baf2",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/baf2",
+            "dc:created": "6d96415"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
