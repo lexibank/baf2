@@ -1,0 +1,352 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
+1_guestorstranger,GUEST OR STRANGER,2908,GUEST OR STRANGER,étranger
+2_age,AGE,1789,AGE,"(être vivant) devenir vieux, âgé"
+3_ancestors,ANCESTORS,1669,ANCESTORS,"aïeul, ancêtre"
+4_animal,ANIMAL,619,ANIMAL,animal
+5_answer,ANSWER,1275,ANSWER,répondre
+6_armpit,ARMPIT,1886,ARMPIT,aisselle
+7_arrive,ARRIVE,1387,ARRIVE,arriver
+8_ash,ASH,646,ASH,cendre
+9_back,BACK,1291,BACK,dos
+10_bad,BAD,1292,BAD,mauvais
+11_bark,BARK,1204,BARK,coque (de noix); écorce
+12_bealive,BE ALIVE,1422,BE ALIVE,"ê. vivant, vivre (ne pas ê. décédé)"
+13_beard,BEARD,678,BEARD,barbe
+14_beautiful,BEAUTIFUL,1427,BEAUTIFUL,beau
+15_begin,BEGIN,1806,BEGIN,commencer
+16_belly,BELLY,1251,BELLY,estomac
+17_belt,BELT,772,BELT,ceinture
+18_beside,BESIDE,1816,BESIDE,à côté de (qch)
+19_big,BIG,1202,BIG,grand
+20_bird,BIRD,937,BIRD,(tout) oiseau
+21_bite,BITE,1403,BITE,"(qn, mammifère) mordre (qch, qn)"
+22_bitter,BITTER,887,BITTER,(goût) amer
+23_blacksmith,BLACKSMITH,1001,BLACKSMITH,forgeron
+24_blanket,BLANKET,806,BLANKET,couverture
+25_blink,BLINK,1655,BLINK,cligner des yeux
+26_blood,BLOOD,946,BLOOD,sang
+27_blunt,BLUNT,379,BLUNT,(lame) émoussé
+28_boat,BOAT,379,BLUNT,"barque, pirogue, chaland"
+29_body,BODY,1480,BODY,corps
+30_bone,BONE,1394,BONE,os
+31_bow,BOW,994,BOW,arc
+32_breakfast,BREAKFAST,1322,BREAKFAST,"donner à déjeuner, déjeuner"
+33_breast,BREAST,1402,BREAST,sein
+34_breathe,BREATHE,1407,BREATHE,respirer
+35_broom,BROOM,245,BROOM,balai
+36_build,BUILD,1840,BUILD,"bâtir, construire"
+37_burnsomething,BURN (SOMETHING),141,BURN (SOMETHING),brûler
+38_bury,BURY,1719,BURY,déposer; enterrer (cadavre)
+39_buy,BUY,1869,BUY,acheter
+40_call,CALL,1084,CALL,appel
+41_camel,CAMEL,1871,CAMEL,chameau
+42_carryonhead,CARRY ON HEAD,414,CARRY ON HEAD,"porter (qch, à la tête)"
+43_carve,CARVE,228,CARVE,tailler (bois)
+44_cassava,CASSAVA,1030,NECESSARY,"Manihot esculenta, manioc"
+45_cat,CAT,1208,CAT,chat
+46_cause,CAUSE,860,CAUSE,"cause, faute"
+47_cave,CAVE,1155,CAVE,grotte
+48_cheek,CHEEK,1730,CHEEK,joue
+49_chest,CHEST,1592,CHEST,poitrine
+50_chicken,CHICKEN,1318,CHICKEN,"poule, coq, poulet"
+51_chieftain,CHIEFTAIN,301,CHIEFTAIN,chef
+52_child,CHILD,2099,CHILD,enfant
+53_chin,CHIN,1510,CHIN,menton
+54_cloud,CLOUD,1489,CLOUD,nuage
+55_cold,COLD,1287,COLD,(le) froid
+56_come,COME,1446,COME,venir
+57_comeback,COME BACK,581,COME BACK,retourner
+58_cotton,COTTON,1850,COTTON,coton
+59_count,COUNT,1420,COUNT,"calcul, (dé-)compte."
+60_country,COUNTRY,1300,COUNTRY,"pais, terre, sol"
+61_cow,COW,1007,COW,bovin (vache ou taureau)
+62_cry,CRY,1839,CRY,pleurer
+63_daynotnight,DAY (NOT NIGHT),1225,DAY (NOT NIGHT),daytime (not night)
+64_dew,DEW,1977,DEW,"humidité, roséé"
+65_die,DIE,1494,DIE,mourir
+66_dig,DIG,1418,DIG,creuser
+67_dinnersupper,DINNER (SUPPER),1833,DINNER (SUPPER),dîner
+68_disease,DISEASE,1986,DISEASE,maladie
+69_divide,DIVIDE,1119,DIVIDE,diviser
+70_dog,DOG,2009,DOG,chien
+71_donkey,DONKEY,1862,DONKEY,âne
+72_door,DOOR,1567,DOOR,battant (de porte)
+73_doorpost,DOORPOST,80,DOORPOST,porte (passage)
+74_dove,DOVE,1853,DOVE,pigeon
+75_drink,DRINK,1401,DRINK,boire
+76_dripfallinglobules,DRIP (FALL IN GLOBULES),808,DRIP (FALL IN GLOBULES),(eau) goutter
+77_dry,DRY,1398,DRY,"(bois) mort, sec"
+78_dust,DUST,2,DUST,poussière
+79_dye,DYE,157,DYE,tissu noirâtre teinté d'indigo
+80_ear,EAR,1247,EAR,oreille
+81_earring,EARRING,770,EARRING,"bague ou boucle d’oreille -cpd: see [kàmb-ù]-[kòrb-ò] , hà.è-[kòrb-ò] , cè:-[kòrb-ò] ."
+82_easy,EASY,686,EASY,"ê. facile, pas cher"
+83_eat,EAT,1336,EAT,manger
+84_egg,EGG,744,EGG,oeuf
+85_eight,EIGHT,1705,EIGHT,huit
+86_elbow,ELBOW,981,ELBOW,coude
+87_elephant,ELEPHANT,1290,ELEPHANT,éléphant
+88_empty,EMPTY,1624,EMPTY,(récipient) vide
+89_enter,ENTER,749,ENTER,entrer
+90_eye,EYE,1248,EYE,œil
+91_face,FACE,1560,FACE,visage
+92_fall,FALL,1280,FALL,tomber
+93_far,FAR,1406,FAR,"éloigner, écarter"
+94_fast,FAST,1631,FAST,rapide
+95_fatobese,FAT (OBESE),1279,FAT (OBESE),gros
+96_fatorganicsubstance,FAT (ORGANIC SUBSTANCE),323,FAT (ORGANIC SUBSTANCE),graisse
+97_father,FATHER,1217,FATHER,père
+98_fearbeafraid,FEAR (BE AFRAID),1419,FEAR (BE AFRAID),avoir peur
+99_fearfright,FEAR (FRIGHT),781,FEAR (FRIGHT),peur
+100_fight,FIGHT,1423,FIGHT,lutte
+101_find,FIND,719,FIND,"obtenir, gagner"
+102_finger,FINGER,1303,FINGER,doigt
+103_fire,FIRE,221,FIRE,feu
+104_firewood,FIREWOOD,10,FIREWOOD,bois (de chauffage)
+105_fish,FISH,227,FISH,poisson
+106_five,FIVE,493,FIVE,cinq
+107_flower,FLOWER,239,FLOWER,fleur
+108_flyinsect,FLY (INSECT),1504,FLY (INSECT),mouche
+109_flymovethroughair,FLY (MOVE THROUGH AIR),1441,FLY (MOVE THROUGH AIR),(oiseau etc.) voler
+110_foam,FOAM,1768,FOAM,"bulles, écume, mousse (de savon, de thé) [verb kù:fà ]."
+111_fold,FOLD,1470,FOLD,"plier (papier, vêtement)"
+112_food,FOOD,256,FOOD,"aliment, nourriture"
+113_footorleg,FOOT OR LEG,2098,FOOT OR LEG,pied
+114_forehead,FOREHEAD,123,FOREHEAD,front
+115_forget,FORGET,1523,FORGET,oublier
+116_forgive,FORGIVE,1528,FORGIVE,"excuser, pardonner (qqch) -ex: .ò né [.jéy .=´ .´yà:fà] they said they (had) forgiven it (e.g. debt)"
+117_four,FOUR,1500,FOUR,quatre
+118_friend,FRIEND,1325,FRIEND,ami
+119_full,FULL,1429,FULL,plein
+120_get,GET,694,GET,obtenir
+121_girl,GIRL,1646,GIRL,fille
+122_give,GIVE,1447,GIVE,donner
+123_givebirth,GIVE BIRTH,1195,GIVE BIRTH,(femelle) accoucher (bébé)
+124_go,GO,695,GO,aller
+125_godowndescend,GO DOWN (DESCEND),2014,GO DOWN (DESCEND),descendance
+126_goout,GO OUT,2014,GO DOWN (DESCEND),descendre
+127_goupascend,GO UP (ASCEND),705,GO UP (ASCEND),monter
+128_gout,GoːUT,1107,GO OUT,"quitter, venir de (lieu)r"
+129_goat,GOAT,1502,GOAT,"caprin, chèvre"
+130_god,GOD,1944,GOD,Dieu
+131_gold,GOLD,1369,GOLD,or
+132_good,GOOD,1035,GOOD,bon
+133_grandfather,GRANDFATHER,1383,GRANDFATHER,grand-mère
+134_grass,GRASS,606,GRASS,herbe
+135_guts,GUTS,1334,GUTS,entrailles
+136_hair,HAIR,1040,HAIR,cheveu
+137_hand,HAND,1277,HAND,main
+138_hangup,HANG UP,357,HANG UP,"accrocher, suspendre"
+139_head,HEAD,1256,HEAD,tête
+140_hear,HEAR,1408,HEAR,entendre
+141_heavy,HEAVY,1210,HEAVY,"dur, difficile, lourd"
+142_help,HELP,1897,HELP,aider
+143_hideconceal,HIDE (CONCEAL),602,HIDE (CONCEAL),cacher
+144_hip,HIP,1745,HIP,hanche
+145_honey,HONEY,942,HONEY,miel
+146_hornanatomy,HORN (ANATOMY),1393,HORN (ANATOMY),corne
+147_horse,HORSE,615,HORSE,cheval
+148_host,HOST,1545,HOST,"accueillir, recevoir"
+149_hot,HOT,1286,HOT,chaud
+150_hundred,HUNDRED,1634,HUNDRED,cent
+151_hunt,HUNT,1435,HUNT,chasse (fait de faire la)
+152_husband,HUSBAND,1200,HUSBAND,"époux, mari"
+153_injure,INJURE,44,INJURE,blesser
+154_iron,IRON,621,IRON,fer
+155_jaw,JAW,798,JAW,mâchoire
+156_joint,JOINT,999,JOINT,articulation
+157_key,KEY,1472,KEY,clé
+158_kidney,KIDNEY,489,KIDNEY,rate
+159_kill,KILL,1417,KILL,tuer
+160_knee,KNEE,1371,KNEE,donner un coup de genou à [cf. kànjè].
+161_kneel,KNEEL,66,KNEEL,"(qn, chameau) s'agenouiller"
+162_knife,KNIFE,1352,KNIFE,couteau
+163_knowsomething,KNOW (SOMETHING),1410,KNOW (SOMETHING),"connaître, savoir, reconnaître, remarquer"
+164_ladder,LADDER,1464,LADDER,écaille
+165_laugh,LAUGH,1355,LAUGH,le rire
+166_leaf,LEAF,628,LEAF,feuille
+167_leave,LEAVE,1752,LEAVE,abandonner
+168_left,LEFT,244,LEFT,(main etc.) gauche
+169_lick,LICK,319,LICK,lécher
+170_liedown,LIE DOWN,215,LIE DOWN,"coucher, étendre, allonger, étaler"
+171_lift,LIFT,501,LIFT,"amener, venir avec; amorcer (une matière, dans un discours) [irregular combination of kà ‘come’ plus ndù ‘with’; 3SgO kà:-.d-â, Imprt with 3SgO kà:-nd-â without -.suffix] [< kà 2]."
+172_lightweight,LIGHT (WEIGHT),1052,LIGHT (WEIGHT),"ê. faible, facile, à bon marché"
+173_limp,LIMP,366,LIMP,boiter
+174_lion,LION,1386,LION,lion
+175_lock,LOCK,1596,LOCK,couvercle; fermeture.
+176_look,LOOK,1819,LOOK,"examiner, regarder"
+177_lookfor,LOOK FOR,1468,LOOK FOR,chercher
+178_louse,LOUSE,1392,LOUSE,pou
+179_lunch,LUNCH,768,LUNCH,déjeuner
+180_lung,LUNG,688,LUNG,poumon
+181_maize,MAIZE,506,MAIZE,maïs
+182_man,MAN,1554,MAN,homme
+183_market,MARKET,633,MARKET,marché
+184_marrow,MARROW,1835,MARROW,moelle
+185_marry,MARRY,203,MARRY,(homme) épouser (femme)
+186_mat,MAT,195,MAT,natte
+187_meal,MEAL,1526,MEAL,repas
+188_meat,MEAT,634,MEAT,viande
+189_medicine,MEDICINE,499,CURE,médicament
+190_meet,MEET,1831,MEET,"(individus) se rassembler, se réunir"
+191_milk,MILK,635,MILK,lait
+192_millet,MILLET,931,MILLET,mil
+193_money,MONEY,1559,MONEY,argent
+194_moon,MOON,1313,MOON,lune
+195_mosque,MOSQUE,1603,MOSQUE,mosquéé
+196_mother,MOTHER,1216,MOTHER,mère
+197_mouse,MOUSE,1491,MOUSE,souris
+198_mouth,MOUTH,674,MOUTH,bouche
+199_mud,MUD,640,MUD,boue
+200_name,NAME,1405,NAME,nom
+201_narrow,NARROW,1267,NARROW,coincé
+202_near,NEAR,1942,NEAR,proche
+203_neck,NECK,1333,NECK,cou
+204_neednoun,NEED (NOUN),643,NEED (NOUN),besoin
+205_neighbor,NEIGHBOR,643,NEED (NOUN),voisin
+206_neighbour,NEIGHBOUR,1332,NEIGHBOUR,voisin
+207_new,NEW,1231,NEW,nouveau
+208_night,NIGHT,1233,NIGHT,nuit
+209_nine,NINE,1483,NINE,neuf
+210_noble,NOBLE,482,NOBLE,noble (non esclave)
+211_nose,NOSE,1221,NOSE,nez
+212_now,NOW,1376,NOW,maintenant
+213_nurse,NURSE,1104,NURSE,"(femelle) allaiter, faire téter (enfant)"
+214_old,OLD,1229,OLD,"âgé, vieux (person)"
+215_oldman,OLD MAN,406,OLD MAN,vieil homme
+216_oldwoman,OLD WOMAN,907,OLD WOMAN,vieille femme
+217_one,ONE,1493,ONE,un
+218_onion,ONION,2366,ONION,"Allium (diverses var. cultivéés), oignon"
+219_open,OPEN,1156,OPEN,"découvrir (qch, qn), ouvrir (porte, récipient)"
+220_orphan,ORPHAN,1149,ORPHAN,orphelin
+221_other,OTHER,197,OTHER,autre
+222_pathorroad,PATH OR ROAD,2457,PATH OR ROAD,chemin
+223_penis,PENIS,1222,PENIS,"membre viril, sexe de l’homme [common in insults; TSK béndè] [SYN:zòfól-ò ] -poss (inal): 1Sg bènd-èy, 3Sg bènd-ò , 3FullSg .ángá bènd-ô -ex of insult: bà:b-à.­bénd-ò your father’s prick!"
+224_person,PERSON,683,PERSON,chose ou personne jolie [DIMIN in form].
+225_pestle,PESTLE,225,PESTLE,pilon
+226_pick,PICK,1486,PLANT (SOMETHING),cueiller (fruit)
+227_pig,PIG,1337,PIG,cochon
+228_piss,PISS,592,PISS,urine
+229_placeposition,PLACE (POSITION),723,PLACE (POSITION),lieu
+230_plastic,PLASTIC,654,PLASTIC,"caoutchouc, sac (en plastique); ballon"
+231_pocket,POCKET,1851,POCKET,"poche -poss: 1Sg zìfíy-è , 2Sg zìfíy-ò-nó.] [cf. Za & TSK zí:bà , Ka zíbà , <Ar vj yb , similarly Ful njiiba, Hausaːljifu]."
+232_price,PRICE,657,PRICE,prix
+233_pull,PULL,1455,PULL,dessiner [related to noun zé:r-ó 1].
+234_pumpkin,PUMPKIN,864,PUMPKIN,courge
+235_push,PUSH,1452,PUSH,"enfoncer, pousser"
+236_rainprecipitation,RAIN (PRECIPITATION),658,RAIN (PRECIPITATION),pluie
+237_rainbow,RAINBOW,1733,RAINBOW,arc-en-ciel
+238_raw,RAW,1959,RAW,"(viande) cru, non cuit"
+239_razor,RAZOR,151,RAZOR,rasoir
+240_red,RED,156,RED,rouge
+241_rib,RIB,801,RIB,(une) côte
+242_right,RIGHT,1019,RIGHT,(main etc.) droit
+243_ring,RING,1374,RING,anneau
+244_river,RIVER,666,RIVER,fleuve
+245_roof,ROOF,769,ROOF,terrasse (au toit)
+246_root,ROOT,670,ROOT,"nerf, tendon, vaisseau sanguin, corde d’instrument de musique, air de musique, racine"
+247_rotten,ROTTEN,1728,ROTTEN,"ê. pourri [adj fùmb-ò , Intens dús! , Fact fúmb-éyndí , cf. fùmb-ànd-à ]."
+248_rough,ROUGH,1923,ROUGH,(surface) raide [<verb kású 1a] ­ex: sáhán kàs-ò harsh fabric
+249_run,RUN,1519,RUN,courir
+250_salt,SALT,1274,SALT,sel
+251_sand,SAND,671,SAND,sable
+252_say,SAY,1458,SAY,dire
+253_scale,SCALE,266,SCALE,écaille (de poisson ou de serpent)
+254_see,SEE,1409,SEE,voir
+255_sell,SELL,1571,SELL,vendre
+256_send,SEND,1127,SEND,envoyer
+257_seven,SEVEN,1704,SEVEN,sept
+258_sew,SEW,1457,SEW,coudre
+259_sharp,SHARP,1396,SHARP,"(lame) ê. tranchante [homophonous to kâ:n 1; cf. sèmbèlèy ] [adj kà:n-ò 2, Fact ká:n-éyndí 2]."
+260_sheep,SHEEP,1331,SHEEP,mouton
+261_shepherd,SHEPHERD,2544,SHEPHERD,berger
+262_shitdefecate,SHIT (DEFECATE),676,SHIT (DEFECATE),"defecate, have a shit"
+263_shoe,SHOE,1381,SHOE,chaussure
+264_short,SHORT,1645,SHORT,court
+265_show,SHOW,1039,SHOW,"exposer, montrer (qqch) -ex (reflexive): .ò ­nám [.ò. ­bó.] .bánj-éyndí s-â. they’ll show themselves to you"
+266_sickleorscythe,SICKLE OR SCYTHE,2132,SICKLE OR SCYTHE,faucille
+267_similar,SIMILAR,1558,SIMILAR,"comme, pareil à"
+268_sing,SING,1261,SING,"chant, chanson"
+269_sit,SIT,1416,SIT,"asseoir, installer, habiter"
+270_six,SIX,1703,SIX,six
+271_skin,SKIN,763,SKIN,peau
+272_sky,SKY,1732,SKY,"(le) haut, ciel"
+273_slave,SLAVE,812,SLAVE,"captif, esclave"
+274_sleep,SLEEP,1585,SLEEP,dormir
+275_slip,SLIP,1324,SLIP,(qn) glisser
+276_small,SMALL,1246,SMALL,ê. petit [Adj kátíyá 1b] [KS kacca ].
+277_smell,SMELL,2124,SMELL,odeur
+278_smoke,SMOKE,778,SMOKE (EXHAUST),fuméé
+279_smooth,SMOOTH,1234,SMOOTH,"aplanir, aplatir (surface d’un mur, ou sol d’une maison, avec une truelle.) [<Ful vmeel-]."
+280_snake,SNAKE,730,SNAKE,serpent
+281_soap,SOAP,788,SOAP,savon
+282_song,SONG,1096,SONG,chan
+283_spear,SPEAR,945,SPEAR,"caoutchouc, lance-pierres"
+284_spin,SPIN,121,SPIN,filer (coton)
+285_spirit,SPIRIT,53,SPIRIT,"âme, esprit vital (d'un vivant)"
+286_spit,SPIT,1440,SPIT,cracher
+287_spleen,SPLEEN,1744,SPLEEN,rate
+288_springorwell,SPRING OR WELL,2144,SPRING OR WELL,(piège) sauter.
+289_star,STAR,1430,STAR,etoile
+290_steal,STEAL,713,STEAL,voler
+291_stomach,STOMACH,819,STOMACH,estomac
+292_stone,STONE,857,STONE,"petite pierre, caillou, gravier"
+293_strikeorbeat,STRIKE OR BEAT,2133,STRIKE OR BEAT,"gifler, frapper, battre"
+294_suck,SUCK,1421,SUCK,"lécher, sucer"
+295_sugar,SUGAR,862,SUGAR,sucre
+296_sun,SUN,1343,SUN,soleil
+297_swallow,SWALLOW,897,SWALLOW,avale
+298_sweep,SWEEP,230,SWEEP,balayer
+299_sweet,SWEET,717,SWEET,"(goût) doux, sucré"
+300_swim,SWIM,1439,SWIM,nager
+301_tail,TAIL,1220,TAIL,queue
+302_talk,TALK,2708,TALK,"dire, parler"
+303_taste,TASTE,1373,TEA,goûter
+304_ten,TEN,1515,TEN,thé
+305_testicles,TESTICLES,797,TESTICLES,"oeuf, testicule"
+306_thick,THICK,1244,THICK,(bâton etc.) épais
+307_thigh,THIGH,800,THIGH,cuisse
+308_thing,THING,738,THING,chose
+309_think,THINK,2271,THINK,"croire; réfléchir [cf. hò.gù, só:sê, lásá:bû, síkkê] -ex: à.bò .mí:ló [.ò.gú wìy-à/ he thinks they are doing the killing"
+310_thorn,THORN,124,THORN,épine
+311_thousand,THOUSAND,1843,THOUSAND,mille
+312_three,THREE,492,THREE,trois
+313_throat,THROAT,1346,THROAT,"cou, gorge, col"
+314_throw,THROW,1456,THROW,jeter
+315_tie,TIE,1917,TIE,attacher
+316_tobacco,TOBACCO,974,TOBACCO,tabac [related verb súndú 1a; SYN:táb-ò ; cf. hámpérê ]
+317_toe,TOE,1389,TOE,"doigt, orteil"
+318_tomorrow,TOMORROW,1329,TOMORROW,demain
+319_tongs,TONGS,272,TONGS,pinces (pour enlever les échardes); pinces (du forgeron)
+320_tongue,TONGUE,1205,TONGUE,lâcher
+321_tooth,TOOTH,1380,TOOTH,dent
+322_touch,TOUCH,1892,TOUCH,toucher
+323_trappitfall,TRAP (PITFALL),1075,TRAP (PITFALL),piège
+324_traverse,TRAVERSE,666,RIVER,"casser, détruire ; traverser"
+325_tree,TREE,906,TREE,arbre
+326_trough,TROUGH,205,TROUGH,abreuvoir
+327_twenty,TWENTY,1710,TWENTY,vingt
+328_twice,TWICE,1546,TWICE,deux fois
+329_two,TWO,1498,TWO,deux
+330_untie,UNTIE,352,UNTIE,"délier, lâcher (animal etc.)"
+331_urine,URINE,1142,URINE,urine
+332_vagina,VAGINA,1836,VAGINA,vagin
+333_village,VILLAGE,930,VILLAGE,"côté, village, pays natal"
+334_wages,WAGES,1122,WAGES,"payer, rembourser (qn)"
+335_wallofhouse,WALL (OF HOUSE),933,WALL (OF HOUSE),mur
+336_water,WATER,948,WATER,eau
+337_weave,WEAVE,133,WEAVE,tisser
+338_week,WEEK,1469,WEEK,semaine
+339_wet,WET,1726,WET,"complètement trempé, très mouillé"
+340_white,WHITE,1335,WHITE,"blanc (de l'oeil, de l'oeuf)"
+341_wife,WIFE,1199,WIFE,épouse
+342_wind,WIND,960,WIND,vent
+343_wing,WING,1257,WING,aile
+344_woman,WOMAN,962,WOMAN,femme
+345_wood,WOOD,1803,WOOD,bois
+346_work,WORK,1803,WOOD,travailler
+347_worklabour,WORK (LABOUR),984,WORK (LABOUR),travail
+348_world,WORLD,965,WORLD,"le monde, la vie"
+349_wrapper,WRAPPER,1113,WRAP,pagne
+350_year,YEAR,1226,YEAR,an / annéé
+351_yellow,YELLOW,1424,YELLOW,ê. jaune [SYN:.ó:ldê].
