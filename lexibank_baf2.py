@@ -62,7 +62,7 @@ class Dataset(BaseDataset):
                     Form=wl[idx, 'form'].strip() or '?',
                     Segments=wl[idx, 'tokens'],
                     Source=['hantganfc'],
-                    Cognacy=str(wl[idx, 'cogids']),
+                    Cognacy=' '.join([str(x) for x in wl[idx, 'cogids']]),
                     Concept_in_Source=wl[idx, 'concept_in_source']
                 )
                 for morpheme_idx, cogid in enumerate(wl[idx, 'cogids']):

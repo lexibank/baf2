@@ -54,11 +54,14 @@ def run(args):
     lex.add_entries('cogids', 'cognacy', lambda x: x)
 
     etd = lex.get_etymdict(ref='borid')
-    cogids = {}
     for key, values in etd.items():
-        idxs = [idx[0] for idx in values if idx]
+        idxs = []
+        for idx in values:
+            if idx:
+                idxs += idx
         subs = [lex[idx, 'family'] for idx in idxs]
-        if len(set(subs)) == 1 or len(idxs) == 1:
+        lang = [lex[idx, 'doculect'] for idx in idxs]
+        if len(set(subs)) == 1 or len(set(lang)) == 1:
             for idx in idxs:
                 lex[idx, 'borid'] = 0
                 
@@ -81,7 +84,7 @@ def run(args):
 
 
     for idx in wl:
-        D[idx] = [wl[idx, h] for h in D[0]]
+        D[idx] = [lex[idx, h] for h in D[0]]
     
     lex = LexiBase(D, dbase=ds.dir.joinpath('analysis',
         'bangime.sqlite3').as_posix())
