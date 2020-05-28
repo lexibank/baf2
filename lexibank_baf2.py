@@ -33,7 +33,7 @@ class Dataset(BaseDataset):
     id = 'baf2'
 
     def cmd_makecldf(self, args):
-        wl = lingpy.Wordlist(str(self.raw_dir / 'data.tsv'))
+        wl = lingpy.Wordlist(str(self.raw_dir / 'bangime.tsv'))
         args.writer.add_sources()
         concepts = {}
         for concept in self.concepts:
@@ -47,15 +47,13 @@ class Dataset(BaseDataset):
                 French_Gloss=concept['FRENCH']
             )
             concepts[concept['ENGLISH']] = idx
-        languages = {}
         for language in self.languages:
             args.writer.add_language(**language)
-            languages[language['Name']] = language['ID']
 
         for idx in progressbar(wl, desc='cldfify'):
             if wl[idx, 'tokens']:
                 row = args.writer.add_form_with_segments(
-                    Language_ID=languages[wl[idx, 'doculect']],
+                    Language_ID=wl[idx, 'doculect'],
                     Local_ID=idx,
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'value'].strip() or '?',

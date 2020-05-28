@@ -126,7 +126,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 125_godowndescend,GO DOWN (DESCEND),2014,GO DOWN (DESCEND),descendance
 126_goout,GO OUT,2014,GO DOWN (DESCEND),descendre
 127_goupascend,GO UP (ASCEND),705,GO UP (ASCEND),monter
-128_gout,GoːUT,1107,GO OUT,"quitter, venir de (lieu)r"
 129_goat,GOAT,1502,GOAT,"caprin, chèvre"
 130_god,GOD,1944,GOD,Dieu
 131_gold,GOLD,1369,GOLD,or
@@ -203,7 +202,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 202_near,NEAR,1942,NEAR,proche
 203_neck,NECK,1333,NECK,cou
 204_neednoun,NEED (NOUN),643,NEED (NOUN),besoin
-205_neighbor,NEIGHBOR,643,NEED (NOUN),voisin
 206_neighbour,NEIGHBOUR,1332,NEIGHBOUR,voisin
 207_new,NEW,1231,NEW,nouveau
 208_night,NIGHT,1233,NIGHT,nuit
@@ -344,7 +342,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 343_wing,WING,1257,WING,aile
 344_woman,WOMAN,962,WOMAN,femme
 345_wood,WOOD,1803,WOOD,bois
-346_work,WORK,1803,WOOD,travailler
 347_worklabour,WORK (LABOUR),984,WORK (LABOUR),travail
 348_world,WORLD,965,WORLD,"le monde, la vie"
 349_wrapper,WRAPPER,1113,WRAP,pagne
