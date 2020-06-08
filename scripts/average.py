@@ -12,9 +12,15 @@ families = {
         wl[idx, 'doculect']: wl[idx, 'family'] for idx in wl}
 
 for cogid, refs in [c for c in etd.items() if c != '0']:
-    for (i, tA), (j, tB) in combinations(enumerate(wl.cols), r=2):
-        if refs[i] != 0 and refs[j] != 0:
-            shared[tA, tB] += [cogid]
+    idxs = []
+    for ref in refs:
+        if ref:
+            idxs += ref
+    famis = [wl[idx, 'family'] for idx in idxs]
+    if len(set(famis)) == 2:
+        for (i, tA), (j, tB) in combinations(enumerate(wl.cols), r=2):
+            if refs[i] != 0 and refs[j] != 0:
+                shared[tA, tB] += [cogid]
 
 bangime = defaultdict(list)
 for tA, tB in shared:
