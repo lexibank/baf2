@@ -25,9 +25,10 @@ for cogid, refs in etd.items():
         table += [[concept]+[
             str(famis.count(f)) for f in families]+[str(cogid), ptn, count,
                 str(len(idxs))]]
-        for f1, f2 in combinations(families, r=2):
-            if f1 in famis and f2 in famis:
-                shared[f1, f2] += [concept]
+        if len(set(famis)) == 2:
+            for f1, f2 in combinations(families, r=2):
+                if f1 in famis and f2 in famis:
+                    shared[f1, f2] += [concept]
 
 with open('patterns.tsv', 'w') as f:
     f.write('Concept\t'+'\t'.join(families)+'\tBORROWING\tPATTERN\tFAMILIES\tREFLEXES\n')
