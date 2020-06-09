@@ -56,6 +56,7 @@ relations = defaultdict(list)
 for (tA, tB), values in shared.items():
     fA, fB = families[tA], families[tB]
     relations[tA, fB] += [(tB, values)]
+    relations[tB, fA] += [(tA, values)]
     
 
 with open('relations.md', 'w') as f:
