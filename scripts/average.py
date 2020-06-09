@@ -52,4 +52,26 @@ for language, sharedi in dogon.items():
         sum([x[1] for x in sharedi])/len(sharedi)))
 
 
+relations = defaultdict(list)
+for (tA, tB), values in shared.items():
+    fA, fB = families[tA], families[tB]
+    relations[tA, fB] += [(tB, values)]
+    
 
+with open('relations.md', 'w') as f:
+    current_family = ''
+    for (t, fm), reflexes in sorted(relations.items(), key=lambda x:
+            (families[x[0][0]], x[0][1], x[0][0])):
+        if families[t] != current_family:
+            current_family = families[t]
+            f.write('# Binary relations of {0} \n'.format(families[t]))
+        f.write('## Binary relations between {0} and {1}\n\n'.format(t, fm))
+        f.write('Language | Number | Candidates | Concepts \n')
+        f.write('--- | --- | --- | --- \n')
+        for tB, cogids in reflexes:
+            concepts = []
+            for cogid in cogids:
+                concepts += [wl[[x[0] for x in etd[cogid] if x][0], 'concept']]
+            f.write('{0} | {1} | {2} | {3} \n'.format(
+                tB, len(cogids), ', '.join(cogids), ', '.join(concepts)))
+        f.write('\n\n')
