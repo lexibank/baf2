@@ -137,6 +137,12 @@ ToroSo-4_animal-1-2,ToroSo-4_animal-1,gìnì bɛ́l,47,false,expert,hantganfc,,,
 ToroSo-4_animal-2-1,ToroSo-4_animal-2,ásɛ̀ɡɛ̀,56,false,expert,hantganfc,,,,1
 ToroSo-4_animal-2-2,ToroSo-4_animal-2,ásɛ̀ɡɛ̀,51,false,expert,hantganfc,,,,2
 BonduSo-4_animal-2-1,BonduSo-4_animal-2,dúmɛ́ɛ̀,52,false,expert,hantganfc,,,,1
+Fulfulde-4_animal-1-1,Fulfulde-4_animal-1,daaba,29,false,expert,hantganfc,,,,1
+Jenaama-4_animal-1-1,Jenaama-4_animal-1,dààbá,30,false,expert,hantganfc,,,,1
+SonghaiKiini-4_animal-1-1,SonghaiKiini-4_animal-1,dáábà,32,false,expert,hantganfc,,,,1
+Soninke-4_animal-1-1,Soninke-4_animal-1,dáábá,30,false,expert,hantganfc,,,,1
+TomoKan-4_animal-1-1,TomoKan-4_animal-1,dáábá,31,false,expert,hantganfc,,,,1
+Penange-4_animal-1-1,Penange-4_animal-1,dáábá,31,false,expert,hantganfc,,,,1
 Bangime-5_answer-1-1,Bangime-5_answer-1,jòò-rò,63,false,expert,hantganfc,,,,1
 Bangime-5_answer-1-2,Bangime-5_answer-1,jòò-rò,64,false,expert,hantganfc,,,,2
 Bambara-5_answer-1-1,Bambara-5_answer-1,lámìnɛ́,61,false,expert,hantganfc,,,,1
@@ -170,6 +176,8 @@ TomoKan-5_answer-1-1,TomoKan-5_answer-1,sáwá,66,false,expert,hantganfc,,,,1
 TomoKan-5_answer-1-2,TomoKan-5_answer-1,sáwá,4869,false,expert,hantganfc,,,,2
 Soninke-5_answer-1-1,Soninke-5_answer-1,ɲímí,69,false,expert,hantganfc,,,,1
 TogoKan-5_answer-1-1,TogoKan-5_answer-1,sá:,66,false,expert,hantganfc,,,,1
+SonghaiSenni-5_answer-1-1,SonghaiSenni-5_answer-1,já:bê,4883,false,expert,hantganfc,,,,1
+Fulfulde-5_answer-1-1,Fulfulde-5_answer-1,jaab-ude,4884,false,expert,hantganfc,,,,1
 Fulfulde-6_armpit-1-1,Fulfulde-6_armpit-1,nawki,79,false,expert,hantganfc,,,,1
 BozoHainyaxo-6_armpit-1-1,BozoHainyaxo-6_armpit-1,kabaatiⁿmɔ,77,false,expert,hantganfc,,,,1
 BozoHainyaxo-6_armpit-1-2,BozoHainyaxo-6_armpit-1,kabaatiⁿmɔ,78,false,expert,hantganfc,,,,2
@@ -227,6 +235,7 @@ ToroSo-6_armpit-1-2,ToroSo-6_armpit-1,ká kárú,73,false,expert,hantganfc,,,,2
 BonduSo-6_armpit-2-1,BonduSo-6_armpit-2,kárá kàrá,73,false,expert,hantganfc,,,,1
 BonduSo-6_armpit-2-2,BonduSo-6_armpit-2,kárá kàrá,73,false,expert,hantganfc,,,,2
 Bambara-6_armpit-1-1,Bambara-6_armpit-1,nàná,4121,false,expert,hantganfc,,,,1
+Soninke-6_armpit-1-1,Soninke-6_armpit-1,héqqè,4904,false,expert,hantganfc,,,,1
 Bangime-7_arrive-1-1,Bangime-7_arrive-1,twàà-rà,85,false,expert,hantganfc,,,,1
 Bangime-7_arrive-1-2,Bangime-7_arrive-1,twàà-rà,86,false,expert,hantganfc,,,,2
 Fulfulde-7_arrive-1-1,Fulfulde-7_arrive-1,yott-aade,91,false,expert,hantganfc,,,,1
@@ -628,6 +637,7 @@ Bambara-15_begin-1-1,Bambara-15_begin-1,dábɔ́,643,false,expert,hantganfc,,,,1
 ToroSo-15_begin-1-1,ToroSo-15_begin-1,tɔ́lɔ́,217,false,expert,hantganfc,,,,1
 ToroSo-15_begin-2-1,ToroSo-15_begin-2,tábí,210,false,expert,hantganfc,,,,1
 BonduSo-15_begin-2-1,BonduSo-15_begin-2,jáŋɡí,215,false,expert,hantganfc,,,,1
+Soninke-15_begin-1-1,Soninke-15_begin-1,jóŋŋè,4918,false,expert,hantganfc,,,,1
 Bambara-16_belly-1-1,Bambara-16_belly-1,fùrú,228,false,expert,hantganfc,,,,1
 Bambara-16_belly-2-1,Bambara-16_belly-2,fùrùkóló,228,false,expert,hantganfc,,,,1
 Bambara-16_belly-2-2,Bambara-16_belly-2,fùrùkóló,230,false,expert,hantganfc,,,,2
@@ -1085,6 +1095,7 @@ Soninke-27_blunt-1-1,Soninke-27_blunt-1,béxésó,406,false,expert,hantganfc,,,,
 Bangime-27_blunt-1-1,Bangime-27_blunt-1,mùtù,400,false,expert,hantganfc,,,,1
 Fulfulde-27_blunt-1-1,Fulfulde-27_blunt-1,muddiɗid-de,402,false,expert,hantganfc,,,,1
 Fulfulde-27_blunt-1-2,Fulfulde-27_blunt-1,muddiɗid-de,403,false,expert,hantganfc,,,,2
+Bambara-27_blunt-1-1,Bambara-27_blunt-1,dɑgomɑ,4912,false,expert,hantganfc,,,,1
 Bambara-28_boat-1-1,Bambara-28_boat-1,báláⁿká,409,false,expert,hantganfc,,,,1
 SonghaiSenni-28_boat-1-1,SonghaiSenni-28_boat-1,hìy-ò,416,false,expert,hantganfc,,,,1
 SonghaiSenni-28_boat-1-2,SonghaiSenni-28_boat-1,hìy-ò,417,false,expert,hantganfc,,,,2
@@ -1279,6 +1290,7 @@ Fulfulde-32_breakfast-1-1,Fulfulde-32_breakfast-1,pummaari,471,false,expert,hant
 Fulfulde-32_breakfast-2-1,Fulfulde-32_breakfast-2,taʄu-kooye,476,false,expert,hantganfc,,,,1
 Fulfulde-32_breakfast-2-2,Fulfulde-32_breakfast-2,taʄu-kooye,477,false,expert,hantganfc,,,,2
 Bambara-32_breakfast-1-1,Bambara-32_breakfast-1,dàràká,63,false,expert,hantganfc,,,,1
+TommoSo-32_breakfast-2-1,TommoSo-32_breakfast-2,dàràgá,464,false,expert,hantganfc,,,,1
 SonghaiSenni-33_breast-1-1,SonghaiSenni-33_breast-1,fòf-ò,491,false,expert,hantganfc,,,,1
 SonghaiSenni-33_breast-1-2,SonghaiSenni-33_breast-1,fòf-ò,492,false,expert,hantganfc,,,,2
 BozoHainyaxo-33_breast-1-1,BozoHainyaxo-33_breast-1,hoⁿŋoⁿ,483,false,expert,hantganfc,,,,1
@@ -1620,6 +1632,8 @@ Bangime-41_camel-1-1,Bangime-41_camel-1,ɲɔ̀ŋɔ̀-mɛ́,72,false,expert,hantg
 Bangime-41_camel-1-2,Bangime-41_camel-1,ɲɔ̀ŋɔ̀-mɛ́,4839,false,expert,hantganfc,,,,2
 BonduSo-41_camel-1-1,BonduSo-41_camel-1,ñɔ̀ŋɔ̀-mɛ́,588,false,expert,hantganfc,,,,1
 BonduSo-41_camel-1-2,BonduSo-41_camel-1,ñɔ̀ŋɔ̀-mɛ́,589,false,expert,hantganfc,,,,2
+SonghaiKiini-41_camel-1-1,SonghaiKiini-41_camel-1,yɔ̀w-ɔ̌:,594,false,expert,hantganfc,,,,1
+SonghaiKiini-41_camel-1-2,SonghaiKiini-41_camel-1,yɔ̀w-ɔ̌:,595,false,expert,hantganfc,,,,2
 ToroTegu-42_carryonhead-1-1,ToroTegu-42_carryonhead-1,dí,597,false,expert,hantganfc,,,,1
 BenTey-42_carryonhead-1-1,BenTey-42_carryonhead-1,dǔ,597,false,expert,hantganfc,,,,1
 BankanTey-42_carryonhead-1-1,BankanTey-42_carryonhead-1,dú,597,false,expert,hantganfc,,,,1
@@ -1953,6 +1967,11 @@ Bambara-51_chieftain-2-1,Bambara-51_chieftain-2,dùgùtígí,697,false,expert,ha
 Bambara-51_chieftain-2-2,Bambara-51_chieftain-2,dùgùtígí,698,false,expert,hantganfc,,,,2
 ToroSo-51_chieftain-1-1,ToroSo-51_chieftain-1,kúúnó,701,false,expert,hantganfc,,,,1
 BonduSo-51_chieftain-1-1,BonduSo-51_chieftain-1,dómbá,699,false,expert,hantganfc,,,,1
+SonghaiKiini-51_chieftain-1-1,SonghaiKiini-51_chieftain-1,bòŋ-kòyní,4891,false,expert,hantganfc,,,,1
+SonghaiKiini-51_chieftain-1-2,SonghaiKiini-51_chieftain-1,bòŋ-kòyní,4892,false,expert,hantganfc,,,,2
+SonghaiSenni-51_chieftain-1-1,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4893,false,expert,hantganfc,,,,1
+SonghaiSenni-51_chieftain-1-2,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4891,false,expert,hantganfc,,,,2
+SonghaiSenni-51_chieftain-1-3,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4894,false,expert,hantganfc,,,,3
 ToroTegu-52_child-1-1,ToroTegu-52_child-1,ì-rⁿú,717,false,expert,hantganfc,,,,1
 ToroTegu-52_child-1-2,ToroTegu-52_child-1,ì-rⁿú,723,false,expert,hantganfc,,,,2
 BenTey-52_child-1-1,BenTey-52_child-1,yí-m,708,false,expert,hantganfc,,,,1
@@ -2526,6 +2545,7 @@ SonghaiSenni-65_die-1-1,SonghaiSenni-65_die-1,bú:,909,false,expert,hantganfc,,,
 ToroSo-65_die-1-1,ToroSo-65_die-1,yííwⁿ,903,false,expert,hantganfc,,,,1
 ToroSo-65_die-2-1,ToroSo-65_die-2,ɲíì,906,false,expert,hantganfc,,,,1
 BonduSo-65_die-2-1,BonduSo-65_die-2,tíbɛ̀,897,false,expert,hantganfc,,,,1
+Mombo-65_die-2-1,Mombo-65_die-2,dwɛ́:,897,false,expert,hantganfc,,,,1
 Bangime-66_dig-1-1,Bangime-66_dig-1,kììndù,94,false,expert,hantganfc,,,,1
 Fulfulde-66_dig-1-1,Fulfulde-66_dig-1,as-ude,916,false,expert,hantganfc,,,,1
 Fulfulde-66_dig-1-2,Fulfulde-66_dig-1,as-ude,917,false,expert,hantganfc,,,,2
@@ -2553,6 +2573,7 @@ Penange-66_dig-1-1,Penange-66_dig-1,gájé,913,false,expert,hantganfc,,,,1
 TiranigeDiga-66_dig-1-1,TiranigeDiga-66_dig-1,kɔ́lɔ́,914,false,expert,hantganfc,,,,1
 ToroSo-66_dig-1-1,ToroSo-66_dig-1,ɡùró,914,false,expert,hantganfc,,,,1
 BonduSo-66_dig-2-1,BonduSo-66_dig-2,gánjé,913,false,expert,hantganfc,,,,1
+SonghaiKiini-66_dig-1-1,SonghaiKiini-66_dig-1,fánsí,920,false,expert,hantganfc,,,,1
 ToroTegu-67_dinnersupper-1-1,ToroTegu-67_dinnersupper-1,nè:sé,941,false,expert,hantganfc,,,,1
 BenTey-67_dinnersupper-1-1,BenTey-67_dinnersupper-1,ɲàrⁿù-nùmjó,928,false,expert,hantganfc,,,,1
 BenTey-67_dinnersupper-1-2,BenTey-67_dinnersupper-1,ɲàrⁿù-nùmjó,929,false,expert,hantganfc,,,,2
@@ -2857,6 +2878,8 @@ PergeTegu-73_doorpost-1-2,PergeTegu-73_doorpost-1,òsù-ká:,1039,false,expert,h
 TogoKan-73_doorpost-1-1,TogoKan-73_doorpost-1,gìrⁿì-káⁿ,1032,false,expert,hantganfc,,,,1
 TogoKan-73_doorpost-1-2,TogoKan-73_doorpost-1,gìrⁿì-káⁿ,1039,false,expert,hantganfc,,,,2
 Bangime-73_doorpost-1-1,Bangime-73_doorpost-1,kò-nɔ̀wⁿ,106,false,expert,hantganfc,,,,1
+SonghaiKiini-73_doorpost-1-1,SonghaiKiini-73_doorpost-1,hû: míyⁿɛ̀,1040,false,expert,hantganfc,,,,1
+SonghaiKiini-73_doorpost-1-2,SonghaiKiini-73_doorpost-1,hû: míyⁿɛ̀,4901,false,expert,hantganfc,,,,2
 Bangime-74_dove-1-1,Bangime-74_dove-1,wúúrɛ̀,1044,false,expert,hantganfc,,,,1
 Fulfulde-74_dove-1-1,Fulfulde-74_dove-1,foondu-maraandu,1054,false,expert,hantganfc,,,,1
 Fulfulde-74_dove-1-2,Fulfulde-74_dove-1,foondu-maraandu,1055,false,expert,hantganfc,,,,2
@@ -3472,6 +3495,10 @@ SonghaiSenni-87_elephant-1-3,SonghaiSenni-87_elephant-1,cé-bè:r-ò,1245,false,
 ToroSo-87_elephant-1-1,ToroSo-87_elephant-1,dùŋ náː,1242,false,expert,hantganfc,,,,1
 ToroSo-87_elephant-1-2,ToroSo-87_elephant-1,dùŋ náː,1240,false,expert,hantganfc,,,,2
 Bambara-87_elephant-1-1,Bambara-87_elephant-1,sàmá,4810,false,expert,hantganfc,,,,1
+Soninke-87_elephant-1-1,Soninke-87_elephant-1,tùurê,4907,false,expert,hantganfc,,,,1
+SonghaiKiini-87_elephant-1-1,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1228,false,expert,hantganfc,,,,1
+SonghaiKiini-87_elephant-1-2,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1244,false,expert,hantganfc,,,,2
+SonghaiKiini-87_elephant-1-3,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1245,false,expert,hantganfc,,,,3
 TebulUre-88_empty-1-1,TebulUre-88_empty-1,ǹdɛ́,1254,false,expert,hantganfc,,,,1
 ToroTegu-88_empty-1-1,ToroTegu-88_empty-1,péré,1261,false,expert,hantganfc,,,,1
 BenTey-88_empty-1-1,BenTey-88_empty-1,kòrǒy,1252,false,expert,hantganfc,,,,1
@@ -3978,6 +4005,7 @@ SonghaiSenni-100_fight-1-3,SonghaiSenni-100_fight-1,gùrjèy,1425,false,expert,h
 BonduSo-100_fight-2-1,BonduSo-100_fight-2,jáːŋí-y,1417,false,expert,hantganfc,,,,1
 BonduSo-100_fight-2-2,BonduSo-100_fight-2,jáːŋí-y,1418,false,expert,hantganfc,,,,2
 Bambara-100_fight-1-1,Bambara-100_fight-1,kɛlɛ,1413,false,expert,hantganfc,,,,1
+Soninke-100_fight-1-1,Soninke-100_fight-1,hítínà,4909,false,expert,hantganfc,,,,1
 Bangime-101_find-1-1,Bangime-101_find-1,kārà,133,false,expert,hantganfc,,,,1
 Fulfulde-101_find-1-1,Fulfulde-101_find-1,taw-ude,1432,false,expert,hantganfc,,,,1
 Fulfulde-101_find-1-2,Fulfulde-101_find-1,taw-ude,1433,false,expert,hantganfc,,,,2
@@ -4013,6 +4041,8 @@ TommoSo-101_find-1-1,TommoSo-101_find-1,tɛ́mbɛ́,1428,false,expert,hantganfc,
 YandaDom-101_find-1-1,YandaDom-101_find-1,tɛ́mbɛ́,1428,false,expert,hantganfc,,,,1
 SonghaiSenni-101_find-1-1,SonghaiSenni-101_find-1,dí:,131,false,expert,hantganfc,,,,1
 BonduSo-101_find-2-1,BonduSo-101_find-2,dìnɛ̂ː,1429,false,expert,hantganfc,,,,1
+SonghaiKiini-101_find-1-1,SonghaiKiini-101_find-1,dí:,131,false,expert,hantganfc,,,,1
+Bambara-101_find-1-1,Bambara-101_find-1,sɔ̀rɔ́,4910,false,expert,hantganfc,,,,1
 ToroTegu-102_finger-1-1,ToroTegu-102_finger-1,lɔ̀-ìrⁿú,1440,false,expert,hantganfc,,,,1
 ToroTegu-102_finger-1-2,ToroTegu-102_finger-1,lɔ̀-ìrⁿú,1441,false,expert,hantganfc,,,,2
 BenTey-102_finger-1-1,BenTey-102_finger-1,nà:-sî:ⁿ,1440,false,expert,hantganfc,,,,1
@@ -4672,6 +4702,8 @@ Mombo-116_forgive-1-1,Mombo-116_forgive-1,yà:fì_kání,1652,false,expert,hantg
 Mombo-116_forgive-1-2,Mombo-116_forgive-1,yà:fì_kání,1645,false,expert,hantganfc,,,,2
 Penange-116_forgive-1-1,Penange-116_forgive-1,yá:fì_kání,1653,false,expert,hantganfc,,,,1
 Penange-116_forgive-1-2,Penange-116_forgive-1,yá:fì_kání,1645,false,expert,hantganfc,,,,2
+Bambara-116_forgive-2-1,Bambara-116_forgive-2,kàfárí,1655,false,expert,hantganfc,,,,1
+SonghaiKiini-116_forgive-1-1,SonghaiKiini-116_forgive-1,yá:fí-nɛ̀,153,false,expert,hantganfc,,,,1
 SonghaiSenni-117_four-1-1,SonghaiSenni-117_four-1,tá:cí,1661,false,expert,hantganfc,,,,1
 ToroTegu-117_four-1-1,ToroTegu-117_four-1,nǎy,1655,false,expert,hantganfc,,,,1
 BenTey-117_four-1-1,BenTey-117_four-1,nǐ:yⁿ,1655,false,expert,hantganfc,,,,1
@@ -4834,6 +4866,7 @@ Bambara-120_get-1-1,Bambara-120_get-1,sɔ̀rɔ́,1701,false,expert,hantganfc,,,,
 Bambara-120_get-2-1,Bambara-120_get-2,kwe,1711,false,expert,hantganfc,,,,1
 SonghaiSenni-120_get-1-1,SonghaiSenni-120_get-1,dù,1708,false,expert,hantganfc,,,,1
 Soninke-120_get-1-1,Soninke-120_get-1,kìtá,1709,false,expert,hantganfc,,,,1
+Bangime-120_get-1-1,Bangime-120_get-1,kārà,163,false,expert,hantganfc,,,,1
 SonghaiSenni-121_girl-1-1,SonghaiSenni-121_girl-1,kò-tí-wòy-ò,1725,false,expert,hantganfc,,,,1
 SonghaiSenni-121_girl-1-2,SonghaiSenni-121_girl-1,kò-tí-wòy-ò,1726,false,expert,hantganfc,,,,2
 SonghaiSenni-121_girl-1-3,SonghaiSenni-121_girl-1,kò-tí-wòy-ò,1727,false,expert,hantganfc,,,,3
@@ -5031,6 +5064,31 @@ YornoSo-125_godowndescend-1-1,YornoSo-125_godowndescend-1,súgó,1773,false,expe
 SonghaiSenni-125_godowndescend-1-1,SonghaiSenni-125_godowndescend-1,zùmbù,169,false,expert,hantganfc,,,,1
 ToroSo-126_goout-1-1,ToroSo-126_goout-1,ɡòò,1781,false,expert,hantganfc,,,,1
 BonduSo-126_goout-1-1,BonduSo-126_goout-1,gwé,1780,false,expert,hantganfc,,,,1
+SonghaiSenni-126_goout-1-1,SonghaiSenni-126_goout-1,hùn,1892,false,expert,hantganfc,,,,1
+Bangime-126_goout-1-1,Bangime-126_goout-1,bīrè,1886,false,expert,hantganfc,,,,1
+Bangime-126_goout-1-2,Bangime-126_goout-1,bīrè,4849,false,expert,hantganfc,,,,2
+Fulfulde-126_goout-1-1,Fulfulde-126_goout-1,yalt-ude,1888,false,expert,hantganfc,,,,1
+Fulfulde-126_goout-1-2,Fulfulde-126_goout-1,yalt-ude,1889,false,expert,hantganfc,,,,2
+Jenaama-126_goout-1-1,Jenaama-126_goout-1,bā,1890,false,expert,hantganfc,,,,1
+Jamsay-126_goout-1-1,Jamsay-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
+YandaDom-126_goout-1-1,YandaDom-126_goout-1,gó,1887,false,expert,hantganfc,,,,1
+Nanga-126_goout-1-1,Nanga-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
+YornoSo-126_goout-1-1,YornoSo-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
+TogoKan-126_goout-1-1,TogoKan-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
+PergeTegu-126_goout-1-1,PergeTegu-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
+ToroTegu-126_goout-1-1,ToroTegu-126_goout-1,gú,1887,false,expert,hantganfc,,,,1
+BenTey-126_goout-1-1,BenTey-126_goout-1,gǒ,1887,false,expert,hantganfc,,,,1
+BankanTey-126_goout-1-1,BankanTey-126_goout-1,gó,1887,false,expert,hantganfc,,,,1
+Gourou-126_goout-1-1,Gourou-126_goout-1,gó:,1887,false,expert,hantganfc,,,,1
+TommoSo-126_goout-1-1,TommoSo-126_goout-1,gòó,1887,false,expert,hantganfc,,,,1
+DogulDom-126_goout-1-1,DogulDom-126_goout-1,gě:,1887,false,expert,hantganfc,,,,1
+TebulUre-126_goout-1-1,TebulUre-126_goout-1,gǒ,1887,false,expert,hantganfc,,,,1
+BonduSo-126_goout-2-1,BonduSo-126_goout-2,gwé,1887,false,expert,hantganfc,,,,1
+Bunoge-126_goout-1-1,Bunoge-126_goout-1,gê:,1887,false,expert,hantganfc,,,,1
+TiranigeDiga-126_goout-1-1,TiranigeDiga-126_goout-1,gó:,1887,false,expert,hantganfc,,,,1
+Mombo-126_goout-1-1,Mombo-126_goout-1,gwé:,1887,false,expert,hantganfc,,,,1
+Penange-126_goout-1-1,Penange-126_goout-1,gú:-ndè,1887,false,expert,hantganfc,,,,1
+Penange-126_goout-1-2,Penange-126_goout-1,gú:-ndè,1891,false,expert,hantganfc,,,,2
 Bangime-127_goupascend-1-1,Bangime-127_goupascend-1,ɥījè,1783,false,expert,hantganfc,,,,1
 Fulfulde-127_goupascend-1-1,Fulfulde-127_goupascend-1,im-ude,1789,false,expert,hantganfc,,,,1
 Fulfulde-127_goupascend-1-2,Fulfulde-127_goupascend-1,im-ude,1790,false,expert,hantganfc,,,,2
@@ -5059,31 +5117,6 @@ Penange-127_goupascend-1-1,Penange-127_goupascend-1,dígɛ́,1793,false,expert,h
 Soninke-127_goupascend-1-1,Soninke-127_goupascend-1,sétú,1795,false,expert,hantganfc,,,,1
 SonghaiSenni-127_goupascend-1-1,SonghaiSenni-127_goupascend-1,zígí,1794,false,expert,hantganfc,,,,1
 Bambara-127_goupascend-1-1,Bambara-127_goupascend-1,yɛ̀lɛ́ⁿ,1782,false,expert,hantganfc,,,,1
-SonghaiSenni-126_goout-1-1,SonghaiSenni-126_goout-1,hùn,1892,false,expert,hantganfc,,,,1
-Bangime-126_goout-1-1,Bangime-126_goout-1,bīrè,1886,false,expert,hantganfc,,,,1
-Bangime-126_goout-1-2,Bangime-126_goout-1,bīrè,4849,false,expert,hantganfc,,,,2
-Fulfulde-126_goout-1-1,Fulfulde-126_goout-1,yalt-ude,1888,false,expert,hantganfc,,,,1
-Fulfulde-126_goout-1-2,Fulfulde-126_goout-1,yalt-ude,1889,false,expert,hantganfc,,,,2
-Jenaama-126_goout-1-1,Jenaama-126_goout-1,bā,1890,false,expert,hantganfc,,,,1
-Jamsay-126_goout-1-1,Jamsay-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
-YandaDom-126_goout-1-1,YandaDom-126_goout-1,gó,1887,false,expert,hantganfc,,,,1
-Nanga-126_goout-1-1,Nanga-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
-YornoSo-126_goout-1-1,YornoSo-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
-TogoKan-126_goout-1-1,TogoKan-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
-PergeTegu-126_goout-1-1,PergeTegu-126_goout-1,gǒ:,1887,false,expert,hantganfc,,,,1
-ToroTegu-126_goout-1-1,ToroTegu-126_goout-1,gú,1887,false,expert,hantganfc,,,,1
-BenTey-126_goout-1-1,BenTey-126_goout-1,gǒ,1887,false,expert,hantganfc,,,,1
-BankanTey-126_goout-1-1,BankanTey-126_goout-1,gó,1887,false,expert,hantganfc,,,,1
-Gourou-126_goout-1-1,Gourou-126_goout-1,gó:,1887,false,expert,hantganfc,,,,1
-TommoSo-126_goout-1-1,TommoSo-126_goout-1,gòó,1887,false,expert,hantganfc,,,,1
-DogulDom-126_goout-1-1,DogulDom-126_goout-1,gě:,1887,false,expert,hantganfc,,,,1
-TebulUre-126_goout-1-1,TebulUre-126_goout-1,gǒ,1887,false,expert,hantganfc,,,,1
-BonduSo-126_goout-2-1,BonduSo-126_goout-2,gwé,1887,false,expert,hantganfc,,,,1
-Bunoge-126_goout-1-1,Bunoge-126_goout-1,gê:,1887,false,expert,hantganfc,,,,1
-TiranigeDiga-126_goout-1-1,TiranigeDiga-126_goout-1,gó:,1887,false,expert,hantganfc,,,,1
-Mombo-126_goout-1-1,Mombo-126_goout-1,gwé:,1887,false,expert,hantganfc,,,,1
-Penange-126_goout-1-1,Penange-126_goout-1,gú:-ndè,1887,false,expert,hantganfc,,,,1
-Penange-126_goout-1-2,Penange-126_goout-1,gú:-ndè,1891,false,expert,hantganfc,,,,2
 BozoHainyaxo-129_goat-1-1,BozoHainyaxo-129_goat-1,bà,1798,false,expert,hantganfc,,,,1
 SonghaiSenni-129_goat-1-1,SonghaiSenni-129_goat-1,ʔálmán-ó,1804,false,expert,hantganfc,,,,1
 SonghaiSenni-129_goat-1-2,SonghaiSenni-129_goat-1,ʔálmán-ó,1805,false,expert,hantganfc,,,,2
@@ -5120,6 +5153,7 @@ BozoPondorinord-129_goat-4-1,BozoPondorinord-129_goat-4,coo,1808,false,expert,ha
 BozoPondorinord-129_goat-5-1,BozoPondorinord-129_goat-5,suulioⁿ,1802,false,expert,hantganfc,,,,1
 BozoPondorinord-129_goat-6-1,BozoPondorinord-129_goat-6,súgò,1802,false,expert,hantganfc,,,,1
 Bambara-129_goat-1-1,Bambara-129_goat-1,bɑ,172,false,expert,hantganfc,,,,1
+Soninke-129_goat-1-1,Soninke-129_goat-1,súgò,1802,false,expert,hantganfc,,,,1
 SonghaiSenni-130_god-1-1,SonghaiSenni-130_god-1,yór-kòy,1820,false,expert,hantganfc,,,,1
 Bangime-130_god-1-1,Bangime-130_god-1,ŋàrà,1809,false,expert,hantganfc,,,,1
 Fulfulde-130_god-1-1,Fulfulde-130_god-1,Geno,1817,false,expert,hantganfc,,,,1
@@ -5256,6 +5290,8 @@ BonduSo-134_grass-2-1,BonduSo-134_grass-2,bèlóó,1858,false,expert,hantganfc,,
 BonduSo-134_grass-3-1,BonduSo-134_grass-3,sɔ̌ː-m,1859,false,expert,hantganfc,,,,1
 BonduSo-134_grass-3-2,BonduSo-134_grass-3,sɔ̌ː-m,1871,false,expert,hantganfc,,,,2
 Bambara-134_grass-1-1,Bambara-134_grass-1,bḭ,175,false,expert,hantganfc,,,,1
+SonghaiKiini-134_grass-1-1,SonghaiKiini-134_grass-1,sùb-ù,1865,false,expert,hantganfc,,,,1
+SonghaiKiini-134_grass-1-2,SonghaiKiini-134_grass-1,sùb-ù,1866,false,expert,hantganfc,,,,2
 Jamsay-135_guts-1-1,Jamsay-135_guts-1,bɛ̀rɛ̀-nì:ɲé,1876,false,expert,hantganfc,,,,1
 Jamsay-135_guts-1-2,Jamsay-135_guts-1,bɛ̀rɛ̀-nì:ɲé,1879,false,expert,hantganfc,,,,2
 Nanga-135_guts-1-1,Nanga-135_guts-1,bìndî,1876,false,expert,hantganfc,,,,1
@@ -5559,6 +5595,7 @@ Soninke-143_hideconceal-2-1,Soninke-143_hideconceal-2,múxú,1996,false,expert,h
 ToroSo-143_hideconceal-1-1,ToroSo-143_hideconceal-1,báŋá,1983,false,expert,hantganfc,,,,1
 ToroSo-143_hideconceal-2-1,ToroSo-143_hideconceal-2,bàŋí,1983,false,expert,hantganfc,,,,1
 BonduSo-143_hideconceal-2-1,BonduSo-143_hideconceal-2,súbú,1982,false,expert,hantganfc,,,,1
+Bangime-143_hideconceal-1-1,Bangime-143_hideconceal-1,bɔ̄gɔ̀,185,false,expert,hantganfc,,,,1
 Bangime-144_hip-1-1,Bangime-144_hip-1,kùùⁿ,189,false,expert,hantganfc,,,,1
 Jenaama-144_hip-1-1,Jenaama-144_hip-1,kūla᷆ⁿ,2000,false,expert,hantganfc,,,,1
 BankanTey-144_hip-1-1,BankanTey-144_hip-1,dǒ:,1998,false,expert,hantganfc,,,,1
@@ -6638,6 +6675,7 @@ TogoKan-172_lightweight-1-1,TogoKan-172_lightweight-1,ɲɛ́rⁿú,2402,false,ex
 Bambara-172_lightweight-1-1,Bambara-172_lightweight-1,fɛ́gɛ́ⁿ,2399,false,expert,hantganfc,,,,1
 Bangime-172_lightweight-1-1,Bangime-172_lightweight-1,péɡé-péɡè,2399,false,expert,hantganfc,,,,1
 Bangime-172_lightweight-1-2,Bangime-172_lightweight-1,péɡé-péɡè,2400,false,expert,hantganfc,,,,2
+Soninke-172_lightweight-1-1,Soninke-172_lightweight-1,kókkóhè,2398,false,expert,hantganfc,,,,1
 SonghaiSenni-173_limp-1-1,SonghaiSenni-173_limp-1,símbárú,2427,false,expert,hantganfc,,,,1
 Bangime-173_limp-1-1,Bangime-173_limp-1,sèŋèndà,2418,false,expert,hantganfc,,,,1
 Bangime-173_limp-1-2,Bangime-173_limp-1,sèŋèndà,2419,false,expert,hantganfc,,,,2
@@ -7114,6 +7152,7 @@ ToroSo-182_man-1-1,ToroSo-182_man-1,àynɛ́,2585,false,expert,hantganfc,,,,1
 ToroSo-182_man-1-2,ToroSo-182_man-1,àynɛ́,2582,false,expert,hantganfc,,,,2
 BonduSo-182_man-2-1,BonduSo-182_man-2,ân,2577,false,expert,hantganfc,,,,1
 BonduSo-182_man-2-2,BonduSo-182_man-2,ân,2589,false,expert,hantganfc,,,,2
+Fulfulde-182_man-1-1,Fulfulde-182_man-1,gorko,237,false,expert,hantganfc,,,,1
 ToroTegu-183_market-1-1,ToroTegu-183_market-1,lú:mà,2598,false,expert,hantganfc,,,,1
 BenTey-183_market-1-1,BenTey-183_market-1,ɛ́wá:,2592,false,expert,hantganfc,,,,1
 YornoSo-183_market-1-1,YornoSo-183_market-1,íbɛ́,2592,false,expert,hantganfc,,,,1
@@ -7180,6 +7219,8 @@ Soninke-184_marrow-1-1,Soninke-184_marrow-1,sémbè,2610,false,expert,hantganfc,
 ToroSo-184_marrow-1-1,ToroSo-184_marrow-1,bɔ́nú,2606,false,expert,hantganfc,,,,1
 BonduSo-184_marrow-2-1,BonduSo-184_marrow-2,tólóɡí-n,2614,false,expert,hantganfc,,,,1
 BonduSo-184_marrow-2-2,BonduSo-184_marrow-2,tólóɡí-n,2605,false,expert,hantganfc,,,,2
+BankanTey-184_marrow-2-1,BankanTey-184_marrow-2,m̀búsâ-m,2604,false,expert,hantganfc,,,,1
+BankanTey-184_marrow-2-2,BankanTey-184_marrow-2,m̀búsâ-m,2605,false,expert,hantganfc,,,,2
 BankanTey-185_marry-1-1,BankanTey-185_marry-1,séré,2615,false,expert,hantganfc,,,,1
 Nanga-185_marry-1-1,Nanga-185_marry-1,jɛ̌:,2616,false,expert,hantganfc,,,,1
 PergeTegu-185_marry-1-1,PergeTegu-185_marry-1,jɛ́:,2616,false,expert,hantganfc,,,,1
@@ -7209,6 +7250,7 @@ SonghaiSenni-185_marry-1-1,SonghaiSenni-185_marry-1,kùbêy,2617,false,expert,ha
 BozoDebo-185_marry-1-1,BozoDebo-185_marry-1,keba,2617,false,expert,hantganfc,,,,1
 BozoKorondougousud-185_marry-1-1,BozoKorondougousud-185_marry-1,keba,2617,false,expert,hantganfc,,,,1
 BozoPondorinord-185_marry-1-1,BozoPondorinord-185_marry-1,kuba,2617,false,expert,hantganfc,,,,1
+Bangime-185_marry-1-1,Bangime-185_marry-1,būwò,242,false,expert,hantganfc,,,,1
 ToroTegu-186_mat-1-1,ToroTegu-186_mat-1,kàrá,2631,false,expert,hantganfc,,,,1
 Nanga-186_mat-1-1,Nanga-186_mat-1,kágá,2631,false,expert,hantganfc,,,,1
 PergeTegu-186_mat-1-1,PergeTegu-186_mat-1,sùgɔ́,2629,false,expert,hantganfc,,,,1
@@ -7241,6 +7283,8 @@ SonghaiSenni-186_mat-1-2,SonghaiSenni-186_mat-1,tèŋgèr-ò,2638,false,expert,h
 Bambara-186_mat-1-1,Bambara-186_mat-1,dɛ̀bɛ́ⁿ,2628,false,expert,hantganfc,,,,1
 ToroSo-186_mat-1-1,ToroSo-186_mat-1,yɛ̀ɛ́ⁿ,2639,false,expert,hantganfc,,,,1
 BonduSo-186_mat-2-1,BonduSo-186_mat-2,káːbú,2632,false,expert,hantganfc,,,,1
+SonghaiKiini-186_mat-1-1,SonghaiKiini-186_mat-1,tèŋgír-ì,2636,false,expert,hantganfc,,,,1
+SonghaiKiini-186_mat-1-2,SonghaiKiini-186_mat-1,tèŋgír-ì,4882,false,expert,hantganfc,,,,2
 Bangime-187_meal-1-1,Bangime-187_meal-1,pɔ̀wⁿ,2641,false,expert,hantganfc,,,,1
 Fulfulde-187_meal-1-1,Fulfulde-187_meal-1,tunngu,2645,false,expert,hantganfc,,,,1
 Fulfulde-187_meal-1-2,Fulfulde-187_meal-1,tunngu,2646,false,expert,hantganfc,,,,2
@@ -7269,6 +7313,7 @@ Mombo-187_meal-1-1,Mombo-187_meal-1,ɲâ:,2640,false,expert,hantganfc,,,,1
 TomoKan-187_meal-1-1,TomoKan-187_meal-1,ɲà:,2640,false,expert,hantganfc,,,,1
 YandaDom-187_meal-1-1,YandaDom-187_meal-1,zá,2648,false,expert,hantganfc,,,,1
 Bambara-187_meal-1-1,Bambara-187_meal-1,fàná,2640,false,expert,hantganfc,,,,1
+DogulDom-187_meal-2-1,DogulDom-187_meal-2,pàná,2640,false,expert,hantganfc,,,,1
 ToroTegu-188_meat-1-1,ToroTegu-188_meat-1,nàwⁿá,2651,false,expert,hantganfc,,,,1
 BenTey-188_meat-1-1,BenTey-188_meat-1,nàwⁿâ:,2651,false,expert,hantganfc,,,,1
 BankanTey-188_meat-1-1,BankanTey-188_meat-1,nàmâ:,2651,false,expert,hantganfc,,,,1
@@ -7324,6 +7369,10 @@ Penange-189_medicine-1-1,Penange-189_medicine-1,ílé:ŋgé,2658,false,expert,ha
 Penange-189_medicine-1-2,Penange-189_medicine-1,ílé:ŋgé,2659,false,expert,hantganfc,,,,2
 Nanga-189_medicine-1-1,Nanga-189_medicine-1,ó:,2660,false,expert,hantganfc,,,,1
 Bambara-189_medicine-1-1,Bambara-189_medicine-1,fúrá,2656,false,expert,hantganfc,,,,1
+SonghaiSenni-189_medicine-1-1,SonghaiSenni-189_medicine-1,sàfàr-ò,2246,false,expert,hantganfc,,,,1
+SonghaiKiini-189_medicine-1-1,SonghaiKiini-189_medicine-1,tǔ:rì,4895,false,expert,hantganfc,,,,1
+Fulfulde-189_medicine-2-1,Fulfulde-189_medicine-2,saafaare,2230,false,expert,hantganfc,,,,1
+Soninke-189_medicine-1-1,Soninke-189_medicine-1,sáhàrê,2109,false,expert,hantganfc,,,,1
 ToroTegu-190_meet-1-1,ToroTegu-190_meet-1,mɔ̀tú,2667,false,expert,hantganfc,,,,1
 BenTey-190_meet-1-1,BenTey-190_meet-1,mɔ̀:lú,2667,false,expert,hantganfc,,,,1
 BankanTey-190_meet-1-1,BankanTey-190_meet-1,mɔ̀:ní,2667,false,expert,hantganfc,,,,1
@@ -7359,6 +7408,7 @@ Fulfulde-190_meet-1-2,Fulfulde-190_meet-1,sakkit-aade,2673,false,expert,hantganf
 Fulfulde-190_meet-2-1,Fulfulde-190_meet-2,bat-ude,2676,false,expert,hantganfc,,,,1
 Fulfulde-190_meet-2-2,Fulfulde-190_meet-2,bat-ude,2677,false,expert,hantganfc,,,,2
 SonghaiSenni-190_meet-1-1,SonghaiSenni-190_meet-1,kùbèy,2675,false,expert,hantganfc,,,,1
+Soninke-190_meet-1-1,Soninke-190_meet-1,gèmú,4921,false,expert,hantganfc,,,,1
 BenTey-191_milk-1-1,BenTey-191_milk-1,ɛ́wⁿɛ̀yⁿ,2679,false,expert,hantganfc,,,,1
 BenTey-191_milk-1-2,BenTey-191_milk-1,ɛ́wⁿɛ̀yⁿ,2680,false,expert,hantganfc,,,,2
 BankanTey-191_milk-1-1,BankanTey-191_milk-1,ɛ́mmɛ̀yⁿ,2679,false,expert,hantganfc,,,,1
@@ -7811,6 +7861,7 @@ ToroSo-203_neck-1-2,ToroSo-203_neck-1,kɔ̀ kɔ́rɔ́,2847,false,expert,hantgan
 ToroSo-203_neck-2-1,ToroSo-203_neck-2,kú kɔ̌,2852,false,expert,hantganfc,,,,1
 ToroSo-203_neck-2-2,ToroSo-203_neck-2,kú kɔ̌,2849,false,expert,hantganfc,,,,2
 BonduSo-203_neck-1-1,BonduSo-203_neck-1,mó,2848,false,expert,hantganfc,,,,1
+SonghaiKiini-203_neck-1-1,SonghaiKiini-203_neck-1,gìndɛ̀,2850,false,expert,hantganfc,,,,1
 TommoSo-204_neednoun-1-1,TommoSo-204_neednoun-1,sùnɔ̀-mú,2857,false,expert,hantganfc,,,,1
 TommoSo-204_neednoun-1-2,TommoSo-204_neednoun-1,sùnɔ̀-mú,2858,false,expert,hantganfc,,,,2
 BonduSo-204_neednoun-1-1,BonduSo-204_neednoun-1,nàmí-yɛ́,2853,false,expert,hantganfc,,,,1
@@ -8682,6 +8733,7 @@ Bangime-227_pig-1-1,Bangime-227_pig-1,sìmì-ɲáŋá,3175,false,expert,hantganf
 Bangime-227_pig-1-2,Bangime-227_pig-1,sìmì-ɲáŋá,289,false,expert,hantganfc,,,,2
 Jenaama-227_pig-1-1,Jenaama-227_pig-1,sìbòɲɔ̄ŋɔ̄,3181,false,expert,hantganfc,,,,1
 Jenaama-227_pig-1-2,Jenaama-227_pig-1,sìbòɲɔ̄ŋɔ̄,3176,false,expert,hantganfc,,,,2
+SonghaiKiini-227_pig-1-1,SonghaiKiini-227_pig-1,alkinʃir,288,false,expert,hantganfc,,,,1
 BozoHainyaxo-228_piss-1-1,BozoHainyaxo-228_piss-1,siⁿniⁿ,3183,false,expert,hantganfc,,,,1
 BozoPondorinord-228_piss-1-1,BozoPondorinord-228_piss-1,koⁿoⁿji,3187,false,expert,hantganfc,,,,1
 BozoTieyaxo-228_piss-1-1,BozoTieyaxo-228_piss-1,siⁿniⁿ,3183,false,expert,hantganfc,,,,1
@@ -9025,6 +9077,17 @@ Penange-239_razor-1-2,Penange-239_razor-1,sìlmbè,3310,false,expert,hantganfc,,
 Bangime-239_razor-1-1,Bangime-239_razor-1,sìrìbì,3309,false,expert,hantganfc,,,,1
 Bangime-239_razor-1-2,Bangime-239_razor-1,sìrìbì,3310,false,expert,hantganfc,,,,2
 Jenaama-239_razor-1-1,Jenaama-239_razor-1,sìrìmbè,3309,false,expert,hantganfc,,,,1
+BankanTey-239_razor-1-1,BankanTey-239_razor-1,là:m-kálá,4896,false,expert,hantganfc,,,,1
+BankanTey-239_razor-1-2,BankanTey-239_razor-1,là:m-kálá,4898,false,expert,hantganfc,,,,2
+BankanTey-239_razor-2-1,BankanTey-239_razor-2,là:m-béré,4896,false,expert,hantganfc,,,,1
+BankanTey-239_razor-2-2,BankanTey-239_razor-2,là:m-béré,4898,false,expert,hantganfc,,,,2
+BenTey-239_razor-1-1,BenTey-239_razor-1,là:m-béré,4896,false,expert,hantganfc,,,,1
+BenTey-239_razor-1-2,BenTey-239_razor-1,là:m-béré,4897,false,expert,hantganfc,,,,2
+Mombo-239_razor-1-1,Mombo-239_razor-1,lám kárà,4896,false,expert,hantganfc,,,,1
+Mombo-239_razor-1-2,Mombo-239_razor-1,lám kárà,4898,false,expert,hantganfc,,,,2
+YandaDom-239_razor-1-1,YandaDom-239_razor-1,làm-tánà,4896,false,expert,hantganfc,,,,1
+YandaDom-239_razor-1-2,YandaDom-239_razor-1,làm-tánà,4900,false,expert,hantganfc,,,,2
+BonduSo-239_razor-1-1,BonduSo-239_razor-1,lâ:m,4896,false,expert,hantganfc,,,,1
 SonghaiSenni-240_red-1-1,SonghaiSenni-240_red-1,kírêy,3322,false,expert,hantganfc,,,,1
 SonghaiSenni-240_red-1-2,SonghaiSenni-240_red-1,kírêy,3323,false,expert,hantganfc,,,,2
 Soninke-240_red-1-1,Soninke-240_red-1,dùmbê,304,false,expert,hantganfc,,,,1
@@ -9190,6 +9253,8 @@ Penange-243_ring-1-2,Penange-243_ring-1,nɛ̀:-pègú-sè,3367,false,expert,hant
 Penange-243_ring-1-3,Penange-243_ring-1,nɛ̀:-pègú-sè,3363,false,expert,hantganfc,,,,3
 TomoKan-243_ring-1-1,TomoKan-243_ring-1,nùmà-sɛ̀ʔɛ̀ⁿ,3360,false,expert,hantganfc,,,,1
 TomoKan-243_ring-1-2,TomoKan-243_ring-1,nùmà-sɛ̀ʔɛ̀ⁿ,3361,false,expert,hantganfc,,,,2
+Bambara-243_ring-1-1,Bambara-243_ring-1,nkɔ́níná̰,1238,false,expert,hantganfc,,,,1
+Soninke-243_ring-1-1,Soninke-243_ring-1,dórómmà,4908,false,expert,hantganfc,,,,1
 Fulfulde-244_river-1-1,Fulfulde-244_river-1,maayo,3384,false,expert,hantganfc,,,,1
 Jenaama-244_river-1-1,Jenaama-244_river-1,pàgùnāⁿ,3385,false,expert,hantganfc,,,,1
 SonghaiSenni-244_river-1-1,SonghaiSenni-244_river-1,ʔís-à:,3388,false,expert,hantganfc,,,,1
@@ -9480,6 +9545,8 @@ ToroSo-250_salt-2-1,ToroSo-250_salt-2,nèẃ,3467,false,expert,hantganfc,,,,1
 ToroSo-250_salt-2-2,ToroSo-250_salt-2,nèẃ,3468,false,expert,hantganfc,,,,2
 BonduSo-250_salt-2-1,BonduSo-250_salt-2,nɛ́mù,3467,false,expert,hantganfc,,,,1
 BonduSo-250_salt-2-2,BonduSo-250_salt-2,nɛ́mù,3462,false,expert,hantganfc,,,,2
+SonghaiKiini-250_salt-1-1,SonghaiKiini-250_salt-1,kìr-ì,320,false,expert,hantganfc,,,,1
+SonghaiKiini-250_salt-1-2,SonghaiKiini-250_salt-1,kìr-ì,4899,false,expert,hantganfc,,,,2
 Bangime-251_sand-1-1,Bangime-251_sand-1,ɲíímbɛ̀,3477,false,expert,hantganfc,,,,1
 Bangime-251_sand-1-2,Bangime-251_sand-1,ɲíímbɛ̀,3478,false,expert,hantganfc,,,,2
 Fulfulde-251_sand-1-1,Fulfulde-251_sand-1,njaareendi,3489,false,expert,hantganfc,,,,1
@@ -9717,6 +9784,7 @@ TiranigeDiga-256_send-1-1,TiranigeDiga-256_send-1,tíyɛ́,3547,false,expert,han
 Soninke-256_send-1-1,Soninke-256_send-1,qíyí,3549,false,expert,hantganfc,,,,1
 Bambara-256_send-1-1,Bambara-256_send-1,cí,329,false,expert,hantganfc,,,,1
 BonduSo-256_send-2-1,BonduSo-256_send-2,tíyɛ̀,3547,false,expert,hantganfc,,,,1
+Bangime-256_send-1-1,Bangime-256_send-1,tūndò,330,false,expert,hantganfc,,,,1
 ToroTegu-257_seven-1-1,ToroTegu-257_seven-1,sóyⁿ,3554,false,expert,hantganfc,,,,1
 ToroTegu-257_seven-1-2,ToroTegu-257_seven-1,sóyⁿ,3555,false,expert,hantganfc,,,,2
 BenTey-257_seven-1-1,BenTey-257_seven-1,súyⁿɔ̀yⁿ,3554,false,expert,hantganfc,,,,1
@@ -9850,6 +9918,8 @@ BozoPondorisud-259_sharp-1-1,BozoPondorisud-259_sharp-1,doⁿoⁿdeⁿ,3579,fals
 BozoTieyaxo-259_sharp-1-1,BozoTieyaxo-259_sharp-1,laⁿaⁿde,3579,false,expert,hantganfc,,,,1
 BozoTiemaCewe-259_sharp-1-1,BozoTiemaCewe-259_sharp-1,laⁿaⁿdi,3579,false,expert,hantganfc,,,,1
 BonduSo-259_sharp-2-1,BonduSo-259_sharp-2,ɛ̀lí,3580,false,expert,hantganfc,,,,1
+BenTey-259_sharp-2-1,BenTey-259_sharp-2,ɛ́rù-m,3580,false,expert,hantganfc,,,,1
+BenTey-259_sharp-2-2,BenTey-259_sharp-2,ɛ́rù-m,4902,false,expert,hantganfc,,,,2
 BankanTey-260_sheep-1-1,BankanTey-260_sheep-1,pɛ̀rɛ̌-m,3602,false,expert,hantganfc,,,,1
 BankanTey-260_sheep-1-2,BankanTey-260_sheep-1,pɛ̀rɛ̌-m,3603,false,expert,hantganfc,,,,2
 Bunoge-260_sheep-1-1,Bunoge-260_sheep-1,ʔálámà,3605,false,expert,hantganfc,,,,1
@@ -10429,6 +10499,9 @@ ToroSo-273_slave-1-1,ToroSo-273_slave-1,gùnò,3777,false,expert,hantganfc,,,,1
 ToroSo-273_slave-2-1,ToroSo-273_slave-2,ɡùnón,3777,false,expert,hantganfc,,,,1
 ToroSo-273_slave-2-2,ToroSo-273_slave-2,ɡùnón,3778,false,expert,hantganfc,,,,2
 BonduSo-273_slave-2-1,BonduSo-273_slave-2,gùndɛ́,3777,false,expert,hantganfc,,,,1
+SonghaiKiini-273_slave-1-1,SonghaiKiini-273_slave-1,bǎññà,4889,false,expert,hantganfc,,,,1
+Soninke-273_slave-1-1,Soninke-273_slave-1,kómɛ,3775,false,expert,hantganfc,,,,1
+Soninke-273_slave-1-2,Soninke-273_slave-1,kómɛ,3776,false,expert,hantganfc,,,,2
 Bangime-274_sleep-1-1,Bangime-274_sleep-1,ɲām-bà,3785,false,expert,hantganfc,,,,1
 Bangime-274_sleep-1-2,Bangime-274_sleep-1,ɲām-bà,3786,false,expert,hantganfc,,,,2
 Fulfulde-274_sleep-1-1,Fulfulde-274_sleep-1,ɗaan-aade,3791,false,expert,hantganfc,,,,1
@@ -11052,6 +11125,7 @@ Bangime-288_springorwell-1-1,Bangime-288_springorwell-1,sāàⁿ,4009,false,expe
 Jenaama-288_springorwell-1-1,Jenaama-288_springorwell-1,tèndé,4015,false,expert,hantganfc,,,,1
 Fulfulde-288_springorwell-1-1,Fulfulde-288_springorwell-1,ɓunndu,4013,false,expert,hantganfc,,,,1
 Soninke-288_springorwell-1-1,Soninke-288_springorwell-1,gèdê,4020,false,expert,hantganfc,,,,1
+SonghaiKiini-288_springorwell-1-1,SonghaiKiini-288_springorwell-1,dǎy,4913,false,expert,hantganfc,,,,1
 Fulfulde-289_star-1-1,Fulfulde-289_star-1,albalda,4034,false,expert,hantganfc,,,,1
 ToroTegu-289_star-1-1,ToroTegu-289_star-1,sémrěy,4038,false,expert,hantganfc,,,,1
 BenTey-289_star-1-1,BenTey-289_star-1,tóró,4029,false,expert,hantganfc,,,,1
@@ -11217,6 +11291,7 @@ Penange-293_strikeorbeat-1-1,Penange-293_strikeorbeat-1,búndé,4076,false,exper
 BonduSo-293_strikeorbeat-1-1,BonduSo-293_strikeorbeat-1,dàgí,4077,false,expert,hantganfc,,,,1
 TogoKan-293_strikeorbeat-1-1,TogoKan-293_strikeorbeat-1,lágá,4077,false,expert,hantganfc,,,,1
 Bambara-293_strikeorbeat-2-1,Bambara-293_strikeorbeat-2,kai,4086,false,expert,hantganfc,,,,1
+Bangime-293_strikeorbeat-1-1,Bangime-293_strikeorbeat-1,dɔ̀gɔ̀,375,false,expert,hantganfc,,,,1
 Bambara-294_suck-1-1,Bambara-294_suck-1,mosi,4087,false,expert,hantganfc,,,,1
 SonghaiSenni-294_suck-1-1,SonghaiSenni-294_suck-1,dùm,4096,false,expert,hantganfc,,,,1
 Bangime-294_suck-1-1,Bangime-294_suck-1,mɔ̀nʤɛ̀,4088,false,expert,hantganfc,,,,1
@@ -11727,6 +11802,8 @@ Fulfulde-309_think-1-2,Fulfulde-309_think-1,miil-ude,4302,false,expert,hantganfc
 Jenaama-309_think-1-1,Jenaama-309_think-1,à-mīīlà,4303,false,expert,hantganfc,,,,1
 Jenaama-309_think-1-2,Jenaama-309_think-1,à-mīīlà,4294,false,expert,hantganfc,,,,2
 Bambara-309_think-6-1,Bambara-309_think-6,míírí,4294,false,expert,hantganfc,,,,1
+SonghaiKiini-309_think-1-1,SonghaiKiini-309_think-1,mí:lɛ̀,4294,false,expert,hantganfc,,,,1
+Soninke-309_think-1-1,Soninke-309_think-1,míirù,4294,false,expert,hantganfc,,,,1
 BankanTey-310_thorn-1-1,BankanTey-310_thorn-1,dòró,4313,false,expert,hantganfc,,,,1
 Nanga-310_thorn-1-1,Nanga-310_thorn-1,dùró,4313,false,expert,hantganfc,,,,1
 PergeTegu-310_thorn-1-1,PergeTegu-310_thorn-1,dò-dǒ:,4313,false,expert,hantganfc,,,,1
@@ -12139,6 +12216,8 @@ Soninke-323_trappitfall-2-1,Soninke-323_trappitfall-2,kálàŋŋê,4477,false,ex
 Soninke-323_trappitfall-2-2,Soninke-323_trappitfall-2,kálàŋŋê,4470,false,expert,hantganfc,,,,2
 Bambara-323_trappitfall-3-1,Bambara-323_trappitfall-3,pɛ̀gɛ́,4478,false,expert,hantganfc,,,,1
 YornoSo-323_trappitfall-1-1,YornoSo-323_trappitfall-1,pɛ́rⁿɛ́,4466,false,expert,hantganfc,,,,1
+SonghaiKiini-323_trappitfall-1-1,SonghaiKiini-323_trappitfall-1,kúmséj,4472,false,expert,hantganfc,,,,1
+SonghaiKiini-323_trappitfall-1-2,SonghaiKiini-323_trappitfall-1,kúmséj,4903,false,expert,hantganfc,,,,2
 BozoHainyaxo-324_traverse-1-1,BozoHainyaxo-324_traverse-1,kárá,4485,false,expert,hantganfc,,,,1
 SonghaiSenni-324_traverse-1-1,SonghaiSenni-324_traverse-1,kòttô,4491,false,expert,hantganfc,,,,1
 BozoPondorinord-324_traverse-1-1,BozoPondorinord-324_traverse-1,bòòxó,4486,false,expert,hantganfc,,,,1
@@ -12768,6 +12847,7 @@ SonghaiSenni-340_white-2-1,SonghaiSenni-340_white-2,kà:rèy,4679,false,expert,h
 ToroSo-340_white-1-1,ToroSo-340_white-1,pírú,4674,false,expert,hantganfc,,,,1
 BonduSo-340_white-2-1,BonduSo-340_white-2,pílɔ̀-ŋ,4674,false,expert,hantganfc,,,,1
 BonduSo-340_white-2-2,BonduSo-340_white-2,pílɔ̀-ŋ,4675,false,expert,hantganfc,,,,2
+SonghaiKiini-340_white-1-1,SonghaiKiini-340_white-1,kɔ̀:rɛ̌y,4679,false,expert,hantganfc,,,,1
 SonghaiSenni-341_wife-1-1,SonghaiSenni-341_wife-1,ŋàndè,4698,false,expert,hantganfc,,,,1
 BankanTey-341_wife-1-1,BankanTey-341_wife-1,yǎ-m,4688,false,expert,hantganfc,,,,1
 BankanTey-341_wife-1-2,BankanTey-341_wife-1,yǎ-m,4689,false,expert,hantganfc,,,,2
@@ -13157,83 +13237,3 @@ Bangime-351_yellow-1-2,Bangime-351_yellow-1,ʒùɥɛ̀-m̀-búⁿ,4797,false,exp
 Bangime-351_yellow-1-3,Bangime-351_yellow-1,ʒùɥɛ̀-m̀-búⁿ,4798,false,expert,hantganfc,,,,3
 Fulfulde-351_yellow-1-1,Fulfulde-351_yellow-1,oolol,4800,false,expert,hantganfc,,,,1
 Bambara-351_yellow-1-1,Bambara-351_yellow-1,nɛ̀rɛ́,4795,false,expert,hantganfc,,,,1
-Fulfulde-4_animal-1-1,Fulfulde-4_animal-1,daaba,29,false,expert,hantganfc,,,,1
-Jenaama-4_animal-1-1,Jenaama-4_animal-1,dààbá,30,false,expert,hantganfc,,,,1
-SonghaiKiini-4_animal-1-1,SonghaiKiini-4_animal-1,dáábà,32,false,expert,hantganfc,,,,1
-Soninke-4_animal-1-1,Soninke-4_animal-1,dáábá,30,false,expert,hantganfc,,,,1
-TomoKan-4_animal-1-1,TomoKan-4_animal-1,dáábá,31,false,expert,hantganfc,,,,1
-Penange-4_animal-1-1,Penange-4_animal-1,dáábá,31,false,expert,hantganfc,,,,1
-Bangime-120_get-1-1,Bangime-120_get-1,kārà,163,false,expert,hantganfc,,,,1
-Bangime-143_hideconceal-1-1,Bangime-143_hideconceal-1,bɔ̄gɔ̀,185,false,expert,hantganfc,,,,1
-Fulfulde-182_man-1-1,Fulfulde-182_man-1,gorko,237,false,expert,hantganfc,,,,1
-Bangime-185_marry-1-1,Bangime-185_marry-1,būwò,242,false,expert,hantganfc,,,,1
-SonghaiKiini-227_pig-1-1,SonghaiKiini-227_pig-1,alkinʃir,288,false,expert,hantganfc,,,,1
-Bangime-256_send-1-1,Bangime-256_send-1,tūndò,330,false,expert,hantganfc,,,,1
-Bangime-293_strikeorbeat-1-1,Bangime-293_strikeorbeat-1,dɔ̀gɔ̀,375,false,expert,hantganfc,,,,1
-Bambara-116_forgive-2-1,Bambara-116_forgive-2,kàfárí,1655,false,expert,hantganfc,,,,1
-SonghaiKiini-116_forgive-1-1,SonghaiKiini-116_forgive-1,yá:fí-nɛ̀,153,false,expert,hantganfc,,,,1
-SonghaiKiini-186_mat-1-1,SonghaiKiini-186_mat-1,tèŋgír-ì,2636,false,expert,hantganfc,,,,1
-SonghaiKiini-186_mat-1-2,SonghaiKiini-186_mat-1,tèŋgír-ì,4882,false,expert,hantganfc,,,,2
-SonghaiSenni-5_answer-1-1,SonghaiSenni-5_answer-1,já:bê,4883,false,expert,hantganfc,,,,1
-Fulfulde-5_answer-1-1,Fulfulde-5_answer-1,jaab-ude,4884,false,expert,hantganfc,,,,1
-SonghaiKiini-309_think-1-1,SonghaiKiini-309_think-1,mí:lɛ̀,4294,false,expert,hantganfc,,,,1
-SonghaiKiini-273_slave-1-1,SonghaiKiini-273_slave-1,bǎññà,4889,false,expert,hantganfc,,,,1
-Soninke-273_slave-1-1,Soninke-273_slave-1,kómɛ,3775,false,expert,hantganfc,,,,1
-Soninke-273_slave-1-2,Soninke-273_slave-1,kómɛ,3776,false,expert,hantganfc,,,,2
-SonghaiKiini-340_white-1-1,SonghaiKiini-340_white-1,kɔ̀:rɛ̌y,4679,false,expert,hantganfc,,,,1
-SonghaiKiini-66_dig-1-1,SonghaiKiini-66_dig-1,fánsí,920,false,expert,hantganfc,,,,1
-SonghaiKiini-41_camel-1-1,SonghaiKiini-41_camel-1,yɔ̀w-ɔ̌:,594,false,expert,hantganfc,,,,1
-SonghaiKiini-41_camel-1-2,SonghaiKiini-41_camel-1,yɔ̀w-ɔ̌:,595,false,expert,hantganfc,,,,2
-SonghaiKiini-51_chieftain-1-1,SonghaiKiini-51_chieftain-1,bòŋ-kòyní,4891,false,expert,hantganfc,,,,1
-SonghaiKiini-51_chieftain-1-2,SonghaiKiini-51_chieftain-1,bòŋ-kòyní,4892,false,expert,hantganfc,,,,2
-SonghaiSenni-51_chieftain-1-1,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4893,false,expert,hantganfc,,,,1
-SonghaiSenni-51_chieftain-1-2,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4891,false,expert,hantganfc,,,,2
-SonghaiSenni-51_chieftain-1-3,SonghaiSenni-51_chieftain-1,kò-kòy-ò,4894,false,expert,hantganfc,,,,3
-SonghaiSenni-189_medicine-1-1,SonghaiSenni-189_medicine-1,sàfàr-ò,2246,false,expert,hantganfc,,,,1
-SonghaiKiini-189_medicine-1-1,SonghaiKiini-189_medicine-1,tǔ:rì,4895,false,expert,hantganfc,,,,1
-Fulfulde-189_medicine-2-1,Fulfulde-189_medicine-2,saafaare,2230,false,expert,hantganfc,,,,1
-Soninke-309_think-1-1,Soninke-309_think-1,míirù,4294,false,expert,hantganfc,,,,1
-BankanTey-239_razor-1-1,BankanTey-239_razor-1,là:m-kálá,4896,false,expert,hantganfc,,,,1
-BankanTey-239_razor-1-2,BankanTey-239_razor-1,là:m-kálá,4898,false,expert,hantganfc,,,,2
-BankanTey-239_razor-2-1,BankanTey-239_razor-2,là:m-béré,4896,false,expert,hantganfc,,,,1
-BankanTey-239_razor-2-2,BankanTey-239_razor-2,là:m-béré,4898,false,expert,hantganfc,,,,2
-BenTey-239_razor-1-1,BenTey-239_razor-1,là:m-béré,4896,false,expert,hantganfc,,,,1
-BenTey-239_razor-1-2,BenTey-239_razor-1,là:m-béré,4897,false,expert,hantganfc,,,,2
-Mombo-239_razor-1-1,Mombo-239_razor-1,lám kárà,4896,false,expert,hantganfc,,,,1
-Mombo-239_razor-1-2,Mombo-239_razor-1,lám kárà,4898,false,expert,hantganfc,,,,2
-YandaDom-239_razor-1-1,YandaDom-239_razor-1,làm-tánà,4896,false,expert,hantganfc,,,,1
-YandaDom-239_razor-1-2,YandaDom-239_razor-1,làm-tánà,4900,false,expert,hantganfc,,,,2
-BonduSo-239_razor-1-1,BonduSo-239_razor-1,lâ:m,4896,false,expert,hantganfc,,,,1
-SonghaiKiini-250_salt-1-1,SonghaiKiini-250_salt-1,kìr-ì,320,false,expert,hantganfc,,,,1
-SonghaiKiini-250_salt-1-2,SonghaiKiini-250_salt-1,kìr-ì,4899,false,expert,hantganfc,,,,2
-SonghaiKiini-73_doorpost-1-1,SonghaiKiini-73_doorpost-1,hû: míyⁿɛ̀,1040,false,expert,hantganfc,,,,1
-SonghaiKiini-73_doorpost-1-2,SonghaiKiini-73_doorpost-1,hû: míyⁿɛ̀,4901,false,expert,hantganfc,,,,2
-SonghaiKiini-134_grass-1-1,SonghaiKiini-134_grass-1,sùb-ù,1865,false,expert,hantganfc,,,,1
-SonghaiKiini-134_grass-1-2,SonghaiKiini-134_grass-1,sùb-ù,1866,false,expert,hantganfc,,,,2
-BenTey-259_sharp-2-1,BenTey-259_sharp-2,ɛ́rù-m,3580,false,expert,hantganfc,,,,1
-BenTey-259_sharp-2-2,BenTey-259_sharp-2,ɛ́rù-m,4902,false,expert,hantganfc,,,,2
-SonghaiKiini-323_trappitfall-1-1,SonghaiKiini-323_trappitfall-1,kúmséj,4472,false,expert,hantganfc,,,,1
-SonghaiKiini-323_trappitfall-1-2,SonghaiKiini-323_trappitfall-1,kúmséj,4903,false,expert,hantganfc,,,,2
-SonghaiKiini-203_neck-1-1,SonghaiKiini-203_neck-1,gìndɛ̀,2850,false,expert,hantganfc,,,,1
-Soninke-6_armpit-1-1,Soninke-6_armpit-1,héqqè,4904,false,expert,hantganfc,,,,1
-Soninke-87_elephant-1-1,Soninke-87_elephant-1,tùurê,4907,false,expert,hantganfc,,,,1
-SonghaiKiini-87_elephant-1-1,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1228,false,expert,hantganfc,,,,1
-SonghaiKiini-87_elephant-1-2,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1244,false,expert,hantganfc,,,,2
-SonghaiKiini-87_elephant-1-3,SonghaiKiini-87_elephant-1,cé-bè:r-ò,1245,false,expert,hantganfc,,,,3
-Soninke-172_lightweight-1-1,Soninke-172_lightweight-1,kókkóhè,2398,false,expert,hantganfc,,,,1
-Bambara-243_ring-1-1,Bambara-243_ring-1,nkɔ́níná̰,1238,false,expert,hantganfc,,,,1
-Soninke-243_ring-1-1,Soninke-243_ring-1,dórómmà,4908,false,expert,hantganfc,,,,1
-Soninke-100_fight-1-1,Soninke-100_fight-1,hítínà,4909,false,expert,hantganfc,,,,1
-SonghaiKiini-101_find-1-1,SonghaiKiini-101_find-1,dí:,131,false,expert,hantganfc,,,,1
-Bambara-101_find-1-1,Bambara-101_find-1,sɔ̀rɔ́,4910,false,expert,hantganfc,,,,1
-DogulDom-187_meal-2-1,DogulDom-187_meal-2,pàná,2640,false,expert,hantganfc,,,,1
-Soninke-189_medicine-1-1,Soninke-189_medicine-1,sáhàrê,2109,false,expert,hantganfc,,,,1
-Soninke-129_goat-1-1,Soninke-129_goat-1,súgò,1802,false,expert,hantganfc,,,,1
-Bambara-27_blunt-1-1,Bambara-27_blunt-1,dɑgomɑ,4912,false,expert,hantganfc,,,,1
-BankanTey-184_marrow-2-1,BankanTey-184_marrow-2,m̀búsâ-m,2604,false,expert,hantganfc,,,,1
-BankanTey-184_marrow-2-2,BankanTey-184_marrow-2,m̀búsâ-m,2605,false,expert,hantganfc,,,,2
-SonghaiKiini-288_springorwell-1-1,SonghaiKiini-288_springorwell-1,dǎy,4913,false,expert,hantganfc,,,,1
-Soninke-15_begin-1-1,Soninke-15_begin-1,jóŋŋè,4918,false,expert,hantganfc,,,,1
-Mombo-65_die-2-1,Mombo-65_die-2,dwɛ́:,897,false,expert,hantganfc,,,,1
-Soninke-190_meet-1-1,Soninke-190_meet-1,gèmú,4921,false,expert,hantganfc,,,,1
-TommoSo-32_breakfast-2-1,TommoSo-32_breakfast-2,dàràgá,464,false,expert,hantganfc,,,,1

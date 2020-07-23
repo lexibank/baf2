@@ -1,0 +1,34 @@
+{
+    "creators": [],
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "title": "work in progress on Bangime",
+    "contributors": [],
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        },
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
