@@ -4,25 +4,10 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "title": "work in progress on Bangime",
+    "title": "CLDF dataset underlying the study \"Detection of contact layers in Bangime\" from 2020",
     "contributors": [],
     "access_right": "open",
     "communities": [
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
         {
             "identifier": "lexibank"
         }

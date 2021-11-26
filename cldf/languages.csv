@@ -1,39 +1,39 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Source
 Ampari,Ampari,ampa1240,,,,14.15,-3.55,Dogon,South-Western_Dogon,heathetal2015
-Bambara,Bambara,bamb1269,,,,12.9,-7.65,Mande,Western_Mande,dumestre2011
-Bangime,Bangime,bang1363,,,,14.7984833,-3.76015,Isolate,Isolate,hantheathBangLex
-BankanTey,Bankan_Tey,bank1259,,,,15.07,-2.91,Dogon,North-Eastern_Dogon,heathetal2015
-BenTey,Ben_Tey,bent1238,,,,14.8524,-2.94641667,Dogon,North-Eastern_Dogon,heathetal2015
-BonduSo,Bondu_So,bond1252,,,,14.98,-3.03,Dogon,North-Western_Dogon,heathetal2015
-BozoDebo,Bozo_Debo,debo1238,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoHainyaxo,Bozo_Hainyaxo,hain1253,,,,13.75,-5.75,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoKorondougounord,Bozo_Korondougou_nord,koro1305,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoKorondougousud,Bozo_Korondougou_sud,koro1305,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoKotya,Bozo_Kotya,koty1238,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoPondorinord,Bozo_Pondori_nord,pond1250,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoPondorisud,Bozo_Pondori_sud,pond1250,,,,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoTiemaCewe,Bozo_Tiema_Cewe,tiem1235,,,,15.6,-4.3,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-BozoTieyaxo,Bozo_Tieyaxo,tiey1235,,,,14.25,-5,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
-Bunoge,Bunoge,buno1241,,,,14.6532333,-3.79361667,Dogon,South-Western_Dogon,heathetal2015
-DogulDom,Dogul_Dom,dogu1235,,,,14.49455,-3.56038333,Dogon,South-Western_Dogon,heathetal2015
-DonnoSo,Donno_So,donn1239,,,,14.49455,-3.368,Dogon,South-Eastern_Dogon,heathetal2015
+Bambara,Bambara,bamb1269,Bambara,bam,Africa,12.9,-7.65,Mande,Western_Mande,dumestre2011
+Bangime,Bangime,bang1363,Bangime,dba,Africa,14.7984833,-3.76015,Isolate,Isolate,hantheathBangLex
+BankanTey,Bankan_Tey,bank1259,Bankan Tey Dogon,dbw,Africa,15.07,-2.91,Dogon,North-Eastern_Dogon,heathetal2015
+BenTey,Ben_Tey,bent1238,Ben Tey Dogon,dbt,Africa,14.8524,-2.94641667,Dogon,North-Eastern_Dogon,heathetal2015
+BonduSo,Bondu_So,bond1252,Bondum Dom,,Africa,14.98,-3.03,Dogon,North-Western_Dogon,heathetal2015
+BozoDebo,Bozo_Debo,debo1238,Débo,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoHainyaxo,Bozo_Hainyaxo,hain1253,Hainyaxo Bozo,bzx,Africa,13.75,-5.75,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoKorondougounord,Bozo_Korondougou_nord,koro1305,Korondougou,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoKorondougousud,Bozo_Korondougou_sud,koro1305,Korondougou,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoKotya,Bozo_Kotya,koty1238,Kotya,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoPondorinord,Bozo_Pondori_nord,pond1250,Pondori,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoPondorisud,Bozo_Pondori_sud,pond1250,Pondori,,Africa,,,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoTiemaCewe,Bozo_Tiema_Cewe,tiem1235,Tiemacèwè Bozo,boo,Africa,15.6,-4.3,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+BozoTieyaxo,Bozo_Tieyaxo,tiey1235,Tiéyaxo Bozo,boz,Africa,14.25,-5,Mande,Soninke-Bozo,SmeltzerandSmeltzer1995
+Bunoge,Bunoge,buno1241,Bunoge Dogon,dgb,Africa,14.6532333,-3.79361667,Dogon,South-Western_Dogon,heathetal2015
+DogulDom,Dogul_Dom,dogu1235,Dogul Dom Dogon,dbg,Africa,14.49455,-3.56038333,Dogon,South-Western_Dogon,heathetal2015
+DonnoSo,Donno_So,donn1239,Donno So Dogon,dds,Africa,14.49455,-3.368,Dogon,South-Eastern_Dogon,heathetal2015
 Fulfulde,Fulfulde,maas1242,,,,14.49205,-3.61506667,Atlantic,North-Central_Atlantic,osbornetal1993
-Gourou,Gourou,guru1265,,,,14.0634,-3.24563333,Dogon,North-Eastern_Dogon,heathetal2015
-Jamsay,Jamsay,jams1239,,,,15.00045,-2.95395,Dogon,North-Eastern_Dogon,heathetal2015
-Jenaama,Jenaama,jena1242,,,,15.5,-4,Mande,Soninke-Bozo,heath2016jenaamalexicon
-Mombo,Mombo,momb1254,,,,14.4,-3.7,Dogon,South-Western_Dogon,heathetal2015
-Nanga,Nanga,nang1261,,,,14.8193833,-3.01043333,Dogon,North-Eastern_Dogon,heathetal2015
-Penange,Penange,pena1270,,,,14.39385,-4.03238333,Dogon,South-Western_Dogon,heathetal2015
-PergeTegu,Perge_Tegu,perg1234,,,,14.85205,-3.305,Dogon,North-Eastern_Dogon,heathetal2015
-SonghaiKiini,Songhai_Kiini,koyr1240,,,,15.2102833,-2.74956667,Songhai,Eastern_Songhai,HeathSONG2005
+Gourou,Gourou,guru1265,Guru (Mali),,Africa,14.0634,-3.24563333,Dogon,North-Eastern_Dogon,heathetal2015
+Jamsay,Jamsay,jams1239,Jamsay Dogon,djm,Africa,15.00045,-2.95395,Dogon,North-Eastern_Dogon,heathetal2015
+Jenaama,Jenaama,jena1242,Jenaama Bozo,bze,Africa,15.5,-4,Mande,Soninke-Bozo,heath2016jenaamalexicon
+Mombo,Mombo,momb1254,Mombo Dogon,dmb,Africa,14.4,-3.7,Dogon,South-Western_Dogon,heathetal2015
+Nanga,Nanga,nang1261,Nanga,nzz,Africa,14.8193833,-3.01043333,Dogon,North-Eastern_Dogon,heathetal2015
+Penange,Penange,pena1270,Penange,,Africa,14.39385,-4.03238333,Dogon,South-Western_Dogon,heathetal2015
+PergeTegu,Perge_Tegu,perg1234,Perge Tegu,,Africa,14.85205,-3.305,Dogon,North-Eastern_Dogon,heathetal2015
+SonghaiKiini,Songhai_Kiini,koyr1240,Koyra Chiini Songhay,khq,Africa,15.2102833,-2.74956667,Songhai,Eastern_Songhai,HeathSONG2005
 SonghaiSenni,Songhai_Senni,humb1244,,,,15.2778333,-1.69998333,Songhai,Eastern_Songhai,HeathSONG2015
-Soninke,Soninke,soni1259,,,,13.13,-11.72,Mande,Soninke-Bozo,creissels2016
-TebulUre,Tebul_Ure,tebu1239,,,,14.685,-3.057,Dogon,North-Western_Dogon,heathetal2015
-TiranigeDiga,Tiranige_Diga,tira1258,,,,14.85,-3.73333333,Dogon,South-Western_Dogon,heathetal2015
-TogoKan,Togo_Kan,togo1254,,,,13.933,-3.416,Dogon,South-Eastern_Dogon,heathetal2015
-TommoSo,Tommo_So,tomm1242,,,,14.5608333,-3.39393333,Dogon,South-Eastern_Dogon,heathetal2015
-TomoKan,Tomo_Kan,tomo1243,,,,13.933,-3.416,Dogon,South-Eastern_Dogon,heathetal2015
-ToroSo,Toro_So,toro1252,,,,14.4666667,-3.31666667,Dogon,South-Eastern_Dogon,heathetal2015
-ToroTegu,Toro_Tegu,toro1253,,,,15.0052667,-2.085,Dogon,North-Eastern_Dogon,heathetal2015
-YandaDom,Yanda_Dom,yand1257,,,,14.6471833,-3.14816667,Dogon,North-Western_Dogon,heathetal2015
-YornoSo,Yorno_So,yorn1234,,,,14.5627,-3.2353,Dogon,North-Western_Dogon,heathetal2015
+Soninke,Soninke,soni1259,Soninke,snk,Africa,13.13,-11.72,Mande,Soninke-Bozo,creissels2016
+TebulUre,Tebul_Ure,tebu1239,Tebul Ure Dogon,dtu,Africa,14.685,-3.057,Dogon,North-Western_Dogon,heathetal2015
+TiranigeDiga,Tiranige_Diga,tira1258,Tiranige Diga Dogon,tde,Africa,14.85,-3.73333333,Dogon,South-Western_Dogon,heathetal2015
+TogoKan,Togo_Kan,togo1254,Togo Kan,,Africa,13.933,-3.416,Dogon,South-Eastern_Dogon,heathetal2015
+TommoSo,Tommo_So,tomm1242,Tommo So Dogon,dto,Africa,14.5608333,-3.39393333,Dogon,South-Eastern_Dogon,heathetal2015
+TomoKan,Tomo_Kan,tomo1243,Tomo Kan Dogon,dtm,Africa,13.933,-3.416,Dogon,South-Eastern_Dogon,heathetal2015
+ToroSo,Toro_So,toro1252,Toro So Dogon,dts,Africa,14.4666667,-3.31666667,Dogon,South-Eastern_Dogon,heathetal2015
+ToroTegu,Toro_Tegu,toro1253,Toro Tegu Dogon,dtt,Africa,15.0052667,-2.085,Dogon,North-Eastern_Dogon,heathetal2015
+YandaDom,Yanda_Dom,yand1257,Yanda Dom Dogon,dym,Africa,14.6471833,-3.14816667,Dogon,North-Western_Dogon,heathetal2015
+YornoSo,Yorno_So,yorn1234,Yorno So,,Africa,14.5627,-3.2353,Dogon,North-Western_Dogon,heathetal2015

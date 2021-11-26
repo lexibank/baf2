@@ -1,5 +1,13 @@
 # CLDF dataset underlying the study "Detection of contact layers in Bangime" from 2020
 
+## How to cite
+
+If you use these data please cite
+this dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
 This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://digling.org/links/bangime
@@ -64,5 +72,11 @@ This will create the file `scripts/relations.md`, which offers very detailed rel
 - **Cognate Diversity:** 0.50
 - **Invalid lexemes:** 0
 - **Tokens:** 46,114
-- **Segments:** 275 (1 BIPA errors, 1 CTLS sound class errors, 274 CLTS modified)
+- **Segments:** 275 (0 BIPA errors, 0 CTLS sound class errors, 275 CLTS modified)
 - **Inventory size (avg):** 71.58
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
