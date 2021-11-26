@@ -29,6 +29,7 @@ setup(
         ]},
     install_requires=[
         'pylexibank>=2.1',
-        'lexibase'
+        'lexibase',
+        "pyedictor"
     ]
 )

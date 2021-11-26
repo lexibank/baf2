@@ -2,13 +2,12 @@ import pathlib
 
 import attr
 import lingpy
+from pyedictor import fetch
 
 from clldutils.misc import slug
 from pylexibank import Concept, Language, Lexeme, Cognate, Dataset as BaseDataset, progressbar
+import re
 
-@attr.s
-class CustomCognate(Cognate):
-    Segment_Slice = attr.ib(default=None)
 
 @attr.s
 class CustomConcept(Concept):
@@ -22,18 +21,65 @@ class CustomLanguage(Language):
 @attr.s
 class CustomLexeme(Lexeme):
     Concept_in_Source = attr.ib(default=None)
+    Borrowing = attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
-    cognate_class = CustomCognate
 
     id = 'baf2'
 
+    def cmd_download(self, args):
+        wl = fetch(
+                "bangime", 
+                base_url="https://digling.org/edictor",
+                to_lingpy=True, 
+                columns=["DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
+                    "COGID", "BORID", "CONCEPT_IN_SOURCE"]
+                )
+        reps = {
+                "dw": "d w",
+                "ŋ̀": "ŋ̀/ŋ",
+                "⁵j": "⁵/j",
+                "/⁵i": "⁵/i",
+                "+l": "+ l",
+                "sɔː": "s ɔː",
+                "¹/a+": "¹/a +",
+                "sɔː": "s ɔː",
+                "vj": "v j",
+                "⁵¹/uŋ": "⁵¹/u ŋ",
+                "⁵¹/ul": "⁵¹/u l",
+                "¹/aː+": "¹/aː +",
+                "¹+": "+",
+                "⁵/o+": "⁵/o +",
+                "⁵¹/u+": "⁵¹/u +",
+                "∼/⁵ɔ": "⁵/ɔ̃",
+                }
+        for idx, tokens in wl.iter_rows("tokens"):
+            if "/ ∼" in str(tokens):
+                tokens = re.sub("/ ∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
+                wl[idx, "tokens"] = tokens
+            elif "/∼/" in str(tokens):
+                tokens = re.sub("/∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
+                wl[idx, "tokens"] = tokens
+            elif "/¹/" in str(tokens) or "/⁵/" in str(tokens) or "⁵¹/u" in str(tokens):
+                tokens = str(tokens).replace("/¹", "").replace("/⁵", "").replace("⁵¹/u ", "⁵¹/u").split()
+                wl[idx, "tokens"] = tokens
+            elif "/¹ " in str(tokens) or "∼/ " in str(tokens) or "¹/ " in str(tokens):
+                tokens = str(tokens).replace("/¹ ", "").replace("∼/ ", "").replace("¹/ ", "").split()
+                wl[idx, "tokens"] = tokens
+            wl[idx, "tokens"] = " ".join([reps.get(t, t) for t in
+                    wl[idx, "tokens"]]).split()
+
+
+
+        wl.output("tsv", filename=str(self.raw_dir.joinpath("bangime-edited")))
+
+
     def cmd_makecldf(self, args):
-        wl = lingpy.Wordlist(str(self.raw_dir / 'bangime.tsv'))
+        wl = lingpy.Wordlist(str(self.raw_dir / 'bangime-edited.tsv'))
         args.writer.add_sources()
         concepts = {}
         for concept in self.concepts:
@@ -60,13 +106,7 @@ class Dataset(BaseDataset):
                     Form=wl[idx, 'form'].strip() or '?',
                     Segments=wl[idx, 'tokens'],
                     Source=['hantganfc'],
-                    Cognacy=' '.join([str(x) for x in wl[idx, 'cogids']]),
+                    Cognacy=wl[idx, 'cogid'],
+                    Borrowing=wl[idx, "borid"],
                     Concept_in_Source=wl[idx, 'concept_in_source']
                 )
-                for morpheme_idx, cogid in enumerate(wl[idx, 'cogids']):
-                    args.writer.add_cognate(
-                        lexeme=row,
-                        Cognateset_ID=cogid,
-                        Source='hantganfc',
-                        Segment_Slice=morpheme_idx+1
-                    )

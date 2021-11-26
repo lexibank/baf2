@@ -67,15 +67,13 @@ This will create the file `scripts/relations.md`, which offers very detailed rel
 
 - **Varieties:** 38
 - **Concepts:** 348
-- **Lexemes:** 9,577
+- **Lexemes:** 9,567
 - **Sources:** 1
 - **Synonymy:** 1.08
-- **Cognacy:** 13,238 cognates in 4,923 cognate sets (2,979 singletons)
-- **Cognate Diversity:** 0.50
 - **Invalid lexemes:** 0
-- **Tokens:** 46,114
-- **Segments:** 275 (0 BIPA errors, 0 CTLS sound class errors, 275 CLTS modified)
-- **Inventory size (avg):** 71.58
+- **Tokens:** 45,994
+- **Segments:** 268 (0 BIPA errors, 0 CTLS sound class errors, 265 CLTS modified)
+- **Inventory size (avg):** 71.29
 
 ## CLDF Datasets
 
