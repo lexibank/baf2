@@ -4,7 +4,7 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "title": "CLDF dataset underlying the study \"Detection of contact layers in Bangime\" from 2020",
+    "title": "CLDF dataset underlying the study \"Detection of contact layers in Bangime\" from 2021",
     "contributors": [],
     "access_right": "open",
     "communities": [
@@ -15,5 +15,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Hantgan, Abbie and Babiker, Hiba and List, Johann-Mattis (2021): Detection of contact layers in Bangime.</p>\n</blockquote>"
 }

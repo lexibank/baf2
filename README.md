@@ -1,16 +1,18 @@
-# CLDF dataset underlying the study "Detection of contact layers in Bangime" from 2020
+# CLDF dataset underlying the study "Detection of contact layers in Bangime" from 2021
 
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Hantgan, Abbie and Babiker, Hiba and List, Johann-Mattis (2021): Detection of contact layers in Bangime.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at http://digling.org/links/bangime
+Available online at http://digling.org/links/bangime.html
 
 ## Notes
 

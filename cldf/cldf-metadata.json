@@ -1,19 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Hantgan, Abbie and Babiker, Hiba and List, Johann-Mattis (2021): Detection of contact layers in Bangime.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "http://digling.org/links/bangime",
+    "dc:identifier": "http://digling.org/links/bangime.html",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset underlying the study \"Detection of contact layers in Bangime\" from 2020",
+    "dc:title": "CLDF dataset underlying the study \"Detection of contact layers in Bangime\" from 2021",
     "dcat:accessURL": "https://github.com/lexibank/baf2",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/baf2",
             "rdf:type": "prov:Entity",
-            "dc:created": "76e2b4b",
+            "dc:created": "0521890",
             "dc:title": "Repository"
         },
         {
