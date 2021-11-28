@@ -37,7 +37,7 @@ class Dataset(BaseDataset):
                 base_url="https://digling.org/edictor",
                 to_lingpy=True, 
                 columns=["DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
-                    "COGID", "BORID", "CONCEPT_IN_SOURCE"]
+                    "COGID", "COGIDS", "BORID", "CONCEPT_IN_SOURCE"]
                 )
         reps = {
                 "dw": "d w",
@@ -56,6 +56,8 @@ class Dataset(BaseDataset):
                 "⁵/o+": "⁵/o +",
                 "⁵¹/u+": "⁵¹/u +",
                 "∼/⁵ɔ": "⁵/ɔ̃",
+                "∼/w̃": "w̃",
+                "∼/j": "j̃",
                 }
         for idx, tokens in wl.iter_rows("tokens"):
             if "/ ∼" in str(tokens):
@@ -73,7 +75,16 @@ class Dataset(BaseDataset):
             wl[idx, "tokens"] = " ".join([reps.get(t, t) for t in
                     wl[idx, "tokens"]]).split()
 
-
+        
+        for idx, concept, doculect, cogids, tokens in wl.iter_rows(
+                "concept", "doculect", "cogids", "tokens"):
+            if len(cogids) != len(" ".join(tokens).split(" + ")):
+                args.log.warning("{0:4}: {1:15} | {2:20} | {3:10} | {4}".format(
+                    idx, 
+                    concept[:15], 
+                    doculect, 
+                    " ".join([str(x) for x in cogids]), 
+                    " ".join(tokens)))
 
         wl.output("tsv", filename=str(self.raw_dir.joinpath("bangime-edited")))
 
