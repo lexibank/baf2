@@ -54,26 +54,27 @@ class Dataset(BaseDataset):
                 "¹/aː+": "¹/aː +",
                 "¹+": "+",
                 "⁵/o+": "⁵/o +",
+                "Ø": "",
                 "⁵¹/u+": "⁵¹/u +",
                 "∼/⁵ɔ": "⁵/ɔ̃",
                 "∼/w̃": "w̃",
                 "∼/j": "j̃",
                 }
-        for idx, tokens in wl.iter_rows("tokens"):
-            if "/ ∼" in str(tokens):
-                tokens = re.sub("/ ∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
-                wl[idx, "tokens"] = tokens
-            elif "/∼/" in str(tokens):
-                tokens = re.sub("/∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
-                wl[idx, "tokens"] = tokens
-            elif "/¹/" in str(tokens) or "/⁵/" in str(tokens) or "⁵¹/u" in str(tokens):
-                tokens = str(tokens).replace("/¹", "").replace("/⁵", "").replace("⁵¹/u ", "⁵¹/u").split()
-                wl[idx, "tokens"] = tokens
-            elif "/¹ " in str(tokens) or "∼/ " in str(tokens) or "¹/ " in str(tokens):
-                tokens = str(tokens).replace("/¹ ", "").replace("∼/ ", "").replace("¹/ ", "").split()
-                wl[idx, "tokens"] = tokens
-            wl[idx, "tokens"] = " ".join([reps.get(t, t) for t in
-                    wl[idx, "tokens"]]).split()
+        #for idx, tokens in wl.iter_rows("tokens"):
+        #    if "/ ∼" in str(tokens):
+        #        tokens = re.sub("/ ∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
+        #        wl[idx, "tokens"] = tokens
+        #    elif "/∼/" in str(tokens):
+        #        tokens = re.sub("/∼/(.)", r"/\1"+"\u0303", str(tokens)).split()
+        #        wl[idx, "tokens"] = tokens
+        #    elif "/¹/" in str(tokens) or "/⁵/" in str(tokens) or "⁵¹/u" in str(tokens):
+        #        tokens = str(tokens).replace("/¹", "").replace("/⁵", "").replace("⁵¹/u ", "⁵¹/u").split()
+        #        wl[idx, "tokens"] = tokens
+        #    elif "/¹ " in str(tokens) or "∼/ " in str(tokens) or "¹/ " in str(tokens):
+        #        tokens = str(tokens).replace("/¹ ", "").replace("∼/ ", "").replace("¹/ ", "").split()
+        #        wl[idx, "tokens"] = tokens
+        #    wl[idx, "tokens"] = " ".join([reps.get(t, t) for t in
+        #            wl[idx, "tokens"]]).split()
 
         
         for idx, concept, doculect, cogids, tokens in wl.iter_rows(
