@@ -32,13 +32,16 @@ class Dataset(BaseDataset):
     id = 'baf2'
 
     def cmd_download(self, args):
-        wl = fetch(
+        data = fetch(
                 "bangime", 
                 base_url="https://digling.org/edictor",
-                to_lingpy=True, 
+                to_lingpy=False,
                 columns=["DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
                     "COGID", "COGIDS", "BORID", "CONCEPT_IN_SOURCE"]
                 )
+        with open(self.raw_dir / "raw-data.tsv", "w") as f:
+            f.write(data)
+        wl = lingpy.Wordlist(str(self.raw_dir / "raw-data.tsv"))
         reps = {
                 "dw": "d w",
                 "ŋ̀": "ŋ̀/ŋ",
