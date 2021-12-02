@@ -7,6 +7,7 @@ from pyedictor import fetch
 from clldutils.misc import slug
 from pylexibank import Concept, Language, Lexeme, Cognate, Dataset as BaseDataset, progressbar
 import re
+import codecs
 
 
 @attr.s
@@ -39,7 +40,7 @@ class Dataset(BaseDataset):
                 columns=["DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
                     "COGID", "COGIDS", "BORID", "CONCEPT_IN_SOURCE"]
                 )
-        with open(self.raw_dir / "raw-data.tsv", "w") as f:
+        with codecs.open(self.raw_dir / "raw-data.tsv", "w", "utf-8") as f:
             f.write(data)
         wl = lingpy.Wordlist(str(self.raw_dir / "raw-data.tsv"))
         reps = {
