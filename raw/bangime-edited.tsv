@@ -296,7 +296,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 301	TomoKan	BE ALIVE	cìnìhú:ⁿ yɔ́ wɔ́	cìnìhú:ⁿ-yɔ́_wɔ́	tʃ ¹/i n ¹/i h ∼⁵/ũ: + j ⁵/ɔ + w ⁵/ɔ	741	178 166 169	0	
 302	Mombo	BE ALIVE	ɲáŋgù ndò ò-bó	ɲáŋgù-ndò_ò-bó	ɲ ⁵/a + ⁿɡ ¹/u + ⁿd ¹/o + ¹/o + b ⁵/o	728	168 173 174 162 169	0	
 303	Jamsay	BE ALIVE	yɛ́ yìné	yɛ́_yìné	j ⁵/ɛ + j ¹/i n ⁵/e	723	166 171	0	
-304	BonduSo	BE ALIVE	[kínjàn mà] bò	kínjàn-mà_bò	k ⁵/i ⁿdʒ ¹/a m ¹/a + b ¹/o	695	161 166 169	0	
+304	BonduSo	BE ALIVE	[kínjàn mà] bò	kínjàn-mà_bò	k ⁵/i ⁿdʒ ¹/a m ¹/a + b ¹/o	695	4585 169	0	
 305	Bunoge	BE ALIVE	[ɲàŋgò ndó] bò	ɲàŋgò-ndó_bò	ɲ ¹/a ⁿɡ ¹/o + ⁿd ⁵/o + b ¹/o	712	168 162 169	0	
 306	Nanga	BE ALIVE	[úmá ŋá] bě:	úmá-ŋá_bě:	⁵/u m ⁵/a + ŋ ⁵/a + b ¹⁵/eː	730	175 172 165	0	
 307	YornoSo	BE ALIVE	ɔ́:ⁿ, yìwⁿɛ̌-n	yìwⁿɛ̌-n	j ¹/i w̃ ¹⁵/ɛ + n	751	175 180	0	
@@ -890,7 +890,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 875	Fulfulde	BREAKFAST	pummaari	pummaari	p u m m aː r i	280	471	0	
 876	Fulfulde	BREAKFAST	taʄu-kooye	taʄu-kooye	t a ʄ u + k oː j e	287	5286 477	729	
 877	Bambara	BREAKFAST	dàràká	dàràká	d ¹/a r ¹/a k ⁵/a	3463	63	716	
-9636	Bangime	BREAKFAST	tájkòj	tájkòj	t ⁵/a dʒ + k ¹/oː j e	3900	4939	729	
+9636	Bangime	BREAKFAST	tájkòj	tájkòj	t ⁵/a dʒ + k ¹/oː j e	3900	4939 5423	729	
 #
 878	SonghaiSenni	BREAST	fòf-ò	fòf-ò	f ¹/o f + ¹/o	3875	491 492	0	
 879	BozoHainyaxo	BREAST	hoⁿŋoⁿ	hoⁿŋoⁿ	h õ ŋ õ	3485	483	0	
@@ -1727,8 +1727,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1684	BozoTieyaxo	CRY	gwo	gwo	ɡ w o	2684	855	1372	
 1685	BozoTiemaCewe	CRY	guo	guo	ɡ u o	2685	855	1374	
 1686	Soninke	CRY	wú	wú	w ⁵/u	2684	857	1372	
-1687	Gourou	CRY	ɛ́:ⁿ	ɛ́:ⁿ	Ø ⁵/ɛ̃ː	439	858	38	
-1688	Jamsay	CRY	ɛ̌:ⁿ	ɛ̌:ⁿ	Ø ¹⁵/ɛ̃ː	439	858	38	
+1687	Gourou	CRY	ɛ́:ⁿ	ɛ́:ⁿ	⁵/ɛ̃ː	439	858	38	
+1688	Jamsay	CRY	ɛ̌:ⁿ	ɛ̌:ⁿ	¹⁵/ɛ̃ː	439	858	38	
 1689	Jamsay	CRY	ɛ̌:ⁿ, pé:	pé:	p ⁵/eː	438	858	0	
 1690	TogoKan	CRY	kɔ́:ⁿ	kɔ́:ⁿ	k ɔ̃ː	437	855	1374	
 1691	TiranigeDiga	CRY	kɔ́mɔ́	kɔ́mɔ́	k ⁵/ɔ m ⁵/ɔ	437	855	1374	
@@ -2906,7 +2906,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2840	Penange	FIGHT	jáyⁿ	jáyⁿ	dʒ ⁵/a ∼/j	701	1423	0	
 2841	TiranigeDiga	FIGHT	yáŋí-yó	yáŋí-yó	j ⁵/a ŋ ⁵/i + j ⁵/o	698	1417 1415	0	
 2842	PergeTegu	FIGHT	jàyá	jàyá	dʒ ¹/a j ⁵/a	701	1416	0	
-2843	SonghaiSenni	FIGHT	gùrjèy	gùrjèy	ɡ ¹/u r + dʒ ¹/e + j	3617	1424 1425	0	
+2843	SonghaiSenni	FIGHT	gùrjèy	gùrjèy	ɡ ¹/u r + dʒ ¹/e + j	3617	1424 1425 5422	0	
 2844	BonduSo	FIGHT	jáːŋí-y	jáːŋí-y	dʒ ⁵/aː ŋ ⁵/i + j	698	1417 1418	0	
 2845	Bambara	FIGHT	kɛlɛ	kɛlɛ	k ɛ l ɛ	2796	1413	2284	
 #
