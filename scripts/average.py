@@ -3,7 +3,7 @@ from lingpy import *
 from collections import defaultdict
 from itertools import combinations
 
-wl = Wordlist('../raw/bangime.tsv')
+wl = Wordlist('../raw/bangime-edited.tsv')
 
 etd = wl.get_etymdict(ref='borid')
 

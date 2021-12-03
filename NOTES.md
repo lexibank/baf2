@@ -5,33 +5,72 @@ The data in EDICTOR can be accessed from [https://digling.org/links/bangime.html
 To run the analysis, make sure to install all requirements:
 
 ```
-$ pip install -e ./
+$ pip install -e .[full]
 ```
 
-As a second step, you can then run the data lifting analysis:
+Also make sure to clone all repositories of Concepticon, Glottolog, and CLTS:
 
 ```
-$ cldfbench lexibank.makecldf baf2
+$ mkdir repos
+$ cd repos
+$ git clone https://github.com/glottolog/glottolog.git
+$ git clone https://github.com/concepticon/concepticon-data.git
+$ git clone https://github.com/cldf-clts/clts
 ```
 
-And in order to run the cognate detection analysis, run:
+
+The data is annotated with the help of the EDICTOR tool, where you can also inspect it using the link
+[https://digling.org/edictor/http://digling.org/edictor/?remote_dbase=bangime&file=bangime](http://digling.org/edictor/?remote_dbase=bangime&file=bangime&basics=DOCULECT|CONCEPT|TOKENS|COGID|COGIDS|COGID|BORID|NOTE&columns=DOCULECT|CONCEPT|CONCEPT_FRENCH|FAMILY|SUBGROUP|VALUE|FORM|TOKENS|COGID|COGIDS|BORID|STRATUM&split_on_tones=false).
+
+To download the most recent version of the data programmatically, type:
 
 ```
-$ cldfbench baf2commands.edictor
+$ cldfbench download lexibank_baf2.py
 ```
 
-This analysis results in an SQLITE3 database file, which we uploaded to the EDICTOR tool for a convenient manual refinement of the data. The data can be accessed at [https://digling.org/edictor/http://digling.org/edictor/?remote_dbase=bangime&file=bangime&split_on_tones=false](http://digling.org/edictor/?remote_dbase=bangime&file=bangime&basics=DOCULECT|CONCEPT|TOKENS|COGID|COGIDS|COGID|BORID|NOTE&columns=DOCULECT|CONCEPT|CONCEPT_FRENCH|FAMILY|SUBGROUP|VALUE|FORM|TOKENS|COGID|COGIDS|BORID|STRATUM&split_on_tones=false). 
-
-To run the followin analyses to analyse the data after manual refinement, we offer Python scripts in the folder `scripts`. Our EDICTOR file with the manuall annotated data is available as `raw/bangime.tsv`.
-
-To run our main analysis, type:
+In order to convert the updated data to cldf, run:
 
 ```
-$ cd scripts
-$ python average.py
+$ cldfbench lexibank.makecldf lexibank_baf2.py --concepticon-version=v2.5.0 --glottolog-version=v4.4 --clts-version=v2.1.0
 ```
 
-This will create the file `scripts/relations.md`, which offers very detailed relations with respect to potential borrowings. 
+In order to run the cognate and borrowing detection analysis, run:
 
+```
+$ cldfbench baf2commands.borrowing
+```
 
+This analysis will create a file `wordlist.tsv` in the folder `analysis`. Note that the analysis itself was only done once in the beginning of our investigation and later manually updated. As a result, the results of this comparison necessarily differ from the results of the manually updated version. 
+
+To analyze the data, you can first compute average statistics of borrowed items:
+
+```
+$ cldfbench baf2.average
+```
+
+This will create a file `relations.md` in the folder `analysis`.
+
+To count shared borrowing candidates, type:
+
+```
+$ cldfbench baf2.count
+```
+
+This will create a file `analysis/patterns.tsv`.
+
+To yield the same for all language subgroups in the sample, type:
+
+```
+$ cldfbench baf2.count-subgroup
+```
+
+This will write the patterns to the file `analysis/patterns-subgroups.tsv`. 
+
+To yield the same for all languages in the sample, type:
+
+```
+$ cldfbench baf2.count-language
+```
+
+This will write the patterns to the file `analysis/patterns-subgroups.tsv`. 
 

@@ -282,7 +282,7 @@ Penange-12_bealive-1,300,Penange,12_bealive,[ɲàŋgù ní] bò,ɲàŋgù-ní_b�
 TomoKan-12_bealive-1,301,TomoKan,12_bealive,cìnìhú:ⁿ yɔ́ wɔ́,cìnìhú:ⁿ-yɔ́_wɔ́,tʃ ¹/i n ¹/i h ∼⁵/ũ: + j ⁵/ɔ + w ⁵/ɔ,,hantganfc,741,,,,,0
 Mombo-12_bealive-1,302,Mombo,12_bealive,ɲáŋgù ndò ò-bó,ɲáŋgù-ndò_ò-bó,ɲ ⁵/a + ⁿɡ ¹/u + ⁿd ¹/o + ¹/o + b ⁵/o,,hantganfc,728,,,,,0
 Jamsay-12_bealive-1,303,Jamsay,12_bealive,yɛ́ yìné,yɛ́_yìné,j ⁵/ɛ + j ¹/i n ⁵/e,,hantganfc,723,,,,,0
-BonduSo-12_bealive-1,304,BonduSo,12_bealive,[kínjàn mà] bò,kínjàn-mà_bò,k ⁵/i ⁿdʒ ¹/a + n + m ¹/a + b ¹/o,,hantganfc,695,,,,,0
+BonduSo-12_bealive-1,304,BonduSo,12_bealive,[kínjàn mà] bò,kínjàn-mà_bò,k ⁵/i ⁿdʒ ¹/a m ¹/a + b ¹/o,,hantganfc,695,,,,,0
 Bunoge-12_bealive-1,305,Bunoge,12_bealive,[ɲàŋgò ndó] bò,ɲàŋgò-ndó_bò,ɲ ¹/a ⁿɡ ¹/o + ⁿd ⁵/o + b ¹/o,,hantganfc,712,,,,,0
 Nanga-12_bealive-1,306,Nanga,12_bealive,[úmá ŋá] bě:,úmá-ŋá_bě:,⁵/u m ⁵/a + ŋ ⁵/a + b ¹⁵/eː,,hantganfc,730,,,,,0
 YornoSo-12_bealive-1,307,YornoSo,12_bealive,"ɔ́:ⁿ, yìwⁿɛ̌-n",yìwⁿɛ̌-n,j ¹/i w̃ ¹⁵/ɛ + n,,hantganfc,751,,,,,0
@@ -856,6 +856,7 @@ Jamsay-32_breakfast-1,874,Jamsay,32_breakfast,kɔ́:jɔ̀,kɔ́:jɔ̀,k ⁵/ɔː
 Fulfulde-32_breakfast-1,875,Fulfulde,32_breakfast,pummaari,pummaari,p u m m aː r i,,hantganfc,280,,,,,0
 Fulfulde-32_breakfast-2,876,Fulfulde,32_breakfast,taʄu-kooye,taʄu-kooye,t a ʄ u + k oː j e,,hantganfc,287,,,,,729
 Bambara-32_breakfast-1,877,Bambara,32_breakfast,dàràká,dàràká,d ¹/a r ¹/a k ⁵/a,,hantganfc,3463,,,,,716
+Bangime-32_breakfast-1,9636,Bangime,32_breakfast,tájkòj,tájkòj,t ⁵/a dʒ + k ¹/oː j e,,hantganfc,3900,,,,,729
 SonghaiSenni-33_breast-1,878,SonghaiSenni,33_breast,fòf-ò,fòf-ò,f ¹/o f + ¹/o,,hantganfc,3875,,,,,0
 BozoHainyaxo-33_breast-1,879,BozoHainyaxo,33_breast,hoⁿŋoⁿ,hoⁿŋoⁿ,h õ ŋ õ,,hantganfc,3485,,,,,0
 BozoPondorinord-33_breast-1,880,BozoPondorinord,33_breast,kaⁿnuⁿ,kaⁿnuⁿ,k ã n ũ,,hantganfc,3485,,,,,0
@@ -1662,8 +1663,8 @@ BozoPondorisud-62_cry-1,1683,BozoPondorisud,62_cry,wuo,wuo,w u o,,hantganfc,2684
 BozoTieyaxo-62_cry-1,1684,BozoTieyaxo,62_cry,gwo,gwo,ɡ w o,,hantganfc,2684,,,,,1372
 BozoTiemaCewe-62_cry-1,1685,BozoTiemaCewe,62_cry,guo,guo,ɡ u o,,hantganfc,2685,,,,,1374
 Soninke-62_cry-1,1686,Soninke,62_cry,wú,wú,w ⁵/u,,hantganfc,2684,,,,,1372
-Gourou-62_cry-1,1687,Gourou,62_cry,ɛ́:ⁿ,ɛ́:ⁿ,Ø ⁵/ɛ̃ː,,hantganfc,439,,,,,38
-Jamsay-62_cry-1,1688,Jamsay,62_cry,ɛ̌:ⁿ,ɛ̌:ⁿ,Ø ¹⁵/ɛ̃ː,,hantganfc,439,,,,,38
+Gourou-62_cry-1,1687,Gourou,62_cry,ɛ́:ⁿ,ɛ́:ⁿ,⁵/ɛ̃ː,,hantganfc,439,,,,,38
+Jamsay-62_cry-1,1688,Jamsay,62_cry,ɛ̌:ⁿ,ɛ̌:ⁿ,¹⁵/ɛ̃ː,,hantganfc,439,,,,,38
 Jamsay-62_cry-2,1689,Jamsay,62_cry,"ɛ̌:ⁿ, pé:",pé:,p ⁵/eː,,hantganfc,438,,,,,0
 TogoKan-62_cry-1,1690,TogoKan,62_cry,kɔ́:ⁿ,kɔ́:ⁿ,k ɔ̃ː,,hantganfc,437,,,,,1374
 TiranigeDiga-62_cry-1,1691,TiranigeDiga,62_cry,kɔ́mɔ́,kɔ́mɔ́,k ⁵/ɔ m ⁵/ɔ,,hantganfc,437,,,,,1374
@@ -1978,7 +1979,7 @@ BozoKorondougousud-72_door-1,1999,BozoKorondougousud,72_door,kwɔlagu,kwɔlagu,k
 BozoKotya-72_door-1,2000,BozoKotya,72_door,dagu,dagu,d a ɡ u,,hantganfc,2717,,,,,1603
 BozoPondorinord-72_door-1,2001,BozoPondorinord,72_door,lɔⁿɔⁿ,lɔⁿɔⁿ,l ɔ̃ː,,hantganfc,2719,,,,,0
 BozoPondorisud-72_door-1,2002,BozoPondorisud,72_door,dɔ,dɔ,d ɔ,,hantganfc,2716,,,,,1599
-BozoTieyaxo-72_door-1,2003,BozoTieyaxo,72_door,xɔlaa,xɔlaa,x ɔ l aː,,hantganfc,2719,,,,,0
+BozoTieyaxo-72_door-1,2003,BozoTieyaxo,72_door,xɔlaa,xɔlaa,x ɔ + l aː,,hantganfc,2719,,,,,0
 BozoTiemaCewe-72_door-1,2004,BozoTiemaCewe,72_door,laa,laa,l aː,,hantganfc,2719,,,,,0
 TogoKan-72_door-2,2005,TogoKan,72_door,gìrⁿì-káⁿ,gìrⁿì-káⁿ,ɡ ¹/i r̃ ¹/i + k ⁵/ã,,hantganfc,516,,,,,0
 SonghaiSenni-72_door-1,2006,SonghaiSenni,72_door,hó:-míy-ò,hó:míy-ò,h ⁵/oː m ⁵/i j + ¹/o,,hantganfc,3590,,,,,0
@@ -2318,14 +2319,14 @@ TomoKan-84_egg-1,2339,TomoKan,84_egg,tá-w (X tá-w),tá-w,t ⁵/a + w,,hantganf
 TiranigeDiga-84_egg-1,2340,TiranigeDiga,84_egg,"pólŋgé (Boui), pólé (Ningo)",pólŋgé,p ⁵/o l + ⁿɡ ⁵/e,,hantganfc,596,,,,,1895
 Mombo-84_egg-1,2341,Mombo,84_egg,pólè,pólè,p ⁵/o l ¹/e,,hantganfc,596,,,,,1895
 Penange-84_egg-1,2342,Penange,84_egg,pòlè,pòlè,p ¹/o l ¹/e,,hantganfc,596,,,,,1895
-Bangime-84_egg-1,2343,Bangime,84_egg,kú(ú)ⁿ (1),kúúⁿ,k ∼⁵/ũː,,hantganfc,2359,,,,,0
+Bangime-84_egg-1,2343,Bangime,84_egg,kú(ú)ⁿ (1),kúúⁿ,k ⁵/ũː,,hantganfc,2359,,,,,0
 Fulfulde-84_egg-1,2344,Fulfulde,84_egg,woofoonde,woofoonde,w oː f oː + ⁿd e,,hantganfc,41,,,,,0
 Jenaama-84_egg-1,2345,Jenaama,84_egg,bíyɛ̄wⁿ,bíyɛ̄wⁿ,b ⁵/i j ³/ɛ + ∼/w̃,,hantganfc,2754,,,,,0
 Jamsay-84_egg-1,2346,Jamsay,84_egg,tárú,tárú,t ⁵/a r ⁵/u,,hantganfc,595,,,,,0
 BankanTey-84_egg-1,2347,BankanTey,84_egg,tàrî:,tàrî:,t ¹/a r ⁵¹/iː,,hantganfc,595,,,,,0
 TogoKan-84_egg-1,2348,TogoKan,84_egg,tárú,tárú,t ⁵/a r ⁵/u,,hantganfc,595,,,,,0
 Bambara-84_egg-1,2349,Bambara,84_egg,fàⁿ,fàⁿ,f ã,,hantganfc,2749,,,,,0
-BozoDebo-84_egg-1,2350,BozoDebo,84_egg,biⁿɛⁿ,biⁿɛⁿ,b ĩ ∼/ɛ,,hantganfc,2749,,,,,0
+BozoDebo-84_egg-1,2350,BozoDebo,84_egg,biⁿɛⁿ,biⁿɛⁿ,b ĩ ɛ̃,,hantganfc,2749,,,,,0
 BozoHainyaxo-84_egg-1,2351,BozoHainyaxo,84_egg,falaa,falaa,f a l aː,,hantganfc,2750,,,,,1895
 BozoKorondougounord-84_egg-1,2352,BozoKorondougounord,84_egg,bioⁿ,bioⁿ,b i õ,,hantganfc,2749,,,,,0
 BozoKorondougousud-84_egg-1,2353,BozoKorondougousud,84_egg,bioⁿ,bioⁿ,b i õ,,hantganfc,2749,,,,,0
@@ -2457,7 +2458,7 @@ Penange-88_empty-1,2494,Penange,88_empty,dóndó,dóndó,d ⁵/o ⁿd ⁵/o,,han
 Soninke-88_empty-1,2495,Soninke,88_empty,dàⁿnàɲɔ́gɔ́ⁿ,dàⁿnàɲɔ́gɔ́ⁿ,d ã n ¹/a + ɲ ⁵/ɔ ɡ ⁵/ɔ̃,,hantganfc,2769,,,,,0
 Soninke-88_empty-2,2496,Soninke,88_empty,dúúrò,dúúrò,d ⁵/uː r ¹/o,,hantganfc,2767,,,,,2006
 SonghaiSenni-88_empty-1,2497,SonghaiSenni,88_empty,kárás,kárás,k ⁵/a r ⁵/a s,,hantganfc,3605,,,,,2005
-Bangime-88_empty-1,2498,Bangime,88_empty,pɔ́mbɛ̄,pɔ́mbɛ̄,p ∼⁵/ɔ b ³/ɛ,,hantganfc,2364,,,,,0
+Bangime-88_empty-1,2498,Bangime,88_empty,pɔ́mbɛ̄,pɔ́mbɛ̄,p ⁵/ɔ ⁿb ³/ɛ,,hantganfc,2364,,,,,0
 Fulfulde-88_empty-1,2499,Fulfulde,88_empty,ɓolu,ɓolu,ɓ o l u,,hantganfc,46,,,,,0
 Jenaama-88_empty-1,2500,Jenaama,88_empty,wōⁿ-wōⁿ,wōⁿ-wōⁿ,w ³/õ + w ³/õ,,hantganfc,2768,,,,,26
 Jamsay-88_empty-1,2501,Jamsay,88_empty,wóm,wóm,w ⁵/o + m,,hantganfc,625,,,,,26
@@ -2781,6 +2782,7 @@ Fulfulde-99_fearfright-1,2818,Fulfulde,99_fearfright,hulde,hulde,h u l + d e,,ha
 Jamsay-99_fearfright-1,2819,Jamsay,99_fearfright,lì-lɛ̌:,lì-lɛ̌:,l ¹/i + l ¹⁵/ɛː,,hantganfc,691,,,,,0
 TiranigeDiga-99_fearfright-1,2820,TiranigeDiga,99_fearfright,yó:ní-yó,yó:ní-yó,j ⁵/oː n ⁵/i + j ⁵/o,,hantganfc,694,,,,,0
 BozoKorondougounord-99_fearfright-1,2821,BozoKorondougounord,99_fearfright,tabakeⁿde,tabakeⁿde,t a b a k ẽ + d e,,hantganfc,2795,,,,,0
+Bangime-99_fearfright-1,9637,Bangime,99_fearfright,pɔ̄dà,pɔ̄dà,p ³/ɔ d ¹/a,,hantganfc,3901,,,,,
 Fulfulde-100_fight-1,2822,Fulfulde,100_fight,haɓude,haɓ-ude,h a ɓ + u d e,,hantganfc,58,,,,,0
 Jenaama-100_fight-1,2823,Jenaama,100_fight,kɛ̄lɛ̄,kɛ̄lɛ̄,k ³/ɛ l ³/ɛ,,hantganfc,2796,,,,,2284
 Bangime-100_fight-1,2824,Bangime,100_fight,kóré,kóré,k ⁵/o r ⁵/e,,hantganfc,2376,,,,,2284
@@ -3413,7 +3415,7 @@ Bambara-120_get-1,3453,Bambara,120_get,sɔ̀rɔ́,sɔ̀rɔ́,s ¹/ɔ r ⁵/ɔ,,h
 Bambara-120_get-2,3454,Bambara,120_get,kwe,kwe,k w e,,hantganfc,2864,,,,,0
 SonghaiSenni-120_get-1,3456,SonghaiSenni,120_get,dù,dù,d ¹/u,,hantganfc,3639,,,,,2738
 Soninke-120_get-1,3457,Soninke,120_get,kìtá,kìtá,k ¹/i t ⁵/a,,hantganfc,2863,,,,,47
-Bangime-120_get-1,9627,Bangime,120_get,?,?,k ³/a r ¹/a,,hantganfc,0,,,,,47
+Bangime-120_get-1,9627,Bangime,120_get,kárà,kárà,k ³/a r ¹/a,,hantganfc,3902,,,,,47
 SonghaiSenni-121_girl-1,3458,SonghaiSenni,121_girl,[kò-tí]-[wòy-ò],kò-tí-wòy-ò,k ¹/o + t ⁵/i + w ¹/o j + ¹/o,,hantganfc,3640,,,,,0
 ToroTegu-121_girl-1,3459,ToroTegu,121_girl,yⁿà-rⁿì:-rⁿí:,yⁿà-rⁿì:_rⁿí:,j̃ ¹/a + r̃ ¹/iː + r̃ ⁵/iː,,hantganfc,837,,,,,0
 BenTey-121_girl-1,3460,BenTey,121_girl,yà:-yî-m,yà:yî-m,j ¹/aː j ⁵¹/i + m,,hantganfc,828,,,,,0
@@ -4012,8 +4014,8 @@ Soninke-143_hideconceal-2,4026,Soninke,143_hideconceal,múxú,múxú,m ⁵/u x �
 ToroSo-143_hideconceal-1,4027,ToroSo,143_hideconceal,báŋá,báŋá,b ⁵/a ŋ ⁵/a,,hantganfc,948,,,,,0
 ToroSo-143_hideconceal-2,4028,ToroSo,143_hideconceal,bàŋí,bàŋí,b ¹/a ŋ ⁵/i,,hantganfc,948,,,,,0
 BonduSo-143_hideconceal-2,4029,BonduSo,143_hideconceal,súbú,súbú,s ⁵/u b ⁵/u,,hantganfc,947,,,,,3183
-Bangime-143_hideconceal-1,9628,Bangime,143_hideconceal,?,?,b ³/ɔ g ¹/ɔ̀,,hantganfc,3898,,,,,0
-Bangime-144_hip-1,4030,Bangime,144_hip,kù(ù)ⁿ,kùùⁿ,k ũ:,,hantganfc,2421,,,,,3214
+Bangime-143_hideconceal-1,9628,Bangime,143_hideconceal,?,bɔ̄ɡɔ̀,b ³/ɔ g ¹/ɔ,,hantganfc,3898,,,,,0
+Bangime-144_hip-1,4030,Bangime,144_hip,kù(ù)ⁿ,kùùⁿ,k ¹/ũː,,hantganfc,2421,,,,,3214
 Jenaama-144_hip-1,4031,Jenaama,144_hip,kūla᷆ⁿ,kūla᷆ⁿ,k ³/u l ³¹/ã,,hantganfc,2934,,,,,3214
 BankanTey-144_hip-1,4032,BankanTey,144_hip,dǒ:,dǒ:,d ¹⁵/oː,,hantganfc,956,,,,,0
 Nanga-144_hip-1,4033,Nanga,144_hip,dǒ:,dǒ:,d ¹⁵/oː,,hantganfc,956,,,,,0
@@ -4500,7 +4502,7 @@ BozoDebo-160_knee-1,4513,BozoDebo,160_knee,kogoⁿ,kogoⁿ,k o ɡ õ,,hantganfc,
 BozoKorondougousud-160_knee-1,4515,BozoKorondougousud,160_knee,kwɔbɔ,kwɔbɔ,k w ɔ b ɔ,,hantganfc,2977,,,,,0
 Soninke-160_knee-1,4516,Soninke,160_knee,qúrúngò,qúrúngò,q ⁵/u r ⁵/u ⁿɡ ¹/o,,hantganfc,2977,,,,,0
 Bambara-160_knee-1,4517,Bambara,160_knee,kúⁿbéré,kúⁿbéré,k ⁵/ũ + b ⁵/e r ⁵/e,,hantganfc,2981,,,,,3639
-Bambara-160_knee-2,4518,Bambara,160_knee,kúⁿbérékúⁿ,kúⁿbérékúⁿ,k ⁵/ũ + b ⁵/e r ⁵/e k ⁵/ũ,,hantganfc,2981,,,,,3639
+Bambara-160_knee-2,4518,Bambara,160_knee,kúⁿbérékúⁿ,kúⁿbérékúⁿ,k ⁵/ũ + b ⁵/e r ⁵/e + k ⁵/ũ,,hantganfc,2981,,,,,3639
 Bambara-160_knee-3,4519,Bambara,160_knee,sḛ̀kúrú,sḛ̀kúrú,s ẽ + k ⁵/u r ⁵/u,,hantganfc,2983,,,,,0
 SonghaiSenni-160_knee-2,4520,SonghaiSenni,160_knee,kànjè,kànjè,k ¹/a ⁿdʒ ¹/e,,hantganfc,3678,,,,,3605
 SonghaiSenni-160_knee-3,4521,SonghaiSenni,160_knee,gúŋgúm-éyndí,gúŋgúm-éyndí,ɡ ⁵/u ⁿɡ ⁵/u m + ⁵/e j ⁿd ⁵/i,,hantganfc,3680,,,,,0
@@ -5091,7 +5093,7 @@ TiranigeDiga-181_maize-1,5105,TiranigeDiga,181_maize,dùmà-yò:gé,dùmà-yò:g
 Mombo-181_maize-1,5106,Mombo,181_maize,ɛ̀mbɛ̀dúlúmá,ɛ̀mbɛ̀-dúlúmá,¹/ɛ ⁿb ¹/ɛ + d ⁵/u l ⁵/u m ⁵/a,,hantganfc,1221,,,,,0
 Penange-181_maize-1,5107,Penange,181_maize,dàlmà-yògó,dàlmà-yògó,d ¹/a l m ¹/a + j ¹/o ɡ ⁵/o,,hantganfc,1222,,,,,67
 TomoKan-181_maize-1,5108,TomoKan,181_maize,mànjàrà-ɲùmà,mànjàrà-ɲùmà,m ¹/a ⁿdʒ ¹/a r ¹/a + ɲ ¹/u m ¹/a,,hantganfc,1224,,,,,68
-Bangime-181_maize-1,5109,Bangime,181_maize,bìrɔ̀ndɔ́ⁿ,bìrɔ̀ndɔ́ⁿ,b ¹/i r ∼¹/ɔ d ⁵/ɔ̃,,hantganfc,2463,,,,,66
+Bangime-181_maize-1,5109,Bangime,181_maize,bìrɔ̀ndɔ́ⁿ,bìrɔ̀ndɔ́ⁿ,b ¹/i r ¹/ɔ̃ d ⁵/ɔ̃,,hantganfc,2463,,,,,66
 Fulfulde-181_maize-1,5110,Fulfulde,181_maize,mbammbaari,mbammbaari,ⁿb a m ⁿb aː r i,,hantganfc,141,,,,,66
 Jenaama-181_maize-1,5111,Jenaama,181_maize,kèndè,kèndè,k ¹/e ⁿd ¹/e,,hantganfc,3049,,,,,0
 BozoDebo-181_maize-1,5112,BozoDebo,181_maize,daraⁿmajɛⁿŋ,daraⁿmajɛⁿŋ,d a r ã + m a dʒ ∼/ɛ ŋ,,hantganfc,3050,,,,,67
@@ -5147,7 +5149,7 @@ Penange-182_man-1,5161,Penange,182_man,wálá,wálá,w ⁵/a l ⁵/a,,hantganfc,
 SonghaiSenni-182_man-1,5162,SonghaiSenni,182_man,hàr,hàr,h ¹/a r,,hantganfc,3712,,,,,4196
 ToroSo-182_man-1,5163,ToroSo,182_man,àynɛ́,àynɛ́,¹/a j + n ⁵/ɛ,,hantganfc,1229,,,,,0
 BonduSo-182_man-2,5164,BonduSo,182_man,ân,ân,⁵¹/a + n,,hantganfc,1229,,,,,0
-Fulfulde-182_man-1,9629,Fulfulde,182_man,?,?,ɡ o r k o,,hantganfc,0,,,,,69
+Fulfulde-182_man-1,9629,Fulfulde,182_man,?,?,ɡ o r k o,,hantganfc,3904,,,,,69
 ToroTegu-183_market-1,5165,ToroTegu,183_market,"lú:mà, ɛ́wá",lú:mà,l ⁵/uː m ¹/a,,hantganfc,1237,,,,,4207
 BenTey-183_market-1,5166,BenTey,183_market,ɛ́wá:,ɛ́wá:,⁵/ɛ w ⁵/aː,,hantganfc,1235,,,,,0
 YornoSo-183_market-1,5167,YornoSo,183_market,íbɛ́,íbɛ́,⁵/i b ⁵/ɛ,,hantganfc,1236,,,,,0
@@ -5410,7 +5412,7 @@ SonghaiSenni-192_millet-1,5423,SonghaiSenni,192_millet,hèyn-ò,hèyn-ò,h ¹/e 
 ToroSo-192_millet-1,5424,ToroSo,192_millet,yúú,yúú,j ⁵/uː,,hantganfc,1290,,,,,4394
 ToroSo-192_millet-2,5425,ToroSo,192_millet,yǔ,yǔ,j ¹⁵/u,,hantganfc,1290,,,,,4394
 BonduSo-192_millet-2,5426,BonduSo,192_millet,yó-gè,yó-gè,j ⁵/o + ɡ ¹/e,,hantganfc,1291,,,,,4394
-Bambara-192_millet-1,9634,Bambara,192_millet,ɲó,?,ɲ ⁵/o,,hantganfc,3077,,,,,4394
+Bambara-192_millet-1,9634,Bambara,192_millet,ɲó,ɲó,ɲ ⁵/o,,hantganfc,3077,,,,,4394
 Bangime-193_money-1,5427,Bangime,193_money,tɔ́wⁿ,tɔ́wⁿ,t ⁵/ɔ ∼/w̃,,hantganfc,2475,,,,,0
 Fulfulde-193_money-1,5428,Fulfulde,193_money,kaalisi,kaalisi,k aː l i s i,,hantganfc,155,,,,,4424
 Fulfulde-193_money-2,5429,Fulfulde,193_money,ceede,ceede,tʃ eː d e,,hantganfc,154,,,,,4422
@@ -6096,7 +6098,7 @@ BonduSo-220_orphan-1,6112,BonduSo,220_orphan,àjàbàlé,àjàbàlé,¹/a dʒ ¹
 Bunoge-220_orphan-1,6113,Bunoge,220_orphan,nínjó-bè (pl -bě: gè),nínjó-bè,n ⁵/i ⁿdʒ ⁵/o + b ¹/e,,hantganfc,1455,,,,,0
 Jamsay-220_orphan-1,6114,Jamsay,220_orphan,"là:wà-gí-n,_là:wá-n",là:wà-gí-n,l ¹/aː w ¹/a + ɡ ⁵/i + n,,hantganfc,1453,,,,,0
 DonnoSo-220_orphan-1,6115,DonnoSo,220_orphan,àbɛ̀:gí-nɛ̀,àbɛ̀:gí-nɛ̀,¹/a b ¹/ɛː + ɡ ⁵/i + n ¹/ɛ,,hantganfc,1458,,,,,0
-TomoKan-220_orphan-1,6116,TomoKan,220_orphan,ʔì:ⁿ tònjú:ⁿ,ʔì:ⁿ_tònjú:ⁿ,ʔ ĩ: + t ¹/o ⁿdʒ ∼⁵/ũ:,,hantganfc,1460,,,,,0
+TomoKan-220_orphan-1,6116,TomoKan,220_orphan,ʔì:ⁿ tònjú:ⁿ,ʔì:ⁿ_tònjú:ⁿ,ʔ ĩː + t ¹/o ⁿdʒ ⁵/ũː,,hantganfc,1460,,,,,0
 Mombo-220_orphan-1,6117,Mombo,220_orphan,àbàbà wé:,àbàbà_wé:,¹/a b ¹/a b ¹/a + w ⁵/eː,,hantganfc,1456,,,,,0
 Penange-220_orphan-1,6118,Penange,220_orphan,átí:mɛ̀,átí:_mɛ̀,⁵/a t ⁵/iː + m ¹/ɛ,,hantganfc,1457,,,,,4958
 Bangime-220_orphan-1,6119,Bangime,220_orphan,múyúmɛ̀/múmɛ̀,múyúmɛ̀,m ⁵/u j ⁵/u + m ¹/ɛ,,hantganfc,2500,,,,,0
@@ -6297,7 +6299,7 @@ TogoKan-227_pig-1,6313,TogoKan,227_pig,tórú,tórú,t ⁵/o r ⁵/u,,hantganfc,
 YandaDom-227_pig-1,6314,YandaDom,227_pig,tól,tól,t ⁵/o l,,hantganfc,1500,,,,,0
 Bangime-227_pig-1,6315,Bangime,227_pig,sìmìɲáŋá,sìmì-ɲáŋá,s ¹/i m ¹/i + ɲ ⁵/a ŋ ⁵/a,,hantganfc,2507,,,,,5112
 Jenaama-227_pig-1,6316,Jenaama,227_pig,sìbòɲɔ̄ŋɔ̄,sìbòɲɔ̄ŋɔ̄,s ¹/i b ¹/o + ɲ ³/ɔ ŋ ³/ɔ,,hantganfc,3171,,,,,5112
-SonghaiKiini-227_pig-1,9631,SonghaiKiini,227_pig,?,?,a l k í n ʃ i r,,hantganfc,0,,,,,82
+SonghaiKiini-227_pig-1,9631,SonghaiKiini,227_pig,?,?,a l k í n ʃ i r,,hantganfc,3905,,,,,82
 BozoHainyaxo-228_piss-1,6317,BozoHainyaxo,228_piss,siⁿniⁿ,siⁿniⁿ,s ĩ n ĩ,,hantganfc,3173,,,,,0
 BozoPondorinord-228_piss-1,6318,BozoPondorinord,228_piss,koⁿoⁿji,koⁿoⁿji,k õ: dʒ i,,hantganfc,3175,,,,,0
 BozoTieyaxo-228_piss-1,6319,BozoTieyaxo,228_piss,siⁿniⁿ,siⁿniⁿ,s ĩ n ĩ,,hantganfc,3173,,,,,0
@@ -6740,7 +6742,7 @@ Bambara-246_root-1,6755,Bambara,246_root,dílí,dílí,d ⁵/i l ⁵/i,,hantganf
 SonghaiSenni-246_root-1,6756,SonghaiSenni,246_root,lìŋg-ò,lìŋg-ò,l ¹/i ⁿɡ + ¹/o,,hantganfc,3780,,,,,0
 ToroSo-246_root-1,6757,ToroSo,246_root,wélú,wélú,w ⁵/e l ⁵/u,,hantganfc,1613,,,,,0
 ToroSo-246_root-2,6758,ToroSo,246_root,kɛ́ẁⁿ,kɛ́ẁⁿ,k ⁵/ɛ ∼/w̃,,hantganfc,1617,,,,,0
-BonduSo-246_root-2,6759,BonduSo,246_root,pɔ̀n-jíí,pɔ̀n-jíí,p ∼¹/ɔ dʒ ⁵/iː,,hantganfc,1620,,,,,0
+BonduSo-246_root-2,6759,BonduSo,246_root,pɔ̀n-jíí,pɔ̀n-jíí,p ¹/ɔ ⁿdʒ ⁵/iː,,hantganfc,1620,,,,,0
 SonghaiSenni-247_rotten-1,6760,SonghaiSenni,247_rotten,fúmbú,fúmbú,f ⁵/u ⁿb ⁵/u,,hantganfc,3781,,,,,0
 Bangime-247_rotten-1,6761,Bangime,247_rotten,mɔ́ɡɔ́,mɔ́ɡɔ́,m ⁵/ɔ ɡ ⁵/ɔ,,hantganfc,2529,,,,,84
 Fulfulde-247_rotten-1,6762,Fulfulde,247_rotten,ɲulude,ɲul-ude,ɲ u l + u d e,,hantganfc,206,,,,,0
@@ -6994,7 +6996,6 @@ BozoKorondougounord-254_see-1,7011,BozoKorondougounord,254_see,kai,kai,k a i,,ha
 BozoKorondougousud-254_see-1,7012,BozoKorondougousud,254_see,kai,kai,k a i,,hantganfc,3242,,,,,0
 Bambara-254_see-1,7013,Bambara,254_see,yé,yé,j ⁵/e,,hantganfc,3249,,,,,5708
 Soninke-254_see-1,7014,Soninke,254_see,ŋàrí,ŋàrí,ŋ ¹/a r ⁵/i,,hantganfc,3248,,,,,0
-Bambara-254_see-2,7015,Bambara,254_see,ye,ye,j e,,hantganfc,3249,,,,,5708
 ToroSo-254_see-1,7016,ToroSo,254_see,ìyè,ìyè,¹/i + j ¹/e,,hantganfc,1678,,,,,5708
 BonduSo-254_see-2,7018,BonduSo,254_see,jí,jí,j ⁵/i,,hantganfc,1678,,,,,5708
 SonghaiSenni-255_sell-1,7019,SonghaiSenni,255_sell,né:rê,né:rê,n ⁵/eː r ⁵¹/e,,hantganfc,3789,,,,,5723
@@ -7698,7 +7699,7 @@ ToroSo-278_smoke-2,7721,ToroSo,278_smoke,kòkò mɔ́,kòkò mɔ́,k ¹/o + k ¹
 BonduSo-278_smoke-2,7722,BonduSo,278_smoke,kùmbù,kùmbù,k ¹/u ⁿb ¹/u,,hantganfc,1818,,,,,0
 Bangime-278_smoke-1,7723,Bangime,278_smoke,kòkò mɔ́,kòkò mɔ́,k ¹/o k ¹/o + m ⁵/ɔ,,hantganfc,2562,,,,,0
 SonghaiSenni-279_smooth-1,7724,SonghaiSenni,279_smooth,mé:lê,mé:lê,m ⁵/eː l ⁵¹/e,,hantganfc,3810,,,,,0
-SonghaiSenni-279_smooth-2,7725,SonghaiSenni,279_smooth,yúltú,yúltú,j ⁵/u l t ⁵/u,,hantganfc,3812,,,,,0
+SonghaiSenni-279_smooth-2,7725,SonghaiSenni,279_smooth,yúltú,yúltú,j ⁵/u l t ⁵/u,,hantganfc,3906,,,,,0
 Bambara-279_smooth-1,7726,Bambara,279_smooth,nùgú,nùgú,n ¹/u ɡ ⁵/u,,hantganfc,3329,,,,,0
 BozoDebo-279_smooth-1,7727,BozoDebo,279_smooth,puru,puru,p u r u,,hantganfc,3330,,,,,6221
 BozoHainyaxo-279_smooth-1,7728,BozoHainyaxo,279_smooth,nuguⁿna,nuguⁿna,n u ɡ ũ n a,,hantganfc,3329,,,,,0
@@ -7790,7 +7791,7 @@ TiranigeDiga-281_soap-1,7813,TiranigeDiga,281_soap,sámúnù,sámúnù,s ⁵/a m
 Mombo-281_soap-1,7814,Mombo,281_soap,sɔ́mɔ́ŋgè,sɔ́mɔ́ŋgè,s ⁵/ɔ m ⁵/ɔ + ⁿɡ ¹/e,,hantganfc,1839,,,,,6296
 Penange-281_soap-1,7815,Penange,281_soap,sà:mnò,sà:mnò,s ¹/aː m + n ¹/o,,hantganfc,1839,,,,,6296
 Bangime-281_soap-1,7816,Bangime,281_soap,pɔ̄ɔ̄-kɛ̀,pɔ̄ɔ̄-kɛ̀,p ³/ɔː + k ¹/ɛ,,hantganfc,2566,,,,,0
-Fulfulde-281_soap-1,7817,Fulfulde,281_soap,saabunde,saabunde,s aː b u ⁿd e,,hantganfc,242,,,,,0
+Fulfulde-281_soap-1,7817,Fulfulde,281_soap,saabunde,saabunde,s aː b u ⁿd e,,hantganfc,242,,,,,6296
 Jenaama-281_soap-1,7818,Jenaama,281_soap,sàmùnāwⁿ,sàmùnāwⁿ,s ¹/a m ¹/u n ³/a + ∼/w̃,,hantganfc,3342,,,,,6302
 PergeTegu-281_soap-1,7819,PergeTegu,281_soap,sǎmnà,sǎmnà,s ¹⁵/a m + n ¹/a,,hantganfc,1839,,,,,6296
 Jamsay-281_soap-1,7820,Jamsay,281_soap,sǎmnà,sǎmnà,s ¹⁵/a m + n ¹/a,,hantganfc,1839,,,,,6296
@@ -8801,7 +8802,7 @@ Soninke-322_touch-1,8840,Soninke,322_touch,kátì,kátì,k ⁵/a t ¹/i,,hantgan
 Bambara-322_touch-1,8841,Bambara,322_touch,gòsí,gòsí,ɡ ¹/o s ⁵/i,,hantganfc,3458,,,,,0
 Bambara-322_touch-2,8842,Bambara,322_touch,lásɔ̀rɔ́,lásɔ̀rɔ́,l ⁵/a s ¹/ɔ r ⁵/ɔ,,hantganfc,3461,,,,,97
 Bambara-322_touch-3,8843,Bambara,322_touch,màgá,màgá,m ¹/a ɡ ⁵/a,,hantganfc,3459,,,,,7133
-Bambara-322_touch-4,8844,Bambara,322_touch,tɛ́gɛ́,tɛ́gɛ́,t ⁵/ɛ ɡ ⁵/ɛ,,hantganfc,3459,,,,,7133
+Bambara-322_touch-4,8844,Bambara,322_touch,tɛ́gɛ́,tɛ́gɛ́,t ⁵/ɛ ɡ ⁵/ɛ,,hantganfc,3903,,,,,7133
 BenTey-322_touch-1,8845,BenTey,322_touch,táwá,táwá,t ⁵/a w ⁵/a,,hantganfc,2073,,,,,7133
 Gourou-322_touch-1,8846,Gourou,322_touch,tɔ́wɔ́,tɔ́wɔ́,t ⁵/ɔ w ⁵/ɔ,,hantganfc,2073,,,,,7133
 YornoSo-322_touch-1,8847,YornoSo,322_touch,tábá,tábá,t ⁵/a b ⁵/a,,hantganfc,2073,,,,,7133
