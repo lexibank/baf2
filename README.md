@@ -111,7 +111,7 @@ This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
 - **Tokens:** 46,005
-- **Segments:** 276 (0 BIPA errors, 0 CTLS sound class errors, 275 CLTS modified)
+- **Segments:** 276 (0 BIPA errors, 0 CLTS sound class errors, 275 CLTS modified)
 - **Inventory size (avg):** 72.45
 
 ## CLDF Datasets
