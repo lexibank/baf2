@@ -3671,53 +3671,53 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3584	ToroSo	GO	yɛ́ː	yɛ́ː	j ⁵/ɛː	855	1766	48	
 3585	BonduSo	GO	ìnìì	ìnìì	¹/i n ¹/iː	852	1772	0	
 #
-3586	Soninke	GO DOWN (DESCEND)	bóncóŋŋè	bóncóŋŋè	b ⁵/o ⁿtʃ ⁵/o ŋ + ŋ ¹/e	2878	1778 1779	0	
-3587	ToroTegu	GO DOWN (DESCEND)	sígú	sígú	s ⁵/i ɡ ⁵/u	858	1773	2850	
-3588	BenTey	GO DOWN (DESCEND)	sí-yé	sí-yé	s ⁵/i j ⁵/e	858	1773	2850	
-3589	BankanTey	GO DOWN (DESCEND)	síyé	síyé	s ⁵/i j ⁵/e	858	1773	2850	
-3590	Jamsay	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
-3591	DogulDom	GO DOWN (DESCEND)	sígè	sígè	s ⁵/i ɡ ¹/e	858	1773	2850	
-3592	TebulUre	GO DOWN (DESCEND)	súgó (súg-à:-, imprt súgó)	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
-3593	YandaDom	GO DOWN (DESCEND)	súwó	súwó	s ⁵/u w ⁵/o	858	1773	2850	
-3594	BonduSo	GO DOWN (DESCEND)	súgí	súgí	s ⁵/u ɡ ⁵/i	858	1773	2850	
-3595	DonnoSo	GO DOWN (DESCEND)	súgò	súgò	s ⁵/u ɡ ¹/o	858	1773	2850	
-3596	TiranigeDiga	GO DOWN (DESCEND)	sígó	sígó	s ⁵/i ɡ ⁵/o	858	1773	2850	
-3597	Bangime	GO DOWN (DESCEND)	sūɥè	sūɥè	s ³/u ɥ ¹/e	2403	5009	2850	
-3598	Fulfulde	GO DOWN (DESCEND)	jippaade	jipp-aade	dʒ i p p + aː d e	87	1774 1775	0	
-3599	Jenaama	GO DOWN (DESCEND)	yàwⁿ	yàwⁿ	j ¹/a + ∼/w̃	2877	1776 1777	0	
-3600	Mombo	GO DOWN (DESCEND)	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
-3601	Nanga	GO DOWN (DESCEND)	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
-3602	Penange	GO DOWN (DESCEND)	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
-3603	PergeTegu	GO DOWN (DESCEND)	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
-3604	TogoKan	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
-3605	TommoSo	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
-3606	YornoSo	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
-3607	SonghaiSenni	GO DOWN (DESCEND)	zùmbù	zùmbù	z ¹/u ⁿb ¹/u	3643	5370	2850	
+3586	Soninke	DESCENT	bóncóŋŋè	bóncóŋŋè	b ⁵/o ⁿtʃ ⁵/o ŋ + ŋ ¹/e	2878	1778 1779	0	
+3587	ToroTegu	DESCENT	sígú	sígú	s ⁵/i ɡ ⁵/u	858	1773	2850	
+3588	BenTey	DESCENT	sí-yé	sí-yé	s ⁵/i j ⁵/e	858	1773	2850	
+3589	BankanTey	DESCENT	síyé	síyé	s ⁵/i j ⁵/e	858	1773	2850	
+3590	Jamsay	DESCENT	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
+3591	DogulDom	DESCENT	sígè	sígè	s ⁵/i ɡ ¹/e	858	1773	2850	
+3592	TebulUre	DESCENT	súgó (súg-à:-, imprt súgó)	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
+3593	YandaDom	DESCENT	súwó	súwó	s ⁵/u w ⁵/o	858	1773	2850	
+3594	BonduSo	DESCENT	súgí	súgí	s ⁵/u ɡ ⁵/i	858	1773	2850	
+3595	DonnoSo	DESCENT	súgò	súgò	s ⁵/u ɡ ¹/o	858	1773	2850	
+3596	TiranigeDiga	DESCENT	sígó	sígó	s ⁵/i ɡ ⁵/o	858	1773	2850	
+3597	Bangime	DESCENT	sūɥè	sūɥè	s ³/u ɥ ¹/e	2403	5009	2850	
+3598	Fulfulde	DESCENT	jippaade	jipp-aade	dʒ i p p + aː d e	87	1774 1775	0	
+3599	Jenaama	DESCENT	yàwⁿ	yàwⁿ	j ¹/a + ∼/w̃	2877	1776 1777	0	
+3600	Mombo	DESCENT	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
+3601	Nanga	DESCENT	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
+3602	Penange	DESCENT	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
+3603	PergeTegu	DESCENT	sígé	sígé	s ⁵/i ɡ ⁵/e	858	1773	2850	
+3604	TogoKan	DESCENT	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
+3605	TommoSo	DESCENT	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
+3606	YornoSo	DESCENT	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
+3607	SonghaiSenni	DESCENT	zùmbù	zùmbù	z ¹/u ⁿb ¹/u	3643	5370	2850	
 #
-3608	ToroSo	GO OUT	ɡòò	ɡòò	ɡ ¹⁵/oː	859	1781	0	
-3609	BonduSo	GO OUT	gwé	gwé	ɡ w ⁵/e	859	1780	0	
-3634	SonghaiSenni	GO OUT	hùn	hùn	h ¹/u n	3655	1892	0	
-3635	Bangime	GO OUT	bīrè	bīrè	b ³/i + r ¹/e	2413	1886 5010	0	
-3636	Fulfulde	GO OUT	yaltude	yalt-ude	j a l t + u d e	96	1888 1889	0	
-3637	Jenaama	GO OUT	bā	bā	b ³/a	2904	1890	0	
-3638	Jamsay	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3639	YandaDom	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
-3640	Nanga	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3641	YornoSo	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3642	TogoKan	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3643	PergeTegu	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3644	ToroTegu	GO OUT	gú	gú	ɡ ⁵/u	913	1887	0	
-3645	BenTey	GO OUT	gǒ	gǒ	ɡ ¹⁵/o	913	1887	0	
-3646	BankanTey	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
-3647	Gourou	GO OUT	gó:	gó:	ɡ ⁵/oː	913	1887	0	
-3648	TommoSo	GO OUT	gòó	gòó	ɡ ¹⁵/o:	913	1887	0	
-3649	DogulDom	GO OUT	gě:	gě:	ɡ ¹⁵/eː	913	1887	0	
-3650	TebulUre	GO OUT	gǒ (gǒ-yà-y ~ gw-â:-y, imprt gó)	gǒ	ɡ ¹⁵/o	913	1887	0	
-3651	BonduSo	GO OUT	gwé	gwé	ɡ w ⁵/e	913	1887	0	
-3652	Bunoge	GO OUT	gê:, gó:ŋgè, gú:ndè	gê:	ɡ ⁵¹/eː	913	1887	0	
-3653	TiranigeDiga	GO OUT	gó:, sàlè gó:	gó:	ɡ ⁵/oː	913	1887	0	
-3654	Mombo	GO OUT	gwé:	gwé:	ɡ w ⁵/eː	913	1887	0	
-3655	Penange	GO OUT	gú:ndè ('goːut'), gó:ŋgè ('emerge'), gwé: ('leave')	gú:-ndè	ɡ ⁵/uː + ⁿd ¹/e	913	1887 1891	0	
+3608	ToroSo	GO DOWN (DESCEND)	ɡòò	ɡòò	ɡ ¹⁵/oː	859	1781	0	
+3609	BonduSo	GO DOWN (DESCEND)	gwé	gwé	ɡ w ⁵/e	859	1780	0	
+3634	SonghaiSenni	GO DOWN (DESCEND)	hùn	hùn	h ¹/u n	3655	1892	0	
+3635	Bangime	GO DOWN (DESCEND)	bīrè	bīrè	b ³/i + r ¹/e	2413	1886 5010	0	
+3636	Fulfulde	GO DOWN (DESCEND)	yaltude	yalt-ude	j a l t + u d e	96	1888 1889	0	
+3637	Jenaama	GO DOWN (DESCEND)	bā	bā	b ³/a	2904	1890	0	
+3638	Jamsay	GO DOWN (DESCEND)	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3639	YandaDom	GO DOWN (DESCEND)	gó	gó	ɡ ⁵/o	913	1887	0	
+3640	Nanga	GO DOWN (DESCEND)	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3641	YornoSo	GO DOWN (DESCEND)	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3642	TogoKan	GO DOWN (DESCEND)	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3643	PergeTegu	GO DOWN (DESCEND)	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3644	ToroTegu	GO DOWN (DESCEND)	gú	gú	ɡ ⁵/u	913	1887	0	
+3645	BenTey	GO DOWN (DESCEND)	gǒ	gǒ	ɡ ¹⁵/o	913	1887	0	
+3646	BankanTey	GO DOWN (DESCEND)	gó	gó	ɡ ⁵/o	913	1887	0	
+3647	Gourou	GO DOWN (DESCEND)	gó:	gó:	ɡ ⁵/oː	913	1887	0	
+3648	TommoSo	GO DOWN (DESCEND)	gòó	gòó	ɡ ¹⁵/o:	913	1887	0	
+3649	DogulDom	GO DOWN (DESCEND)	gě:	gě:	ɡ ¹⁵/eː	913	1887	0	
+3650	TebulUre	GO DOWN (DESCEND)	gǒ (gǒ-yà-y ~ gw-â:-y, imprt gó)	gǒ	ɡ ¹⁵/o	913	1887	0	
+3651	BonduSo	GO DOWN (DESCEND)	gwé	gwé	ɡ w ⁵/e	913	1887	0	
+3652	Bunoge	GO DOWN (DESCEND)	gê:, gó:ŋgè, gú:ndè	gê:	ɡ ⁵¹/eː	913	1887	0	
+3653	TiranigeDiga	GO DOWN (DESCEND)	gó:, sàlè gó:	gó:	ɡ ⁵/oː	913	1887	0	
+3654	Mombo	GO DOWN (DESCEND)	gwé:	gwé:	ɡ w ⁵/eː	913	1887	0	
+3655	Penange	GO DOWN (DESCEND)	gú:ndè ('goːut'), gó:ŋgè ('emerge'), gwé: ('leave')	gú:-ndè	ɡ ⁵/uː + ⁿd ¹/e	913	1887 1891	0	
 #
 3610	Bangime	GO UP (ASCEND)	ɥījè	ɥījè	ɥ ³/i j ¹/e	2404	1783	0	
 3611	Fulfulde	GO UP (ASCEND)	imud	im-ude	i m u + ⁿd e	88	1789 1790	0	
