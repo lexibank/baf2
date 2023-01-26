@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/baf2",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2",
+            "dc:created": "v0.2-9-gbc55a80",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 9567,
+            "dc:extent": 9460,
             "tableSchema": {
                 "columns": [
                     {
@@ -240,7 +240,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 348,
+            "dc:extent": 344,
             "tableSchema": {
                 "columns": [
                     {

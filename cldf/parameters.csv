@@ -1,6 +1,6 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 1_guestorstranger,GUEST OR STRANGER,2908,GUEST OR STRANGER,étranger
-2_age,AGE,1789,AGE,"(être vivant) devenir vieux, âgé"
+2_toage,TO AGE,,,"(être vivant) devenir vieux, âgé"
 3_ancestors,ANCESTORS,1669,ANCESTORS,"aïeul, ancêtre"
 4_animal,ANIMAL,619,ANIMAL,animal
 5_answer,ANSWER,1275,ANSWER,répondre
@@ -26,11 +26,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 25_blink,BLINK,1655,BLINK,cligner des yeux
 26_blood,BLOOD,946,BLOOD,sang
 27_blunt,BLUNT,379,BLUNT,(lame) émoussé
-28_boat,BOAT,379,BLUNT,"barque, pirogue, chaland"
+28_boat,BOAT,1844,BOAT,"barque, pirogue, chaland"
 29_body,BODY,1480,BODY,corps
 30_bone,BONE,1394,BONE,os
 31_bow,BOW,994,BOW,arc
-32_breakfast,BREAKFAST,1322,BREAKFAST,"donner à déjeuner, déjeuner"
+32_feedsomeonebreakfast,FEED SOMEONE BREAKFAST,,,"donner à déjeuner, déjeuner"
 33_breast,BREAST,1402,BREAST,sein
 34_breathe,BREATHE,1407,BREATHE,respirer
 35_broom,BROOM,245,BROOM,balai
@@ -38,11 +38,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 37_burnsomething,BURN (SOMETHING),141,BURN (SOMETHING),brûler
 38_bury,BURY,1719,BURY,déposer; enterrer (cadavre)
 39_buy,BUY,1869,BUY,acheter
-40_call,CALL,1084,CALL,appel
+40_callnoun,CALL (NOUN),,,appel
 41_camel,CAMEL,1871,CAMEL,chameau
 42_carryonhead,CARRY ON HEAD,414,CARRY ON HEAD,"porter (qch, à la tête)"
 43_carve,CARVE,228,CARVE,tailler (bois)
-44_cassava,CASSAVA,1030,NECESSARY,"Manihot esculenta, manioc"
+44_cassava,CASSAVA,925,CASSAVA,"Manihot esculenta, manioc"
 45_cat,CAT,1208,CAT,chat
 46_cause,CAUSE,860,CAUSE,"cause, faute"
 47_cave,CAVE,1155,CAVE,grotte
@@ -57,15 +57,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 56_come,COME,1446,COME,venir
 57_comeback,COME BACK,581,COME BACK,retourner
 58_cotton,COTTON,1850,COTTON,coton
-59_count,COUNT,1420,COUNT,"calcul, (dé-)compte."
+59_count,COUNT,1420,COUNT,"calcul, (dé-)compte"
 60_country,COUNTRY,1300,COUNTRY,"pais, terre, sol"
 61_cow,COW,1007,COW,bovin (vache ou taureau)
 62_cry,CRY,1839,CRY,pleurer
-63_daynotnight,DAY (NOT NIGHT),1225,DAY (NOT NIGHT),daytime (not night)
+63_daynotnight,DAY (NOT NIGHT),1225,DAY (NOT NIGHT),jour (unité de temps)
 64_dew,DEW,1977,DEW,"humidité, roséé"
 65_die,DIE,1494,DIE,mourir
 66_dig,DIG,1418,DIG,creuser
-67_dinnersupper,DINNER (SUPPER),1833,DINNER (SUPPER),dîner
+67_feedsomeonedinner,FEED SOMEONE DINNER,,,dîner
 68_disease,DISEASE,1986,DISEASE,maladie
 69_divide,DIVIDE,1119,DIVIDE,diviser
 70_dog,DOG,2009,DOG,chien
@@ -77,9 +77,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 76_dripfallinglobules,DRIP (FALL IN GLOBULES),808,DRIP (FALL IN GLOBULES),(eau) goutter
 77_dry,DRY,1398,DRY,"(bois) mort, sec"
 78_dust,DUST,2,DUST,poussière
-79_dye,DYE,157,DYE,tissu noirâtre teinté d'indigo
+79_dyenoun,DYE (NOUN),,,tissu noirâtre teinté d'indigo
 80_ear,EAR,1247,EAR,oreille
-81_earring,EARRING,770,EARRING,"bague ou boucle d’oreille -cpd: see [kàmb-ù]-[kòrb-ò] , hà.è-[kòrb-ò] , cè:-[kòrb-ò] ."
+81_earring,EARRING,770,EARRING,bague ou boucle d’oreille
 82_easy,EASY,686,EASY,"ê. facile, pas cher"
 83_eat,EAT,1336,EAT,manger
 84_egg,EGG,744,EGG,oeuf
@@ -98,7 +98,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 97_father,FATHER,1217,FATHER,père
 98_fearbeafraid,FEAR (BE AFRAID),1419,FEAR (BE AFRAID),avoir peur
 99_fearfright,FEAR (FRIGHT),781,FEAR (FRIGHT),peur
-100_fight,FIGHT,1423,FIGHT,lutte
+100_fight,FIGHT,3880,FIGHT (COMBAT),lutte
 101_find,FIND,719,FIND,"obtenir, gagner"
 102_finger,FINGER,1303,FINGER,doigt
 103_fire,FIRE,221,FIRE,feu
@@ -108,13 +108,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 107_flower,FLOWER,239,FLOWER,fleur
 108_flyinsect,FLY (INSECT),1504,FLY (INSECT),mouche
 109_flymovethroughair,FLY (MOVE THROUGH AIR),1441,FLY (MOVE THROUGH AIR),(oiseau etc.) voler
-110_foam,FOAM,1768,FOAM,"bulles, écume, mousse (de savon, de thé) [verb kù:fà ]."
+110_foam,FOAM,1768,FOAM,"bulles, écume, mousse (de savon, de thé)"
 111_fold,FOLD,1470,FOLD,"plier (papier, vêtement)"
 112_food,FOOD,256,FOOD,"aliment, nourriture"
 113_footorleg,FOOT OR LEG,2098,FOOT OR LEG,pied
 114_forehead,FOREHEAD,123,FOREHEAD,front
 115_forget,FORGET,1523,FORGET,oublier
-116_forgive,FORGIVE,1528,FORGIVE,"excuser, pardonner (qqch) -ex: .ò né [.jéy .=´ .´yà:fà] they said they (had) forgiven it (e.g. debt)"
+116_forgive,FORGIVE,1528,FORGIVE,"excuser, pardonner (qqch)"
 117_four,FOUR,1500,FOUR,quatre
 118_friend,FRIEND,1325,FRIEND,ami
 119_full,FULL,1429,FULL,plein
@@ -123,14 +123,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 122_give,GIVE,1447,GIVE,donner
 123_givebirth,GIVE BIRTH,1195,GIVE BIRTH,(femelle) accoucher (bébé)
 124_go,GO,695,GO,aller
-125_descent,DESCENT,,,descendance
+125_descent,DESCENT,490,DESCENDANTS,descendance
 126_godowndescend,GO DOWN (DESCEND),2014,GO DOWN (DESCEND),descendre
 127_goupascend,GO UP (ASCEND),705,GO UP (ASCEND),monter
 128_goat,GOAT,1502,GOAT,"caprin, chèvre"
 129_god,GOD,1944,GOD,Dieu
 130_gold,GOLD,1369,GOLD,or
 131_good,GOOD,1035,GOOD,bon
-132_grandfather,GRANDFATHER,1383,GRANDFATHER,grand-mère
+132_grandmother,GRANDMOTHER,1496,GRANDMOTHER,grand-mère
 133_grass,GRASS,606,GRASS,herbe
 134_guts,GUTS,1334,GUTS,entrailles
 135_hair,HAIR,1040,HAIR,cheveu
@@ -148,7 +148,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 147_host,HOST,1545,HOST,"accueillir, recevoir"
 148_hot,HOT,1286,HOT,chaud
 149_hundred,HUNDRED,1634,HUNDRED,cent
-150_hunt,HUNT,1435,HUNT,chasse (fait de faire la)
+150_huntnoun,HUNT (NOUN),,,chasse (fait de faire la)
 151_husband,HUSBAND,1200,HUSBAND,"époux, mari"
 152_injure,INJURE,44,INJURE,blesser
 153_iron,IRON,621,IRON,fer
@@ -157,26 +157,26 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 156_key,KEY,1472,KEY,clé
 157_kidney,KIDNEY,489,KIDNEY,rate
 158_kill,KILL,1417,KILL,tuer
-159_knee,KNEE,1371,KNEE,donner un coup de genou à [cf. kànjè].
+159_kneesomeone,KNEE SOMEONE,,,donner un coup de genou à
 160_kneel,KNEEL,66,KNEEL,"(qn, chameau) s'agenouiller"
 161_knife,KNIFE,1352,KNIFE,couteau
 162_knowsomething,KNOW (SOMETHING),1410,KNOW (SOMETHING),"connaître, savoir, reconnaître, remarquer"
-163_ladder,LADDER,1464,LADDER,écaille
-164_laugh,LAUGH,1355,LAUGH,le rire
+163_shell,SHELL,598,SHELL,écaille
+164_laughter,LAUGHTER,2958,LAUGHTER,le rire
 165_leaf,LEAF,628,LEAF,feuille
 166_leave,LEAVE,1752,LEAVE,abandonner
 167_left,LEFT,244,LEFT,(main etc.) gauche
 168_lick,LICK,319,LICK,lécher
 169_liedown,LIE DOWN,215,LIE DOWN,"coucher, étendre, allonger, étaler"
-170_lift,LIFT,501,LIFT,"amener, venir avec; amorcer (une matière, dans un discours) [irregular combination of kà ‘come’ plus ndù ‘with’; 3SgO kà:-.d-â, Imprt with 3SgO kà:-nd-â without -.suffix] [< kà 2]."
-171_lightweight,LIGHT (WEIGHT),1052,LIGHT (WEIGHT),"ê. faible, facile, à bon marché"
+170_bring,BRING,692,BRING,"amener, venir avec; amorcer (une matière, dans un discours)"
+171_easy,EASY,686,EASY,"ê. faible, facile, à bon marché"
 172_limp,LIMP,366,LIMP,boiter
 173_lion,LION,1386,LION,lion
-174_lock,LOCK,1596,LOCK,couvercle; fermeture.
+174_lock,LOCK,1596,LOCK,couvercle; fermeture
 175_look,LOOK,1819,LOOK,"examiner, regarder"
 176_lookfor,LOOK FOR,1468,LOOK FOR,chercher
 177_louse,LOUSE,1392,LOUSE,pou
-178_lunch,LUNCH,768,LUNCH,déjeuner
+178_eatlunch,EAT LUNCH,,,déjeuner
 179_lung,LUNG,688,LUNG,poumon
 180_maize,MAIZE,506,MAIZE,maïs
 181_man,MAN,1554,MAN,homme
@@ -186,7 +186,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 185_mat,MAT,195,MAT,natte
 186_meal,MEAL,1526,MEAL,repas
 187_meat,MEAT,634,MEAT,viande
-188_medicine,MEDICINE,499,CURE,médicament
+188_medicine,MEDICINE,1372,MEDICINE,médicament
 189_meet,MEET,1831,MEET,"(individus) se rassembler, se réunir"
 190_milk,MILK,635,MILK,lait
 191_millet,MILLET,931,MILLET,mil
@@ -219,17 +219,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 218_orphan,ORPHAN,1149,ORPHAN,orphelin
 219_other,OTHER,197,OTHER,autre
 220_pathorroad,PATH OR ROAD,2457,PATH OR ROAD,chemin
-221_penis,PENIS,1222,PENIS,"membre viril, sexe de l’homme [common in insults; TSK béndè] [SYN:zòfól-ò ] -poss (inal): 1Sg bènd-èy, 3Sg bènd-ò , 3FullSg .ángá bènd-ô -ex of insult: bà:b-à.­bénd-ò your father’s prick!"
-222_person,PERSON,683,PERSON,chose ou personne jolie [DIMIN in form].
+221_penis,PENIS,1222,PENIS,"membre viril, sexe de l’homme"
+222_person,PERSON,683,PERSON,chose ou personne jolie
 223_pestle,PESTLE,225,PESTLE,pilon
-224_pick,PICK,1486,PLANT (SOMETHING),cueiller (fruit)
+224_pick,PICK,2148,PICK,cueiller (fruit)
 225_pig,PIG,1337,PIG,cochon
-226_piss,PISS,592,PISS,urine
+226_urine,URINE,,,urine
 227_placeposition,PLACE (POSITION),723,PLACE (POSITION),lieu
 228_plastic,PLASTIC,654,PLASTIC,"caoutchouc, sac (en plastique); ballon"
-229_pocket,POCKET,1851,POCKET,"poche -poss: 1Sg zìfíy-è , 2Sg zìfíy-ò-nó.] [cf. Za & TSK zí:bà , Ka zíbà , <Ar vj yb , similarly Ful njiiba, Hausaːljifu]."
+229_pocket,POCKET,1851,POCKET,poche
 230_price,PRICE,657,PRICE,prix
-231_pull,PULL,1455,PULL,dessiner [related to noun zé:r-ó 1].
+231_paintsomethingorpainting,PAINT (SOMETHING) OR PAINTING,3194,PAINT (SOMETHING) OR PAINTING,dessiner
 232_pumpkin,PUMPKIN,864,PUMPKIN,courge
 233_push,PUSH,1452,PUSH,"enfoncer, pousser"
 234_rainprecipitation,RAIN (PRECIPITATION),658,RAIN (PRECIPITATION),pluie
@@ -243,8 +243,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 242_river,RIVER,666,RIVER,fleuve
 243_roof,ROOF,769,ROOF,terrasse (au toit)
 244_root,ROOT,670,ROOT,"nerf, tendon, vaisseau sanguin, corde d’instrument de musique, air de musique, racine"
-245_rotten,ROTTEN,1728,ROTTEN,"ê. pourri [adj fùmb-ò , Intens dús! , Fact fúmb-éyndí , cf. fùmb-ànd-à ]."
-246_rough,ROUGH,1923,ROUGH,(surface) raide [<verb kású 1a] ­ex: sáhán kàs-ò harsh fabric
+245_rotten,ROTTEN,1728,ROTTEN,ê. pourri
+246_rough,ROUGH,1923,ROUGH,(surface) raide
 247_run,RUN,1519,RUN,courir
 248_salt,SALT,1274,SALT,sel
 249_sand,SAND,671,SAND,sable
@@ -255,13 +255,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 254_send,SEND,1127,SEND,envoyer
 255_seven,SEVEN,1704,SEVEN,sept
 256_sew,SEW,1457,SEW,coudre
-257_sharp,SHARP,1396,SHARP,"(lame) ê. tranchante [homophonous to kâ:n 1; cf. sèmbèlèy ] [adj kà:n-ò 2, Fact ká:n-éyndí 2]."
+257_sharp,SHARP,1396,SHARP,(lame) ê. tranchante
 258_sheep,SHEEP,1331,SHEEP,mouton
 259_shepherd,SHEPHERD,2544,SHEPHERD,berger
 260_shitdefecate,SHIT (DEFECATE),676,SHIT (DEFECATE),"defecate, have a shit"
 261_shoe,SHOE,1381,SHOE,chaussure
 262_short,SHORT,1645,SHORT,court
-263_show,SHOW,1039,SHOW,"exposer, montrer (qqch) -ex (reflexive): .ò ­nám [.ò. ­bó.] .bánj-éyndí s-â. they’ll show themselves to you"
+263_show,SHOW,1039,SHOW,"exposer, montrer (qqch)"
 264_sickleorscythe,SICKLE OR SCYTHE,2132,SICKLE OR SCYTHE,faucille
 265_similar,SIMILAR,1558,SIMILAR,"comme, pareil à"
 266_sing,SING,1261,SING,"chant, chanson"
@@ -272,10 +272,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 271_slave,SLAVE,812,SLAVE,"captif, esclave"
 272_sleep,SLEEP,1585,SLEEP,dormir
 273_slip,SLIP,1324,SLIP,(qn) glisser
-274_small,SMALL,1246,SMALL,ê. petit [Adj kátíyá 1b] [KS kacca ].
+274_small,SMALL,1246,SMALL,ê. petit
 275_smell,SMELL,2124,SMELL,odeur
 276_smoke,SMOKE,778,SMOKE (EXHAUST),fuméé
-277_smooth,SMOOTH,1234,SMOOTH,"aplanir, aplatir (surface d’un mur, ou sol d’une maison, avec une truelle.) [<Ful vmeel-]."
+277_smooth,SMOOTH,1234,SMOOTH,"aplanir, aplatir (surface d’un mur, ou sol d’une maison, avec une truelle.)"
 278_snake,SNAKE,730,SNAKE,serpent
 279_soap,SOAP,788,SOAP,savon
 280_song,SONG,1096,SONG,chan
@@ -284,7 +284,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 283_spirit,SPIRIT,53,SPIRIT,"âme, esprit vital (d'un vivant)"
 284_spit,SPIT,1440,SPIT,cracher
 285_spleen,SPLEEN,1744,SPLEEN,rate
-286_springorwell,SPRING OR WELL,2144,SPRING OR WELL,(piège) sauter.
 287_star,STAR,1430,STAR,etoile
 288_steal,STEAL,713,STEAL,voler
 289_stomach,STOMACH,819,STOMACH,estomac
@@ -299,20 +298,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 298_swim,SWIM,1439,SWIM,nager
 299_tail,TAIL,1220,TAIL,queue
 300_talk,TALK,2708,TALK,"dire, parler"
-301_taste,TASTE,1373,TEA,goûter
-302_ten,TEN,1515,TEN,thé
+301_taste,TASTE,21,TASTE (SOMETHING),goûter
 303_testicles,TESTICLES,797,TESTICLES,"oeuf, testicule"
 304_thick,THICK,1244,THICK,(bâton etc.) épais
 305_thigh,THIGH,800,THIGH,cuisse
 306_thing,THING,738,THING,chose
-307_think,THINK,2271,THINK,"croire; réfléchir [cf. hò.gù, só:sê, lásá:bû, síkkê] -ex: à.bò .mí:ló [.ò.gú wìy-à/ he thinks they are doing the killing"
-308_thorn,THORN,124,THORN,épine
+307_think,THINK,2271,THINK,croire; réfléchir
 309_thousand,THOUSAND,1843,THOUSAND,mille
 310_three,THREE,492,THREE,trois
 311_throat,THROAT,1346,THROAT,"cou, gorge, col"
 312_throw,THROW,1456,THROW,jeter
 313_tie,TIE,1917,TIE,attacher
-314_tobacco,TOBACCO,974,TOBACCO,tabac [related verb súndú 1a; SYN:táb-ò ; cf. hámpérê ]
+314_tobacco,TOBACCO,974,TOBACCO,tabac
 315_toe,TOE,1389,TOE,"doigt, orteil"
 316_tomorrow,TOMORROW,1329,TOMORROW,demain
 317_tongs,TONGS,272,TONGS,pinces (pour enlever les échardes); pinces (du forgeron)
@@ -320,7 +317,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 319_tooth,TOOTH,1380,TOOTH,dent
 320_touch,TOUCH,1892,TOUCH,toucher
 321_trappitfall,TRAP (PITFALL),1075,TRAP (PITFALL),piège
-322_traverse,TRAVERSE,666,RIVER,"casser, détruire ; traverser"
+322_traverse,TRAVERSE,1742,TRAVERSE,"casser, détruire ; traverser"
 323_tree,TREE,906,TREE,arbre
 324_trough,TROUGH,205,TROUGH,abreuvoir
 325_twenty,TWENTY,1710,TWENTY,vingt
@@ -330,7 +327,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 329_urine,URINE,1142,URINE,urine
 330_vagina,VAGINA,1836,VAGINA,vagin
 331_village,VILLAGE,930,VILLAGE,"côté, village, pays natal"
-332_wages,WAGES,1122,WAGES,"payer, rembourser (qn)"
 333_wallofhouse,WALL (OF HOUSE),933,WALL (OF HOUSE),mur
 334_water,WATER,948,WATER,eau
 335_weave,WEAVE,133,WEAVE,tisser
@@ -344,6 +340,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 343_wood,WOOD,1803,WOOD,bois
 344_worklabour,WORK (LABOUR),984,WORK (LABOUR),travail
 345_world,WORLD,965,WORLD,"le monde, la vie"
-346_wrapper,WRAPPER,1113,WRAP,pagne
+346_wrapper,WRAPPER,462,WRAPPER,pagne
 347_year,YEAR,1226,YEAR,an / annéé
-348_yellow,YELLOW,1424,YELLOW,ê. jaune [SYN:.ó:ldê].
+348_yellow,YELLOW,1424,YELLOW,ê. jaune 

@@ -99,20 +99,20 @@ This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 38
-- **Concepts:** 348
-- **Lexemes:** 9,567
+- **Concepts:** 344
+- **Lexemes:** 9,460
 - **Sources:** 1
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 46,005
-- **Segments:** 276 (0 BIPA errors, 0 CLTS sound class errors, 275 CLTS modified)
-- **Inventory size (avg):** 72.45
+- **Tokens:** 45,577
+- **Segments:** 275 (0 BIPA errors, 0 CLTS sound class errors, 274 CLTS modified)
+- **Inventory size (avg):** 72.21
 
 ## CLDF Datasets
 

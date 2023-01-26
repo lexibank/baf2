@@ -66,27 +66,37 @@ class Dataset(BaseDataset):
             idx = '{0}_{1}'.format(
                     concept['NUMBER'], 
                     slug(concept['ENGLISH']))
+
             args.writer.add_concept(
                 ID=idx,
                 Name=concept['ENGLISH'],
                 Concepticon_ID=concept['CONCEPTICON_ID'],
                 French_Gloss=concept['FRENCH']
             )
-            concepts[concept['ENGLISH']] = idx
+            if concept["LEXIBANK_GLOSS"].strip():
+                concepts[concept["LEXIBANK_GLOSS"]] = idx
+            else:
+                concepts[concept['ENGLISH']] = idx
         for language in self.languages:
             args.writer.add_language(**language)
-
+        
+        errors = set()
         for idx in progressbar(wl, desc='cldfify'):
             if wl[idx, 'tokens']:
-                row = args.writer.add_form_with_segments(
-                    Language_ID=wl[idx, 'doculect'],
-                    Local_ID=idx,
-                    Parameter_ID=concepts[wl[idx, 'concept']],
-                    Value=wl[idx, 'value'].strip() or '?',
-                    Form=wl[idx, 'form'].strip() or '?',
-                    Segments=wl[idx, 'tokens'],
-                    Source=['hantganfc'],
-                    Cognacy=wl[idx, 'cogid'],
-                    Borrowing=wl[idx, "borid"],
-                    Concept_in_Source=wl[idx, 'concept_in_source']
-                )
+                try:
+                    row = args.writer.add_form_with_segments(
+                        Language_ID=wl[idx, 'doculect'],
+                        Local_ID=idx,
+                        Parameter_ID=concepts[wl[idx, 'concept']],
+                        Value=wl[idx, 'value'].strip() or '?',
+                        Form=wl[idx, 'form'].strip() or '?',
+                        Segments=wl[idx, 'tokens'],
+                        Source='Hantgan2022',
+                        Cognacy=wl[idx, 'cogid'],
+                        Borrowing=wl[idx, "borid"],
+                        Concept_in_Source=wl[idx, 'concept_in_source']
+                    )
+                except KeyError:
+                    errors.add(wl[idx, "concept"])
+        for c in errors:
+            print(c)

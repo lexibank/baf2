@@ -53,7 +53,7 @@ pybtex==0.24.0
 -e git+https://github.com/cldf-clts/pyclts@c7420d9c59122210422ae249f00a37284cda98c8#egg=pyclts
 pyconcepticon==3.0.0
 pycountry==20.7.3
--e git+https://github.com/lingpy/pyedictor@fac714107e3ef1d6d5a0eee6cb5656b7658e076d#egg=pyedictor
+pyedictor==0.4
 -e git+https://github.com/clld/pyglottolog.git@13af3b6f070bad186768c589c7b335edc43b7a7f#egg=pyglottolog
 -e git+https://github.com/lexibank/pylexibank.git@8ae170cecb67f450b7a8cbaa56ded94281944b0f#egg=pylexibank
 pyparsing==3.0.6
