@@ -1,5 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Source
-Ampari,Ampari,ampa1240,,,,14.15,-3.55,Dogon,South-Western_Dogon,heathetal2015
+Ampari,Ampari,ampa1240,Ampana-Togian,,Papunesia,14.15,-3.55,Dogon,South-Western_Dogon,heathetal2015
 Bambara,Bambara,bamb1269,Bambara,bam,Africa,12.9,-7.65,Mande,Western_Mande,dumestre2011
 Bangime,Bangime,bang1363,Bangime,dba,Africa,14.7984833,-3.76015,Isolate,Isolate,hantheathBangLex
 BankanTey,Bankan_Tey,bank1259,Bankan Tey Dogon,dbw,Africa,15.07,-2.91,Dogon,North-Eastern_Dogon,heathetal2015

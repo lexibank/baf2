@@ -1,5 +1,7 @@
 # CLDF dataset underlying the study "Detection of contact layers in Bangime" from 2021
 
+[![CLDF validation](https://github.com/lexibank/baf2/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/baf2/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -14,6 +16,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://digling.org/links/bangime.html
 
+
+Conceptlists in Concepticon:
+- [Hantgan-2022-348](https://concepticon.clld.org/contributions/Hantgan-2022-348)
 ## Notes
 
 # Analysis of Bangime and Friends (2)
@@ -98,6 +103,7 @@ This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/baf2/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/baf2/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -105,14 +111,14 @@ This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 38
-- **Concepts:** 344
-- **Lexemes:** 9,460
+- **Concepts:** 348
+- **Lexemes:** 9,567
 - **Sources:** 1
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 45,577
-- **Segments:** 275 (0 BIPA errors, 0 CLTS sound class errors, 274 CLTS modified)
-- **Inventory size (avg):** 72.21
+- **Tokens:** 46,005
+- **Segments:** 276 (0 BIPA errors, 0 CLTS sound class errors, 275 CLTS modified)
+- **Inventory size (avg):** 72.45
 
 ## CLDF Datasets
 
