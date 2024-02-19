@@ -5,8 +5,7 @@ import lingpy
 from pyedictor import fetch
 
 from clldutils.misc import slug
-from pylexibank import Concept, Language, Lexeme, Cognate, Dataset as BaseDataset, progressbar
-import re
+from pylexibank import Concept, Language, Lexeme, Dataset as BaseDataset, progressbar
 import codecs
 
 
@@ -14,15 +13,18 @@ import codecs
 class CustomConcept(Concept):
     French_Gloss = attr.ib(default=None)
 
+
 @attr.s
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
     Source = attr.ib(default=None)
 
+
 @attr.s
 class CustomLexeme(Lexeme):
     Concept_in_Source = attr.ib(default=None)
     Borrowing = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -37,9 +39,12 @@ class Dataset(BaseDataset):
                 "bangime", 
                 base_url="https://digling.org/edictor",
                 to_lingpy=False,
-                columns=["DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
-                    "COGID", "COGIDS", "BORID", "CONCEPT_IN_SOURCE"]
+                columns=[
+                    "DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
+                    "COGID", "COGIDS", "BORID", "CONCEPT_IN_SOURCE"
+                ]
                 )
+        
         with codecs.open(self.raw_dir / "raw-data.tsv", "w", "utf-8") as f:
             f.write(data)
         wl = lingpy.Wordlist(str(self.raw_dir / "raw-data.tsv"))
@@ -62,21 +67,21 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(str(self.raw_dir / 'bangime-edited.tsv'))
         args.writer.add_sources()
         concepts = {}
-        for concept in self.concepts:
+        for concept in self.conceptlists[0].concepts.values():
             idx = '{0}_{1}'.format(
-                    concept['NUMBER'], 
-                    slug(concept['ENGLISH']))
+                    concept.number,
+                    slug(concept.english))
 
             args.writer.add_concept(
                 ID=idx,
-                Name=concept['ENGLISH'],
-                Concepticon_ID=concept['CONCEPTICON_ID'],
-                French_Gloss=concept['FRENCH']
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                French_Gloss=concept.attributes["french"]
             )
-            if concept["LEXIBANK_GLOSS"].strip():
-                concepts[concept["LEXIBANK_GLOSS"]] = idx
+            if concept.attributes["lexibank_gloss"]:
+                concepts[concept.attributes["lexibank_gloss"]] = idx
             else:
-                concepts[concept['ENGLISH']] = idx
+                concepts[concept.english] = idx
         for language in self.languages:
             args.writer.add_language(**language)
         
