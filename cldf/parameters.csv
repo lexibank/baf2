@@ -279,11 +279,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 278_snake,SNAKE,730,SNAKE,serpent
 279_soap,SOAP,788,SOAP,savon
 280_song,SONG,1096,SONG,chan
-281_spear,SPEAR,945,SPEAR,"caoutchouc, lance-pierres"
+281_slingshot,SLINGSHOT,,,"caoutchouc, lance-pierres"
 282_spin,SPIN,121,SPIN,filer (coton)
 283_spirit,SPIRIT,53,SPIRIT,"âme, esprit vital (d'un vivant)"
 284_spit,SPIT,1440,SPIT,cracher
 285_spleen,SPLEEN,1744,SPLEEN,rate
+286_trapcatch,TRAP (CATCH),1170,TRAP (CATCH),(piège) sauter
 287_star,STAR,1430,STAR,etoile
 288_steal,STEAL,713,STEAL,voler
 289_stomach,STOMACH,819,STOMACH,estomac
@@ -299,11 +300,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 299_tail,TAIL,1220,TAIL,queue
 300_talk,TALK,2708,TALK,"dire, parler"
 301_taste,TASTE,21,TASTE (SOMETHING),goûter
+302_tea,TEA,1373,TEA,thé
 303_testicles,TESTICLES,797,TESTICLES,"oeuf, testicule"
 304_thick,THICK,1244,THICK,(bâton etc.) épais
 305_thigh,THIGH,800,THIGH,cuisse
 306_thing,THING,738,THING,chose
 307_think,THINK,2271,THINK,croire; réfléchir
+308_spike,SPIKE,1249,SPIKE,épine
 309_thousand,THOUSAND,1843,THOUSAND,mille
 310_three,THREE,492,THREE,trois
 311_throat,THROAT,1346,THROAT,"cou, gorge, col"
@@ -327,11 +330,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 329_urine,URINE,1142,URINE,urine
 330_vagina,VAGINA,1836,VAGINA,vagin
 331_village,VILLAGE,930,VILLAGE,"côté, village, pays natal"
+332_pay,PAY,718,PAY,"payer, rembourser (qn)"
 333_wallofhouse,WALL (OF HOUSE),933,WALL (OF HOUSE),mur
 334_water,WATER,948,WATER,eau
 335_weave,WEAVE,133,WEAVE,tisser
 336_week,WEEK,1469,WEEK,semaine
-337_wet,WET,1726,WET,"complètement trempé, très mouillé"
+337_soaked,SOAKED,,,"complètement trempé, très mouillé"
 338_white,WHITE,1335,WHITE,"blanc (de l'oeil, de l'oeuf)"
 339_wife,WIFE,1199,WIFE,épouse
 340_wind,WIND,960,WIND,vent
@@ -342,4 +346,4 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,French_Gloss
 345_world,WORLD,965,WORLD,"le monde, la vie"
 346_wrapper,WRAPPER,462,WRAPPER,pagne
 347_year,YEAR,1226,YEAR,an / annéé
-348_yellow,YELLOW,1424,YELLOW,ê. jaune 
+348_yellow,YELLOW,1424,YELLOW,ê. jaune
