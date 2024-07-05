@@ -53,7 +53,7 @@ cldfbench download lexibank_baf2.py
 In order to convert the updated data to cldf, run:
 
 ```shell
-cldfbench lexibank.makecldf lexibank_baf2.py --concepticon-version=v2.5.0 --glottolog-version=v4.4 --clts-version=v2.1.0
+cldfbench lexibank.makecldf lexibank_baf2.py --concepticon-version=v3.2.0 --glottolog-version=v5.0 --clts-version=v2.3.0
 ```
 
 In order to run the cognate and borrowing detection analysis, run:
@@ -62,7 +62,7 @@ In order to run the cognate and borrowing detection analysis, run:
 cldfbench baf2.borrowing
 ```
 
-This analysis will create a file `wordlist.tsv` in the folder `analysis`. Note that the analysis itself was only done once in the beginning of our investigation and later manually updated. As a result, the results of this comparison necessarily differ from the results of the manually updated version. 
+This analysis will create a file `wordlist.tsv` in the folder `analysis`. Note that the analysis itself was only done once in the beginning of our investigation and later manually updated. As a result, the results of this comparison necessarily differ from the results of the manually updated version.
 
 To analyze the data, you can first compute average statistics of borrowed items:
 
@@ -86,7 +86,7 @@ To yield the same for all language subgroups in the sample, type:
 cldfbench baf2.count-subgroup
 ```
 
-This will write the patterns to the file `analysis/patterns-subgroups.tsv`. 
+This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 
 To yield the same for all languages in the sample, type:
 
@@ -94,7 +94,7 @@ To yield the same for all languages in the sample, type:
 cldfbench baf2.count-language
 ```
 
-This will write the patterns to the file `analysis/patterns-subgroups.tsv`. 
+This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 
 
 

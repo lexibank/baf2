@@ -1,19 +1,16 @@
 """Convert to edictor application"""
 
-from lingpy import *
+from lingpy import Wordlist, LexStat
 from lexibase.lexibase import LexiBase
-from clldutils.misc import slug
-
-from clldutils.text import split_text, strip_brackets
-from collections import defaultdict
 from lexibank_baf2 import Dataset
+
 
 def run(args):
     ds = Dataset()
 
     wl = Wordlist.from_cldf(
             str(ds.cldf_specs().metadata_path),
-            columns = (
+            columns=(
                 'local_id',
                 'language_id',
                 'language_name',
@@ -27,7 +24,7 @@ def run(args):
                 'segments',
                 'cognacy',
                 ),
-            namespace = (
+            namespace=(
                 ('concept_name', 'concept'),
                 ('parameter_id', 'concepticon_id'),
                 ('language_id', 'doculect'),
@@ -44,17 +41,17 @@ def run(args):
                 ('cognacy', 'cognacy'),
                 ('local_id', 'id_in_source'),
                 ('cogid_cognateset_id', 'cogid')))
-    args.log.info('loaded data')    
+
+    args.log.info('loaded data')
     lex = LexStat(wl)
     lex.cluster(method='sca', threshold=0.45, ref='borid')
-    lex.add_entries('cog', 'family,borid', lambda x, y:
-            x[y[0]]+'-'+str(x[y[1]]))
+    lex.add_entries('cog', 'family,borid', lambda x, y: x[y[0]]+'-'+str(x[y[1]]))
     lex.renumber('cog')
     lex.add_entries('stratum', 'value', lambda x: '')
     lex.add_entries('cogids', 'cognacy', lambda x: x)
 
     etd = lex.get_etymdict(ref='borid')
-    for key, values in etd.items():
+    for _, values in etd.items():
         idxs = []
         for idx in values:
             if idx:
@@ -64,7 +61,7 @@ def run(args):
         if len(set(subs)) == 1 or len(set(lang)) == 1:
             for idx in idxs:
                 lex[idx, 'borid'] = 0
-                
+
     D = {0: [
         'id_in_source',
         'doculect',
@@ -82,15 +79,12 @@ def run(args):
         'borid',
         'stratum']}
 
-
     for idx in wl:
         D[idx] = [lex[idx, h] for h in D[0]]
-    
-    lex = LexiBase(D, dbase=ds.dir.joinpath('analysis',
-        'bangime.sqlite3').as_posix())
+
+    lex = LexiBase(D, dbase=ds.dir.joinpath('analysis', 'bangime.sqlite3').as_posix())
     lex.create('bangime')
 
     lex.output('tsv', filename=ds.dir.joinpath(
         'analysis',
         'wordlist').as_posix(), ignore='all', prettify=False)
-

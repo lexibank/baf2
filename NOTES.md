@@ -5,7 +5,7 @@ The data in EDICTOR can be accessed from [https://digling.org/links/bangime.html
 To run the analysis, make sure to install all requirements:
 
 ```shell
-pip install -e .
+pip install -e ".[full]"
 ```
 
 Also make sure to clone all repositories of Concepticon, Glottolog, and CLTS:
