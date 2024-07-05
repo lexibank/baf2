@@ -37,7 +37,7 @@ $ cldfbench lexibank.makecldf lexibank_baf2.py --concepticon-version=v2.5.0 --gl
 In order to run the cognate and borrowing detection analysis, run:
 
 ```
-$ cldfbench baf2commands.borrowing
+$ cldfbench baf2.borrowing
 ```
 
 This analysis will create a file `wordlist.tsv` in the folder `analysis`. Note that the analysis itself was only done once in the beginning of our investigation and later manually updated. As a result, the results of this comparison necessarily differ from the results of the manually updated version. 
