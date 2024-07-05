@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/baf2",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-17-ga96bcee",
+            "dc:created": "v0.2-18-g85e7d17",
             "dc:title": "Repository"
         },
         {
