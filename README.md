@@ -1,4 +1,4 @@
-# CLDF dataset underlying the study "Detection of contact layers in Bangime" from 2021
+# CLDF dataset underlying the study "First steps towards the detection of contact layers in Bangime: a multi-disciplinary, computer-assisted approach" from 2022
 
 [![CLDF validation](https://github.com/lexibank/baf2/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/baf2/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Hantgan, Abbie and Babiker, Hiba and List, Johann-Mattis (2021): Detection of contact layers in Bangime.
+  > Hantgan, Abbie and Babiker, Hiba and List, Johann-Mattis (2022): First steps towards the detection of contact layers in Bangime: a multi-disciplinary, computer-assisted approach [version 2; peer review: 2 approved]. Open Research Europe 2022, 2:10.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -110,15 +110,26 @@ This will write the patterns to the file `analysis/patterns-subgroups.tsv`.
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 38
-- **Concepts:** 348
-- **Lexemes:** 9,567
+- **Varieties:** 38 (linked to 36 different Glottocodes)
+- **Concepts:** 347 (linked to 335 different Concepticon concept sets)
+- **Lexemes:** 9,541
 - **Sources:** 1
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 46,005
-- **Segments:** 276 (0 BIPA errors, 0 CLTS sound class errors, 275 CLTS modified)
-- **Inventory size (avg):** 72.45
+- **Tokens:** 45,941
+- **Segments:** 275 (0 BIPA errors, 0 CLTS sound class errors, 274 CLTS modified)
+- **Inventory size (avg):** 72.39
+
+# Contributors
+
+Name               | GitHub user       | Description                   | Role
+---                | ---               | ---                           | ---
+Abbie Hantgan | IndianaTones | Data collection, orthography | Author
+Hiba Babiker |  | Data collection, orthography | Author
+Johann-Mattis List | @LinguList        | maintainer                    | Author
+
+
+
 
 ## CLDF Datasets
 

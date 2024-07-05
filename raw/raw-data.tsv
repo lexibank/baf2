@@ -1,8 +1,30 @@
-# Wordlist
-
-# DATA
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
-#
+1	Soninke	GUEST OR STRANGER	mùkkê	mùkkê	m ¹/u k k ⁵¹/e	2900	18	0	
+2	SonghaiKiini	GUEST OR STRANGER	yòw-òó	yòw-òó	j ¹/o w + ¹⁵/o:	3652	15 5371	0	
+3	SonghaiSenni	GUEST OR STRANGER	yòw-ò	yòw-ò	j ¹/o w + ¹/o	3652	15 5371	0	
+4	Bambara	GUEST OR STRANGER	dúnáⁿ	dúnáⁿ	d ⁵/u n ⁵/ã	2898	1	3007	
+5	Bangime	GUEST OR STRANGER	jīī-tūwⁿɔ̀	jīī-tūwⁿɔ̀	j ³³/iː + t ³/u ∼/w̃ ¹/ɔ	2410	2 0	3007	
+6	Fulfulde	GUEST OR STRANGER	koɗɗo	koɗɗo	k o ɗ ɗ o	94	11	0	
+7	Jenaama	GUEST OR STRANGER	súmū	súmū	s ⁵/u m ³/u	2898	12	3007	
+8	BenTey	GUEST OR STRANGER	lò:sú-m\\lò:sú	lò:sú-m	l ¹/oː s ⁵/u + m	899	4 5	0	
+9	BankanTey	GUEST OR STRANGER	ǹdòsú-m\\ǹdòsú	ǹdòsú-m	ⁿd ¹/o s ⁵/u + m	899	4 5	0	
+10	Nanga	GUEST OR STRANGER	lò:sí	lò:sí	l ¹/oː s ⁵/i	899	4	0	
+11	PergeTegu	GUEST OR STRANGER	lò:sú-n	lò:sú-n	l ¹/oː s ⁵/u + n	899	4 5	0	
+12	Gourou	GUEST OR STRANGER	yérí-n	yérí-n	j ⁵/e r ⁵/i + n	902	7 5	0	
+13	TogoKan	GUEST OR STRANGER	yéríⁿ	yéríⁿ	j ⁵/e r ⁵/ĩ	902	7	0	
+14	YornoSo	GUEST OR STRANGER	yér-nɛ́\\yérú-m	yér-nɛ́	j ⁵/e r + n ⁵/ɛ	902	7 10	0	
+15	TommoSo	GUEST OR STRANGER	yòùnjì-nɛ́ \\ yòùnjǔ-m	yòùnjì-nɛ́	j ¹/o ¹/u ⁿdʒ ¹/i + n ⁵/ɛ	903	4 10	0	
+16	DogulDom	GUEST OR STRANGER	yàrùwúl, bɛ̀mmɛ́	yàrùwúl	j ¹/a r ¹/u + w ⁵/u l	902	7 8	0	
+17	TebulUre	GUEST OR STRANGER	lògòdé:\\lògòdù-mbó	lògòdé:	l ¹/o ɡ ¹/o + d ⁵/eː	906	4 19	0	
+18	YandaDom	GUEST OR STRANGER	nò nò:zù\\nò:zù-mù	nò_nò:zù	n ¹/o + n ¹/oː z ¹/u	908	22 4	0	
+19	BonduSo	GUEST OR STRANGER	bèmbǎ:\\bèmbà-mbó	bèmbǎ:	b ¹/e ⁿb ¹⁵/aː	901	6	0	
+20	Bunoge	GUEST OR STRANGER	dó:njì	dó:njì	d ⁵/oː ⁿdʒ ¹/i	899	4	0	
+21	DonnoSo	GUEST OR STRANGER	wòɲjù-nɔ́	wòɲjù-nɔ́	w ¹/o ⁿdʒ ¹/u + n ⁵/ɔ	903	4 10	0	
+22	TiranigeDiga	GUEST OR STRANGER	bí:má	bí:má	b ⁵/iː m ⁵/a	901	6	0	
+23	Penange	GUEST OR STRANGER	bì:mbà	bì:mbà	b ¹/iː ⁿb ¹/a	901	6	0	
+24	Mombo	GUEST OR STRANGER	gìlà gílí	gìlà-gílí	ɡ ¹/i l ¹/a + ɡ ⁵/i l ⁵/i	904	13 14	0	
+25	Jamsay	GUEST OR STRANGER	yérí-n	yérí-n	j ⁵/e r ⁵/i + n	902	7 5	0	
+26	ToroTegu	GUEST OR STRANGER	lòsù-rⁿu	lòsù-rⁿu	l ¹/o s ¹/u + ∼/r̃ u	899	4 18	0	
 28	SonghaiKiini	AGE	zé:n	zé:n	z ⁵/eː n	3584	4898	0	
 29	SonghaiSenni	AGE	zé:n	zé:n	z ⁵/eː n	3584	4898	0	
 30	Bangime	AGE	ɡwìì	ɡwìì	ɡ w ¹/iː	2319	23	0	
@@ -30,7 +52,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 52	ToroSo	AGE	pèy pèy	pèy pèy	p ¹/e j + p ¹/e j	1761	2 24	0	
 53	ToroSo	AGE	péỳ	pé-ỳ	p ⁵/e + j	617	2 5426	0	
 54	BonduSo	AGE	kùnjì-lé	kùnjì-lé	k ¹/u ⁿdʒ ¹/i + l ⁵/e	1169	25 34	0	
-#
 55	Bambara	ANCESTORS	bɛ́ⁿbá	bɛ́ⁿbá	b ⁵/ɛ̃ b ⁵/a	2815	5127	0	
 56	SonghaiKiini	ANCESTORS	kàà	kàà	k ¹/aː	3628	35	25	
 57	Mombo	ANCESTORS	ńdá kúnjù	ńdá_kúnjù	ⁿd ⁵/a + k ⁵/u ⁿdʒ ¹/u	844	39 40	0	
@@ -44,13 +65,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 65	BenTey	ANCESTORS	kùmbó	kùmbó	k ¹/u ⁿb ⁵/o	722	36	0	
 66	SonghaiSenni	ANCESTORS	kà:jè ~ kà:gè	kà:gè	k ¹/aː ɡ ¹/e	3628	35	25	
 67	Bangime	ANCESTORS	kāàⁿ	kāàⁿ	k ¹³/ãː	2386	4903	25	
-#
 68	Bangime	ANIMAL	jíríbɛ̀	jíríbɛ̀	j ⁵/i r ⁵/i + b ¹/ɛ	2434	4904 4905	0	
 69	BozoKorondougounord	ANIMAL	biraⁿteu	biraⁿteu	b i r a + ⁿt e u	3019	54 4906	28	
 70	BozoTiemaCewe	ANIMAL	koⁿoⁿbo	koⁿoⁿbo	k õː b o	3030	55	40	
 71	ToroTegu	ANIMAL	àrùzàká	àrùzàká	¹/a r ¹/u + z ¹/a k ⁵/a	1089	56 51	0	
 72	BenTey	ANIMAL	àrsɛ̌:-m	àrsɛ̌:-m	¹/a r + s ¹⁵/ɛː + m	1089	56 51 49	0	
-73	BankanTey	ANIMAL	dá:bà-m	dá:bà-m	d ⁵/aː b ¹/a + m	1060	48 49	29	
+73	BankanTey	ANIMAL	dá:bà-m	dá:bà-m	d ⁵/aː b ¹/a + m	1060	48 49	29	
 74	Nanga	ANIMAL	gàsɛ̀gɛ́	gàsɛ̀gɛ́	ɡ ¹/a + s ¹/ɛ ɡ ⁵/ɛ	1089	56 51	0	
 75	PergeTegu	ANIMAL	àsɛ̀gɛ́	àsɛ̀gɛ́	¹/a + s ¹/ɛ ɡ ⁵/ɛ	1089	56 51	0	
 76	Gourou	ANIMAL	gàrsɛ̀gɛ́	gàrsɛ̀gɛ́	ɡ ¹/a r + s ¹/ɛ ɡ ⁵/ɛ	1089	56 51	0	
@@ -69,14 +89,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 89	ToroSo	ANIMAL	gìnì bɛ́l	gìnì bɛ́l	ɡ ¹/i n ¹/i + b ⁵/ɛ l	1548	60 47	0	
 90	ToroSo	ANIMAL	ásɛ̀ɡɛ̀	ásɛ̀ɡɛ̀	⁵/a + s ¹/ɛ ɡ ¹/ɛ	1089	56 51	0	
 91	BonduSo	ANIMAL	dúmɛ́ɛ̀	dúmɛ́ɛ̀	d ⁵/u m ⁵¹/ɛː	1112	52	0	
-9621	Fulfulde	ANIMAL	daaba	daaba	d aː b a	900	5270	29	
-9622	Jenaama	ANIMAL	dààbā	dààbā	d ¹/aː b ³/a	1113	30	29	
-9623	SonghaiKiini	ANIMAL			d ⁵/aː bː ¹/a	2896	32	29	
-9624	Soninke	ANIMAL			d ⁵/aː b ¹/a	2902	30	29	
-9625	TomoKan	ANIMAL			d ⁵/aː b ⁵/aː	2309	31	29	
-9626	Penange	ANIMAL			d ⁵/aː b ⁵/a	2309	31	29	
-9635	BankanTey	ANIMAL	jáwdì-m	jáwdì-m	dʒ ⁵/a w d ¹/i + m	3897	479 49	29	
-#
 92	Bangime	ANSWER	jòò-rò	jòò-rò	j ¹/oː + r ¹/o	2528	4902 4901	0	
 93	Bambara	ANSWER	lámìnɛ́	lámìnɛ́	l ⁵/a + m ¹/i n ⁵/ɛ	3204	5128 62	0	
 94	ToroTegu	ANSWER	císú	císú	tʃ ⁵/i + s ⁵/u	2097	65 66	0	
@@ -98,7 +110,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 110	TomoKan	ANSWER	sáwá	sáwá	s ⁵/a + w ⁵/a	1677	66 656	0	
 111	Soninke	ANSWER	ɲímí	ɲímí	ɲ ⁵/i m ⁵/i	3383	69	0	
 112	TogoKan	ANSWER	sá:	sá:	s ⁵/aː	1677	66	0	
-#
 113	Fulfulde	ARMPIT	nawki	nawki	n a w + k i	309	79 0	0	
 114	BozoHainyaxo	ARMPIT	kabaatiⁿmɔ	kabaatiⁿmɔ	k a b aː t ĩ + m ɔ	3490	77 78	74	
 115	Bangime	ARMPIT	kōmpàà	kōmpàà	k ³/o ⁿp ¹/aː	2619	4911	74	
@@ -127,7 +138,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 138	ToroSo	ARMPIT	ká kárú	ká kárú	k ⁵/a + k ⁵/a r ⁵/u	2249	73 73	0	
 139	BonduSo	ARMPIT	kárá kàrá	kárá kàrá	k ⁵/a r ⁵/a + k ¹/a r ⁵/a	2249	73 73	0	
 140	Bambara	ARMPIT	nàná	nàná	n ⁵/a n ¹/a	3480	683	0	
-#
 141	Bangime	ARRIVE	twàà-rà	twàà-rà	t w ¹/aː + r ¹/a	2640	4912 4913	90	
 142	Fulfulde	ARRIVE	yott-aade	yott-aade	j o t t + aː d e	318	91 5269	0	
 143	Jenaama	ARRIVE	kìyɛ̀wⁿ	kìyɛ̀wⁿ	k ¹/i j ¹/ɛ + ∼/w̃	2648	93 94	0	
@@ -156,7 +166,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 166	TogoKan	ARRIVE	dɔ̌:	dɔ̌:	d ¹⁵/ɔː	2287	87	91	
 167	SonghaiKiini	ARRIVE	tɔ́:	tɔ́:	t ɔː	3891	5332	91	
 168	ToroSo	ARRIVE	dɔ̀ɔ̀	dɔ̀ɔ̀	d ¹/ɔː	2287	87	91	
-#
 169	ToroTegu	ASH	dòwⁿòsú	dòwⁿòsú	d ¹/o w̃ ¹/o + s ⁵/u	434	102 0	0	
 170	BenTey	ASH	dɔ̀yⁿɔ̌yⁿ	dɔ̀yⁿɔ̌yⁿ	d ¹/ɔ j̃ ¹⁵/ɔ + j̃	354	98 100	0	
 171	Nanga	ASH	dùyá	dùyá	d ¹/u j ⁵/a	368	98	116	
@@ -188,7 +197,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 197	ToroSo	ASH	púnɔ̀	púnɔ̀	p ⁵/u n ¹/ɔ	432	103	0	
 198	BonduSo	ASH	dɔ̀ndɛ̀	dɔ̀ndɛ̀	d ¹/ɔ ⁿd ¹/ɛ	368	98	116	
 199	Bambara	ASH	kɔ̀rɔ́	kɔ̀rɔ́	k ¹/ɔ r ⁵/ɔ	2659	0	0	
-#
 200	SonghaiSenni	BACK	bàndè	bàndè	b ¹/a ⁿd ¹/e	3581	105	144	
 201	SonghaiKiini	BACK	bandɛ̀	bandɛ̀	b a ⁿd ¹/ɛ	3581	105	144	
 202	ToroTegu	BACK	tùŋɔ́	tùŋɔ́	t ¹/u ŋ ⁵/ɔ	467	108	0	
@@ -217,7 +225,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 225	ToroSo	BACK	dòɡò kínɛ́	dòɡò kínɛ́	d ¹/o ɡ ¹/o + k ⁵/i n ⁵/ɛ	474	111 107	0	
 226	BonduSo	BACK	bàndíí	bàndíí	b ¹/a ⁿd ⁵/iː	464	109	144	
 227	Bambara	BACK	kírⁿí	kírⁿí	k ⁵/i r̃ ⁵/i	2687	5129	0	
-#
 228	ToroTegu	BAD	mɔ̀sú, m̀bɔ̀sú	mɔ̀sú	m ¹/ɔ s ⁵/u	522	122	0	
 229	BenTey	BAD	mɔ̀sú	mɔ̀sú	m ¹/ɔ s ⁵/u	522	122	0	
 230	BankanTey	BAD	m̀bɔ̀sú	m̀bɔ̀sú	ⁿb ¹/ɔ s ⁵/u	522	122	0	
@@ -253,7 +260,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 260	Bambara	BAD	fáríⁿ	fáríⁿ	f ⁵/a r ⁵/ĩ	2747	4916	0	
 261	Soninke	BAD	bùrê	bùrê	b ¹/u r ⁵¹/e	2747	134	0	
 262	BonduSo	BAD	nɛ̀ːndɛ́ː	nɛ̀ːndɛ́ː	n ¹/ɛː ⁿd ⁵/ɛː	534	123	166	
-#
 263	Bangime	BARK	kūɥɛ̀ (1)	kūɥɛ̀	k ³/u ɥ ¹/ɛ	2360	46	191	
 264	Fulfulde	BARK	koɓolal	koɓolal	k o ɓ o l + a l	42	5271 5272	191	
 265	Jenaama	BARK	jùgù-wógō	jùgù-wógō	dʒ ¹/u ɡ ¹/u + w ⁵/o ɡ ³/o	2780	149 139	0	
@@ -291,7 +297,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 297	Soninke	BARK	kórómè	kórómè	k ⁵/o r ⁵/o + m ¹/e	2753	139 155	191	
 298	ToroSo	BARK	yóórú	yóórú	j ⁵/oː r ⁵/u	669	157	0	
 299	BonduSo	BARK	kómí-lòŋ	kómí-lòŋ	k ⁵/o m ⁵/i + l ¹/o ŋ	603	142 144	0	
-#
 300	Penange	BE ALIVE	[ɲàŋgù ní] bò	ɲàŋgù-ní_bò	ɲ ¹/a ⁿɡ ¹/u + n ⁵/i + b ¹/o	712	168 172 176	0	
 301	TomoKan	BE ALIVE	cìnìhú:ⁿ yɔ́ wɔ́	cìnìhú:ⁿ-yɔ́_wɔ́	tʃ ¹/i n ¹/i h ∼⁵/ũ: + j ⁵/ɔ + w ⁵/ɔ	741	178 166 169	0	
 302	Mombo	BE ALIVE	ɲáŋgù ndò ò-bó	ɲáŋgù-ndò_ò-bó	ɲ ⁵/a + ⁿɡ ¹/u + ⁿd ¹/o + ¹/o + b ⁵/o	728	168 173 174 162 169	0	
@@ -317,7 +322,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 322	Jenaama	BE ALIVE	bílá-nà	bílá-nà	b ⁵/i l ⁵/a + n ¹/a	2797	167 0	0	
 323	SonghaiSenni	BE ALIVE	húná	húná	h ⁵/u n ⁵/a	3625	177	0	
 324	SonghaiKiini	BE ALIVE	húná	húná	h ⁵/u n ⁵/a	3625	177	0	
-#
 325	SonghaiSenni	BEARD	kà:bè	kà:bè	k ¹/aː b ¹/e	3638	191	0	
 326	Mombo	BEARD	bé:ⁿ kùlɛ̀	bé:ⁿ_kùlɛ̀	b ⁵/ẽː + k ¹/u l ¹/ɛ	765	182 186	0	
 327	DonnoSo	BEARD	bɛ̀:-kèŋgèlé	bɛ̀:_kèŋgèlé	b ¹/ɛː + k ¹/e + ⁿɡ ¹/e + l ⁵/e	796	182 186 184 186	0	
@@ -347,7 +351,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 351	BozoKotya	BEARD	cɛⁿbotii	cɛⁿbotii	tʃ ɛ̃ b o + t iː	2832	181 189	251	
 352	BozoTiemaCewe	BEARD	coⁿbotiⁿiⁿ	coⁿbotiⁿiⁿ	tʃ õ b o + t ĩː	2832	181 189	251	
 353	Bambara	BEARD	tèmbè-kú:	tèmbè-kú:	t ¹/e ⁿb ¹/e + k ⁵/uː	2832	181 4921	251	
-#
 354	BozoHainyaxo	BEAUTIFUL	hárámpárè	hárámpárè	h ⁵/a r ⁵/a ᵐp ⁵/a r ¹/e	2870	197	0	
 355	BozoHainyaxo	BEAUTIFUL	cɛ̀ɲí	cɛ̀ɲí	tʃ ¹/ɛ + ɲ ⁵/i	2897	209 0	0	
 356	Jenaama	BEAUTIFUL	māɲɔ̄wⁿ	māɲɔ̄wⁿ	m ³/a + ɲ ³/ɔ + w̃	2880	202 203 204	0	
@@ -374,7 +377,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 377	PergeTegu	BEAUTIFUL	nɛ́	ɛ̀sú	¹/ɛ s ⁵/u	839	194	0	
 378	TommoSo	BEAUTIFUL	té:	ɛ̀sú	¹/ɛ s ⁵/u	839	194	0	
 379	BonduSo	BEAUTIFUL	lóbbó	lóbbó	l ⁵/o b b ⁵/o	857	208	285	
-#
 380	Bangime	BEGIN	tììndà	tììn-dà	t ¹/iː n + d ¹/a	2411	4922 0	1	
 381	Fulfulde	BEGIN	fuɗɗude	fuɗɗ-ude	f u ɗ ɗ + u d e	100	5274 219	0	
 382	Jenaama	BEGIN	ǹsīnì	ǹsīnì	n s ³/i + n ¹/i	2920	220 216	2	
@@ -408,7 +410,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 410	ToroSo	BEGIN	tɔ́lɔ́	tɔ́lɔ́	t ⁵/ɔ l ⁵/ɔ	905	217	0	
 411	ToroSo	BEGIN	tábí	tábí	t ⁵/a b ⁵/i	905	210	0	
 412	BonduSo	BEGIN	jáŋɡí	jáŋɡí	dʒ ⁵/a ⁿɡ ⁵/i	905	215	0	
-#
 413	Bambara	BELLY	fùrú	fùrú	f ¹/u r ⁵/u	2946	5131	30	
 414	Bambara	BELLY	fùrùkóló	fùrùkóló	f ¹/u r ¹/u + k ⁵/o l ⁵/o	2978	5131 5132	0	
 415	Soninke	BELLY	kùùsê	kùùsê	k ¹/uː s ⁵¹/e	2951	238	337	
@@ -438,7 +439,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 439	YornoSo	BELLY	tàgú	bɛ̀rɛ́	b ¹/ɛ r ⁵/ɛ	992	228	0	
 440	ToroSo	BELLY	bɛ̀rɛ́	bɛ̀rɛ́	b ¹/ɛ r ⁵/ɛ	992	228	0	
 441	BonduSo	BELLY	bìndú	bìndú	b ¹/i ⁿd ⁵/u	992	228	0	
-#
 442	Fulfulde	BELT	baggol	baggol	b a ɡ ɡ + o l	121	249 0	0	
 443	Bambara	BELT	cɛ́síríláⁿ	cɛ́síríláⁿ	tʃ ⁵/ɛ + s ⁵/i r ⁵/i + l ⁵/ã	2979	5133 5134 5135	0	
 444	Bangime	BELT	tààwà-m̀-bɔ́jɛ́	tààwà-m̀-bɔ́jɛ́	t ¹/aː w ¹/a + m + b ⁵/ɔ j ⁵/ɛ	2440	4924 4925 4926	0	
@@ -454,7 +454,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 454	DogulDom	BELT	pógùrù-ŋ̀ (pl pógùrù yà:)	pógùrù-ŋ̀	p ⁵/o ɡ ¹/u + r ¹/u + ŋ	1077	245 247 248	0	
 455	TiranigeDiga	BELT	sǽ:ⁿty:r	sǽ:ⁿty:r	s ⁵/æ̃ː t j j r	1098	240	0	
 456	TommoSo	BELT	sèntír, pógúrú	pógúrú	p ⁵/o ɡ ⁵/u + r ⁵/u	1077	245 247	0	
-#
 457	ToroTegu	BESIDE	[X zɛ̀là] kù	kù	k ¹/u	1105	256	31	
 458	BenTey	BESIDE	[X cé:rì:] wò, [X dósù] wò	wò	w ¹/o	1108	258	0	
 459	Nanga	BESIDE	[X dósî] gò, [X kérî] gò	gò	ɡ ¹/o	1105	256	31	
@@ -478,7 +477,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 477	BankanTey	BESIDE	kěrû	kěrû	k ¹⁵/e r ⁵¹/u	1105	256	31	
 478	Bangime	BESIDE	tāà (2)	tāà	t ³¹/aː	2446	4927	376	
 479	Soninke	BESIDE	báŋŋè	báŋŋè	b ⁵/a ŋ + ŋ ¹/e	3000	265 266	375	
-#
 480	BozoDebo	BIG	koⁿsaⁿaⁿ	koⁿsaⁿaⁿ	k õ s ãː	3040	279	0	
 481	BozoHainyaxo	BIG	hulo	hulo	h u l o	3041	280	0	
 482	BozoKorondougounord	BIG	kwosaⁿ	kwosaⁿ	k w o s ã	3040	279	0	
@@ -518,7 +516,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 516	ToroSo	BIG	ɡéw̃ù	ɡéw̃ù	ɡ ⁵/e w̃ ¹/u	1188	292	0	
 517	BonduSo	BIG	gìndɔ́ː	gìndɔ́ː	ɡ ¹/i ⁿd ɔː	1188	279	0	
 518	Bambara	BIG	yèyí	yèyí	j ¹/e + j ⁵/i	3029	484 484	0	
-#
 519	ToroTegu	BIRD	sǎy	sǎy	s ¹⁵/a + j	1376	300 306	0	
 520	BenTey	BIRD	nì:yⁿî-m	nì:yⁿî-m	n ¹/iː j̃ ⁵¹/i + m	1284	295 296	0	
 521	BankanTey	BIRD	nǐ:-m	nǐ:m	n ¹⁵/iː + m	1308	295 296	0	
@@ -556,7 +553,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 553	TogoKan	BIRD	pùró	sàjú	s ¹/a + dʒ ⁵/u	1315	305 311	0	
 554	ToroSo	BIRD	sàsáá	sàsáá	s ¹/a + s ⁵/aː	1315	305 305	0	
 555	ToroSo	BIRD	sìsàá	sìsàá	s ¹/i + s ¹⁵/aː	1315	300 305	0	
-#
 556	ToroTegu	BITE	cɛ́rú	cɛ́rú	tʃ ⁵/ɛ r ⁵/u	1382	314	0	
 557	BenTey	BITE	kúwó	kúwó	k ⁵/u w ⁵/o	1387	315	0	
 558	PergeTegu	BITE	kɛ́rɛ́	kɛ́rɛ́	k ⁵/ɛ r ⁵/ɛ	1387	314	469	
@@ -589,7 +585,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 585	Bangime	BITE	tāmbà (1)	tāmbà	t ³/a ⁿb ¹/a	2487	21	0	
 586	Bambara	BITE	kiⁿ	kiⁿ	k ĩ	3121	313	469	
 587	BonduSo	BITE	kɛ́rɛ́	kɛ́rɛ́	k ⁵/ɛ r ⁵/ɛ	1387	314	469	
-#
 588	ToroTegu	BITTER	gòlú	gòlú	ɡ ¹/o l ⁵/u	1439	325	0	
 589	BenTey	BITTER	gárì-m ~ gárù-m	gárì-m	ɡ ⁵/a r ¹/i + m	1439	325 326	0	
 590	BankanTey	BITTER	gàrǔm	gàrǔm	ɡ ¹/a r ¹⁵/u + m	1439	325 326	0	
@@ -616,7 +611,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 611	SonghaiSenni	BITTER	hóttó	hóttó	h ⁵/o t t ⁵/o	3754	337	32	
 612	SonghaiKiini	BITTER	hɔ́túrú	hɔ́túrú	h ⁵/ɔ t ⁵/u + r ⁵/u	3754	337 5340	32	
 613	Bambara	BITTER	pɛ́rú	pɛ́rú	p ⁵/ɛː r ⁵/u	3140	5137	487	
-#
 614	Bangime	BLACKSMITH	tùwⁿɔ̀	tùwⁿɔ̀	t ¹/u ∼/w̃ ¹/ɔ	2509	4931	514	
 615	Fulfulde	BLACKSMITH	baylo	baylo	b a j l o	190	345	0	
 616	Jenaama	BLACKSMITH	kùɥgù	kùɥgù	k ¹/u ɥ ɡ ¹/u	3187	346	0	
@@ -644,7 +638,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 638	SonghaiSenni	BLACKSMITH	gàrgás-ò	gàrgás-ò	ɡ ¹/a r ɡ ⁵/a s + ¹/o	3766	347 5341	0	
 639	ToroSo	BLACKSMITH	jɛ́mɛ́-ne	jɛ́mɛ́-ne	dʒ ⁵/ɛ m ⁵/ɛ + n e	1533	339 344	0	
 640	ToroSo	BLACKSMITH	dùbɔ́	dùbɔ́	d ¹/u b ⁵/ɔ	1508	10	0	
-#
 641	SonghaiSenni	BLANKET	tà:f-ò	tà:f-ò	t ¹/aː f + ¹/o	3775	361 362	0	
 642	Fulfulde	BLANKET	suddamaare	sudda-maare	s u d d a + m aː r e	195	5279 5280	0	
 643	Soninke	BLANKET	qúhà	qúhà	q ⁵/u h ¹/a	3192	363	528	
@@ -667,7 +660,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 660	TommoSo	BLANKET	yómbú, àbùrù ǹjòí, sɔ̀w yàá	yómbú	j ⁵/o ⁿb ⁵/u	1542	352	0	
 661	PergeTegu	BLANKET	yùrù-górú	górú	ɡ ⁵/o r ⁵/u	1543	353	528	
 662	Bambara	BLANKET	dùwó	dùwó	d ¹/u w ⁵/o	3189	4894	0	
-#
 663	Bangime	BLINK	jāɡà	jāɡà	j ³/a ɡ ¹/a	2527	370	0	
 664	Bambara	BLINK	kàmìkámí	kàmìkámí	k ¹/a m ¹/i + k ⁵/a m ⁵/i	3213	5141 5141	547	
 665	ToroTegu	BLINK	jìró cɛ́m	cɛ́m	tʃ ⁵/ɛ m	1663	368	0	
@@ -692,7 +684,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 684	Bambara	BLINK	mɛ́ɲɛ́kú	mɛ́ɲɛ́kú	m ⁵/ɛ ɲ ⁵/ɛ + k ⁵/u	3247	5139 5140	0	
 685	Fulfulde	BLINK	maʄʄude	maʄʄ-ude	m a ʄ ʄ + u d e	207	375 5281	0	
 686	SonghaiSenni	BLINK	mélí	mélí	m ⁵/e l ⁵/i	3786	5342	0	
-#
 687	SonghaiSenni	BLOOD	kúr-ó	kúr-ó	k ⁵/u r + ⁵/o	3800	5343 5344	0	
 688	SonghaiSenni	BLOOD	kúr-í	kúr-ó	k ⁵/u r + ⁵/i	3800	5345 5346	0	
 689	Jamsay	BLOOD	ɛ̌w	nɛ̂yⁿ	¹⁵/ɛ w	1733	391	4	
@@ -733,7 +724,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 724	Bambara	BLOOD	jòlí	jòlí	dʒ ¹/o l ⁵/i	3262	389	0	
 725	ToroSo	BLOOD	ìlí	ìlí	¹/i l ⁵/i	1767	397	0	
 726	ToroSo	BLOOD	ìrí	ìrí	¹/i r ⁵/i	1756	397	0	
-#
 727	ToroTegu	BLUNT	dùnú	dùnú	d ¹/u n ⁵/u	1771	407	0	
 728	BenTey	BLUNT	dùmbú	dùmbú	d ¹/u ⁿb ⁵/u	1771	401	0	
 729	Nanga	BLUNT	dùmbí	dùmbí	d ¹/u ⁿb ⁵/i	1771	401	0	
@@ -754,7 +744,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 744	Soninke	BLUNT	béxésó	béxésó	b ⁵/e x ⁵/e s ⁵/o	3317	406	0	
 745	Bangime	BLUNT	mùtù	mùtù	m ¹/u t ¹/u	2552	4935	5	
 746	Fulfulde	BLUNT	muddiɗidde	muddiɗid-de	m u d d i ɗ i d + d e	232	5284 5285	5	
-#
 747	Bambara	BOAT	báláⁿká	báláⁿká	b ⁵/a l ⁵/ã + k ⁵/a	3318	409 0	0	
 748	SonghaiSenni	BOAT	hìy-ò	hìy-ò	h ¹/i j + ¹/o	3811	393 394	0	
 749	BonduSo	BOAT	àlgùmbǎ:	àlgùmbǎ:	¹/a l ɡ ¹/u + ⁿb ¹⁵/aː	1806	411 0	0	
@@ -765,15 +754,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 754	YornoSo	BOAT	sɔ̀rɔ̀gɔ̀-kóró	sɔ̀rɔ̀gɔ̀-kóró	s ¹/ɔ r ¹/ɔ ɡ ¹/ɔ + k ⁵/o r ⁵/o	1822	415 414	620	
 755	Jamsay	BOAT	ní:-kórò	ní:kórò	n ⁵/iː + k ⁵/o r ¹/o	1814	413 414	620	
 756	Mombo	BOAT	kí:ⁿ	kí:ⁿ	k ⁵/ĩ:	1798	410	617	
-757	TiranigeDiga	BOAT	kũũ	kǔ:ⁿ	k ũ:	1798	410	617	
+757	TiranigeDiga	BOAT	kũũ	kǔ:ⁿ	k ũ:	1798	410	617	
 758	Bangime	BOAT	kīìⁿ	kīìⁿ	k ³¹/ĩ:	2559	4936	617	
 759	Fulfulde	BOAT	laana	laana	l aː n a	238	412	0	
 760	Jenaama	BOAT	kūⁿ	kūⁿ	k ³/ũ	3320	425	617	
-761	ToroTegu	BOAT	sɔ́rkɔ̀m-pòrèj	sɔ́rkɔ̀-m pòr-èy	s ⁵/ɔ r k ¹/ɔ + m + p ¹/o r + ¹/e + j	1841	415 422 423 424 4895	0	
+761	ToroTegu	BOAT	sɔ́rkɔ̀m-pòrèj	sɔ́rkɔ̀-m pòr-èy	s ⁵/ɔ r k ¹/ɔ + m + p ¹/o r + ¹/e + j	1841	415 422 423 424 4895	0	
 762	PergeTegu	BOAT	sɔ̀rgɔ̀-gónló	sɔ̀rgɔ̀ góló	s ¹/ɔ r ɡ ¹/ɔ + ɡ ⁵/o l ⁵/o	1822	415 414	0	
 763	Bambara	BOAT	kúrúⁿ	kúrúⁿ	k ⁵/u r ⁵/ũ	3323	425	620	
 764	Soninke	BOAT	húúrè	húúrè	h ⁵/uː r ¹/e	3337	418	0	
-#
 765	ToroTegu	BODY	jèsù-gùsú, jèsù-kùsú, húlè	jèsù-gùsú	dʒ ¹/e s ¹/u + ɡ ¹/u s ⁵/u	1848	428 429	0	
 766	BenTey	BODY	gèsú ~ jèsú	gèsú	ɡ ¹/e s ⁵/u	1852	429	634	
 767	BankanTey	BODY	jèsù gùsú, jèsú	jèsù-gùsú	dʒ ¹/e s ¹/u + ɡ ¹/u s ⁵/u	1848	428 429	0	
@@ -813,7 +801,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 801	ToroSo	BODY	ɡùdʒí	ɡùdʒí	ɡ ¹/u dʒ ⁵/i	1852	429	634	
 802	BonduSo	BODY	ɡòʒúú	ɡòʒúú	ɡ ¹/o ʒ ⁵/uː	1852	429	634	
 803	Bambara	BODY	ó:ɲó	ó:ɲó	⁵/o ɲ	3343	61	0	
-#
 804	Ampari	BONE	gà:wá	gà:wá	ɡ ¹/aː w ⁵/a	1958	435	0	
 805	BankanTey	BONE	kìrⁿěy	kìrⁿěy	k ¹/i ∼/r̃ ¹⁵/e + j	1969	437 439	673	
 806	BenTey	BONE	cìrⁿɛ̌yⁿ	cìrⁿɛ̌yⁿ	tʃ ¹/i ∼/r̃ ¹⁵/ɛ + ∼/j	1973	437 439	0	
@@ -853,7 +840,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 840	ToroSo	BONE	kíí	kíí	k ⁵/iː	1969	437	673	
 841	ToroSo	BONE	ɲɔ́ɔ	ɲɔ́ɔ	ɲ ⁵/ɔ:	1965	450	672	
 842	BonduSo	BONE	kíná-ŋ	kíná-ŋ	k ⁵/i n ⁵/a + ŋ	1974	437 443	0	
-#
 843	Fulfulde	BOW	kalaawal	kalaawal	k a l aː w + a l	269	454 455	698	
 844	Jenaama	BOW	gɛ̀jɛ̄-kìyɛ̀	gɛ̀jɛ̄-kìyɛ̀	ɡ ¹/ɛ dʒ ³/ɛ + k ¹/i j ¹/ɛ	3450	457 458	707	
 845	BenTey	BOW	tô:	tô:	t ⁵¹/oː	2031	450	6	
@@ -873,7 +859,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 859	Bambara	BOW	kálá	kálá	k ⁵/a l ⁵/a	3439	5143	698	
 860	TogoKan	BOW	kɔ̀mɔ̀-kɛ̌ⁿ	kɔ̀mɔ̀-kɛ̌ⁿ	k ¹/ɔ m ¹/ɔ + k ¹∼/ɛ	2056	450 17	707	
 861	Bangime	BOW	tɔ̀ŋɛ̀	tɔ̀ŋɛ̀	t ¹/ɔ ŋ ¹/ɛ	2596	4938	6	
-#
 862	Soninke	BREAKFAST	sògó	sògó	s ¹/o ɡ ⁵/o	3474	475	0	
 863	ToroTegu	BREAKFAST	kàtú	kàtú	k ¹/a t ⁵/u	2084	465	0	
 864	BenTey	BREAKFAST	ɔ̀mɔ̀-ɲɛ̌yⁿ	ɔ̀mɔ̀-ɲɛ̌yⁿ	¹/ɔ m ¹/ɔ + ɲ ¹⁵/ɛ + ∼/j	2086	467 468 469	0	
@@ -890,8 +875,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 875	Fulfulde	BREAKFAST	pummaari	pummaari	p u m m aː r i	280	471	0	
 876	Fulfulde	BREAKFAST	taʄu-kooye	taʄu-kooye	t a ʄ u + k oː j e	287	5286 477	729	
 877	Bambara	BREAKFAST	dàràká	dàràká	d ¹/a r ¹/a k ⁵/a	3463	63	716	
-9636	Bangime	BREAKFAST	tájkòj	tájkòj	t ⁵/a dʒ + k ¹/oː j e	3900	4939 5423	729	
-#
 878	SonghaiSenni	BREAST	fòf-ò	fòf-ò	f ¹/o f + ¹/o	3875	491 492	0	
 879	BozoHainyaxo	BREAST	hoⁿŋoⁿ	hoⁿŋoⁿ	h õ ŋ õ	3485	483	0	
 880	BozoPondorinord	BREAST	kaⁿnuⁿ	kaⁿnuⁿ	k ã n ũ	3485	482	0	
@@ -926,7 +909,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 909	Penange	BREAST	éjjé (y-)	éjjé	⁵/e dʒ + dʒ ⁵/e	2181	489 481	734	
 910	Bambara	BREAST	síⁿ	síⁿ	s ⁵/ĩ	3481	5144	730	
 911	ToroSo	BREAST	írú	írú	⁵/i r ⁵/u	2144	480	0	
-#
 912	ToroTegu	BREATHE	húmsú	húmsú	h ⁵/u m s ⁵/u	2253	513	788	
 913	BenTey	BREATHE	sǔ:ⁿ súⁿ	sǔ:ⁿ_súⁿ	s ũ: + s ⁵/ũ	2220	500 501	33	
 914	BankanTey	BREATHE	sùmɔ́ súmɔ́	sùmɔ́_súmɔ́	s ¹/u m ⁵/ɔ + s ⁵/u m ⁵/ɔ	2220	500 501	0	
@@ -964,7 +946,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 946	SonghaiSenni	BREATHE	húnánzám	húnánzám	h ⁵/u n ⁵/a n z ⁵/a m	3883	510	788	
 947	ToroSo	BREATHE	nín nínú	nín nínú	n ⁵/i n + n ⁵/i n ⁵/u	2250	499 497	7	
 948	ToroSo	BREATHE	níìⁿ nínnɛ̀	níìⁿ nínnɛ̀	n ⁵/ĩ: + n ⁵/i n n ¹/ɛ	2250	499 497	7	
-#
 949	ToroTegu	BROOM	zètú	zètú	z ¹/e t ⁵/u	2258	0	0	
 950	BenTey	BROOM	ùsùnî:	ùsùnî:	¹/u s ¹/u + n ⁵¹/iː	2254	519 520	34	
 951	BankanTey	BROOM	ùsìrⁿî:	ùsìrⁿî:	¹/u s ¹/i + ∼/r̃ ⁵¹/iː	2254	519 517	34	
@@ -990,7 +971,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 971	Bambara	BROOM	fúráláⁿ	fúráláⁿ	f ⁵/u r ⁵/a + l ⁵/ã	3537	516 4943	0	
 972	SonghaiSenni	BROOM	àdá:z-à:	àdá:z-à:	¹/a d ⁵/aː z + ¹/aː	3884	5349 531	34	
 973	ToroSo	BROOM	sá:má	sár̃á	s ⁵/a ∼/r ⁵/a	2260	525	0	
-#
 974	BozoHainyaxo	BUILD	jɔ̀	jɔ̀	dʒ ¹/ɔ	3540	536	821	
 975	Bangime	BUILD	màà-rà	màà-rà	m ¹/aː + r ¹/a	2636	4944 534	817	
 976	Fulfulde	BUILD	mahude	mah-ude	m a h + u d e	310	5287 5288	817	
@@ -1014,7 +994,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 994	Jamsay	BUILD	màá	mǎ:	m ¹⁵/aː	2262	533	817	
 995	SonghaiSenni	BUILD	télé	télé	t ⁵/e l ⁵/e	3885	5350	819	
 996	BozoTiemaCewe	BUILD	tàgá	tàgá	t ¹/a ɡ ⁵/a	3539	537	819	
-#
 997	Fulfulde	BURN (SOMETHING)	sumude	sum-ude	s u m + u d e	311	550 551	35	
 998	BozoDebo	BURN (SOMETHING)	boi	boi	b o i	3542	547	0	
 999	BozoHainyaxo	BURN (SOMETHING)	bwɔ	bwɔ	b w ɔ	3542	547	0	
@@ -1047,7 +1026,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1026	Jamsay	BURN (SOMETHING)	dɛ̌:	dɛ̌:	d ¹⁵/ɛː	2268	545	0	
 1027	SonghaiKiini	BURN (SOMETHING)	kùkúrèy	kùkúrèy	k ¹/u + k ⁵/u r ¹/e + j	3886	553 1987 0	8	
 1028	SonghaiSenni	BURN (SOMETHING)	kùkúrê	kùkúrê	k ¹/u + k ⁵/u r ⁵¹/e	3886	553 1987	8	
-#
 1030	Bangime	BURY	pē-rò	pē-rò	p ³/e + r ¹/o	2638	556 4946	862	
 1031	SonghaiSenni	BURY	fí:jí	fí:jí	f ⁵/iː dʒ ⁵/i	3887	5351	862	
 1032	BozoTieyaxo	BURY	tibi	tibi	t i b i	3546	9	0	
@@ -1078,7 +1056,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1057	ToroSo	BURY	bòðú	bòðú	b ¹/o ð ⁵/u	2275	555	862	
 1058	ToroSo	BURY	bódʒú	bódʒú	b ⁵/o d ʒ ⁵/u	2275	555	862	
 1059	BonduSo	BURY	ùlɛ́ɛ́	ùlɛ́ɛ́	¹/u l ⁵/ɛː	2277	562	0	
-#
 1060	Bangime	BUY	ɥàà-rà	ɥàà-rà	ɥ ¹/aː + r ¹/a	2639	563 564	0	
 1061	Fulfulde	BUY	soodude	sood-ude	s oː d + u d e	313	568 569	0	
 1062	Jenaama	BUY	ā-sàwⁿ	ā-sàwⁿ	³/a + s ¹/a + ∼/w̃	3548	570 571 572	0	
@@ -1102,7 +1079,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1080	Soninke	BUY	qóbó	qóbó	q ⁵/o b ⁵/o	3547	574	0	
 1081	SonghaiSenni	BUY	dêy	dêy	d ⁵¹/e j	3889	5352	0	
 1082	ToroSo	BUY	ɛ́bɛ́	ɛ́bɛ́	⁵/ɛ b ⁵/ɛ	2280	565	0	
-#
 1083	Bambara	CALL	wéélé	wéélé	w ⁵/eː l ⁵/e	3549	575	0	
 1084	Bangime	CALL	jèndò	jèndò	j ¹/e ⁿd ¹/o	2641	4947	902	
 1085	Fulfulde	CALL	noddude	nodd-ude	n o d d + u d e	314	579 580	0	
@@ -1128,7 +1104,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1105	Bambara	CALL	kílí	kílí	k ⁵/i l ⁵/i	3552	584	0	
 1106	SonghaiSenni	CALL	cé	cé	tʃ ⁵/e	3890	583	902	
 1107	Bambara	CALL	dá	dá	d ⁵/a	3550	587	0	
-#
 1108	BankanTey	CAMEL	ɔ̀:ɲɛ̂ⁿ-m	ɔ̀:ɲɛ̂ⁿ-m	¹/ɔː ɲ ⁵¹/ɛ̃ + m	2291	590 5147	9	
 1109	BenTey	CAMEL	ɔ̀:ɲùwⁿɔ̂-m	ɔ̀:ɲùwⁿɔ̂-m	¹/ɔː ɲ ¹/u ∼/w̃ ⁵¹/ɔ + m	2290	590 591	918	
 1110	Bunoge	CAMEL	ɲɔ́ŋɔ́mɛ̀	ɲɔ́ŋɔ́mɛ̀	ɲ ⁵/ɔ ŋ ⁵/ɔ + m ¹/ɛ	2290	588 5147	918	
@@ -1150,7 +1125,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1126	Bambara	CAMEL	nyɔ̀gɔmɛ	ɲɔ̀gɔmɛ	ɲ ¹/ɔ ɡ ɔ + m ɛ	3553	5146 589	918	
 1127	Bangime	CAMEL	ɲɔ̀ŋɔ̀-mɛ́	ɲɔ̀ŋɔ̀-mɛ́	ɲ ¹/ɔ ɡ ¹/ɔ + m ⁵/ɛ	2642	4948 4949	918	
 1128	BonduSo	CAMEL	ñ̀ɔ̀ŋɔ̀-mɛ́	ñ̀ɔ̀ŋɔ̀-mɛ́	ɲ ¹/ɔ ɡ ¹/ɔ + m ⁵/ɛ	2290	588 5147	918	
-#
 1129	ToroTegu	CARRY ON HEAD	dí	dí	d ⁵/i	2295	597	10	
 1130	BenTey	CARRY ON HEAD	dǔ	dǔ	d ¹⁵/u	2295	597	10	
 1131	BankanTey	CARRY ON HEAD	dú	dú	d ⁵/u	2295	597	10	
@@ -1172,7 +1146,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1147	Penange	CARRY ON HEAD	dú-yɛ́	dú-yɛ́	d ⁵/u + j ⁵/ɛ	2295	597 599	10	
 1148	Bangime	CARRY ON HEAD	tùɥɛ̀-rɛ̀ (2)	tùɥɛ̀-rɛ̀	t ¹/u ɥ ¹/ɛ + r ¹/ɛ	2643	4950 4951	10	
 1149	SonghaiSenni	CARRY ON HEAD	léŋgé	léŋgé	l ⁵/e ⁿɡ ⁵/e	3893	600	0	
-#
 1150	ToroTegu	CARVE	wɔ̀gùrú	wɔ̀gùrú	w ¹/ɔ ɡ ¹/u + r ⁵/u	2304	612 603	0	
 1151	BenTey	CARVE	jàrá	jàrá	dʒ ¹/a r ⁵/a	2298	604	0	
 1152	BankanTey	CARVE	zárá	zárá	z ⁵/a r ⁵/a	2298	604	0	
@@ -1196,21 +1169,20 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1170	SonghaiSenni	CARVE	séttê	séttê	s ⁵/e t t ⁵¹/e	3894	611	0	
 1171	Soninke	CARVE	ségú	ségú	s ⁵/e ɡ ⁵/u	3556	612	0	
 1172	Bambara	CARVE	dɛ́sɛ́	dɛ́sɛ́	d ⁵/ɛ s ⁵/ɛ	3555	601	0	
-#
 1173	Bambara	CASSAVA	bànàⁿkú	bànàⁿkú	b ¹/a n ã + k ⁵/u	3557	613 0	968	
 1174	YornoSo	CASSAVA	wòjó	wòjó	w ¹/o dʒ ⁵/o	2311	617	983	
 1175	DogulDom	CASSAVA	kúú	kù:bě:g	k ¹/uː + b ¹⁵/eː + ɡ	2307	2253 614 0	0	
 1176	Penange	CASSAVA	dàlmà-yògó	dàlmà-yògó	d ¹/a l m ¹/a + j ¹/o ɡ ⁵/o	2310	615 0	0	
-1177	Penange	CASSAVA	bànàⁿkú	bànàⁿkú	b ⁵/a n ¹/ã + k ⁵/uː	2305	76 2253	968	
+1177	Penange	CASSAVA	bànàⁿkú	bànàⁿkú	b ⁵/a n ¹/ã + k ⁵/uː	2305	76 2253	968	
 1178	SonghaiSenni	CASSAVA	wòjó	wòjó	w ¹/o j ⁵/o	3896	573	983	
 1181	Jamsay	CASSAVA	bánáŋ-kû	bánáŋ-kû	b ¹/a n ¹/a ŋ + k ⁵¹/u	2308	73 2253	971	
 1182	TiranigeDiga	CASSAVA	bánáŋ-kù	bánáŋ-kù	b ¹/a n ¹/a ŋ + k ¹/u	2308	73 2253	971	
-1183	Mombo	CASSAVA	bàrⁿà-kú:ⁿ	bàrⁿà-kú:ⁿ	b ⁵/a rⁿ ⁵/a + k ⁵/ũː	2307	76 2253	968	
+1183	Mombo	CASSAVA	bàrⁿà-kú:ⁿ	bàrⁿà-kú:ⁿ	b ⁵/a rⁿ ⁵/a + k ⁵/ũː	2307	76 2253	968	
 1184	Bangime	CASSAVA	bànàkû:ⁿ	bànàkû:ⁿ	b ⁵/a n ⁵/a + k ⁵¹/ũː	2645	4954 4955	968	
 1185	Jenaama	CASSAVA	bànáŋ-kú:	bànáŋ-kú:	b ⁵/a n ¹/a ŋ + k ⁵/uː	3558	73 2601	971	
 1186	BenTey	CASSAVA	bálá_kû:ⁿ	bálá_kû:ⁿ	b ¹/a l ¹/a + k ⁵¹/ũː	2307	76 2253	971	
 1187	PergeTegu	CASSAVA	bànà-ŋ̀-kùù	bànà-ŋ̀-kùù	b ⁵/a n ⁵/a ŋ̀/ŋ + k ¹/uː	2308	73 2253	971	
-1188	TogoKan	CASSAVA	bànàⁿ-ku᷆ⁿ	bànàⁿ-ku᷆ⁿ	b ⁵/a n ¹/ã + k ³¹/ũ	2312	76 2253	968	
+1188	TogoKan	CASSAVA	bànàⁿ-ku᷆ⁿ	bànàⁿ-ku᷆ⁿ	b ⁵/a n ¹/ã + k ³¹/ũ	2312	76 2253	968	
 1189	TommoSo	CASSAVA	bànà-kù:_béré	bànà-kù:_béré	b ⁵/a n ⁵/a + k ¹/uː + b ⁵/e r ⁵/e	2308	73 2253 0	971	
 1190	YandaDom	CASSAVA	bànà-kùrù-wòsó	bànà-kùrù-wòsó	b ⁵/a n ⁵/a + k ¹/u r ¹/u + w ¹/o s ⁵ /o	2308	73 2253 617	971	
 1191	BonduSo	CASSAVA	bànà-kù:_bá:gá	bànà-kù:_bá:gá	b ⁵/a n ⁵/a + k ¹/uː + b ¹/a: ɡ ¹/a	2308	73 2253 0	971	
@@ -1218,7 +1190,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1193	Fulfulde	CASSAVA	bànà-kùl-táná	bànà-kùl-táná	b ⁵/a n ⁵/a + k ¹/u l + t ¹/a n ¹/a	317	5290 0 0	971	
 1194	Gourou	CASSAVA	bànàŋ-kû:-ŋgò	bànàŋ-kû:-ŋgò	b ⁵/a n ⁵/a ŋ + k ⁵¹/uː + ⁿɡ ¹/o	2308	73 2253 0	971	
 1195	Nanga	CASSAVA	bànàŋ-kú	bànàŋ-kú	b ⁵/a n ⁵/a ŋ + k ⁵/uː	2308	73 2253	971	
-#
 1196	SonghaiSenni	CAT	hèyl-ò	hèyl-ò	h ¹/e j l + ¹/o	3563	629 630	0	
 1197	ToroTegu	CAT	nìwⁿá	nìwⁿá	n ¹/i ∼/w̃ ⁵/a	2315	620	988	
 1198	BenTey	CAT	nì-nìwⁿɛ̌-m	nì-nìwⁿɛ̌-m	n ¹/i + n ¹/i ∼/w̃ ¹⁵/ɛ + m	2315	622 620 623	988	
@@ -1249,7 +1220,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1223	ToroSo	CAT	gámá	gámá	ɡ ⁵/a m ⁵/a	2316	618	0	
 1224	ToroSo	CAT	ɡámmá	ɡámmá	ɡ ⁵/a m + m ⁵/a	2318	618 0	0	
 1225	BonduSo	CAT	ɡáŋá	ɡáŋá	ɡ ⁵/a ŋ ⁵/a	2316	618	0	
-#
 1226	BozoHainyaxo	CAUSE	dá	dá	d ⁵/a	2647	635	0	
 1227	Fulfulde	CAUSE	saaboo	saaboo	s aː b oː	1	636	0	
 1228	Fulfulde	CAUSE	kamari	kamari	k a m a r i	2	640	0	
@@ -1264,7 +1234,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1237	Nanga	CAUSE	ɲǎ:rⁿí	ɲǎ:rⁿí	ɲ ¹⁵/aː ∼/r̃ ⁵/i	322	634	0	
 1238	PergeTegu	CAUSE	júwɔ́	júwɔ́	dʒ ⁵/u w ⁵/ɔ	323	639	0	
 1239	BankanTey	CAUSE	ɲàrⁿí	ɲàrⁿí	ɲ ¹/a ∼/r̃ ⁵/i	322	634	0	
-#
 1240	Bangime	CAVE	pàà	pàà	p ¹/aː	2320	4959	1021	
 1241	Fulfulde	CAVE	pampaare	pamaare	p a m aː r e	3	647	1021	
 1242	Jenaama	CAVE	pàmbá	pàmbá	p ¹/a ⁿb ⁵/a	2650	648	1021	
@@ -1285,7 +1254,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1257	TiranigeDiga	CAVE	kówⁿ	kówⁿ	k ⁵/o + w̃	327	644 0	0	
 1258	Mombo	CAVE	pɛ̀gɔ̀ kíbá	pɛ̀gɔ̀_kíbá	p ¹/ɛ ɡ ¹/ɔ + k ⁵/i b ⁵/a	328	649 0	0	
 1259	Penange	CAVE	sɔ́ŋgɔ́	sɔ́ŋgɔ́	s ⁵/ɔ ⁿɡ ⁵/ɔ	326	650	0	
-#
 1260	ToroTegu	CHEEK	kà-pìrŋgó	kà-pìrŋgó	k ¹/a + p ¹/i r + ⁿɡ ⁵/o	339	664 668 669	0	
 1261	BenTey	CHEEK	cèlê:	cèlê:	tʃ ¹/e l ⁵¹/eː	331	651	0	
 1262	BankanTey	CHEEK	kèndêy	kèndêy	k ¹/e ⁿd ⁵¹/e + j	330	651 652	11	
@@ -1312,7 +1280,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1283	Penange	CHEEK	kégél-yè	kégél-yè	k ⁵/e ɡ ⁵/e l + j ¹/e	335	662 663	0	
 1284	ToroSo	CHEEK	màmàná	màmàná	m ¹/a + m ¹/a n ⁵/a	332	660 654	0	
 1285	ToroSo	CHEEK	mànná	mànná	m ¹/a n n ⁵/a	332	654	0	
-#
 1286	ToroTegu	CHEST	cɛ̀lkú	cɛ̀lkú	tʃ ¹/ɛ l + k ⁵/u	342	682 672	36	
 1287	BenTey	CHEST	jɛ̀lɛ̀-kû:	jɛ̀lɛ̀-kû:	dʒ ¹/ɛ l ¹/ɛ + k ⁵¹/uː	342	671 672	0	
 1288	BankanTey	CHEST	gèndèkû:	gèndèkû:	ɡ ¹/e ⁿd ¹/e + k ⁵¹/uː	341	671 672	1058	
@@ -1349,7 +1316,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1319	ToroSo	CHEST	gègéɲá	gègéɲá	ɡ ¹/e + ɡ ⁵/e ɲ ⁵/a	344	672 675	1063	
 1320	ToroSo	CHEST	ɡwù ɡwɔ́ⁿ	ɡwù ɡwɔ́ⁿ	ɡ w ¹/u + ɡ w ⁵/ɔ̃	348	679 672	0	
 1321	BonduSo	CHEST	pɛ́lɛ́-ŋ	pɛ́lɛ́-ŋ	p ⁵/ɛ l ⁵/ɛ + ŋ	343	673 676	0	
-#
 1322	Soninke	CHICKEN	sélìŋŋê	sélìŋŋê	s ⁵/e l ¹/i ŋ + ŋ ⁵¹/e	2658	695 696	0	
 1323	Bambara	CHICKEN	syɛ̀	syɛ̀	s j ¹/ɛ	2655	5148	1093	
 1324	ToroTegu	CHICKEN	ɛ̀ⁿsá ~ ɛ̀sá	ɛ̀ⁿsá	∼/ɛ s ⁵/a	349	685	1102	
@@ -1387,7 +1353,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1356	SonghaiSenni	CHICKEN	gòŋg-ò	gòŋg-ò	ɡ ¹/o ⁿɡ + ¹/o	3566	693 694	1097	
 1357	ToroSo	CHICKEN	ɛ̀ɲɛ́	ɛ̀ɲɛ́	¹/ɛ ɲ ⁵/ɛ	355	685	0	
 1358	BonduSo	CHICKEN	kóró	kóró	k ⁵/o r ⁵/o	350	687	1097	
-#
 1359	Bangime	CHIEFTAIN	dēɡē-cɛ̀ⁿ	dēɡē-cɛ̀ⁿ	d ³/e ɡ ³/e + tʃ ɛ̃	2324	4963 4964	1120	
 1360	Fulfulde	CHIEFTAIN	amiiri	amiiri	a m iː r i	7	702	0	
 1361	Jenaama	CHIEFTAIN	ŋìyɛ̀wⁿ (2)	ŋìyɛ̀wⁿ	ŋ ¹/i j ¹/ɛ + w̃	2662	703 704	0	
@@ -1408,7 +1373,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1376	Bambara	CHIEFTAIN	dùgùtígí	dùgùtígí	d ¹/u ɡ ¹/u + t ⁵/i ɡ ⁵/i	2660	697 698	1120	
 1377	ToroSo	CHIEFTAIN	kúúnó	kúúnó	k ⁵/uː n ⁵/o	359	701	0	
 1378	BonduSo	CHIEFTAIN	dómbá	dómbá	d ⁵/o ⁿb ⁵/a	358	699	0	
-#
 1379	ToroTegu	CHILD	ì-rⁿú	ì-rⁿú	¹/i + ∼/r̃ ⁵/u	371	717 723	0	
 1380	BenTey	CHILD	yí-m	yí-m	j ⁵/i + m	363	708 710	12	
 1381	Nanga	CHILD	yî:	yî:	j ⁵¹/iː	363	708	12	
@@ -1446,7 +1410,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1413	ToroSo	CHILD	àyní	àyní	¹/a j + n ⁵/i	366	722 721	0	
 1414	ToroSo	CHILD	íì	íì	⁵¹/iː	369	717	0	
 1415	BonduSo	CHILD	èndéè	èndéè	¹/e ⁿd + ⁵¹/eː	372	725 726	0	
-#
 1416	ToroTegu	CHIN	bɛ̌w	bɛ̌w	b ¹⁵/ɛ w	378	732	0	
 1417	BenTey	CHIN	òmbôy	òmbôy	¹/o ⁿb ⁵¹/o + j	374	85 728	1176	
 1418	BankanTey	CHIN	ɔ̀mbɔ̂y	ɔ̀mbɔ̂y	¹/ɔ̃ b ⁵¹/ɔ + j	373	85 728	0	
@@ -1473,7 +1436,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1439	BozoKotya	CHIN	cɛⁿbo	cɛⁿbo	tʃ ∼/ɛ b o	2668	727	1176	
 1440	BozoTiemaCewe	CHIN	cuⁿbo	cuⁿbo	tʃ ũ b o	2668	727	1176	
 1441	BonduSo	CHIN	ágèn	ágèn	⁵/a ɡ ¹/e + n	382	729 737	0	
-#
 1442	ToroTegu	CLOUD	kùrɔ́	kùrɔ́	k ¹/u r ⁵/ɔ	390	743	0	
 1443	BenTey	CLOUD	yàr-kùrɔ́	yàr-kùrɔ́	j ¹/a r + k ¹/u r ⁵/ɔ	385	742 743	0	
 1444	BankanTey	CLOUD	nànà:rⁿǎyⁿ	nànà:rⁿǎyⁿ	n ¹/a n ¹/aː r̃ ¹⁵/a + j̃	384	740 0	0	
@@ -1505,7 +1467,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1470	Soninke	CLOUD	tábúllè	tábúllè	t ⁵/a b ⁵/u l + l ¹/e	2672	760 761	0	
 1471	ToroSo	CLOUD	kùlùmɔ́	kùlùmɔ́	k ¹/u l ¹/u + m ⁵/ɔ	395	743 755	0	
 1472	BonduSo	CLOUD	kùndɛ́ kùndà	kùndɛ́ kùndà	k ¹/u ⁿd ⁵/ɛ + k ¹/u ⁿd ¹/a	386	744 745	0	
-#
 1473	Jenaama	COLD	mù	mù	m ¹/u	2674	763	0	
 1474	Soninke	COLD	mùrá	mùrá	m ¹/u r ⁵/a	2674	763	0	
 1475	Bambara	COLD	nɛ́nɛ́	nɛ́nɛ́	n ⁵/ɛ n ⁵/ɛ	2673	763	0	
@@ -1542,7 +1503,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1506	Fulfulde	COLD	ɓuuɓol	ɓuuɓol	ɓ uː ɓ + o l	11	772 0	0	
 1507	ToroSo	COLD	kàrú	kàrú	k ¹/a r ⁵/u	400	771	0	
 1508	BonduSo	COLD	yɛ̀ɡɛ́lɛ́-ŋɡɛ́	yɛ̀ɡɛ́lɛ́-ŋɡɛ́	j ¹/ɛ ɡ ⁵/ɛ l ⁵/ɛ + ⁿɡ ⁵/ɛ	399	768 777	0	
-#
 1509	Ampari	COME	égò	égò	⁵/e ɡ ¹/o	402	778	0	
 1510	BankanTey	COME	wɔ́	wɔ́	w ⁵/ɔ	404	780	0	
 1511	BenTey	COME	yɛ̌	yɛ̌	j ¹⁵/ɛ	405	781	0	
@@ -1578,7 +1538,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1541	ToroSo	COME	wéy	wéy	w ⁵/e + j	404	780 786	37	
 1542	ToroSo	COME	yɛ́	yɛ́	ʋ ⁵/ɛ	404	780	37	
 1543	BonduSo	COME	wé	wé	w ⁵/e	404	780	0	
-#
 1544	ToroTegu	COME BACK	bìrǐy	bìrǐ-y	b ¹/i r ¹⁵/i + j	406	788 794	0	
 1545	BenTey	COME BACK	píníwⁿú	píní-wⁿú	p ⁵/i n ⁵/i + w̃ ⁵/u	406	788 790	0	
 1546	BankanTey	COME BACK	bìríyé	bìrí-yé	b ¹/i r ⁵/i + j ⁵/e	406	4968 4969	0	
@@ -1600,7 +1559,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1562	Jamsay	COME BACK	pílí-wé	pílí-wé	p ⁵/i l ⁵/i + w ⁵/e	406	788 790	0	
 1563	SonghaiSenni	COME BACK	yèkà	yèkà	j ¹/e k ¹/a	3572	798	0	
 1564	Bambara	COME BACK	sègíⁿ	sègíⁿ	s ¹/e ɡ ⁵/ĩ	2676	787	0	
-#
 1565	SonghaiSenni	COTTON	hà:b-ò	hà:b-ò	h ¹/aː b + ¹/o	3574	815 816	1298	
 1566	ToroTegu	COTTON	nǎm	nǎm	n ¹⁵/a + m	414	805 813	0	
 1567	BenTey	COTTON	nà:mbú, nà:mú	nà:mbú	n ¹/aː + ⁿb ⁵/u	414	805 806	0	
@@ -1631,7 +1589,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1592	ToroSo	COTTON	nàm	nàm	n ¹/a + m	414	805 813	0	
 1593	BonduSo	COTTON	sá-gò	sá-gò	s ⁵/a + ɡ ¹/o	415	805 807	15	
 1594	Bambara	COTTON	kɔ́ɔ́rí	kɔ́ɔ́rí	k ⁵/ɔː r ¹/i	2677	88	1289	
-#
 1595	SonghaiSenni	COUNT	kábú-r-ó	kábú-r-ó	k ⁵/a b ⁵/u + r + ⁵/o	3575	827 828 829	0	
 1596	Jamsay	COUNT	lúgó	lúgó	l ⁵/u ɡ ⁵/o	425	819	0	
 1597	Mombo	COUNT	nógé	nógé	n ⁵/o ɡ ⁵/e	420	819	1308	
@@ -1652,7 +1609,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1612	Nanga	COUNT	lùgô lúgó	lùgô_lúgó	l ¹/u ɡ ⁵¹/o + l ⁵/u ɡ ⁵/o	425	819 820	0	
 1613	YandaDom	COUNT	lùgò lùgó	lùgò_lùgó	l ¹/u ɡ ¹/o + l ¹/u ɡ ⁵/o	425	819 820	0	
 1614	YornoSo	COUNT	lùg-ê: lúgó	lùg-ê:_lúgó	l ¹/u ɡ + ⁵¹/eː + l ⁵/u ɡ ⁵/o	425	830 824 820	0	
-#
 1615	SonghaiSenni	COUNTRY	gándâ	gándâ	ɡ ⁵/a ⁿd ⁵¹/a	3576	5357	1326	
 1616	BozoDebo	COUNTRY	gaⁿda	gaⁿda	ɡ ã d a	2681	835	1326	
 1617	BozoHainyaxo	COUNTRY	jaⁿmaⁿnaⁿ	jaⁿmaⁿnaⁿ	dʒ ã m ã n ã	2680	831	0	
@@ -1675,7 +1631,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1634	Fulfulde	COUNTRY	leydi	leydi	l e j d i	16	836	0	
 1635	BonduSo	COUNTRY	gwǎː	gwǎː	ɡ w ¹⁵/a	427	834	0	
 1636	Bangime	COUNTRY	ʤúɥɛ́	ʤúɥɛ́	ɡ ³/a ⁿd ¹/a	2333	4973	1326	
-#
 1637	ToroTegu	COW	nàŋá	nàŋá	n ¹/a ŋ ⁵/a	431	841	1354	
 1638	BenTey	COW	nǎ:-m	nǎ:m	n ¹⁵/aː + m	431	841 842	1354	
 1639	YornoSo	COW	nǎ:	nǎ:	n ¹⁵/aː	431	841	1354	
@@ -1684,7 +1639,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1642	YandaDom	COW	nà:	nà:	n ¹/aː	431	841	1354	
 1643	BonduSo	COW	nɛ̌:	nɛ̌:	n ¹⁵/ɛː	431	841	1354	
 1644	Bunoge	COW	ná (nâ: nɔ̀)	ná	n ⁵/a	431	841	1354	
-1645	Jamsay	COW	nàŋà-ná:	nàŋà-ná:	n ¹/à ŋ ⁵/á	431	841	1354	
+1645	Jamsay	COW	nàŋà-ná:	nàŋà-ná:	n ¹/à ŋ ⁵/á	431	841	1354	
 1646	TomoKan	COW	nàŋà	nàŋà	n ¹/a ŋ ¹/a	431	841	1354	
 1647	TiranigeDiga	COW	ná:	ná:	n ⁵/aː	431	841	1354	
 1648	Mombo	COW	nâ:	nâ:	n ⁵¹/aː	431	841	1354	
@@ -1707,11 +1662,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1665	BozoKorondougounord	COW	naⁿaⁿ	naⁿaⁿ	n ∼/ãː	2683	841	1354	
 1666	BozoKorondougousud	COW	naa	naa	n aː	2683	841	1354	
 1667	Soninke	COW	nàà	nàà	n ¹/a:	2683	841	1354	
-1668	SonghaiSenni	COW	kòps-ò	kòps-ò	k ¹/ò p s ¹/ò	3577	848	0	
+1668	SonghaiSenni	COW	kòps-ò	kòps-ò	k ¹/ò p s ¹/ò	3577	848	0	
 1669	Bambara	COW	mìsí	mìsí	m ¹/i s ⁵/i	2682	840	0	
 1670	ToroSo	COW	nàá	nàá	n ¹⁵/aː	431	841	1354	
 1671	ToroSo	COW	nàjì	nàjì	n ¹/a j ¹/i	431	841	1354	
-#
 1673	Bangime	CRY	ʒīn-dò (1)	ʒīn-dò	ʒ ³/i + ⁿd ¹/o	2335	4972 852	0	
 1674	Fulfulde	CRY	wullude	wull-ude	w u l l + u d e	18	5291 859	1372	
 1675	Jenaama	CRY	wō	wō	w ³/o	2684	857	1372	
@@ -1726,8 +1680,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1684	BozoTieyaxo	CRY	gwo	gwo	ɡ w o	2684	855	1372	
 1685	BozoTiemaCewe	CRY	guo	guo	ɡ u o	2685	855	1374	
 1686	Soninke	CRY	wú	wú	w ⁵/u	2684	857	1372	
-1687	Gourou	CRY	ɛ́:ⁿ	ɛ́:ⁿ	⁵/ɛ̃ː	439	858	38	
-1688	Jamsay	CRY	ɛ̌:ⁿ	ɛ̌:ⁿ	¹⁵/ɛ̃ː	439	858	38	
+1687	Gourou	CRY	ɛ́:ⁿ	ɛ́:ⁿ	Ø ⁵/ɛ̃ː	439	858	38	
+1688	Jamsay	CRY	ɛ̌:ⁿ	ɛ̌:ⁿ	Ø ¹⁵/ɛ̃ː	439	858	38	
 1689	Jamsay	CRY	ɛ̌:ⁿ, pé:	pé:	p ⁵/eː	438	858	0	
 1690	TogoKan	CRY	kɔ́:ⁿ	kɔ́:ⁿ	k ɔ̃ː	437	855	1374	
 1691	TiranigeDiga	CRY	kɔ́mɔ́	kɔ́mɔ́	k ⁵/ɔ m ⁵/ɔ	437	855	1374	
@@ -1747,9 +1701,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1705	YandaDom	CRY	yɛ́\\yá-lì	yɛ́	j ⁵/ɛ	433	853	0	
 1706	ToroTegu	CRY	yí\\yɛ́, pí\\pé	yí	j ⁵/i	433	853	0	
 1707	ToroTegu	CRY	pí	yí	j ⁵/i	433	853	0	
-1708	SonghaiSenni	CRY	hé:ⁿ	hé:ⁿ	h ⁵/ẽː	3578	860	38	
+1708	SonghaiSenni	CRY	hé:ⁿ	hé:ⁿ	h ⁵/ẽː	3578	860	38	
 1709	BonduSo	CRY	ɲǎŋ	ɲǎŋ	n ¹⁵/aː ŋ	435	851	0	
-#
 1710	TogoKan	DAY (NOT NIGHT)	nùŋú ná:, ìsìgɛ́	nùŋú_ná:	n ¹/u ŋ ⁵/u + n ⁵/aː	450	866 874	0	
 1711	Bangime	DAY (NOT NIGHT)	nìjɛ̀ (2)	nìjɛ̀	n ¹/i j ¹/ɛ	2336	862	0	
 1712	Fulfulde	DAY (NOT NIGHT)	ɲande	ɲande	ɲ a ⁿd e	19	867	0	
@@ -1773,7 +1726,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1730	Penange	DAY (NOT NIGHT)	gɛ̀:ⁿ_(in:_gɛ̀:ⁿ_nì_'in_the_daytime',_lit._'with_sun'),_gɛ̀:dɛ̀n	gɛ̀:ⁿ	ɡ ∼/ɛː	448	865	0	
 1731	TiranigeDiga	DAY (NOT NIGHT)	dè:ŋgú_(Boui),_dɛ̀nìgí_(Ningo)	dè:ŋgú	d ¹/eː ⁿɡ ⁵/u	447	871	0	
 1732	SonghaiSenni	DAY (NOT NIGHT)	zá:níy-ó	zá:níy-ó	z ⁵/aː n ⁵/i j + ⁵/o	3579	872 873	0	
-#
 1733	SonghaiSenni	DEW	hárándáŋ-ó ~ hárándéŋ-ó	hárándáŋ-ó	h ⁵/a r ⁵/a ⁿd ⁵/a ŋ + ⁵/o	3580	5358 894	0	
 1734	ToroTegu	DEW	àrándáŋ	àrándáŋ	¹/a r ⁵/a ⁿd ⁵/a + ŋ	454	893 0	0	
 1735	BenTey	DEW	ìrè-nî:, èrè-nî:	ìrè-nî:	¹/i r ¹/e + n ⁵¹/iː	454	880 883	0	
@@ -1801,7 +1753,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1757	BozoTiemaCewe	DEW	joⁿbo	joⁿbo	dʒ õ b o	2689	93	1419	
 1758	ToroSo	DEW	wòòbú	wòòbú	w ¹/oː b ⁵/u	456	884	1419	
 1759	BonduSo	DEW	ɛ́làà	ɛ́làà	⁵/ɛ l ¹/aː	455	880	0	
-#
 1760	ToroTegu	DIE	núm	núm	n ⁵/u + m	469	906 910	0	
 1761	BenTey	DIE	tíwɛ́	tíwɛ́	t ⁵/i w ⁵/ɛ	465	897	0	
 1762	Nanga	DIE	túwɛ́ ~ tíwɛ́	túwɛ́	t ⁵/u w ⁵/ɛ	465	897	0	
@@ -1842,7 +1793,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1797	ToroSo	DIE	yííwⁿ	yííwⁿ	j ⁵/iː ∼/w̃	466	903	16	
 1798	ToroSo	DIE	ɲíì	ɲíì	ɲ ⁵¹/iː	469	906	0	
 1799	BonduSo	DIE	tíbɛ̀	tíbɛ̀	t ⁵/i b ¹/ɛ	465	897	0	
-#
 1800	Bangime	DIG	kììndù	kììndù	k ¹/iː ⁿd ¹/u	2340	4974	1479	
 1801	Fulfulde	DIG	asude	as-ude	a s + u d e	23	916 917	0	
 1802	Jenaama	DIG	ā-sàgà	ā-sàgà	³/a + s ¹/a ɡ ¹/a	2698	919 918	1484	
@@ -1868,7 +1818,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1822	TiranigeDiga	DIG	kɔ́lɔ́	kɔ́lɔ́	k ⁵/ɔ l ⁵/ɔ	470	914	1479	
 1823	ToroSo	DIG	ɡùró	ɡùró	ɡ ¹/u r ⁵/o	470	914	1479	
 1824	BonduSo	DIG	gánjé	gánjé	ɡ ⁵/a ⁿdʒ ⁵/e	470	913	1479	
-#
 1825	ToroTegu	DINNER (SUPPER)	nè:sé	nè:sé	n ¹/eː s ⁵/e	475	941	0	
 1826	BenTey	DINNER (SUPPER)	ɲàrⁿù-nùmjó, ɲà-nùmjó, nùmjó	ɲàrⁿù-nùmjó	ɲ ¹/a ∼/r̃ ¹/u + n ¹/u ⁿdʒ ⁵/o	476	928 929	0	
 1827	BankanTey	DINNER (SUPPER)	nùmzó	nùmzó	n ¹/u m z ⁵/o	475	927	0	
@@ -1894,7 +1843,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1847	Bangime	DINNER (SUPPER)	jììjē-hùⁿ-pɔ́wⁿ	jììjē-hùⁿ-pɔ́wⁿ	j ¹/iː j ³/e + h ¹/ũ + p ⁵/ɔ ∼/w̃	2341	924 925 926	0	
 1848	Bambara	DINNER (SUPPER)	sìfáná	sìfáná	s ¹/i + f ⁵/a n ⁵/a	2700	922 5149	17	
 1849	Bambara	DINNER (SUPPER)	súrɔ́fáná	súrɔ́fáná	s ⁵/u r ⁵/ɔ + f ⁵/a n ⁵/a	2700	942 5150	17	
-#
 1850	Bangime	DISEASE	dɛ̀ɡɛ̀	dɛ̀ɡɛ̀	d ¹/ɛ ɡ ¹/ɛ	2342	944	0	
 1851	Fulfulde	DISEASE	ɲaw	ɲaw	ɲ a w	25	951	0	
 1852	Jenaama	DISEASE	wɔ̀bɔ̀	wɔ̀bɔ̀	w ¹/ɔ b ¹/ɔ	2702	952	0	
@@ -1922,7 +1870,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1874	SonghaiSenni	DISEASE	jáŋgór-ò	jáŋgór-ò	dʒ ⁵/a ⁿɡ ⁵/o r + ¹/o	3586	5152 953	0	
 1875	ToroSo	DISEASE	gíwⁿú	gíwⁿú	ɡ ⁵/i ∼/w̃ ⁵/u	486	955	0	
 1876	BonduSo	DISEASE	sààmà-ŋ	sààmà-ŋ	s ¹/aː m ¹/a + ŋ	483	947 948	0	
-#
 1877	BozoTiemaCewe	DIVIDE	cééxú	cééxú	tʃ ⁵/e x ⁵/e ⁵/u	2704	963	0	
 1878	SonghaiSenni	DIVIDE	zèmnà ~ zènnà	zèmnà	z ¹/e m + n ¹/a	3587	970 971	0	
 1879	ToroTegu	DIVIDE	hélú	hélú	h ⁵/e l ⁵/u	490	973	1540	
@@ -1952,7 +1899,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1903	Fulfulde	DIVIDE	feccude	fecc-ude	f e tʃ tʃ + u d e	26	965 966	0	
 1904	ToroSo	DIVIDE	gàmú-rú	gàmú-rú	ɡ ¹/a m ⁵/u + r ⁵/u	491	961 967	0	
 1905	BonduSo	DIVIDE	kàànjíí	kàànjíí	k ¹/aː ⁿdʒ ⁵/iː	487	961	1534	
-#
 1906	SonghaiSenni	DOG	háns-ó	háns-ó	h ⁵/a n s + ⁵/o	3588	984 985	0	
 1907	ToroTegu	DOG	nènú	nènú	n ¹/e n ⁵/u	498	981	1567	
 1908	BenTey	DOG	ìnjɛ̌-m	ìnjɛ̌-m	¹/i ⁿdʒ ¹⁵/ɛ + m	495	976 979	0	
@@ -1993,7 +1939,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1943	ToroSo	DOG	ìdʒú	ìdʒú	¹/i d ʒ ⁵/u	495	976	0	
 1944	BonduSo	DOG	ùnɡwɛ́ɛ́	ùnɡwɛ́ɛ́	¹/u ⁿɡ w ⁵/ɛː	497	980	0	
 1945	Bambara	DOG	wùlú	wùlú	w ¹/u l ¹/u	2708	741	0	
-#
 1946	SonghaiSenni	DONKEY	fàrk-ò	fàrk-ò	f ¹/a r k + ¹/o	3589	1006 1007	18	
 1947	ToroTegu	DONKEY	zàndúrú	zàndúrú	z ¹/a ⁿd ⁵/u + r ⁵/u	506	997 995	0	
 1948	BenTey	DONKEY	súrú-bɔ̀ŋgɔ̂-m, sú-bɔ̀ŋgɔ̂-m	súrú-bɔ̀ŋgɔ̂-m	s ⁵/u r ⁵/u + b ¹/ɔ ⁿɡ ⁵¹/ɔ + m	504	990 992 993	0	
@@ -2022,7 +1967,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 1971	ToroSo	DONKEY	jàndúrú	jàndúrú	dʒ ¹/a ⁿd ⁵/u + r ⁵/u	506	997 995	0	
 1972	BonduSo	DONKEY	páráŋɡá	páráŋɡá	p ⁵/a r ⁵/a + ⁿɡ ⁵/a	505	1011 989	18	
 1973	Bambara	DONKEY	fàlí	fàlí	f ¹/a l ⁵/i	2713	765	18	
-#
 1974	Mombo	DOOR	bô:ⁿ	bô:ⁿ	b õː	513	1023	0	
 1975	Penange	DOOR	bòwⁿ	bòwⁿ	b ¹/o + w̃	513	1023 849	0	
 1976	TiranigeDiga	DOOR	bówⁿ, ìmbì	bówⁿ	b ⁵/o + w̃	513	1023 849	0	
@@ -2060,7 +2004,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2008	ToroSo	DOOR	tááŋ	tááŋ	t ⁵/aː + ŋ	509	1013 1002	1599	
 2009	BonduSo	DOOR	tíŋàà	tíŋàà	t ⁵/i ŋ ¹/aː	509	1027	1599	
 2010	Bambara	DOOR	dɑ	dɑ	d ɑ	2716	1016	1599	
-#
 2011	BankanTey	DOORPOST	òrò-mbǔ:	òrò-mbǔ:	¹/o r ¹/o + ⁿb ¹⁵/uː	518	1030 1031	0	
 2012	BenTey	DOORPOST	ùrò-mǒ:	ùrò-mǒ:	¹/u r ¹/o + m ¹⁵/oː	519	1030 1031	0	
 2013	DogulDom	DOORPOST	dòló	dòló	d ¹/o l ⁵/o	521	1030	0	
@@ -2080,7 +2023,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2027	PergeTegu	DOORPOST	òsù-ká:	òsù-ká:	¹/o s ¹/u + k ⁵/aː	526	1038 1039	0	
 2028	TogoKan	DOORPOST	gìrⁿì-káⁿ	gìrⁿì-káⁿ	ɡ ¹/i r̃ ¹/i + k ⁵/ã	520	1032 1039	0	
 2029	Bangime	DOORPOST	kò-nɔ̀wⁿ	kò-nɔ̀wⁿ	k ¹/o + n ¹/ɔ w̃	2348	4979 4980	1635	
-#
 2030	Bangime	DOVE	wúúrɛ̀	wúúrɛ̀	w ⁵/uː r ¹/ɛ	2349	1044	0	
 2031	Fulfulde	DOVE	foondumaraandu	foondu-maraandu	f oː ⁿd u + m a r aː + ⁿd u	30	1054 1055 1056	1660	
 2032	SonghaiKiini	DOVE	kóŋɡéy	kóŋɡéy	k ⁵/o ⁿɡ ⁵/e + j	3591	5359 1065	1667	
@@ -2106,7 +2048,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2052	Penange	DOVE	pólmálá:ndì (< Ful.)	pólmálá:ndì	p ⁵/o l + m ⁵/a l ⁵/aː + ⁿd ¹/i	535	1062 1063 1051	1660	
 2053	Bambara	DOVE	kwee	kwee	k w eː	2722	1043	0	
 2054	Jenaama	DOVE	pùlèŋkūwōⁿ	pùlèŋkūwōⁿ	p ¹/u l ¹/e + ŋ + k ³/u w ³/õ	2724	1058 1059 1060	1662	
-#
 2055	Fulfulde	DRINK	yarude	yar-ude	j a r + u d e	31	1072 1073	0	
 2056	Jenaama	DRINK	ā-āmɛ̀wⁿ	ā-āmɛ̀wⁿ	³/a + ³/a m ¹/ɛ + w̃	2727	1074 1069 1075	0	
 2057	Jamsay	DRINK	nɔ̌:	nɔ̌:	n ¹⁵/ɔː	543	1068	19	
@@ -2144,7 +2085,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2089	ToroSo	DRINK	nɔ́y	nɔ́y	n ⁵/ɔ + j	543	1068 1077	19	
 2090	ToroSo	DRINK	nɔ́ɔ́	nɔ́ɔ́	n ⁵/ɔː	543	1068	19	
 2091	BonduSo	DRINK	nɛ̀ɛ̀	nɛ̀ɛ̀	n ¹/ɛː	543	1068	19	
-#
 2092	Bangime	DRIP (FALL IN GLOBULES)	bīlà	bīlà	b ³/i l ¹/a	2351	1078	0	
 2093	Fulfulde	DRIP (FALL IN GLOBULES)	si'ude	si'-ude	s i ʔⁿ + u d e	32	1080 1081	0	
 2094	SonghaiSenni	DRIP (FALL IN GLOBULES)	lótí	lótí	l ⁵/o t ⁵/i	3593	1087	1720	
@@ -2167,7 +2107,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2111	Nanga	DRIP (FALL IN GLOBULES)	tégé	tégé	t ⁵/e ɡ ⁵/e	545	1079	0	
 2112	PergeTegu	DRIP (FALL IN GLOBULES)	tégé	tégé	t ⁵/e ɡ ⁵/e	545	1079	0	
 2113	TommoSo	DRIP (FALL IN GLOBULES)	tégé	tégé	t ⁵/e ɡ ⁵/e	545	1079	0	
-#
 2114	BonduSo	DRY	mǎ:-ŋgó	mǎ:-ŋgó	m ¹⁵/aː + ⁿɡ ⁵/o	551	1089 1093	0	
 2115	TogoKan	DRY	mǎ	mǎ	m ¹⁵/a	550	1089	0	
 2116	TommoSo	DRY	máá	máá	m ⁵/aː	550	1089	0	
@@ -2196,7 +2135,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2139	BonduSo	DRY	màyó:	màyó:	m ¹/a j ⁵/oː	550	1089	0	
 2140	TebulUre	DRY	màɛ́ⁿ	màɛ́ⁿ	m ¹/a ⁵/ɛ̃	550	1089	0	
 2141	Jamsay	DRY	mǎyⁿ	mǎyⁿ	m ¹⁵/a ∼/j	550	1089	0	
-#
 2142	ToroTegu	DUST	kúsò	kúsò	k ⁵/u s ¹/o	565	1104	1773	
 2143	BenTey	DUST	kù-kɔ̀rɔ̌y	kù-kɔ̀rɔ̌y	k ¹/u + k ¹/ɔ r ¹⁵/ɔ + j	554	112 1103 1105	1749	
 2144	BankanTey	DUST	kɔ̀-kɔ̀rɔ̌y	kɔ̀-kɔ̀rɔ̌y	k ¹/ɔ + k ¹/ɔ r ¹⁵/ɔ + j	554	112 1103 1105	1749	
@@ -2235,7 +2173,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2177	Soninke	DUST	qòbê	qòbê	q ¹/o b ⁵¹/e	2738	107	1766	
 2178	ToroSo	DUST	úgúnú	úgúnú	⁵/u ɡ ⁵/u + n ⁵/u	558	112 1123	1761	
 2179	BonduSo	DUST	ɡɔjɛ ɡɔjɔŋ	ɡɔjɛ ɡɔjɔŋ	ɡ ɔ dʒ ɛ + ɡ ɔ dʒ ɔ + ŋ	562	1118 1126 1112	0	
-#
 2180	Bangime	DYE	dìsá	dìsá	d ¹/i s ⁵/a	2354	1028	0	
 2181	ToroTegu	DYE	síŋí-né	síŋíné	s ⁵/i ŋ ⁵/i + n ⁵/e	569	619 0	0	
 2182	BenTey	DYE	gàrà:	gàrà: jéwⁿè-wⁿ	ɡ ¹/a r ¹/a:	567	496	1779	
@@ -2255,7 +2192,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2196	Bambara	DYE	gàlá	gàlá	ɡ ¹/a l ⁵/a	2739	1010	1779	
 2197	Fulfulde	DYE	gara	gara	ɡ a r a	36	1111	1779	
 2198	Soninke	DYE	gàrâ	gàrâ	ɡ ¹/a r â	2739	2609	1779	
-#
 2199	SonghaiSenni	EAR	hàɲê	hàɲê	h ¹/a ɲ ⁵¹/e	3597	1136	1815	
 2200	ToroTegu	EAR	súgúrú	súgúrú	s ⁵/u ɡ ⁵/u + r ⁵/u	570	1126 1127	0	
 2201	BenTey	EAR	sú:rⁿù	sú:rⁿù	s ⁵/uː + ∼/r̃ ¹/u	571	1126 1127	0	
@@ -2302,7 +2238,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2242	Soninke	EAR	tárò	tárò	t ⁵/a r ¹/o	2741	1128	1799	
 2244	ToroSo	EAR	súɡúrù	súɡúrù	s ⁵/u ɡ ⁵/u + r ¹/u	570	1126 1127	0	
 2245	BonduSo	EAR	súnù	súnù	s ⁵/u n ¹/u	572	1126	1815	
-#
 2246	SonghaiSenni	EARRING	kòrb-ò	kòrb-ò	k ¹/o r b + ¹/o	3598	1151 1152	0	
 2247	ToroTegu	EARRING	súgúrú lìsà	lìsà	l ¹/i s ¹/a	582	1159	0	
 2248	BenTey	EARRING	sù:rⁿù búkúlî:	búkúlî:	b ⁵/u k ⁵/u + l ⁵¹/iː	574	1141 1142	0	
@@ -2326,7 +2261,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2266	Bangime	EARRING	tàŋà-jérémbɛ̀	jérémbɛ̀	j ⁵/e r ⁵/e + ⁿb ¹/ɛ	2356	1137 1138	20	
 2267	Fulfulde	EARRING	hootonnde	hootonnde	h oː t o n + ⁿd e	38	1146 1147	0	
 2268	TomoKan	EARRING	sùgù-jìgèⁿ	sùgù-jìgèⁿ	s ¹/u ɡ ¹/u + dʒ ¹/i ɡ ẽ	575	1143 1158	0	
-#
 2269	SonghaiSenni	EASY	hóyê	hóyê	h ⁵/o j ⁵¹/e	3599	5157	0	
 2270	Mombo	EASY	bédyê:	bédyê:	b ⁵/e d + j ⁵¹/eː	584	1170 1171	0	
 2271	TebulUre	EASY	ná:n-í: (ná:n-í:-yà-)	ná:n-í:	n ⁵/aː n ⁵/iː	583	1164	0	
@@ -2345,7 +2279,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2284	Jenaama	EASY	ɲīyɛ̄-gù	ɲīyɛ̄-gù	ɲ ³/i j ³/ɛ + ɡ ¹/u	2744	1168 5158	0	
 2285	Bambara	EASY	nèyê	nèyê	n ¹/e j ⁵¹/e	2744	1162	0	
 2286	Bambara	EASY	dúmáⁿ	dúmáⁿ	d ⁵/u m ⁵/ã	2745	1175	0	
-#
 2287	SonghaiSenni	EAT	ŋà:	ŋà:	ŋ ¹/aː	3600	5360	1859	
 2288	Bangime	EAT	dījà	dījà	d ³/i j ¹/a	2358	4983	1857	
 2289	Fulfulde	EAT	ɲaamude	ɲaam-ude	ɲ aː m + u d e	40	5295 1180	1859	
@@ -2384,7 +2317,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2322	ToroSo	EAT	káy	káy	k ⁵/a j	591	1179	0	
 2323	ToroSo	EAT	kááyì	kááyì	k ⁵/aː j + ¹/i	591	1179 1185	0	
 2324	BonduSo	EAT	kwɛ̀ɛ̀	kwɛ̀ɛ̀	k w ¹/ɛː	590	1179	0	
-#
 2325	SonghaiSenni	EGG	gùŋgùr-ò	gùŋgùr-ò	ɡ ¹/u ⁿɡ ¹/u r + ¹/o	3601	1195 1196	0	
 2326	ToroTegu	EGG	tàrú	tàrú	t ¹/a r ⁵/u	595	1189	0	
 2327	BenTey	EGG	tàrî:	tàrî:	t ¹/a r ⁵¹/iː	595	1189	0	
@@ -2422,7 +2354,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2359	Soninke	EGG	yèllê	yèllê	j ¹/e l l ⁵¹/e	2755	1197	0	
 2360	ToroSo	EGG	tárú	tárú	t ⁵/a r ⁵/u	595	1189	0	
 2361	BonduSo	EGG	pòlú	pòlú	p ¹/o l ⁵/u	596	1186	1895	
-#
 2362	ToroTegu	EIGHT	gá:rà	gá:rà	ɡ ⁵/aː r ¹/a	602	1201	0	
 2363	BenTey	EIGHT	gá:rày	gá:rày	ɡ ⁵/aː r ¹/a + j	602	1201 1202	0	
 2364	Nanga	EIGHT	gá:rɛ̀	gá:rɛ̀	ɡ ⁵/aː r ¹/ɛ	602	1201	0	
@@ -2460,7 +2391,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2396	ToroSo	EIGHT	gágárá	gágárá	ɡ ⁵/a + ɡ ⁵/a r ⁵/a	602	1204 1201	0	
 2397	ToroSo	EIGHT	ɡáárà	ɡáárà	ɡ ⁵/aː r ¹/a	602	1201	0	
 2398	BonduSo	EIGHT	sààɡì-n	sààɡì-n	s ¹/aː ɡ ¹/i + n	600	1200 1207	1923	
-#
 2399	ToroTegu	ELBOW	lɔ̀ tùŋó	tùŋó	l ¹/ɔ̀ + t ¹/u ŋ ⁵/o	608	4555 1209	0	
 2400	BenTey	ELBOW	nà:-[tú-tɔ̂w] ~ nà:-[tí-tɔ̂w]	tú-tɔ̂w	n ¹/aː + t ⁵/u + t ⁵¹/ɔ w	605	2744 1209 1210	0	
 2401	BankanTey	ELBOW	nà: tótôw	tótôw	n ¹/aː + t ⁵/o + t ⁵¹/o w	605	2744 1209 1210	0	
@@ -2492,7 +2422,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2427	ToroSo	ELBOW	ɲɔ́ɔ́ ɲɔ̀ŋɔ́	ɲɔ́ɔ́ ɲɔ̀ŋɔ́	ɲ ⁵/ɔː + ɲ ¹/ɔ ŋ ⁵/ɔ	611	1209 1210	0	
 2428	BonduSo	ELBOW	kíndʒù	kíndʒù	k ⁵/i ⁿd ʒ ¹/u	606	1211	0	
 2429	Bambara	ELBOW	nɔ̰̀gɔ̰̀_kúrú	nɔ̰̀gɔ̰̀_kúrú	n ¹/ɔ̃ ɡ ¹/ɔ̃ + k ⁵/u r ⁵/u	2757	539 4558	0	
-#
 2430	Bangime	ELEPHANT	tàŋà-m̀-bóɡó	tàŋà-m̀-bóɡó	t ¹/a ŋ ¹/a + m + b ⁵/o ɡ ⁵/o	2363	4986 1231 1232	23	
 2431	Fulfulde	ELEPHANT	ɲiiwa	ɲiiwa	ɲ iː w a	45	5296	22	
 2432	Jenaama	ELEPHANT	tùwɔ̄-bùlòⁿ	tùwɔ̄-bùlòⁿ	t ¹/u w ³/ɔ + b ¹/u l õ	2764	1237 1243	23	
@@ -2525,7 +2454,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2475	SonghaiSenni	ELEPHANT	cé-bè:r-ò	cé-bè:r-ò	tʃ ⁵/e + b ¹/eː r + ¹/o	3604	5361 1244 1245	24	
 2476	ToroSo	ELEPHANT	dùŋ náː	dùŋ náː	d ¹/u ŋ + n ⁵/aː	615	1242 1240	0	
 2477	Bambara	ELEPHANT	sàmá	sàmá	s ¹/a m ⁵/a	2762	4808	0	
-#
 2478	TebulUre	EMPTY	ǹdɛ́	ǹdɛ́	ⁿd ⁵/ɛ	621	1254	2006	
 2479	ToroTegu	EMPTY	péré, kòw-péré (sack, bag), pùrò-péré (pocket, rigid container)	péré	p ⁵/e r ⁵/e	624	1261	0	
 2480	BenTey	EMPTY	kòrǒy	kòrǒy	k ¹/o r ¹⁵/o + j	620	1252 1253	2005	
@@ -2555,7 +2483,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2504	Soninke	EMPTY	kúrúmà	kúrúmà	k ⁵/u r ⁵/u + m ¹/a	2766	5159 1266	2005	
 2505	ToroSo	EMPTY	íθú	íθú	⁵/i θ ⁵/u	619	1251	0	
 2506	BonduSo	EMPTY	njɛ̀ɛ̀-ŋɡò	njɛ̀ɛ̀-ŋɡò	ⁿdʒ ¹/ɛː + ⁿɡ ¹/o	626	1254 1252	0	
-#
 2507	Bangime	ENTER	mīndè	mīndè	m ³/i + ⁿd ¹/e	2365	1268 1269	0	
 2508	Fulfulde	ENTER	naatude	naat-ude	n aː t + u d e	47	5297 1272	0	
 2509	Jenaama	ENTER	dūwɔ̄ (2)	dūwɔ̄	d ³/u w ³/ɔ	2770	1273	2023	
@@ -2578,7 +2505,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2526	YandaDom	ENTER	nɔ́	nɔ́	n ⁵/ɔ	629	1270	0	
 2527	PergeTegu	ENTER	nɔ́:	nɔ́:	n ɔː	629	1270	0	
 2528	Bambara	ENTER	dò̰	dò̰	d õ	2770	118	2023	
-#
 2529	Ampari	EYE	gìdó	gìdó	ɡ ¹/i d ⁵/o	632	1277	42	
 2530	BankanTey	EYE	gìré	gìré	ɡ ¹/i r ⁵/e	633	1277	42	
 2531	BenTey	EYE	jìré	jìré	dʒ ¹/i r ⁵/e	633	1277	0	
@@ -2617,7 +2543,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2564	ToroSo	EYE	gìrí	gìrí	ɡ ¹/i r ⁵/i	633	1277	42	
 2565	ToroSo	EYE	ɡìrì í	ɡìrì í	ɡ ¹/i r ¹/i + ⁵/i	633	1277 1285	42	
 2566	BonduSo	EYE	jíró	jíró	dʒ ⁵/i r ⁵/o	633	1277	0	
-#
 2567	ToroTegu	FACE	jìnǒŋ ~ gìnǒŋ	jìnǒ-ŋ	dʒ ¹/i n ¹⁵/o + ŋ	638	1297 1291	0	
 2568	BenTey	FACE	jìrè nûm	jìrè-nûm	dʒ ¹/i r ¹/e + n ⁵¹/u + m	635	1287 1289 1290	0	
 2569	BankanTey	FACE	gìrè nûm	gìrè-nûm	ɡ ¹/i r ¹/e + n ⁵¹/u + m	635	1287 1289 1290	0	
@@ -2643,7 +2568,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2589	Bambara	FACE	ɲɛ́dá	ɲɛ́dá	ɲ ⁵/ɛ d ⁵/a	2775	1286	0	
 2590	ToroSo	FACE	gìrù pàrá	gìrù pàrá	ɡ ¹/i r ¹/u + p ¹/a r ⁵/a	636	1287 1288	2074	
 2591	ToroSo	FACE	ɡírú pàá	ɡírú pàá	ɡ ⁵/i r ⁵/u + p ¹⁵/aː	636	1287 1288	2074	
-#
 2592	Nanga	FALL	yɛ̀gɛ́	yɛ̀gɛ́	j ¹/ɛ ɡ ⁵/ɛ	641	1301	0	
 2593	Jamsay	FALL	nǔm	nǔm	n ¹⁵/u m	644	1308	0	
 2594	BankanTey	FALL	yǎ:	yǎ:	j ¹⁵/aː	641	1301	0	
@@ -2676,7 +2600,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2621	Soninke	FALL	wàtí	wàtí	w ¹/a t ⁵/i	2782	1315	0	
 2622	SonghaiSenni	FALL	dò:rù	dò:rù	d ¹/oː r ¹/u	3608	5362	0	
 2623	Bambara	FALL	biⁿ	biⁿ	b ĩ	2776	1298	0	
-#
 2624	Bambara	FAR	noⁿu	noⁿu	n õ u	2783	1317	0	
 2625	Bambara	FAR	noɣu	noɣu	n o ɣ u	2783	1316	0	
 2626	Bangime	FAR	jùndù	jùndù	j ¹/u ⁿd ¹/u	2369	1318	0	
@@ -2704,7 +2627,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2648	SonghaiSenni	FAR	mó:rû	mó:rû	m ⁵/oː r ⁵¹/u	3609	1324	0	
 2649	ToroSo	FAR	wàgé-wɔ́	wàgé-wɔ́	w ¹/a ɡ ⁵/e + w ⁵/ɔ	647	1316 1325	0	
 2650	BonduSo	FAR	wàɡù-m	wàɡù-m	w ¹/a ɡ ¹/u + m	647	1316 1320	0	
-#
 2651	Bangime	FAST	wáá (2)	wáá	w ⁵/aː	2370	1327	0	
 2652	Fulfulde	FAST	yaawude	yaaw-ude	j aː w + u d e	52	1336 1337	0	
 2653	Jenaama	FAST	bààhúmā	bààhúmā	b ¹/aː h ⁵/u + m ³/a	2786	1339 1340	0	
@@ -2728,7 +2650,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2671	TommoSo	FAST	ɔ́gú	ɔ́gú	⁵/ɔ ɡ ⁵/u	654	1338	0	
 2672	Bambara	FAST	télí	télí	t ⁵/e l ⁵/i	2785	1326	2141	
 2673	SonghaiSenni	FAST	tàmbà	tàmbà	t ¹/a ⁿb ¹/a	3610	1342	0	
-#
 2674	Fulfulde	FAT (OBESE)	ɓuttude	ɓutt-ude	ɓ u t t + u d e	53	5299 1353	0	
 2675	BozoDebo	FAT (OBESE)	buroⁿ	buroⁿ	b u r õ	2787	1347	2162	
 2676	BozoHainyaxo	FAT (OBESE)	bere	bere	b e r e	2787	1347	2162	
@@ -2760,7 +2681,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2702	Jenaama	FAT (OBESE)	būrōŋ (2)	būrōŋ	b ³/u r ³/o + ŋ	2787	1347 1354	2162	
 2703	SonghaiSenni	FAT (OBESE)	wàrg-ò	wàrg-ò	w ¹/a r ɡ + ¹/o	3612	1355 1356	0	
 2704	BonduSo	FAT (OBESE)	kún	kún	k ⁵/u + n	665	1351 1359	0	
-#
 2705	Bangime	FAT (ORGANIC SUBSTANCE)	ɲùwⁿɛ̀	ɲùwⁿɛ̀	ɲ ¹/u ∼/w̃ ¹/ɛ	2372	4990	2194	
 2706	Fulfulde	FAT (ORGANIC SUBSTANCE)	ɓellere	ɓelle-re	ɓ e l l e + r e	54	1365 1366	0	
 2707	Jenaama	FAT (ORGANIC SUBSTANCE)	tīyɛ̄ (2)	tīyɛ̄	t ³/i j ³/ɛ	2789	1364	2212	
@@ -2799,7 +2719,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2740	Bambara	FAT (ORGANIC SUBSTANCE)	túlú	túlú	t ⁵/u l ⁵/u	2788	1362	27	
 2741	ToroSo	FAT (ORGANIC SUBSTANCE)	síí	síí	s ⁵/iː	666	1360	27	
 2742	BonduSo	FAT (ORGANIC SUBSTANCE)	síí-ŋ	síí-ŋ	s ⁵/iː + ŋ	666	1360 1371	27	
-#
 2743	Fulfulde	FATHER	abbiraaɗo	abbi-raaɗo	a b b i + r aː ɗ o	55	5300 1374	0	
 2744	SonghaiSenni	FATHER	bà:bè	bà:bè	b ¹/aː b ¹/e	3614	5363	2226	
 2745	SonghaiKiini	FATHER	bɛ̀bɛ̀	bɛ̀bɛ̀	b ¹/ɛ b ¹/ɛ	3614	5363	2226	
@@ -2822,7 +2741,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2762	YornoSo	FATHER	bá:	bá:	b ⁵/aː	672	1372	2226	
 2763	PergeTegu	FATHER	bǎ:	bǎ:	b ¹⁵/aː	672	1372	2226	
 2764	Soninke	FATHER	hààbá	hààbá	h ¹/a: b ⁵/a	2790	1375	2226	
-#
 2765	Bangime	FEAR (BE AFRAID)	pìrⁿà	pìrⁿà	p ¹/i ∼/r̃ ¹/a	2374	1377	2233	
 2766	Fulfulde	FEAR (BE AFRAID)	hulude	hul-ude	h u l + u d e	56	1385 1386	0	
 2767	Jenaama	FEAR (BE AFRAID)	kwàⁿ (2)	kwàⁿ	k w ã	2792	1381	0	
@@ -2858,7 +2776,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2797	Soninke	FEAR (BE AFRAID)	kànnê	kànnê	k ¹/a n n ⁵¹/e	2793	1396	0	
 2798	ToroSo	FEAR (BE AFRAID)	lìyè móy	lìyè móy	l ¹/i j ¹/e + m ⁵/o j	684	1379 1393	0	
 2799	BonduSo	FEAR (BE AFRAID)	íbí-nà-n	íbí-nà-n	⁵/i b ⁵/i + n ¹/a + n	677	1378 1394 1395	0	
-#
 2800	SonghaiSenni	FEAR (FRIGHT)	hámbúrú-kúbéy	hámbúrú-kúbéy	h ⁵/a ⁿb ⁵/u r ⁵/u + k ⁵/u b ⁵/e j	3616	1408 1409	0	
 2801	ToroTegu	FEAR (FRIGHT)	líwá	líwá	l ⁵/i w ⁵/a	686	1401	0	
 2802	BenTey	FEAR (FRIGHT)	ùwǎw	ùwǎw	¹/u w ¹⁵/a w	686	1397	0	
@@ -2881,8 +2798,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2819	Jamsay	FEAR (FRIGHT)	lì-lɛ̌:	lì-lɛ̌:	l ¹/i + l ¹⁵/ɛː	691	1401 1407	0	
 2820	TiranigeDiga	FEAR (FRIGHT)	yó:ní-yó	yó:ní-yó	j ⁵/oː n ⁵/i + j ⁵/o	694	1412 1411	0	
 2821	BozoKorondougounord	FEAR (FRIGHT)	tabakeⁿde	tabakeⁿde	t a b a k ẽ + d e	2795	1400 4811	0	
-9637	Bangime	FEAR (FRIGHT)	pɔ̄dà	pɔ̄dà	p ³/ɔ d ¹/a	3901	4992	0	
-#
 2822	Fulfulde	FIGHT	haɓude	haɓ-ude	h a ɓ + u d e	58	1421 1422	0	
 2823	Jenaama	FIGHT	kɛ̄lɛ̄	kɛ̄lɛ̄	k ³/ɛ l ³/ɛ	2796	1413	2284	
 2824	Bangime	FIGHT	kóré	kóré	k ⁵/o r ⁵/e	2376	4993	2284	
@@ -2907,7 +2822,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2843	SonghaiSenni	FIGHT	gùrjèy	gùrjèy	ɡ ¹/u r + dʒ ¹/e + j	3617	1424 1425 5422	0	
 2844	BonduSo	FIGHT	jáːŋí-y	jáːŋí-y	dʒ ⁵/aː ŋ ⁵/i + j	698	1417 1418	0	
 2845	Bambara	FIGHT	kɛlɛ	kɛlɛ	k ɛ l ɛ	2796	1413	2284	
-#
 2846	Bangime	FIND	kārà	kārà	k ³/a r ¹/a	2377	4994	2305	
 2847	Fulfulde	FIND	tawude	taw-ude	t a w + u d e	59	1432 1433	0	
 2848	Jenaama	FIND	ā-kìlɛ̀	ā-kìlɛ̀	³/a + k ¹/i l ¹/ɛ	2798	1434 1427	2305	
@@ -2940,7 +2854,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2875	YandaDom	FIND	tɛ́mbɛ́	tɛ́mbɛ́	t ⁵/ɛ ⁿb ⁵/ɛ	705	1428	2306	
 2876	SonghaiSenni	FIND	dí:	dí:	d ⁵/iː	3618	131	2306	
 2877	BonduSo	FIND	dìnɛ̂ː	dìnɛ̂ː	d ¹/i n ⁵¹/ɛː	705	1429	2306	
-#
 2878	ToroTegu	FINGER	lɔ̀-[ì-rⁿú]	lɔ̀-ìrⁿú	l ¹/ɔ + ¹/i ∼/r̃ ⁵/u	708	1440 1441	0	
 2879	BenTey	FINGER	nà:-sî:ⁿ	nà:-sî:ⁿ	n ¹/aː + s ⁵¹/ĩ:	709	1440 1441	0	
 2880	BankanTey	FINGER	nà:-sìrî:	nà:-sìrî:	n ¹/aː + s ¹/i r ⁵¹/iː	708	1440 1441	0	
@@ -2978,7 +2891,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2912	Soninke	FINGER	bólóⁿkɔ́ní	bólóⁿkɔ́ní	b ⁵/o l ⁵/õ + k ⁵/ɔ n ⁵/i	2806	1462 1459	0	
 2913	Soninke	FINGER	ɲɔ̀ⁿsɔ́ⁿ	ɲɔ̀ⁿsɔ́ⁿ	ɲ ɔ̃ s ⁵/ɔ̃	2808	1463	0	
 2914	Soninke	FINGER	ŋkɔni	ŋkɔni	ⁿk ɔ n i	2803	1459	0	
-#
 2915	ToroTegu	FIRE	núwⁿɔ́	núwⁿɔ́	n ⁵/u ∼/w̃ ⁵/ɔ	716	1470	0	
 2916	BenTey	FIRE	go᷈:	go᷈:	ɡ õ	711	1466	0	
 2917	YornoSo	FIRE	yǎm	yǎm	j ¹⁵/a + m	719	1476 1475	0	
@@ -3009,7 +2921,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2942	ToroSo	FIRE	ɲáŋù	ɲáŋù	ɲ ⁵/a ŋ ¹/u	714	1468	2377	
 2943	BonduSo	FIRE	ɡùndó	ɡùndó	ɡ ¹/u + ⁿd ⁵/o	718	1466 1477	0	
 2944	Bambara	FIRE	tɑsumɑ	tɑsumɑ	t ɑ s u m ɑ	2810	5162	0	
-#
 2945	SonghaiSenni	FIREWOOD	tù:r-ò	tù:r-ò	t ¹/uː r + ¹/o	3621	5364 1485	2399	
 2946	ToroTegu	FIREWOOD	tìrⁿú	tìrⁿú	t ¹/i ∼/r̃ ⁵/u	721	1480	2399	
 2947	BenTey	FIREWOOD	tìrⁿú ~ tìrⁿí	tìrⁿú	t ¹/i ∼/r̃ ⁵/u	721	1480	2399	
@@ -3036,7 +2947,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 2968	Bambara	FIREWOOD	dɔ́gɔ́	dɔ́gɔ́	d ⁵/ɔ ɡ ⁵/ɔ	2813	1478	0	
 2969	ToroSo	FIREWOOD	tìⁿrⁿùⁿ máá	tìⁿrⁿùⁿ máá	t ¹/ĩ ∼/r̃ ¹/ũ + m ⁵/aː	721	1480 1486	2399	
 2970	BonduSo	FIREWOOD	téé-ŋ	téé-ŋ	t ⁵/eː + ŋ	720	1480 1487	0	
-#
 2971	SonghaiSenni	FISH	ʔís-à:	ʔís-à:	ʔ ⁵/i s ¹/aː	3622	1503	2415	
 2972	Bangime	FISH	ɥìjɛ̄-ŋ̄-kò-ŋáwⁿ	ɥìjɛ̄-ŋ̄-kò-ŋáwⁿ	ɥ ¹/i j ³/ɛ + ŋ + k ¹/o + ŋ ⁵/a ∼/w̃	2381	1490 1491 0 1493	0	
 2973	Fulfulde	FISH	liingu	liingu	l iː + ⁿɡ u	64	1502 113	0	
@@ -3075,7 +2985,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3006	ToroSo	FISH	ìðù	ìðù	¹/i ð ¹/u	727	1494	2415	
 3007	ToroSo	FISH	íjù	íjù	⁵/i dʒ ¹/u	725	1494	2404	
 3008	BonduSo	FISH	ídʒíí	ídʒíí	⁵/i d ʒ ⁵/iː	725	1494	2404	
-#
 3009	ToroTegu	FIVE	nǔ:y	nǔ:y	n ¹⁵/uː + j	732	1507 1510	2432	
 3010	BenTey	FIVE	nùmǔyⁿ	nùmǔyⁿ	n ¹/u m ¹⁵/u + j̃	733	1507 1510	0	
 3011	BankanTey	FIVE	nùmmǔyⁿ	nùmmǔyⁿ	n ¹/u m m ¹⁵/u + j̃	733	1507 1510	0	
@@ -3110,7 +3019,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3042	SonghaiSenni	FIVE	gú:	gú:	ɡ ⁵/uː	3895	451	43	
 3043	ToroSo	FIVE	nùmɔ́rɔ̃	nùmɔ́rɔ̃	n ¹/u m ⁵/ɔ + r ɔ̃	733	1507 1515	0	
 3044	BonduSo	FIVE	ŋùmíŋ	ŋùmíŋ	ŋ ¹/u m ⁵/i + ŋ	733	1507 1510	0	
-#
 3045	SonghaiSenni	FLOWER	bùgà	bùgà	b ¹/u ɡ ¹/a	3624	5365	2443	
 3046	Bangime	FLOWER	twīìⁿ	twīìⁿ	t w ³¹/ĩ:	2383	1519	0	
 3047	Fulfulde	FLOWER	piindi	piindi	p iː ⁿd i	66	5303	2443	
@@ -3147,7 +3055,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3078	ToroSo	FLOWER	púyó	púyó	p ⁵/u j ⁵/o	735	1520	2443	
 3079	BonduSo	FLOWER	pùŋî-ŋ	pùŋî-ŋ	p ¹/u ŋ ⁵¹/i + ŋ	736	1520 1522	0	
 3080	Bambara	FLOWER	fɛɛrɛ	fɛɛrɛ	f ɛː r ɛ	2825	145	2443	
-#
 3081	Ampari	FLY (INSECT)	jɛ́:nì	jɛ́:nì	dʒ ⁵/ɛː n ¹/i	737	1523	0	
 3082	Bangime	FLY (INSECT)	yúrí	yúrí	j ⁵/u r ⁵/i	2384	4995	0	
 3083	BankanTey	FLY (INSECT)	jè-jêⁿ-m\\jè-jê:ⁿ	jè-jêⁿ-m	dʒ ¹/e + dʒ ⁵¹/ẽ + m	738	1526 1527 1528	0	
@@ -3179,7 +3086,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3109	SonghaiSenni	FLY (INSECT)	hámn-ó	hámn-ó	h ⁵/a m n + ⁵/o	3626	1539 1540	0	
 3110	ToroSo	FLY (INSECT)	ɲɛ́ŋɛ̀	ɲɛ́ŋɛ̀	ɲ ⁵/ɛ ŋ ¹/ɛ	740	1532	0	
 3111	BonduSo	FLY (INSECT)	ɡɔ́ŋ	ɡɔ́ŋ	ɡ ⁵/ɔ + ŋ	747	1531 1548	0	
-#
 3112	BankanTey	FLY (MOVE THROUGH AIR)	kísíyé	kísí-yé	k ⁵/i s ⁵/i + j ⁵/e	749	1549 1550	0	
 3113	Bunoge	FLY (MOVE THROUGH AIR)	píllè	píllè	p ⁵/i l + l ¹/e	752	147 1555	0	
 3114	Gourou	FLY (MOVE THROUGH AIR)	píré	píré	p ⁵/i r ⁵/e	752	147	2496	
@@ -3214,7 +3120,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3144	SonghaiSenni	FLY (MOVE THROUGH AIR)	fí:rí	fí:rí	f ⁵/iː r ⁵/i	3627	5366	2496	
 3145	Bambara	FLY (MOVE THROUGH AIR)	páⁿ	páⁿ	p ⁵/ã	2831	1551	2496	
 3146	BonduSo	FLY (MOVE THROUGH AIR)	píríí	píríí	p ⁵/i r ⁵/iː	750	147	2496	
-#
 3147	SonghaiSenni	FOAM	kù:f-ò	kù:f-ò	k ¹/uː f + ¹/o	3629	1570 1571	2532	
 3148	ToroTegu	FOAM	kùgíy	kùgíy	k ¹/u ɡ ⁵/i + j	755	1561 1573	0	
 3149	BenTey	FOAM	yúgúrɔ̀	yúgúrɔ̀	j ⁵/u ɡ ⁵/u + r ¹/ɔ	760	1564 1565	0	
@@ -3241,7 +3146,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3170	Jamsay	FOAM	pútɔ̀	pútɔ̀	p ⁵/u t ¹/ɔ	756	1562	2525	
 3171	TomoKan	FOAM	yúbɛ́-rɛ́	yúbɛ́-rɛ́	j ⁵/u b ⁵/ɛ + r ⁵/ɛ	760	1564 1565	0	
 3172	ToroSo	FOAM	gɔ́nú	gɔ́nú	ɡ ⁵/ɔ n ⁵/u	755	1561	0	
-#
 3173	ToroTegu	FOLD	túkú	túkú	t ⁵/u k ⁵/u	766	1584	0	
 3174	BenTey	FOLD	mɛ̀lí	mɛ̀lí	m ¹/ɛ l ⁵/i	764	1578	0	
 3175	BankanTey	FOLD	m̀bùndó	m̀bùndó	ⁿb ¹/u ⁿd ⁵/o	763	1576	0	
@@ -3264,7 +3168,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3192	Bangime	FOLD	dɛ̀mbì-jɛ̀	dɛ̀mbì-jɛ̀	d ¹/ɛ ⁿb ¹/i + j ¹/ɛ	2389	4998 1575	0	
 3193	Fulfulde	FOLD	ɲoofude	ɲoof-ude	ɲ oː f + u d e	70	1581 1582	0	
 3194	BozoHainyaxo	FOLD	habaajuu	habaajuu	h a b aː dʒ uː	2836	1579	44	
-#
 3195	SonghaiSenni	FOOD	ŋà:-r-ò	ŋà:r-ò	ŋ ¹/aː r + ¹/o	3631	5368 1601	2571	
 3196	Jenaama	FOOD	jīyɛ̄-pùwɔ̀	jīyɛ̄-pùwɔ̀	dʒ ³/i j ³/ɛ + p ¹/u w ¹/ɔ	2838	1593 1598	0	
 3197	ToroTegu	FOOD	kà-lɛ́	kàlɛ́	k ¹/a l ⁵/ɛ	773	1596	0	
@@ -3287,7 +3190,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3214	TomoKan	FOOD	ɲí:njé	ɲí:njé	ɲ ⁵/iː n + dʒ ⁵/e	774	1594 1595	2564	
 3215	Bambara	FOOD	duⁿmuⁿni	duⁿmuⁿni	d ũ m ũ n i	2837	1586	2557	
 3216	Bangime	FOOD	sɥīì	sɥīì	s ɥ ³¹/iː	2390	1587	45	
-#
 3217	Gourou	FOOT OR LEG	kúwⁿ xxx	kúwⁿ́	k ⁵/u + w̃	782	1609 1508	0	
 3218	ToroTegu	FOOT OR LEG	kúwɔ́, kùwɔ̀-tɔ́	kúwɔ́	k ⁵/u w ⁵/ɔ	782	1609	0	
 3219	BenTey	FOOT OR LEG	lɔ̀sɔ̂:	lɔ̀sɔ̂:	l ¹/ɔ s ⁵¹/ɔː	781	1604	0	
@@ -3319,8 +3221,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3245	ToroSo	FOOT OR LEG	kúbɔ́	kúbɔ́	k ⁵/u b ⁵/ɔ	782	1609	0	
 3246	ToroSo	FOOT OR LEG	kúbà	kúbà	k ⁵/u b ¹/a	782	1609	0	
 3247	BonduSo	FOOT OR LEG	náà	náà	n ⁵¹/aː	780	1605	2573	
-3248	Bambara	FOOT OR LEG	sḛ	náà	s ẽ	2839	5167	14	
-#
+3248	Bambara	FOOT OR LEG	sḛ	náà	s ẽ	2839	5167	14	
 3249	ToroTegu	FOREHEAD	dìmó	dìmó	d ¹/i m ⁵/o	790	1620	2607	
 3250	BenTey	FOREHEAD	dìmbê:	dìmbê:	d ¹/i ⁿb ⁵¹/eː	786	1620	0	
 3251	BankanTey	FOREHEAD	dìmbêy	dìmbêy	d ¹/i ⁿb ⁵¹/e + j	786	1620 1621	0	
@@ -3349,8 +3250,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3274	SonghaiSenni	FOREHEAD	jìnè	jìnè	dʒ ¹/i n ¹/e	3633	1626	2607	
 3275	ToroSo	FOREHEAD	dí dímù	dí dímù	d ⁵/i + d ⁵/i m ¹/u	790	1624 1620	2607	
 3276	BonduSo	FOREHEAD	ʒéndé	ʒéndé	ʒ ⁵/e ⁿd ⁵/e	787	1622	2602	
-3277	Bambara	FOREHEAD	tḛ́	tḛ́	t ⁵/ẽ	2843	1580	2607	
-#
+3277	Bambara	FOREHEAD	tḛ́	tḛ́	t ⁵/ẽ	2843	1580	2607	
 3278	ToroTegu	FORGET	ná	ná	n ⁵/a	795	1635	2628	
 3279	BenTey	FORGET	ìrɛ́	ìrɛ́	¹/i r ⁵/ɛ	793	1630	0	
 3280	BankanTey	FORGET	ìrɛ́ írɛ́, írɛ́	ìrɛ́_írɛ́	¹/i r ⁵/ɛ + ⁵/i r ⁵/ɛ	793	1630 1632	0	
@@ -3375,7 +3275,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3299	Bambara	FORGET	tɛ̀mɛ́	tɛ̀mɛ́	t ¹/ɛ m ⁵/ɛ	2848	1641	46	
 3300	Soninke	FORGET	mùngú	mùngú	m ¹/u ⁿɡ ⁵/u	2847	1639	0	
 3301	Bangime	FORGET	tɛ̀ɛ̀-ndɛ̀ (2)	tɛ̀ɛ̀-ndɛ̀	t ¹/ɛː + ⁿd ¹/ɛ	2393	5001 5002	46	
-#
 3302	SonghaiSenni	FORGIVE	yà:fà	yà:fà	j ¹/aː f ¹/a	3635	5172	2645	
 3303	Soninke	FORGIVE	yàmpá	yàmpá	j ¹/a ⁿp ⁵/a	2849	1642	2645	
 3304	Jamsay	FORGIVE	yá:fɛ́, yá:pɛ́	yá:fɛ́	j ⁵/aː f ⁵/ɛ	798	1651	2645	
@@ -3400,7 +3299,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3323	TiranigeDiga	FORGIVE	yà:pí kán(ú)	yà:pí_kán	j ¹/aː p ⁵/i + k ⁵/a n	798	155 1645	2645	
 3324	Mombo	FORGIVE	yà:fì kání	yà:fì_kání	j ¹/aː f ¹/i + k ⁵/a n ⁵/i	798	1652 1645	2645	
 3325	Penange	FORGIVE	yá:fì kání	yá:fì_kání	j ⁵/aː f ¹/i + k ⁵/a n ⁵/i	798	1653 1645	2645	
-#
 3326	SonghaiSenni	FOUR	tá:cí	tá:cí	t ⁵/aː tʃ ⁵/i	3636	1659	2677	
 3327	ToroTegu	FOUR	nǎy	nǎy	n ¹⁵/a + j	801	1655 1657	2654	
 3328	BenTey	FOUR	nǐ:yⁿ	nǐ:yⁿ	n ¹⁵/iː + j̃	801	1655 1657	2654	
@@ -3443,7 +3341,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3365	Bambara	FOUR	náání	náání	n ⁵/aː n ⁵/i	2851	1661	2653	
 3366	ToroSo	FOUR	nǎy	nǎy	n ¹⁵/a + j	801	1655 1657	2654	
 3367	BonduSo	FOUR	kɛ́ːgɛ̀y	kɛ́ːgɛ̀y	k ⁵/ɛː ɡ ¹/ɛ + j	802	158 1657	2657	
-#
 3368	TogoKan	FRIEND	ìⁿ-tá:ⁿ	ìⁿ-tá:ⁿ	ĩ + t ⁵/ãː	810	1682 1671	0	
 3369	ToroTegu	FRIEND	gǎw	gǎw	ɡ ¹⁵/a w	812	1684	0	
 3370	YornoSo	FRIEND	ángé	ángé	⁵/a n + ɡ ⁵/e	809	1683 1675	0	
@@ -3472,7 +3369,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3393	ToroSo	FRIEND	àr̃ŋɛ́	àr̃ŋɛ́	¹/a ∼/r + ŋ ⁵/ɛ	811	1683 1685	0	
 3394	BonduSo	FRIEND	nàlé	nàlé	n ¹/a l ⁵/e	808	1670	0	
 3395	Bambara	FRIEND	térí	térí	t ⁵/e r ⁵/i	2855	160	2678	
-#
 3396	BenTey	FULL	bǎ	bǎ	b ¹⁵/a	817	1689	2712	
 3397	Bunoge	FULL	yé: bò	yé:_bò	j ⁵/eː + b ¹/o	818	1692 1689	0	
 3398	BonduSo	FULL	jǒy	jǒy	dʒ ¹⁵/o + j	816	1688 1691	0	
@@ -3513,7 +3409,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3433	Bambara	FULL	fá	fá	f ⁵/a	2858	161	2712	
 3434	ToroSo	FULL	jùwá	jùwá	dʒ ¹/u w ⁵/a	815	1688	0	
 3435	BonduSo	FULL	jǒy	jǒy	dʒ ¹⁵/o + j	816	1688 1691	0	
-#
 3436	ToroTegu	GET	bɛ̀rú	bɛ̀rú	b ¹/ɛ r ⁵/u	824	1702	0	
 3437	BenTey	GET	bɛ̀rɛ́, nɛ́wⁿɛ́	bɛ̀rɛ́	b ¹/ɛ r ⁵/ɛ	824	1702	0	
 3438	YornoSo	GET	bɛ̀lɛ́-	bɛ̀lɛ́	b ¹/ɛ l ⁵/ɛ	824	1702	0	
@@ -3535,8 +3430,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3454	Bambara	GET	kwe	kwe	k w e	2864	1711	0	
 3456	SonghaiSenni	GET	dù	dù	d ¹/u	3639	1708	2738	
 3457	Soninke	GET	kìtá	kìtá	k ¹/i t ⁵/a	2863	1709	47	
-9627	Bangime	GET	kárà	kárà	k ³/a r ¹/a	3902	5005	47	
-#
 3458	SonghaiSenni	GIRL	[kò-tí]-[wòy-ò]	kò-tí-wòy-ò	k ¹/o + t ⁵/i + w ¹/o j + ¹/o	3640	1725 1726 1727 1728	0	
 3459	ToroTegu	GIRL	yⁿà-rⁿì:-rⁿí:	yⁿà-rⁿì:_rⁿí:	j̃ ¹/a + r̃ ¹/iː + r̃ ⁵/iː	837	1713 1732 1716	0	
 3460	BenTey	GIRL	yà:-yî-m	yà:yî-m	j ¹/aː j ⁵¹/i + m	828	1713 1717	0	
@@ -3561,7 +3454,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3479	Bangime	GIRL	jáá-pùjɛ̀	jáá-pùjɛ̀	j ⁵/aː + p ¹/u j ¹/ɛ	2398	5006 1714	0	
 3480	Fulfulde	GIRL	sukadebbo	suka-debbo	s u k a + d e b b o	82	1721 1722	0	
 3481	Soninke	GIRL	kìsìmàrê	kìsìmàrê	k ¹/i s ¹/i + m ¹/a r ⁵¹/e	2866	1729 1666	0	
-#
 3482	ToroTegu	GIVE	ów	ów	⁵/o w	846	1745	0	
 3483	Nanga	GIVE	ńdí	ńdí	ⁿd ⁵/i	840	1735	2780	
 3484	PergeTegu	GIVE	ó:	ó:	⁵/oː	843	1742	0	
@@ -3598,7 +3490,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3515	SonghaiSenni	GIVE	nó:	nó:	n ⁵/oː	3641	1744	2782	
 3516	ToroSo	GIVE	óbù	óbù	⁵/o b ¹/u	842	1739	0	
 3517	BonduSo	GIVE	índɛ́ɛ́	índɛ́ɛ́	⁵/i ⁿd ⁵/ɛ:	840	1735	2780	
-#
 3518	TebulUre	GIVE BIRTH	lǎ: (lǎ:-tì-)	lǎ:tì	l ¹⁵/aː t ¹/i	848	1747	0	
 3519	YandaDom	GIVE BIRTH	lǎl\\làlà-lí	lǎl	l ¹⁵/a l	848	1747	0	
 3520	DonnoSo	GIVE BIRTH	làlá\\lál-ì	lálì	l ⁵/a l ¹/i	848	1747	0	
@@ -3641,7 +3532,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3557	ToroSo	GIVE BIRTH	nàrú	nàrú	n ¹/a r ⁵/u	847	1747	0	
 3558	ToroSo	GIVE BIRTH	nááyí	nááyí	n ⁵/aː j ⁵/i	847	1747	0	
 3559	BonduSo	GIVE BIRTH	nàléé	nàléé	n ¹/a l ⁵/eː	847	1747	0	
-#
 3560	ToroTegu	GO	yǎy	yǎy	j ¹⁵/a + j	855	1766 1771	48	
 3561	BenTey	GO	ló	ló	l ⁵/o	851	1758	0	
 3562	BankanTey	GO	ǹdó	ǹdó	ⁿd ⁵/o	849	1758	0	
@@ -3668,7 +3558,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3583	ToroSo	GO	yàá	yàá	j ¹⁵/aː	855	1766	48	
 3584	ToroSo	GO	yɛ́ː	yɛ́ː	j ⁵/ɛː	855	1766	48	
 3585	BonduSo	GO	ìnìì	ìnìì	¹/i n ¹/iː	852	1772	0	
-#
 3586	Soninke	GO DOWN (DESCEND)	bóncóŋŋè	bóncóŋŋè	b ⁵/o ⁿtʃ ⁵/o ŋ + ŋ ¹/e	2878	1778 1779	0	
 3587	ToroTegu	GO DOWN (DESCEND)	sígú	sígú	s ⁵/i ɡ ⁵/u	858	1773	2850	
 3588	BenTey	GO DOWN (DESCEND)	sí-yé	sí-yé	s ⁵/i j ⁵/e	858	1773	2850	
@@ -3691,32 +3580,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3605	TommoSo	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
 3606	YornoSo	GO DOWN (DESCEND)	súgó	súgó	s ⁵/u ɡ ⁵/o	858	1773	2850	
 3607	SonghaiSenni	GO DOWN (DESCEND)	zùmbù	zùmbù	z ¹/u ⁿb ¹/u	3643	5370	2850	
-#
 3608	ToroSo	GO OUT	ɡòò	ɡòò	ɡ ¹⁵/oː	859	1781	0	
 3609	BonduSo	GO OUT	gwé	gwé	ɡ w ⁵/e	859	1780	0	
-3634	SonghaiSenni	GO OUT	hùn	hùn	h ¹/u n	3655	1892	0	
-3635	Bangime	GO OUT	bīrè	bīrè	b ³/i + r ¹/e	2413	1886 5010	0	
-3636	Fulfulde	GO OUT	yaltude	yalt-ude	j a l t + u d e	96	1888 1889	0	
-3637	Jenaama	GO OUT	bā	bā	b ³/a	2904	1890	0	
-3638	Jamsay	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3639	YandaDom	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
-3640	Nanga	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3641	YornoSo	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3642	TogoKan	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3643	PergeTegu	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
-3644	ToroTegu	GO OUT	gú	gú	ɡ ⁵/u	913	1887	0	
-3645	BenTey	GO OUT	gǒ	gǒ	ɡ ¹⁵/o	913	1887	0	
-3646	BankanTey	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
-3647	Gourou	GO OUT	gó:	gó:	ɡ ⁵/oː	913	1887	0	
-3648	TommoSo	GO OUT	gòó	gòó	ɡ ¹⁵/o:	913	1887	0	
-3649	DogulDom	GO OUT	gě:	gě:	ɡ ¹⁵/eː	913	1887	0	
-3650	TebulUre	GO OUT	gǒ (gǒ-yà-y ~ gw-â:-y, imprt gó)	gǒ	ɡ ¹⁵/o	913	1887	0	
-3651	BonduSo	GO OUT	gwé	gwé	ɡ w ⁵/e	913	1887	0	
-3652	Bunoge	GO OUT	gê:, gó:ŋgè, gú:ndè	gê:	ɡ ⁵¹/eː	913	1887	0	
-3653	TiranigeDiga	GO OUT	gó:, sàlè gó:	gó:	ɡ ⁵/oː	913	1887	0	
-3654	Mombo	GO OUT	gwé:	gwé:	ɡ w ⁵/eː	913	1887	0	
-3655	Penange	GO OUT	gú:ndè ('goːut'), gó:ŋgè ('emerge'), gwé: ('leave')	gú:-ndè	ɡ ⁵/uː + ⁿd ¹/e	913	1887 1891	0	
-#
 3610	Bangime	GO UP (ASCEND)	ɥījè	ɥījè	ɥ ³/i j ¹/e	2404	1783	0	
 3611	Fulfulde	GO UP (ASCEND)	imud	im-ude	i m u + ⁿd e	88	1789 1790	0	
 3612	Jenaama	GO UP (ASCEND)	tāwⁿ	tāwⁿ	t ³/a + ∼/w̃	2881	1791 1792	0	
@@ -3741,7 +3606,28 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3631	Soninke	GO UP (ASCEND)	sétú	sétú	s ⁵/e t ⁵/u	2882	1795	0	
 3632	SonghaiSenni	GO UP (ASCEND)	zígí	zígí	z ⁵/i ɡ ⁵/i	3644	1794	2877	
 3633	Bambara	GO UP (ASCEND)	yɛ̀lɛ́ⁿ	yɛ̀lɛ́ⁿ	j ¹/ɛ l ⁵/ɛ̃	2879	1782	0	
-#
+3634	SonghaiSenni	GO OUT	hùn	hùn	h ¹/u n	3655	1892	0	
+3635	Bangime	GO OUT	bīrè	bīrè	b ³/i + r ¹/e	2413	1886 5010	0	
+3636	Fulfulde	GO OUT	yaltude	yalt-ude	j a l t + u d e	96	1888 1889	0	
+3637	Jenaama	GO OUT	bā	bā	b ³/a	2904	1890	0	
+3638	Jamsay	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3639	YandaDom	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
+3640	Nanga	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3641	YornoSo	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3642	TogoKan	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3643	PergeTegu	GO OUT	gǒ:	gǒ:	ɡ ¹⁵/oː	913	1887	0	
+3644	ToroTegu	GO OUT	gú	gú	ɡ ⁵/u	913	1887	0	
+3645	BenTey	GO OUT	gǒ	gǒ	ɡ ¹⁵/o	913	1887	0	
+3646	BankanTey	GO OUT	gó	gó	ɡ ⁵/o	913	1887	0	
+3647	Gourou	GO OUT	gó:	gó:	ɡ ⁵/oː	913	1887	0	
+3648	TommoSo	GO OUT	gòó	gòó	ɡ ¹⁵/o:	913	1887	0	
+3649	DogulDom	GO OUT	gě:	gě:	ɡ ¹⁵/eː	913	1887	0	
+3650	TebulUre	GO OUT	gǒ (gǒ-yà-y ~ gw-â:-y, imprt gó)	gǒ	ɡ ¹⁵/o	913	1887	0	
+3651	BonduSo	GO OUT	gwé	gwé	ɡ w ⁵/e	913	1887	0	
+3652	Bunoge	GO OUT	gê:, gó:ŋgè, gú:ndè	gê:	ɡ ⁵¹/eː	913	1887	0	
+3653	TiranigeDiga	GO OUT	gó:, sàlè gó:	gó:	ɡ ⁵/oː	913	1887	0	
+3654	Mombo	GO OUT	gwé:	gwé:	ɡ w ⁵/eː	913	1887	0	
+3655	Penange	GO OUT	gú:ndè ('goːut'), gó:ŋgè ('emerge'), gwé: ('leave')	gú:-ndè	ɡ ⁵/uː + ⁿd ¹/e	913	1887 1891	0	
 3656	BozoHainyaxo	GOAT	bà	bà	b ¹/a	2883	1798	2888	
 3657	SonghaiSenni	GOAT	ʔálmán-ó	ʔálmán-ó	ʔ ⁵/a l m ⁵/a n + ⁵/o	3645	1804 1805	49	
 3658	SonghaiKiini	GOAT	ʔàlmân	ʔàlmân	ʔ ¹/a l m ⁵¹/a n	3645	1804	49	
@@ -3777,7 +3663,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3688	BozoPondorinord	GOAT	suulioⁿ	suulioⁿ	s uː l i õ	2884	1802	0	
 3689	BozoPondorinord	GOAT	súgò	súgò	s ⁵/u ɡ ¹/o	2884	1802	0	
 3690	Bambara	GOAT	bɑ	bɑ	b ɑ	2883	1798	2888	
-#
 3691	SonghaiSenni	GOD	yórkòy	yór-kòy	j ⁵/o r k ¹/o j	3647	1820	0	
 3692	Bangime	GOD	ŋàrà	ŋàrà	ŋ ¹/a r ¹/a	2406	1809	2917	
 3693	Fulfulde	GOD	Geno	Geno	ɡ e n o	90	1817	0	
@@ -3802,11 +3687,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3712	TebulUre	GOD	ámbá	ámbá	⁵/a ⁿb ⁵/a	873	1815	0	
 3713	YornoSo	GOD	ámà	ámà	⁵/a m ¹/a	874	1815	0	
 3714	Bambara	GOD	ŋalla	ŋalla	ŋ a l l a	2886	1814	2917	
-#
 3715	Bambara	GOLD	sánúⁿ	sánúⁿ	s ⁵/a n ⁵/ũ	2887	1824	0	
 3716	Soninke	GOLD	káŋŋè	káŋŋè	k ⁵/a ŋ ŋ ¹/e	2887	1827	0	
 3717	SonghaiSenni	GOLD	wúr-à:	wúr-à:	w ⁵/u r + ¹/aː	3648	1825 1826	0	
-#
 3718	BankanTey	GOOD	ɛ̀sú-m	ɛ̀sú-m	¹/ɛ s ⁵/u + m	881	1832 1833	0	
 3719	TommoSo	GOOD	síɛ́, dàgáá-dɛ̀	síɛ́	s ⁵/i ⁵/ɛ	881	1838	50	
 3720	DogulDom	GOOD	gɛ̀nɔ̌:	gɛ̀nɔ̌:	ɡ ¹/ɛ n ¹⁵/ɔː	880	1837	0	
@@ -3844,7 +3727,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3752	ToroSo	GOOD	èθú	èθú	¹/e θ ⁵/u	882	1832	0	
 3753	ToroSo	GOOD	ɛ̀jú	ɛ̀jú	¹/ɛ dʒ ⁵/u	882	1832	0	
 3754	BonduSo	GOOD	náláː	náláː	n ⁵/a l ⁵/aː	878	1834	0	
-#
 3755	SonghaiSenni	GRANDFATHER	kà:gè	kà:gè	k ¹/aː ɡ ¹/e	3650	1853	0	
 3756	Penange	GRANDFATHER	tòrì	tòrì	t ¹/o r ¹/i	886	1848	51	
 3757	ToroTegu	GRANDFATHER	bàbá	bàbá	b ¹/a + b ⁵/a	884	1847 1847	0	
@@ -3868,7 +3750,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3775	Jenaama	GRANDFATHER	tìgè-kɛ́ɛ́gū	tìgè-kɛ́ɛ́gū	t ¹/i ɡ ¹/e + k ⁵/ɛː ɡ ³/u	2892	1851 1852	51	
 3776	Bambara	GRANDFATHER	mɔ̀kɛ́	mɔ̀kɛ́	m ¹/ɔ k ⁵/ɛ	2891	1845	0	
 3777	Soninke	GRANDFATHER	kìsìmê	kìsìmê	k ¹/i s ¹/i + m ⁵¹/e	2893	1854 1855	0	
-#
 3778	Bangime	GRASS	ɡūʤɛ̀	ɡūʤɛ̀	ɡ ³/u dʒ ¹/ɛ	2409	5012	2983	
 3779	Jenaama	GRASS	sɔ̀gù	sɔ̀gù	s ¹/ɔ ɡ ¹/u	2895	1859	2991	
 3780	BankanTey	GRASS	bèrú	bèrú	b ¹/e r ⁵/u	887	1858	2982	
@@ -3894,34 +3775,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3800	BonduSo	GRASS	bèlóó	bèlóó	b ¹/e l ⁵/oː	887	1858	2982	
 3801	BonduSo	GRASS	sɔ̌ː-m	sɔ̌ː-m	s ¹⁵/ɔː + m	898	1859 1871	0	
 3802	Bambara	GRASS	bḭ	bḭ	b ∼/i	2894	5177	2982	
-#
-1	Soninke	GUEST OR STRANGER	mùkkê	mùkkê	m ¹/u k k ⁵¹/e	2900	18	0	
-2	SonghaiKiini	GUEST OR STRANGER	yòw-òó	yòw-òó	j ¹/o w + ¹⁵/o:	3652	15 5371	0	
-3	SonghaiSenni	GUEST OR STRANGER	yòw-ò	yòw-ò	j ¹/o w + ¹/o	3652	15 5371	0	
-4	Bambara	GUEST OR STRANGER	dúnáⁿ	dúnáⁿ	d ⁵/u n ⁵/ã	2898	1	3007	
-5	Bangime	GUEST OR STRANGER	jīī-tūwⁿɔ̀	jīī-tūwⁿɔ̀	j ³³/iː + t ³/u ∼/w̃ ¹/ɔ	2410	2 0	3007	
-6	Fulfulde	GUEST OR STRANGER	koɗɗo	koɗɗo	k o ɗ ɗ o	94	11	0	
-7	Jenaama	GUEST OR STRANGER	súmū	súmū	s ⁵/u m ³/u	2898	12	3007	
-8	BenTey	GUEST OR STRANGER	lò:sú-m\\lò:sú	lò:sú-m	l ¹/oː s ⁵/u + m	899	4 5	0	
-9	BankanTey	GUEST OR STRANGER	ǹdòsú-m\\ǹdòsú	ǹdòsú-m	ⁿd ¹/o s ⁵/u + m	899	4 5	0	
-10	Nanga	GUEST OR STRANGER	lò:sí	lò:sí	l ¹/oː s ⁵/i	899	4	0	
-11	PergeTegu	GUEST OR STRANGER	lò:sú-n	lò:sú-n	l ¹/oː s ⁵/u + n	899	4 5	0	
-12	Gourou	GUEST OR STRANGER	yérí-n	yérí-n	j ⁵/e r ⁵/i + n	902	7 5	0	
-13	TogoKan	GUEST OR STRANGER	yéríⁿ	yéríⁿ	j ⁵/e r ⁵/ĩ	902	7	0	
-14	YornoSo	GUEST OR STRANGER	yér-nɛ́\\yérú-m	yér-nɛ́	j ⁵/e r + n ⁵/ɛ	902	7 10	0	
-15	TommoSo	GUEST OR STRANGER	yòùnjì-nɛ́ \\ yòùnjǔ-m	yòùnjì-nɛ́	j ¹/o ¹/u ⁿdʒ ¹/i + n ⁵/ɛ	903	4 10	0	
-16	DogulDom	GUEST OR STRANGER	yàrùwúl, bɛ̀mmɛ́	yàrùwúl	j ¹/a r ¹/u + w ⁵/u l	902	7 8	0	
-17	TebulUre	GUEST OR STRANGER	lògòdé:\\lògòdù-mbó	lògòdé:	l ¹/o ɡ ¹/o + d ⁵/eː	906	4 19	0	
-18	YandaDom	GUEST OR STRANGER	nò nò:zù\\nò:zù-mù	nò_nò:zù	n ¹/o + n ¹/oː z ¹/u	908	22 4	0	
-19	BonduSo	GUEST OR STRANGER	bèmbǎ:\\bèmbà-mbó	bèmbǎ:	b ¹/e ⁿb ¹⁵/aː	901	6	0	
-20	Bunoge	GUEST OR STRANGER	dó:njì	dó:njì	d ⁵/oː ⁿdʒ ¹/i	899	4	0	
-21	DonnoSo	GUEST OR STRANGER	wòɲjù-nɔ́	wòɲjù-nɔ́	w ¹/o ⁿdʒ ¹/u + n ⁵/ɔ	903	4 10	0	
-22	TiranigeDiga	GUEST OR STRANGER	bí:má	bí:má	b ⁵/iː m ⁵/a	901	6	0	
-23	Penange	GUEST OR STRANGER	bì:mbà	bì:mbà	b ¹/iː ⁿb ¹/a	901	6	0	
-24	Mombo	GUEST OR STRANGER	gìlà gílí	gìlà-gílí	ɡ ¹/i l ¹/a + ɡ ⁵/i l ⁵/i	904	13 14	0	
-25	Jamsay	GUEST OR STRANGER	yérí-n	yérí-n	j ⁵/e r ⁵/i + n	902	7 5	0	
-26	ToroTegu	GUEST OR STRANGER	lòsù-rⁿu	lòsù-rⁿu	l ¹/o s ¹/u + ∼/r̃ u	899	4 18	0	
-#
 3803	Jamsay	GUTS	bɛ̀rɛ̀-nì:ɲé	bɛ̀rɛ̀-nì:ɲé	b ¹/ɛ r ¹/ɛ + n ¹/iː ɲ ⁵/e	909	1876 1879	52	
 3804	Nanga	GUTS	bìndî	bìndî	b ¹/i ⁿd ⁵¹/i	910	1876	0	
 3805	TommoSo	GUTS	bìndú	bìndú	b ¹/i ⁿd ⁵/u	910	1876	0	
@@ -3937,7 +3790,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3815	SonghaiSenni	GUTS	kòròwáŋg-à:	kòròwáŋg-à:	k ¹/o r ¹/o w ⁵/a ⁿɡ + ¹/aː	3654	1881 1882	0	
 3816	Bambara	GUTS	nùgùbá	nùgùbá	n ¹/u ɡ ¹/u b ⁵/a	2901	1872	52	
 3817	Soninke	GUTS	nùxùllémmè	nùxùllémmè	n ¹/u x ¹/u l + l ⁵/e m + m ¹/e	2903	1883 1884 1885	52	
-#
 3818	BozoHainyaxo	HAIR	kùⁿsígí	kùⁿsígí	k ũ + s ⁵/i ɡ ⁵/i	2907	1893 1897	3065	
 3819	SonghaiSenni	HAIR	hámbúr-ú-gúr-ò	hámbúr-ú-gúr-ò	h ⁵/a ⁿb ⁵/u r + ⁵/u + ɡ ⁵/u r + ¹/o	3656	1902 1903 1904 1905	0	
 3820	BozoHainyaxo	HAIR	yìntê	yìntê	j ¹/i ⁿt ⁵¹/e	2909	1909	0	
@@ -3968,8 +3820,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3845	ToroSo	HAIR	kù kùrí	kù kùrí	k ¹/u + k ¹/u r ⁵/i	915	1907 176	0	
 3846	ToroSo	HAIR	kùú kúrú wòjì	kùú kúrú wòjì	k ¹⁵/u + k ⁵/u r ⁵/u + w ¹/o dʒ ¹/i	915	1910 176 1911	0	
 3847	BonduSo	HAIR	kúrɔ́-ŋ	kúrɔ́-ŋ	k ⁵/u r ⁵/ɔ + ŋ	914	176 1908	3062	
-3848	Bambara	HAIR	kṵ̀sígí	kṵ̀sígí	k ¹/ũ + s ⁵/i ɡ ⁵/i	2907	1893 1897	3965	
-#
+3848	Bambara	HAIR	kṵ̀sígí	kṵ̀sígí	k ¹/ũ + s ⁵/i ɡ ⁵/i	2907	1893 1897	3965	
 3849	ToroTegu	HAND	lɔ̀-tɔ́	lɔ̀-tɔ́	l ¹/ɔ + t ⁵/ɔ	920	1919 1920	0	
 3850	PergeTegu	HAND	nùwⁿó	nùwⁿó	n ¹/u w̃ ⁵/o	919	1909	3079	
 3851	Jamsay	HAND	nùmɔ́	nùmɔ́	n ¹/u m ⁵/ɔ	918	1909	0	
@@ -3993,7 +3844,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3869	BozoKotya	HAND	cugutebo	cugutebo	tʃ u ɡ u + t e b o	2912	1913 1914	0	
 3870	SonghaiSenni	HAND	kàmbè	kàmbè	k ¹/a ⁿb ¹/e	3657	1918	0	
 3871	Bambara	HAND	bolo	bolo	b o l o	2910	4818	0	
-#
 3872	Bangime	HANG UP	jūn-dà	jūn-dà	j ³/u n + d ¹/a	2416	1921 5015	0	
 3873	Fulfulde	HANG UP	sinndude	sinnd-ude	s i n ⁿd + u d e	99	1927 1928	0	
 3874	SonghaiSenni	HANG UP	tákkê	tákkê	t ⁵/a k k ⁵¹/e	3658	1930	0	
@@ -4017,7 +3867,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3892	BankanTey	HANG UP	kɔ́lí	kɔ́lí	k ⁵/ɔ l ⁵/i	921	1923	0	
 3893	PergeTegu	HANG UP	kɔ́lɔ́	kɔ́lɔ́	k ⁵/ɔ l ⁵/ɔ	921	1924	0	
 3894	BonduSo	HANG UP	ɡùbɛ̀ɛ̀	ɡùbɛ̀ɛ̀	ɡ ¹/u b ¹/ɛː	921	1923	0	
-#
 3895	SonghaiSenni	HEAD	bòŋ	bòŋ	b ¹/o ŋ	3659	1944	0	
 3896	ToroTegu	HEAD	kú, kù-bónó	kú	k ⁵/u	927	1933	3116	
 3897	BenTey	HEAD	kû:, kù-tógórò	kû:	k ⁵¹/uː	927	1933	3116	
@@ -4055,7 +3904,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3929	Bambara	HEAD	kùⁿ	kùⁿ	k ũ	2914	5178	3116	
 3930	ToroSo	HEAD	kúú	kúú	k ⁵/uː	927	1933	3116	
 3931	BonduSo	HEAD	dánàà	dánàà	d ⁵/a n ¹/aː	928	1934	0	
-#
 3932	BozoHainyaxo	HEAR	bugi	bugi	b u ɡ i	2921	1950	0	
 3933	BozoTieyaxo	HEAR	boi	boi	b o i	2922	1950	0	
 3934	ToroTegu	HEAR	ɛ́gú	ɛ́gú	⁵/ɛ ɡ ⁵/u	934	1950	0	
@@ -4077,7 +3925,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3950	YornoSo	HEAR	ɛ́gɛ́	ɛ́gɛ́	⁵/ɛ ɡ ⁵/ɛ	934	1950	0	
 3951	Bangime	HEAR	nō-rè	nō-rè	n ³/o + r ¹/e	2418	5017 1949	3144	
 3952	SonghaiSenni	HEAR	má:	má:	m ⁵/aː	3660	1955	3143	
-#
 3953	Soninke	HEAVY	qótè	qótè	q ⁵/o t ¹/e	2925	1969	0	
 3954	ToroTegu	HEAVY	dùsú	dùsú	d ¹/u s ⁵/u	937	1959	3154	
 3955	BankanTey	HEAVY	dùsú-m	dùsú-m	d ¹/u s ⁵/u + m	937	1959 1960	3154	
@@ -4101,7 +3948,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3973	PergeTegu	HEAVY	dùsú	dùsú	d ¹/u s ⁵/u	937	1959	3154	
 3974	SonghaiSenni	HEAVY	tìn-ò	tìn-ò	t ¹/i n + ¹/o	3661	1967 1968	0	
 3975	Bambara	HEAVY	gíríⁿmáⁿ	gíríⁿmáⁿ	ɡ ⁵/i r ⁵/ĩ m ⁵/ã	2923	1957	0	
-#
 3976	Bangime	HELP	bɔ̄ɡɔ̀	bɔ̄ɡɔ̀	b ³/ɔ ɡ ¹/ɔ	2420	5018	0	
 3977	Fulfulde	HELP	wallude	wall-ude	w a l l + u d e	104	1976 1977	3167	
 3978	Soninke	HELP	dèèmá	dèèmá	d ¹/e: m ⁵/a	2926	1980	0	
@@ -4122,7 +3968,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 3993	TommoSo	HELP	bàrá	bàrá	b ¹/a r ⁵/a	941	1973	3167	
 3994	TogoKan	HELP	bàrá	bàrá	b ¹/a r ⁵/a	941	1973	3167	
 3995	SonghaiSenni	HELP	fà:bà	fà:bà	f ¹/aː b ¹/a	3662	1979	0	
-#
 3996	Bambara	HIDE (CONCEAL)	dògó	dògó	d ¹/o ɡ ⁵/o	2927	1981	3180	
 3997	BozoDebo	HIDE (CONCEAL)	pugɛⁿ	pugɛⁿ	p u ɡ ∼/ɛ	2929	186	3182	
 3998	BozoHainyaxo	HIDE (CONCEAL)	logo	logo	l o ɡ o	2927	1988	3180	
@@ -4157,8 +4002,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4027	ToroSo	HIDE (CONCEAL)	báŋá	báŋá	b ⁵/a ŋ ⁵/a	948	1983	0	
 4028	ToroSo	HIDE (CONCEAL)	bàŋí	bàŋí	b ¹/a ŋ ⁵/i	948	1983	0	
 4029	BonduSo	HIDE (CONCEAL)	súbú	súbú	s ⁵/u b ⁵/u	947	1982	3183	
-9628	Bangime	HIDE (CONCEAL)		bɔ̄ɡɔ̀	b ³/ɔ g ¹/ɔ	3898	5019	0	
-#
 4030	Bangime	HIP	kù(ù)ⁿ	kùùⁿ	k ¹/ũː	2421	5020	3214	
 4031	Jenaama	HIP	kūla᷆ⁿ	kūla᷆ⁿ	k ³/u l ³¹/ã	2934	2000	3214	
 4032	BankanTey	HIP	dǒ:	dǒ:	d ¹⁵/oː	956	1998	0	
@@ -4196,7 +4039,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4064	ToroSo	HIP	kìì lòlórí	kìì lòlórí	k ¹/iː + l ¹/o l ⁵/o + r ⁵/i	958	1999 2008 2009	0	
 4065	ToroSo	HIP	nàr̃ú	nàr̃ú	n ¹/a r̃ ⁵/u	960	2013	0	
 4066	BonduSo	HIP	déén	déén	d ⁵/eː + n	956	2012 4821	0	
-#
 4067	SonghaiSenni	HONEY	yùw-ò	yùw-ò	j ¹/u w + ¹/o	3664	5179 2028	53	
 4068	ToroTegu	HONEY	ìwó	ìwó	¹/i w ⁵/o	969	2016	0	
 4069	BenTey	HONEY	yěy	yěy	j ¹⁵/e + j	962	2016 2017	3251	
@@ -4225,7 +4067,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4092	ToroSo	HONEY	yⁿè yⁿéé	yⁿè yⁿéé	j ¹/e + j ⁵/eː	962	2016 4824	3251	
 4093	ToroSo	HONEY	ɲóyì	ɲóyì	ɲ ⁵/o j ¹/i	970	2029	0	
 4094	BonduSo	HONEY	ìnjìn	ìnjìn	¹/i ⁿdʒ ¹/i + n	961	2014 2020	3250	
-#
 4095	Jamsay	HORN (ANATOMY)	círɛ́	círɛ́	tʃ ⁵/i r ⁵/ɛ	971	2031	3279	
 4096	Bangime	HORN (ANATOMY)	sìrà	sìrà	s ¹/i r ¹/a	2423	5022	3279	
 4097	Fulfulde	HORN (ANATOMY)	buututuwal	buututuwal	b uː t u t u w + a l	106	2033 2034	54	
@@ -4259,7 +4100,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4125	TiranigeDiga	HORN (ANATOMY)	kɛ̀:lɛ̀ŋgè (Boui), kɛ̀:lɛ̀wⁿ (Ningo, Pl kɛ̀:lɛ̀ŋ-gè)	kɛ̀:lɛ̀-ŋgè	k ¹/ɛː l ¹/ɛ + ⁿɡ ¹/e	973	2030 2037	0	
 4126	ToroSo	HORN (ANATOMY)	kɛ́lɛ́	kɛ́lɛ́	k ⁵/ɛ l ⁵/ɛ	973	2030	0	
 4127	BonduSo	HORN (ANATOMY)	kɛ̀lɔ̀ː	kɛ̀lɔ̀ː	k ¹/ɛ l ¹/ɔː	973	2030	0	
-#
 4128	ToroTegu	HORSE	sòŋgú, sòŋú, sǒŋ	sòŋ-gú	s ¹/o ŋ + ɡ ⁵/u	977	2038 2045	3306	
 4129	BenTey	HORSE	sǒ-m	sǒ-m	s ¹⁵/o + m	975	2038 2040	3306	
 4130	Nanga	HORSE	sǒŋ	sǒŋ	s ¹⁵/o + ŋ	977	2038 2040	3306	
@@ -4295,8 +4135,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4160	SonghaiSenni	HORSE	bàry-ò	bàry-ò	b ¹/a r j + ¹/o	3665	2046 2047	55	
 4161	ToroSo	HORSE	sɔ́ɔ́	sɔ́ɔ́	s ⁵/ɔː	976	2038	3306	
 4162	ToroSo	HORSE	sɔ́ŋù	sɔ́ŋù	s ⁵/ɔ + ŋ ¹/u	977	2038 2045	3306	
-9638	SonghaiKiini	HORSE	bàrí	bàrí	b ¹/a r ¹/i	3665	2046	55	
-#
 4164	Bambara	HOST	fèéré	fèéré	f ¹⁵/eː r ⁵/e	2942	5182	0	
 4165	Bambara	HOST	nà	nà	n ¹/a	2944	2068	0	
 4166	Bangime	HOST	nʤààtìɡì	nʤààtìɡì	n dʒ ¹/aː + t ¹/i ɡ ¹/i	2425	2050 5023	3337	
@@ -4320,7 +4158,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4184	Penange	HOST	njà:tígì	njà:tígì	ⁿdʒ ¹/aː t ⁵/i ɡ ¹/i	986	2063	0	
 4185	Jamsay	HOST	súnú-ŋó	súnú-ŋó	s ⁵/u n ⁵/u + ŋ ⁵/o	984	2061 2062	0	
 4186	SonghaiSenni	HOST	márê	márê	m ⁵/a r ⁵¹/e	3666	2064	0	
-#
 4187	SonghaiSenni	HOT	kònn-ò	kònn-ò	k ¹/o n n + ¹/o	3667	2085 2086	0	
 4188	Bangime	HOT	wáá (1)	wáá	w ⁵/aː	2426	190	3361	
 4189	Fulfulde	HOT	wulude	wul-ude	w u l + u d e	110	2082 2083	0	
@@ -4357,7 +4194,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4220	TogoKan	HOT	nú:	nú:	n ⁵/uː	998	2078	0	
 4221	ToroTegu	HOT	dɔ́	dɔ́	d ⁵/ɔ	999	2088	0	
 4222	BonduSo	HOT	dwɛ̌yⁿ-yè	dwɛ̌yⁿ-yè	d w ¹⁵/ɛ ∼/j + j ¹/e	994	2072 2073	0	
-#
 4223	ToroTegu	HUNDRED	zǎŋ, zàŋú, zàŋgú	zǎŋ	z ¹⁵/a ŋ	1003	2093	0	
 4224	BenTey	HUNDRED	tɛ́:mɛ́dɛ́rɛ̀	tɛ́:mɛ́dɛ́rɛ̀	t ⁵/ɛː m ⁵/ɛ d ⁵/ɛ r ¹/ɛ	1001	2089	3394	
 4225	BankanTey	HUNDRED	tɛ́:mbɛ̀ndɛ́rɛ̀, tɛ́:mɛ̀dɛ́rɛ̀	tɛ́:mbɛ̀ndɛ́rɛ̀	t ⁵/ɛː ⁿb ¹/ɛ ⁿd ⁵/ɛ r ¹/ɛ	1001	2089	3394	
@@ -4381,7 +4217,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4243	Jenaama	HUNDRED	tɛ̄ɛ̄mdɛ̄rɛ̀	tɛ̄ɛ̄mdɛ̄rɛ̀	t ³/ɛ: ⁿd ³/ɛ r ¹/ɛ	2953	2089	3394	
 4244	TebulUre	HUNDRED	tɛ́:mdɛ̀rɛ̀	tɛ́:mdɛ̀rɛ̀	t ⁵/ɛː ⁿd ¹/ɛ r ¹/ɛ	1001	2089	3394	
 4245	SonghaiSenni	HUNDRED	zàŋgù	zàŋgù	z ¹/a ⁿɡ ¹/u	3668	5373	3397	
-#
 4246	DonnoSo	HUNT	dànná	dànná	d ¹/a n n ⁵/a	1007	2098	0	
 4247	Jamsay	HUNT	dàná	dàná	d ¹/a n ⁵/a	1007	2098	0	
 4248	TiranigeDiga	HUNT	tà:nì	tà:nì	t ¹/aː n ¹/i	1007	2098	0	
@@ -4404,8 +4239,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4265	BozoKotya	HUNT	doⁿso	doⁿso	d õ s o	2954	2099	56	
 4266	BozoPondorinord	HUNT	doⁿsoaⁿma	doⁿsoaⁿma	d õ s o ã m a	2954	2099	56	
 4267	Bangime	HUNT	sísɔ̀ɡɔ́-mɛ̀	sísɔ̀ɡɔ́-mɛ̀	s ⁵/i s ¹/ɔ ɡ ⁵/ɔ + m ¹/ɛ	2429	198 4827	0	
-4268	Bambara	HUNT	dò̰sòyá	dò̰sòyá	d ¹/õ s ¹/o j ⁵/a	2954	2099	56	
-#
+4268	Bambara	HUNT	dò̰sòyá	dò̰sòyá	d ¹/õ s ¹/o j ⁵/a	2954	2099	56	
 4269	Bambara	HUSBAND	cɛ̀	cɛ̀	tʃ ¹/ɛ	2955	2103	0	
 4270	BankanTey	HUSBAND	ɔ̀ŋgɔ̀rɔ̌-m	ɔ̀ŋgɔ̀rɔ̌-m	¹/ɔ ⁿɡ ¹/ɔ r ¹⁵/ɔ + m	1013	2105 2106	3420	
 4271	BenTey	HUSBAND	ɔ̀ŋgɔ̀rɔ́	ɔ̀ŋgɔ̀rɔ́	¹/ɔ ⁿɡ ¹/ɔ r ⁵/ɔ	1013	2105	3420	
@@ -4442,7 +4276,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4302	SonghaiSenni	HUSBAND	kúrɲê	kúrɲê	k ⁵/u r + ɲ ⁵¹/e	3669	5374 2116	0	
 4303	ToroSo	HUSBAND	ígɛ́	ígɛ́	⁵/i ɡ ⁵/ɛ	1014	2113	0	
 4304	BonduSo	HUSBAND	ŋɔ̀ɡɔ́	ŋɔ̀ɡɔ́	ŋ ¹/ɔ ɡ ⁵/ɔ	1014	2105	0	
-#
 4305	Bangime	INJURE	bàrmà	bàrmà	b ¹/a r m ¹/a	2431	2120	3453	
 4306	Fulfulde	INJURE	barmude	barm-ude	b a r m + u d e	113	2121 2122	3453	
 4307	Bambara	INJURE	jógíⁿ	jógíⁿ	dʒ ⁵/o ɡ ⁵/ĩ	2963	2119	0	
@@ -4454,7 +4287,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4313	SonghaiSenni	INJURE	hásár-ów	hásár-ów	h ⁵/a s ⁵/a r + ⁵/o w	3671	2131 2132	0	
 4314	Jenaama	INJURE	à-māyⁿ	à-māyⁿ	¹/a + m ³/a ∼/j	2964	2125 2126	0	
 4315	SonghaiSenni	INJURE	yáŋgádâ	yáŋgádâ	j ⁵/a ⁿɡ ⁵/a d ⁵¹/a	3672	2133	0	
-#
 4316	Bambara	IRON	nɛ̀gɛ̀fíⁿ	nɛ̀gɛ̀fíⁿ	n ¹/ɛ ɡ ¹/ɛ + f ⁵/ĩ	2967	2134 643	57	
 4317	BozoDebo	IRON	mɛⁿŋ	mɛⁿŋ	m ∼/ɛ ŋ	2968	2138	3468	
 4318	BozoHainyaxo	IRON	mɛⁿɛⁿŋuⁿ	mɛⁿɛⁿŋuⁿ	m ∼/ɛː ŋ ũ	2968	2138	3468	
@@ -4488,7 +4320,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4346	ToroSo	IRON	ménnù	ménnù	m ⁵/e n + n ¹/u	1022	204 0	3468	
 4347	BonduSo	IRON	ínón	ínón	⁵/i n ⁵/o + n	1021	2136 2140	0	
 4348	Bangime	IRON	ɡɛ́ŋɡɛ̄	ɡɛ́ŋɡɛ̄	ɡ ⁵/ɛ ⁿɡ ³/ɛ	2432	5026	57	
-#
 4349	Bambara	JAW	dákóló	dákóló	d ⁵/a + k ⁵/o l ⁵/o	2969	2162 5186	0	
 4350	Bambara	JAW	dásó	dásó	d ⁵/a + s ⁵/o	2969	5184 5185	0	
 4351	ToroTegu	JAW	kà-pèŋgùró	kà-pèŋgùró	k ¹/a + p ¹/e ⁿɡ ¹/u + r ⁵/o	1033	2150 2160 2161	0	
@@ -4517,7 +4348,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4374	ToroSo	JAW	àŋgà kìlè dòɲó	àŋgà kìlè dòɲó	¹/a ⁿɡ ¹/a + k ¹/i l ¹/e + d ¹/o ɲ ⁵/o	1032	2150 2148 2158	0	
 4375	ToroSo	JAW	áŋá kɛ̂	áŋá kɛ̂	⁵/a ŋ ⁵/a + k ¹⁵/ɛ	1030	2152 2148	0	
 4376	BonduSo	JAW	dʒáɡá	dʒáɡá	d ʒ ⁵/a ɡ ⁵/a	1028	2150	0	
-#
 4377	SonghaiSenni	JOINT	dób-ó	dób-ó	d ⁵/o b + ⁵/o	3674	2173 2174	0	
 4378	ToroTegu	JOINT	dìgú	dìgú	d ¹/i ɡ ⁵/u	1034	2163	3516	
 4379	BenTey	JOINT	díyáy	díyáy	d ⁵/i j ⁵/a + j	1035	2165 4829	0	
@@ -4540,7 +4370,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4396	Fulfulde	JOINT	palugiʔel	palu-giʔel	p a l u + ɡ i ʔ e l	115	2168 2169	0	
 4397	Jenaama	JOINT	wáɲɔ̄wⁿ (1)	wáɲɔ̄wⁿ	w ⁵/a ɲ ³/ɔ + w̃	2970	2170 2171	3520	
 4398	Bangime	JOINT	dɔ̀kɛ́-rɛ́	dɔ̀kɛ́-rɛ́	d ¹/ɔ k ⁵/ɛ + r ⁵/ɛ	2435	5028 2164	3516	
-#
 4399	SonghaiSenni	KEY	gànf-[í:z-ò]	gànf-í:z-ò	ɡ ¹/a n f + ⁵/iː z + ¹/o	3675	2189 2190 2191	0	
 4400	Bangime	KEY	pɛ̀rɛ̀ɛ̀	pɛ̀rɛ̀ɛ̀	p ¹/ɛ r ¹/ɛː	2436	2177	0	
 4401	Fulfulde	KEY	cokirgal	cokirgal	tʃ o k i r ɡ + a l	116	2183 2184	3539	
@@ -4563,7 +4392,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4418	Mombo	KEY	bǒy	bǒy	b ¹⁵/o j	1044	2178	0	
 4419	Penange	KEY	bòwⁿ-wê: (door-child)	bòwⁿ-wê:	b ¹/o ∼/w̃ + w ⁵¹/eː	1045	2185 2188	0	
 4420	BankanTey	KEY	tà:ⁿ-yî:	tà:ⁿ-yî:	t ∼/ãː + j ⁵¹/iː	1038	2178 2179	0	
-#
 4421	Bambara	KIDNEY	nìnàná	nìnàná	n ¹/i n ¹/a n ⁵/a	2971	2196	58	
 4422	ToroTegu	KIDNEY	làràmkúm	làràmkúm	l ¹/a r ¹/a + m + k ⁵/u + m	1056	2205 2200 2215 2203	0	
 4423	BenTey	KIDNEY	nàrⁿì-yî:	nàrⁿì-yî:	n ¹/a ∼/r̃ ¹/i + j ⁵¹/iː	1051	2199 2201	58	
@@ -4589,7 +4417,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4443	Bangime	KIDNEY	kùŋkúyⁿɛ̀	kùŋkúyⁿɛ̀	k ¹/u ŋ + k ⁵/u ∼/j ¹/ɛ	2437	2197 2198	0	
 4444	Bambara	KIDNEY	kɔ́mɔ́kílí	kɔ́mɔ́kílí	k ⁵/ɔ m ⁵/ɔ + k ⁵/i l ⁵/i	2973	2216 2217	0	
 4445	Soninke	KIDNEY	gúrúɲà	gúrúɲà	ɡ ⁵/u r ⁵/u + ɲ ¹/a	2972	207 2210	3567	
-#
 4446	ToroTegu	KILL	wɔ̌w	wɔ̌w	w ¹⁵/ɔ w	1058	2225	3582	
 4447	BenTey	KILL	jìyɛ́	jìyɛ́	dʒ ¹/i j ⁵/ɛ	1061	2218	0	
 4448	BankanTey	KILL	jɛ́	jɛ́	dʒ ⁵/ɛ	1061	2220	0	
@@ -4626,7 +4453,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4479	ToroSo	KILL	dàáy	dàáy	d ¹⁵/aː j	1061	2220	0	
 4480	ToroSo	KILL	dááyì	dááyì	d ⁵/aː j ¹/i	1061	2220	0	
 4481	BonduSo	KILL	ɡííyɛ́ː	ɡííyɛ́ː	ɡ ⁵/iː j ⁵/ɛː	1059	2218	3586	
-#
 4482	SonghaiSenni	KNEE	háy-­kánjè	háy_kánjè	h ⁵/a j + k ⁵/a ⁿdʒ ¹/e	3679	2242 5188	0	
 4483	ToroTegu	KNEE	nìŋó	nìŋó	n ¹/i ŋ ⁵/o	1065	2236	0	
 4484	BenTey	KNEE	sínjì:, síŋgì:	sínjì:	s ⁵/i ⁿdʒ ¹/iː	1062	2232	3605	
@@ -4670,7 +4496,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4523	ToroSo	KNEE	yóŋgóró	yóŋgóró	j ⁵/o ⁿɡ ⁵/o + r ⁵/o	1070	2236 2245	0	
 4524	ToroSo	KNEE	ɲɔ̀ŋɔ́	ɲɔ̀ŋɔ́	ɲ ¹/ɔ ŋ ⁵/ɔ	1065	2236	0	
 4525	BonduSo	KNEE	nàà kínjù	nàà kínjù	n ¹/aː + k ⁵/i ⁿdʒ ¹/u	1066	2232 2229	0	
-#
 4526	ToroTegu	KNEEL	gùrùkú	gùrùkú	ɡ ¹/u r ¹/u + k ⁵/u	1080	2266 2267	0	
 4527	BenTey	KNEEL	túŋgú-yú	túŋgú-yú	t ⁵/u ⁿɡ ⁵/u + j ⁵/u	1072	2254 2255	0	
 4528	BankanTey	KNEEL	túŋg-í:	túŋg-í:	t ⁵/u ⁿɡ ⁵/iː	1072	2252	0	
@@ -4696,7 +4521,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4548	Fulfulde	KNEEL	hofude	hof-ude	h o f + u d e	119	2257 2258	0	
 4549	ToroSo	KNEEL	túŋì	túŋì	t ⁵/u ŋ ¹/i	1075	2254	3654	
 4550	BonduSo	KNEEL	ŋɛ̀ní-yɛ̀	ŋɛ̀ní-yɛ̀	ŋ ¹/ɛ n ⁵/i + j ¹/ɛ	1073	2256 2255	0	
-#
 4551	ToroTegu	KNIFE	pèrú	pèrú	p ¹/e r ⁵/u	1081	2268	3671	
 4552	BenTey	KNIFE	pǒ:	pǒ:	p ¹⁵/oː	1081	2268	3671	
 4553	Nanga	KNIFE	pòrí	pòrí	p ¹/o r ⁵/i	1081	2268	3671	
@@ -4729,7 +4553,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4580	Soninke	KNIFE	mùrú	mùrú	m ¹/u r ⁵/u	2989	2276	3679	
 4581	Soninke	KNIFE	págá	págá	p ⁵/a ɡ ⁵/a	2985	2278	3671	
 4582	SonghaiSenni	KNIFE	sémb-ó	sémb-ó	s ⁵/e ⁿb + ⁵/o	3683	2274 2275	0	
-#
 4583	Soninke	KNOW (SOMETHING)	láⁿkólóⁿ	láⁿkólóⁿ	l ⁵/ã + k ⁵/o l ⁵/õ	2991	2290 2291	0	
 4584	Bangime	KNOW (SOMETHING)	sō-rè (1)	sō-rè	s ³/o + r ¹/e	2443	2281 2282	0	
 4585	Fulfulde	KNOW (SOMETHING)	anndude	annd-ude	a n ⁿd + u d e	122	2284 2285	0	
@@ -4745,7 +4568,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4595	Jamsay	KNOW (SOMETHING)	jùgɔ́	jùgɔ́	dʒ ¹/u ɡ ⁵/ɔ	1087	2283	0	
 4596	PergeTegu	KNOW (SOMETHING)	jùgɔ́	jùgɔ́	dʒ ¹/u ɡ ⁵/ɔ	1087	2283	0	
 4597	SonghaiSenni	KNOW (SOMETHING)	béy	béy	b ⁵/e j	3684	2289	0	
-#
 4598	Bambara	LADDER	fàrá	fàrá	f ¹/a r ⁵/a	2993	2233	3705	
 4599	Bangime	LADDER	pɛ́ɛ́ⁿ	pɛ́ɛ́ⁿ	p ⁵/ɛ̃ː	2444	2293	0	
 4600	Fulfulde	LADDER	ŋabbirgal	ŋabbirgal	ŋ a b b i r ɡ + a l	123	2296 2297	0	
@@ -4772,7 +4594,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4621	Jamsay	LADDER	tìrú	tìrú	t ¹/i r ⁵/u	1093	2298	0	
 4622	ToroTegu	LADDER	tìrú	tìrú	t ¹/i r ⁵/u	1093	2298	0	
 4623	TiranigeDiga	LADDER	yòwⁿ	yòwⁿ	j ¹/o ∼/w̃	1095	2302	0	
-#
 4624	Soninke	LAUGH	kai	kai	k a i	3001	2317	0	
 4625	Bangime	LAUGH	màà	màà	m ¹/aː	2445	5030	3727	
 4626	Fulfulde	LAUGH	jalude	jal-ude	dʒ a l + u d e	124	2311 2312	0	
@@ -4812,7 +4633,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4660	ToroSo	LAUGH	mòy mɔ́nɛ́	mòy mɔ́nɛ́	m ¹/o j + m ⁵/ɔ n ⁵/ɛ	1099	2320 2306	3745	
 4661	ToroSo	LAUGH	mùmɔ̀-j	mùmɔ̀-j	m ¹/u m ¹/ɔ + dʒ	1102	2306 2323	3727	
 4662	BonduSo	LAUGH	màní	màní	m ¹/a n ⁵/i	1096	2306	3727	
-#
 4663	SonghaiSenni	LEAF	kò:s-ò	kò:s-ò	k ¹/oː s + ¹/o	3689	5192 2328	0	
 4664	Bangime	LEAF	pūjⁿɛ̀	pūjⁿɛ̀	p ³/u ∼/j̃ ¹/ɛ	2447	5031	0	
 4665	Fulfulde	LEAF	haako	haako	h aː k o	126	2326	0	
@@ -4851,7 +4671,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4698	ToroSo	LEAF	líyɛ́	líyɛ́	l ⁵/i j ⁵/ɛ	1104	2330	0	
 4699	ToroSo	LEAF	kùrɔ	kùrɔ	k ¹/u r ɔ	1103	2327	0	
 4700	BonduSo	LEAF	kɔ̀mbá-ŋ	kɔ̀mbá-ŋ	k ∼¹/ɔ b ⁵/a + ŋ	1103	2319 2331	0	
-#
 4701	Bangime	LEAVE	ɡòmbè	ɡòmbè	ɡ ¹/o ⁿb ¹/e	2448	2333	60	
 4702	Fulfulde	LEAVE	wittude	witt-ude	w i t t + u d e	127	5310 2339	0	
 4703	Jenaama	LEAVE	ā-bày	ā-bày	³/a + b ¹/a j	3008	2340 2341	0	
@@ -4877,7 +4696,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4723	Soninke	LEAVE	búgú	búgú	b ⁵/u ɡ ⁵/u	3006	2344	0	
 4724	SonghaiSenni	LEAVE	fáttá	fáttá	f ⁵/a t t ⁵/a	3691	5378	0	
 4725	Bambara	LEAVE	bɔ́	bɔ́	b ⁵/ɔ	3007	2345	0	
-#
 4726	ToroTegu	LEFT	bàrⁿíyⁿà	bàrⁿíyⁿà	b ¹/a ∼/r̃ ⁵/i + ∼/j ¹/a	1119	2347 2357	3828	
 4727	BenTey	LEFT	bànǎyⁿ	bànǎyⁿ	b ¹/a n ¹⁵/a + ∼/j	1119	2347 2348	3828	
 4728	BankanTey	LEFT	bàndǎy	bàndǎy	b ¹/a ⁿd ¹⁵/a + j	1119	2347 2348	3828	
@@ -4912,7 +4730,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4757	Soninke	LEFT	nòògê	nòògê	n ¹/o: ɡ ⁵¹/e	3009	2358	3827	
 4758	ToroSo	LEFT	nàná	nàná	n ¹/a n ⁵/a	1118	2349	3827	
 4759	BonduSo	LEFT	nándààn	nándààn	n ⁵/a ⁿd ¹/a:	1118	2349	3827	
-#
 4760	ToroTegu	LICK	dɛ̀gú	dɛ̀gú	d ¹/ɛ ɡ ⁵/u	1122	2361	3853	
 4761	BenTey	LICK	dɛ̀gɛ́	dɛ̀gɛ́	d ¹/ɛ ɡ ⁵/ɛ	1122	2361	3853	
 4762	TebulUre	LICK	dɛ̀gɛ́ (dɛ̀gɛ́-tì-)	dɛ̀gɛ́	d ¹/ɛ ɡ ⁵/ɛ	1122	2361	3853	
@@ -4936,7 +4753,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4780	Soninke	LICK	tàrá	tàrá	t ¹/a r ⁵/a	3015	2360	3853	
 4781	SonghaiSenni	LICK	ló:gú	ló:gú	l ⁵/oː ɡ ⁵/u	3694	2365	0	
 4782	Bangime	LICK	dɛ̀ɛ̀-rɛ̀ (2)	dɛ̀ɛ̀-rɛ̀	d ¹/ɛː r ¹/ɛ	2450	5033	3853	
-#
 4783	Bambara	LIE DOWN	nogu	nogu	n o ɡ u	3016	2367	0	
 4784	Bangime	LIE DOWN	tūrù (1)	tūrù	t ³/u r ¹/u	2451	2368	3867	
 4785	Fulfulde	LIE DOWN	leelaade	leel-aade	l eː l + aː d e	130	2372 2373	0	
@@ -4973,7 +4789,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4816	Soninke	LIE DOWN	sáxú	sáxú	s ⁵/a x ⁵/u	3018	2370	3871	
 4817	ToroSo	LIE DOWN	dìín	dìín	d ¹⁵/i: n	1124	2379	3867	
 4818	BonduSo	LIE DOWN	bìní-yɛ̀ɛ̀	bìní-yɛ̀ɛ̀	b ¹/i n ⁵/i + j ¹/ɛː	1125	2366 2369	0	
-#
 4819	SonghaiSenni	LIFT	kà:-ndù	kà:ndù	k ¹/aː ⁿd ¹/u	3698	5379	0	
 4820	SonghaiSenni	LIFT	tún-éyndí	tún-éyndí	t ⁵/u n + ⁵/e j ⁿd ⁵/i	3699	5380 5381	0	
 4821	SonghaiSenni	LIFT	zíg-éyndí	zíg-éyndí	z ⁵/i ɡ + ⁵/e j ⁿd ⁵/i	3699	2396 5381	0	
@@ -4998,7 +4813,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4840	Penange	LIFT	nɛ́mɛ́	nɛ́mɛ́	n ⁵/ɛ m ⁵/ɛ	1137	2393	0	
 4841	Nanga	LIFT	àyí	àyí	¹/a j ⁵/i	1133	2385	0	
 4842	TommoSo	LIFT	jèɲɲé	jèɲɲé	dʒ ¹/e ɲ ɲ ⁵/e	1134	2390	3899	
-#
 4843	SonghaiSenni	LIGHT (WEIGHT)	dò:n	dò:n	d ¹/oː n	3700	2414	0	
 4844	ToroTegu	LIGHT (WEIGHT)	ɛ́rú	ɛ́rú	⁵/ɛ r ⁵/u	1141	2402	0	
 4845	BenTey	LIGHT (WEIGHT)	ɲɛ̀rⁿú	ɲɛ̀rⁿú	ɲ ¹/ɛ r̃ ⁵/u	1141	2402	0	
@@ -5023,7 +4837,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4864	Bambara	LIGHT (WEIGHT)	kókkóhè	kókkóhè	k ⁵/o k k ⁵/o h ¹/e	3020	2398	0	
 4865	Bambara	LIGHT (WEIGHT)	fɛ́gɛ́ⁿ	fɛ́gɛ́ⁿ	f ⁵/ɛ ɡ ⁵/ɛ̃	3022	2399	0	
 4866	Bangime	LIGHT (WEIGHT)	péɡé-péɡè	péɡé-péɡè	p ⁵/e ɡ ⁵/e + p ⁵/e ɡ ¹/e	2453	5035 2400	61	
-#
 4867	SonghaiSenni	LIMP	símbárú	símbárú	s ⁵/i ⁿb ⁵/a r ⁵/u	3701	2427	0	
 4868	Bangime	LIMP	sèŋèndà	sèŋèndà	s ¹/e ŋ ¹/e + ⁿd ¹/a	2454	2418 5036	3942	
 4869	Fulfulde	LIMP	layude	laʄ-ude	l a ʄ + u d e	133	2423 2424	0	
@@ -5045,7 +4858,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4885	YornoSo	LIMP	tégé	tégé	t ⁵/e ɡ ⁵/e	1152	2421	3944	
 4886	Bambara	LIMP	cúⁿ	cúⁿ	tʃ ⁵/ũ	3023	2417	3941	
 4887	Bambara	LIMP	jɛ̀ⁿgɛ́	jɛ̀ⁿgɛ́	dʒ ∼/ɛ ɡ ⁵/ɛ	3024	220	3944	
-#
 4888	Bangime	LION	kìjɛ̀ (1)	kìjɛ̀	k ¹/i j ¹/ɛ	2455	2432	0	
 4889	Fulfulde	LION	rawaandu-ladde	rawaandu-ladde	r a w aː + ⁿd u + l a d d e	134	2440 2441 2442	0	
 4890	Jenaama	LION	wārābà	wārābà	w ³/a r ³/a + b ¹/a	3027	2436 2444	0	
@@ -5073,7 +4885,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4912	BozoTieyaxo	LION	xoⁿbo	xoⁿbo	x õ b o	3026	2437	0	
 4913	ToroSo	LION	dùŋ yàrá	dùŋ yàrá	d ¹/u ŋ + j ¹/a r ⁵/a	1160	2443 2436	0	
 4914	Bambara	LION	jàrá	jàrá	j ¹/a r ⁵/a	3025	224	3960	
-#
 4915	SonghaiSenni	LOCK	mè:-dà:bù-r-ò	mè:dà:_bù-r-ò	m ¹/eː d ¹/aː + b ¹/u + r + ¹/o	3703	2459 2460 2461 2462	0	
 4916	Bangime	LOCK	sɔ̀rɡú	sɔ̀rɡú	s ¹/ɔ r + ɡ ⁵/u	2456	5037 5038	62	
 4917	Fulfulde	LOCK	sokude	sok-ude	s o k + u d e	135	2455 2456	62	
@@ -5093,7 +4904,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4931	TommoSo	LOCK	tàà dàgá	tàà_dàgá	t ¹/aː + d ¹/a ɡ ⁵/a	1165	2449 2451	0	
 4932	DonnoSo	LOCK	tàŋà-dágà	tàŋà_dágà	t ¹/a ŋ ¹/a + d ⁵/a ɡ ¹/a	1165	2449 2451	0	
 4933	DogulDom	LOCK	témbùrùg	tém_bùrùg	t ⁵/e m + b ¹/u r ¹/u + ɡ	1173	2464 2465 2454	0	
-#
 4934	Bambara	LOOK	nogu	nogu	n o ɡ u	3032	2466	0	
 4935	Bambara	LOOK	lájɛ́	lájɛ́	l ⁵/a + dʒ ⁵/ɛ	3035	2484 5196	4024	
 4936	Bangime	LOOK	sùràà	sùràà	s ¹/u r ¹/aː	2458	2467	0	
@@ -5124,7 +4934,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4961	ToroSo	LOOK	yɛ́nè	yɛ́nè	j ⁵/ɛ n ¹/e	1175	2475	4005	
 4962	ToroSo	LOOK	ɲɛ̀ń	ɲɛ̀ń	ɲ ¹/ɛ n	1182	2486	4019	
 4963	BonduSo	LOOK	tàrèè	tàrèè	t ¹/a r ¹/eː	1176	2469	0	
-#
 4964	Jamsay	LOOK FOR	lúgúrú	lúgúrú	l ⁵/u ɡ ⁵/u + r ⁵/u	1187	2498 2489	63	
 4965	TomoKan	LOOK FOR	dénnú	dénnú	d ⁵/e n + n ⁵/u	1186	2494 2502	4031	
 4966	PergeTegu	LOOK FOR	lúgú-rú	lúgú-rú	l ⁵/u ɡ ⁵/u + r ⁵/u	1187	2498 2489	63	
@@ -5159,7 +4968,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 4995	Jenaama	LOOK FOR	ā-mà	ā-mà	³/a + m ¹/a	3038	2499 2487	0	
 4996	Bambara	LOOK FOR	ɲíní	ɲíní	ɲ ⁵/i n ⁵/i	3036	2487	0	
 4997	SonghaiSenni	LOOK FOR	lárwê	lárwê	l ⁵/a r w ⁵¹/e	3707	2500	63	
-#
 4998	SonghaiSenni	LOUSE	gán-ó	gán-ó	ɡ ⁵/a n + ⁵/o	3708	2394 2516	4082	
 4999	Bangime	LOUSE	sɛ̀mà	sɛ̀mà	s ¹/ɛ m ¹/a	2460	5040	4056	
 5000	Fulfulde	LOUSE	temba	temba	t e ⁿb a	138	2512	4059	
@@ -5199,7 +5007,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5034	Soninke	LOUSE	dúúɲè	dúúɲè	d ⁵/uː ɲ ¹/e	3043	2517	4059	
 5035	ToroSo	LOUSE	kàràŋ-kǎː	kàràŋ-kǎː	k ¹/a r ¹/a ŋ + k ¹⁵/aː	1195	2513 2508	0	
 5036	Bambara	LOUSE	ɲḭmḭ	ɲḭmḭ	ɲ ∼/i m ∼/i	3042	226	4056	
-#
 5037	ToroTegu	LUNCH	kòlú	kòlú	k ¹/o l ⁵/u	1199	2525	0	
 5038	BenTey	LUNCH	kɛ̀lɛ̀-tɛ᷈y	kɛ̀lɛ̀-tɛ᷈y	k ¹/ɛ l ¹/ɛ + t ∼/ɛ + j	1199	2525 2526 2527	0	
 5039	BankanTey	LUNCH	m̀bùrɔ̀mbúrɔ̀	m̀bùrɔ̀_mbúrɔ̀	ⁿb ¹/u r ¹/ɔ + ⁿb ⁵/u r ¹/ɔ	1198	2523 2524	0	
@@ -5225,7 +5032,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5059	BozoPondorinord	LUNCH	yìràxàtá	yìràxàtá	j ¹/i r ¹/a + x ¹/a t ⁵/a	3045	2528 4832	0	
 5060	Bangime	LUNCH	nìjɛ̄-hùⁿ-pɔ́wⁿ	nìjɛ̄-hùⁿ_pɔ́wⁿ	n ¹/i j ³/ɛ + h ũ + p ⁵/ɔ w̃	2461	2520 2521 2522	0	
 5061	Bambara	LUNCH	tìlèlàfáná	tìlèlàfáná	t ¹/i l ¹/e l ¹/a + f ⁵/a n ⁵/a	3044	2518 5197	0	
-#
 5062	SonghaiKiini	LUNG	kùmp-ú	kùmp-ú	k ¹/u ⁿp + ⁵/u	3710	2555 2556	65	
 5063	ToroTegu	LUNG	kùpà:ⁿsú	kùpà:ⁿsú	k ¹/u p ∼/ãː s ⁵/u	1212	2547	65	
 5064	BenTey	LUNG	pù:sù-pà:sá, cɛ̀lɛ̀-pù:sù-pà:sá	pù:sù-pà:sá	p ¹/uː s ¹/u + p ¹/aː s ⁵/a	1210	2547 2549	0	
@@ -5254,7 +5060,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5087	ToroSo	LUNG	bùðù báðú	bùðù báðú	b ¹/u ð ¹/u + b ⁵/a ð ⁵/u	1210	2547 2549	0	
 5088	ToroSo	LUNG	kínɛ̀ púdʒù pádʒù	kínɛ̀ púdʒù pádʒù	k ⁵/i n ¹/ɛ + p ⁵/u d ʒ ¹/u + p ⁵/a d ʒ ¹/u	1216	2551 2547 2549	0	
 5089	Bambara	LUNG	fogonfogon	fogonfogon	f o ɡ o n + f o ɡ o n	3046	5198 5198	4108	
-#
 5090	ToroTegu	MAIZE	tɔ̀rⁿí-yⁿàrⁿà	tɔ̀rⁿí-yⁿàrⁿà	t ¹/ɔ ∼/r̃ ⁵/i + ∼/j ¹/a ∼/r̃ ¹/a	1220	2560 2569	0	
 5091	BenTey	MAIZE	bàrměyⁿ	bàr-měyⁿ	b ¹/a r + m ¹⁵/e j̃	1218	2562 2561	66	
 5092	BankanTey	MAIZE	bàrà-ɛ̀mbɛ̌y	bàrà-ɛ̀mbɛ̌y	b ¹/a r ¹/a + ¹/ɛ ⁿb ¹⁵/ɛ j	1217	2560 2561	66	
@@ -5294,7 +5099,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5126	ToroSo	MAIZE	sarⁿù ɛ̀mɛ́	sarⁿù ɛ̀mɛ́	s a ∼/r̃ ¹/u + ¹/ɛ m ⁵/ɛ	1225	2560 2561	0	
 5127	ToroSo	MAIZE	sármɛ̀	sármɛ̀	s ⁵/a r + m ¹/ɛ	1218	2560 2561	0	
 5128	BonduSo	MAIZE	mà dèmbá-ŋ	mà dèmbá-ŋ	m ¹/a + d ¹/e ⁿb ⁵/a + ŋ	1226	2565 2561 2576	68	
-#
 5129	Bangime	MAN	ɡùwⁿɔ̀	ɡùwⁿɔ̀	ɡ ¹/u ∼/w̃ ¹/ɔ	2464	2579	69	
 5130	Jenaama	MAN	kɛ̄ɛ̄gū	kɛ̄ɛ̄gū	k ³/ɛ: ɡ ³/u	3056	2583	0	
 5131	Jamsay	MAN	ǎ-n	ǎ-n	¹⁵/a + n	1229	2577 2586	0	
@@ -5331,8 +5135,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5162	SonghaiSenni	MAN	hàr	hàr	h ¹/a r	3712	5199	4196	
 5163	ToroSo	MAN	àynɛ́	àynɛ́	¹/a j + n ⁵/ɛ	1229	2585 2582	0	
 5164	BonduSo	MAN	ân	ân	⁵¹/a + n	1229	2577 2589	0	
-9629	Fulfulde	MAN			ɡ o r k o	3904	5200	69	
-#
 5165	ToroTegu	MARKET	lú:mà, ɛ́wá	lú:mà	l ⁵/uː m ¹/a	1237	2598	4207	
 5166	BenTey	MARKET	ɛ́wá:	ɛ́wá:	⁵/ɛ w ⁵/aː	1235	2592	0	
 5167	YornoSo	MARKET	íbɛ́	íbɛ́	⁵/i b ⁵/ɛ	1236	2592	0	
@@ -5356,7 +5158,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5185	Bambara	MARKET	dɔ́gɔ́	dɔ́gɔ́	d ⁵/ɔ ɡ ⁵/ɔ	3058	2590	0	
 5186	Soninke	MARKET	sáxà	sáxà	s ⁵/a x ¹/a	3060	2597	0	
 5187	SonghaiSenni	MARKET	héb-ó	héb-ó	h ⁵/e b + ⁵/o	3713	2595 2596	0	
-#
 5188	ToroTegu	MARROW	síwó	síwó	s ⁵/i w ⁵/o	1238	2611	4216	
 5189	BenTey	MARROW	bú:sǎm	bú:sǎm	b ⁵/uː s ¹⁵/a + m	1245	2604 2605	4238	
 5190	BankanTey	MARROW	nɔ̀:-nî:, m̀búsâm	nɔ̀:nî:	n ¹/ɔː n ⁵¹/iː	1240	2602	0	
@@ -5384,7 +5185,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5212	Soninke	MARROW	sémbè	sémbè	s ⁵/e ⁿb ¹/e	3061	2610	4216	
 5213	ToroSo	MARROW	bɔ́nú	bɔ́nú	b ⁵/ɔ n ⁵/u	1245	2606	4238	
 5214	BonduSo	MARROW	tólóɡí-n	tólóɡí-n	t ⁵/o l ⁵/o ɡ ⁵/i + n	1246	2614 2605	0	
-#
 5215	BankanTey	MARRY	séré, zɛ́	séré	s ⁵/e r ⁵/e	1247	2615	0	
 5216	Nanga	MARRY	jɛ̌:	jɛ̌:	dʒ ¹⁵/ɛː	1248	2616	0	
 5217	PergeTegu	MARRY	jɛ́:	jɛ́:	dʒ ⁵/ɛː	1248	2616	0	
@@ -5407,8 +5207,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5234	BozoDebo	MARRY	keba	keba	k e b a	3063	2617	4245	
 5235	BozoKorondougousud	MARRY	keba	keba	k e b a	3063	2617	4245	
 5236	BozoPondorinord	MARRY	kuba	kuba	k u b a	3063	2617	4245	
-9630	Bangime	MARRY	būwɔ̀	būwɔ̀	b ³/u w ¹/ɔ	3899	242	0	
-#
 5237	ToroTegu	MAT	kàrá	kàrá	k ¹/a r ⁵/a	1258	2631	0	
 5238	Nanga	MAT	kágá	kágá	k ⁵/a ɡ ⁵/a	1257	2631	4265	
 5239	PergeTegu	MAT	sùgɔ́	sùgɔ́	s ¹/u ɡ ⁵/ɔ	1257	2629	4265	
@@ -5436,7 +5234,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5261	Bambara	MAT	dɛ̀bɛ́ⁿ	dɛ̀bɛ́ⁿ	d ¹/ɛ b ⁵/ɛ̃	3064	2628	4264	
 5262	ToroSo	MAT	yɛ̀ɛ́ⁿ	yɛ̀ɛ́ⁿ	j ¹⁵/ɛ̃ː	1261	2639	0	
 5263	BonduSo	MAT	káːbú	káːbú	k ⁵/aː b ⁵/u	1258	2632	0	
-#
 5264	Bangime	MEAL	pɔ̀wⁿ	pɔ̀wⁿ	p ¹/ɔ w̃	2468	2641	4287	
 5265	Fulfulde	MEAL	tunngu	tunngu	t u n + ⁿɡ u	147	2645 2646	0	
 5266	Jenaama	MEAL	kùw	kùw	k ¹/u w	3067	2647	4287	
@@ -5459,7 +5256,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5283	TomoKan	MEAL	ɲà:	ɲà:	ɲ ¹/aː	1264	2640	0	
 5284	YandaDom	MEAL	zá	zá	z ⁵/a	1266	2648	0	
 5285	Bambara	MEAL	fàná	fàná	f ¹/a n ⁵/a	3066	5202	4286	
-#
 5286	ToroTegu	MEAT	nàwⁿá	nàwⁿá	n ¹/a ∼/w̃ ⁵/a	1268	2651	4307	
 5287	BenTey	MEAT	nàwⁿâ:	nàwⁿâ:	n ¹/a ∼/w̃ ⁵¹/aː	1268	2651	4307	
 5288	BankanTey	MEAT	nàmâ:	nàmâ:	n ¹/a m ⁵¹/aː	1268	2651	4307	
@@ -5488,7 +5284,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5312	ToroSo	MEAT	nàmâ	nàwⁿá	n ¹/a ∼/w̃ ⁵/a	1268	2651	4307	
 5313	ToroSo	MEAT	ŋɔ̀nɔ́	ŋɔ̀nɔ́	ŋ ¹/ɔ n ⁵/ɔ	1268	2651	4307	
 5314	BonduSo	MEAT	nàmâ	nàmâ	n ¹/a m ⁵¹/a	1268	2651	4307	
-#
 5315	Bangime	MEDICINE	bùrⁿà (2)	bùrⁿà	b ¹/u ∼/r̃ ¹/a	2470	5043	4323	
 5316	Fulfulde	MEDICINE	lekki	lekki	l e k k i	149	2662	0	
 5317	Jenaama	MEDICINE	jūgū	jūgū	dʒ ³/u ɡ ³/u	3071	245	4327	
@@ -5509,7 +5304,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5332	Penange	MEDICINE	ílé:ŋgé (y-)	ílé:ŋgé	⁵/i l ⁵/eː + ⁿɡ ⁵/e	1272	2658 2659	0	
 5333	Nanga	MEDICINE	ó:	ó:	⁵/oː	1275	2660	0	
 5334	Bambara	MEDICINE	fúrá	fúrá	f ⁵/u r ⁵/a	3070	2656	4323	
-#
 5335	ToroTegu	MEET	mɔ̀tú	mɔ̀tú	m ¹/ɔ t ⁵/u	1283	2667	0	
 5336	BenTey	MEET	mɔ̀:lú, mɔ̀:lí	mɔ̀:lú	m ¹/ɔː l ⁵/u	1279	2667	0	
 5337	BankanTey	MEET	mɔ̀:ní xxx[tone]	mɔ̀:ní	m ¹/ɔː n ⁵/i	1278	2667	4342	
@@ -5532,7 +5326,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5354	Fulfulde	MEET	sakkitaade	sakkit-aade	s a k k i t + aː d e	150	2672 2673	70	
 5355	Fulfulde	MEET	batude	bat-ude	b a t + u d e	151	2676 2677	0	
 5356	SonghaiSenni	MEET	kùbèy	kùbèy	k ¹/u b ¹/e j	3719	2675	0	
-#
 5357	BenTey	MILK	ɛ́wⁿɛ̀yⁿ	ɛ́wⁿɛ̀yⁿ	⁵/ɛ ∼/w̃ ¹/ɛ + ∼/j	1286	2679 2680	0	
 5358	BankanTey	MILK	ɛ́mmɛ̀yⁿ	ɛ́mmɛ̀yⁿ	⁵/ɛ m m ¹/ɛ + ∼/j	1285	2679 2680	0	
 5359	Nanga	MILK	ɛ́mɛ̂	ɛ́mɛ̂	⁵/ɛ m ¹⁵/ɛ	1287	2679	0	
@@ -5568,7 +5361,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5389	SonghaiSenni	MILK	wà:	wà:	w ¹/aː	3720	2686	0	
 5390	ToroSo	MILK	írù	írù	⁵/i r ¹/u	1288	2689	0	
 5391	BonduSo	MILK	ɛ́mɛ̀ː	ɛ́mɛ̀ː	⁵/ɛ m ¹/ɛː	1287	2679	0	
-#
 5392	ToroTegu	MILLET	yú	yú	j ⁵/u	1290	2692	4394	
 5393	BenTey	MILLET	yû:	yû:	j ⁵¹/uː	1290	2692	4394	
 5394	PergeTegu	MILLET	yú:	yú:	j ⁵/uː	1290	2692	4394	
@@ -5604,8 +5396,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5424	ToroSo	MILLET	yúú	yúú	j ⁵/uː	1290	2692	4394	
 5425	ToroSo	MILLET	yǔ	yǔ	j ¹⁵/u	1290	2692	4394	
 5426	BonduSo	MILLET	yó-gè	yó-gè	j ⁵/o + ɡ ¹/e	1291	2692 2693	4394	
-9634	Bambara	MILLET	ɲó	ɲó	ɲ ⁵/o	3077	2691	4394	
-#
 5427	Bangime	MONEY	tɔ́wⁿ	tɔ́wⁿ	t ⁵/ɔ ∼/w̃	2475	2703	0	
 5428	Fulfulde	MONEY	kaalisi	kaalisi	k aː l i s i	155	2709	4424	
 5429	Fulfulde	MONEY	ceede	ceede	tʃ eː d e	154	2717	4422	
@@ -5634,7 +5424,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5452	SonghaiSenni	MONEY	kà:tíb-ò	kà:tíb-ò	k ¹/aː t ⁵/i b + ¹/o	3723	2718 5384	0	
 5453	ToroSo	MONEY	kɛ̀ɛ̀lɛ́	kɛ̀ɛ̀lɛ́	k ¹/ɛː l ⁵/ɛ	1295	2704	4424	
 5454	BonduSo	MONEY	kɛ̀lɛ́	kɛ̀lɛ́	k ¹/ɛ l ⁵/ɛ	1295	2704	4424	
-#
 5455	ToroTegu	MOON	ìwá	ìwá	¹/i w ⁵/a	1302	2719	0	
 5456	BenTey	MOON	ùwɔ́	ùwɔ́	¹/u w ⁵/ɔ	1302	2719	0	
 5457	BankanTey	MOON	wǎ:	wǎ:	w ¹⁵/aː	1302	2719	0	
@@ -5671,13 +5460,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5488	ToroSo	MOON	ìyé pírú	ìyé pírú	¹/i j ⁵/e + p ⁵/i r ⁵/u	1311	2726 2736	0	
 5489	ToroSo	MOON	yè pérú	yè pérú	j ¹/e + p ⁵/e r ⁵/u	1311	2726 2736	0	
 5490	BonduSo	MOON	sàà-yɛ̀	sàà-yɛ̀	s ¹/aː + j ¹/ɛ	1304	2722 2726	0	
-#
 5491	SonghaiSenni	MOSQUE	jìŋgìr-ò	jìŋgìr-ò	dʒ ¹/i ⁿɡ ¹/i r + ¹/o	3725	2740 2741	0	
 5492	TommoSo	MOSQUE	sɛ̀nɛ̀ gìnɛ́, mìsídí	sɛ̀nɛ̀_gìnɛ́	s ¹/ɛ n ¹/ɛ + ɡ ¹/i n ⁵/ɛ	1312	2742 2743	0	
 5493	Mombo	MOSQUE	sándó góndó	sándó_góndó	s ⁵/a ⁿd ⁵/o + ɡ ⁵/o ⁿd ⁵/o	1312	2738 2739	0	
 5494	Bambara	MOSQUE	mìsírí	mìsírí	m ¹/i s ⁵/i r ⁵/i	3089	2737	0	
 5495	Soninke	MOSQUE	mìsídè	mìsídè	m ¹/i s ⁵/i d ¹/e	3089	2737	0	
-#
 5496	Jamsay	MOTHER	nǎ:	nǎ:	n ¹⁵/aː	1313	250	4485	
 5497	BankanTey	MOTHER	nàrⁿá	nàrⁿá	n ¹/a ∼/r̃ ⁵/a	1314	250	0	
 5498	Bunoge	MOTHER	nì-nì	nì-nì	n ¹/i + n ¹/i	1313	250 2748	4485	
@@ -5710,7 +5497,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5525	BozoTiemaCewe	MOTHER	naⁿ	naⁿ	n ã	3091	2746	4485	
 5526	Soninke	MOTHER	máá	máá	m ⁵/a:	3092	2753	0	
 5527	Soninke	MOTHER	sààxê	sààxê	s ¹/a x ¹/a ⁵¹/e	3093	2754	0	
-#
 5528	Bangime	MOUSE	ŋìì	ŋìì	ŋ ¹/iː	2478	2756	4517	
 5529	Fulfulde	MOUSE	doombru	doombru	d oː ⁿb r u	159	2763	71	
 5530	Jenaama	MOUSE	ɲīnā	ɲīnā	ɲ ³/i n ³/a	3094	2767	4517	
@@ -5737,7 +5523,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5552	Soninke	MOUSE	gàjâ	gàjâ	ɡ ¹/a dʒ ⁵¹/a	3096	2772	0	
 5553	SonghaiSenni	MOUSE	kèŋ-ò	kèŋ-ò	k ¹/e ŋ + ¹/o	3727	2770 2771	0	
 5554	ToroSo	MOUSE	ày-gúrú	ày-gúrú	¹/a j + ɡ ⁵/u r ⁵/u	1325	2762 2773	0	
-#
 5555	ToroTegu	MOUTH	ká	ká	k ⁵/a	1333	2781	0	
 5556	BenTey	MOUTH	mǒ: ~ m̀bǒ:	mǒ:	m ¹⁵/oː	1329	2780	0	
 5557	BankanTey	MOUTH	mbǔ:	mbǔ:	ⁿb ¹⁵/uː	1327	2779	0	
@@ -5776,7 +5561,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5590	ToroSo	MOUTH	áŋá	áŋá	⁵/a ŋ ⁵/a	1331	2790	0	
 5591	ToroSo	MOUTH	áŋà	áŋà	⁵/a ŋ ¹/a	1331	2790	0	
 5592	BonduSo	MOUTH	ìbí	ìbí	¹/i b ⁵/i	1327	2775	0	
-#
 5593	SonghaiSenni	MUD	bòtù-bót-ò	bòtù-bót-ò	b ¹/o t ¹/u + b ⁵/o t + ¹/o	3729	5385 2797 2798	72	
 5594	TogoKan	MUD	lɔ̀gɔ̀ gɛ́ⁿ, lɔ̀gɔ́	lɔ̀gɔ̀_gɛ́ⁿ	l ¹/ɔ ɡ ¹/ɔ + ɡ ⁵/ɛ̃	1337	2796 2799	0	
 5595	YornoSo	MUD	pɔ́nù, pɔ́nɔ̀	pɔ́nù	p ⁵/ɔ n ¹/u	1338	2792	72	
@@ -5789,7 +5573,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5602	Fulfulde	MUD	booke	booke	b oː k e	161	2793	4563	
 5603	Soninke	MUD	bòtòxâ	bòtòxâ	b ¹/o t ¹/o x ⁵¹/a	3100	2792	72	
 5604	Bangime	MUD	ʤúɥɛ́	ʤúɥɛ́	dʒ ⁵/u ɥ ⁵/ɛ	2480	2791	0	
-#
 5605	Bangime	NAME	nīì	nīì	n ³¹/iː	2481	5048	4573	
 5606	Fulfulde	NAME	innde	innde	i n ⁿd e	162	2810	4583	
 5607	Jenaama	NAME	tíbɛ̄wⁿ	tíbɛ̄wⁿ	t ⁵/i b ³/ɛ + w̃	3101	2806 2811	4578	
@@ -5820,7 +5603,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5632	Soninke	NAME	kúrúmbà	kúrúmbà	k ⁵/u r ⁵/u ⁿb ¹/a	3103	2815	0	
 5633	ToroSo	NAME	bóy	bóy	b ⁵/o + j	1344	2808 2809	0	
 5634	BonduSo	NAME	nìí	nìí	n ¹⁵/i:	1339	2803	4573	
-#
 5635	Fulfulde	NARROW	biilaade	biil-aade	b iː l + aː d e	163	5315 2824	73	
 5636	Bangime	NARROW	kàmbàà	kàmbàà	k ¹/a ⁿb ¹/aː	2482	2819	0	
 5637	BankanTey	NARROW	pɛ̀ŋgú	pɛ̀ŋgú	p ¹/ɛ ⁿɡ ⁵/u	1351	2820	0	
@@ -5839,7 +5621,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5650	PergeTegu	NARROW	ɛ̀mbú	ɛ̀mbú	¹/ɛ ⁿb ⁵/u	1350	2821	0	
 5651	ToroTegu	NARROW	cɛ̌m	cɛ̌m	tʃ ¹⁵/ɛ + m	1354	2828 2829	0	
 5652	Jenaama	NARROW	dùmí-yè	bíllà-nà	b ⁵/i l l ¹/a + n ¹/a	3104	2823 2825	73	
-#
 5653	Bangime	NEAR	bɛ̀rú	jéró	j ⁵/e r ⁵/o	2483	2832	4623	
 5654	Fulfulde	NEAR	bɛ̀rú	hedde	h e d d e	164	2840	0	
 5655	Jenaama	NEAR	bɛ̀rú	tūɥ̄-gù	t ³/u ɥ + ɡ ¹/u	3107	2842 2839	0	
@@ -5868,7 +5649,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5680	YornoSo	NEAR	bɛ̀rú	bɛ̀rú	b ¹/ɛ r ⁵/u	1359	2833	4623	
 5681	ToroSo	NEAR	bɛ̀rí-wɔ́	bɛ̀rí-wɔ́	b ¹/ɛ r ⁵/i + w ⁵/ɔ	1359	2833 2834	4623	
 5682	BonduSo	NEAR	ɡínèè	ɡínèè	ɡ ⁵/i n ¹/eː	1360	2844	0	
-#
 5683	Ampari	NECK	pàdò	pàdò	p ¹/a d ¹/o	1361	254	4628	
 5684	BankanTey	NECK	kɔ̀rɔ́	kɔ̀rɔ́	k ¹/ɔ r ⁵/ɔ	1365	2847	0	
 5685	Bunoge	NECK	kóláŋgè	kólá-ŋgè	k ⁵/o l ⁵/a + ⁿɡ ¹/e	1365	2847 2849	0	
@@ -5900,13 +5680,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5712	ToroSo	NECK	kɔ̀ kɔ́rɔ́	kɔ̀ kɔ́rɔ́	k ¹/ɔ + k ⁵/ɔ r ⁵/ɔ	1365	2852 2847	0	
 5713	ToroSo	NECK	kú kɔ̌	kú kɔ̌	k ⁵/u + k ¹⁵/ɔ	1365	2852 2849	0	
 5714	BonduSo	NECK	mó	mó	m ⁵/o	1363	2848	0	
-#
 5715	TommoSo	NEED (NOUN)	sùnɔ̀-mú	sùnɔ̀-mú	s ¹/u n ¹/ɔ + m ⁵/u	1368	2857 2858	0	
 5716	BonduSo	NEED (NOUN)	nàmí-yɛ́	nàmí-yɛ́	n ¹/a m ⁵/i + j ⁵/ɛ	1366	2853 2854	0	
 5717	TommoSo	NEED (NOUN)	ḿbɛ́	ḿbɛ́	ⁿb ⁵/ɛ	1367	2859	0	
 5718	SonghaiSenni	NEED (NOUN)	mú:jíbî	mú:jíbî	m ⁵/uː dʒ ⁵/i b ⁵¹/i	3734	2855	0	
 5719	Soninke	NEED (NOUN)	kàbú	kàbú	k ¹/a b ⁵/u	3110	2856	0	
-#
 5720	Bambara	NEIGHBOUR	dàⁿnàɲɔ́gɔ́ⁿ	dàⁿnàɲɔ́gɔ́ⁿ	d ã n ¹/a + ɲ ⁵/ɔ ɡ ⁵/ɔ̃	3111	2860 2861	0	
 5721	Bambara	NEIGHBOUR	kɛ̀rɛ̀fɛ̀sígí	kɛ̀rɛ̀fɛ̀sígí	k ¹/ɛ r ¹/ɛ f ¹/ɛ + s ⁵/i ɡ ⁵/i	3112	2862 2863	0	
 5722	Bambara	NEIGHBOUR	sìgìɲɔ́gɔ́ⁿ	sìgìɲɔ́gɔ́ⁿ	s ¹/i ɡ ¹/i + ɲ ⁵/ɔ ɡ ⁵/ɔ̃	3111	2863 2861	0	
@@ -5932,7 +5710,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5742	Jenaama	NEIGHBOUR	tààmùndìyàwⁿ	tààmù-ndìyàwⁿ	t ¹/aː m ¹/u + ⁿd ¹/i j ¹/a + ∼/w̃	3113	2875 2876 2877	0	
 5743	TebulUre	NEIGHBOUR	zú	zú	z ⁵/u	1377	2867	0	
 5744	SonghaiSenni	NEIGHBOUR	hú-cèrê	hú-cèrê	h ⁵/u + tʃ ¹/e r ⁵¹/e	3735	5387 2879	0	
-#
 5745	ToroTegu	NEW	kàlá	kàlá	k ¹/a l ⁵/a	1381	2883	4673	
 5746	BenTey	NEW	kálà	kálà	k ⁵/a l ¹/a	1381	2883	4673	
 5747	BankanTey	NEW	kándà	kándà	k ⁵/a ⁿd ¹/a	1381	2883	4673	
@@ -5960,7 +5737,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5769	ToroSo	NEW	kàná	kàná	k ¹/a n ⁵/a	1381	2883	4673	
 5770	ToroSo	NEW	kánnà	kánnà	k ⁵/a n n ¹/a	1381	2883	4673	
 5771	BonduSo	NEW	kàndàà	kàndàà	k ¹/a ⁿd ¹/aː	1381	2883	4673	
-#
 5772	SonghaiSenni	NIGHT	kígín-ó	kígín-ó	k ⁵/i ɡ ⁵/i n + ⁵/o	3737	2898 2899	0	
 5773	Ampari	NIGHT	dó:ndó	dó:ndó	d ⁵/oː ⁿd ⁵/o	1383	2889	0	
 5774	BankanTey	NIGHT	ɲân	ɲân	ɲ ⁵¹/a + n	1385	2892 0	0	
@@ -5997,7 +5773,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5805	Bambara	NIGHT	sú	sú	s ⁵/u	3118	2890	0	
 5806	ToroSo	NIGHT	dìgɛ́	dìgɛ́	d ¹/i ɡ ⁵/ɛ	1383	2889	0	
 5807	BonduSo	NIGHT	ɲáŋ	ɲáŋ	ɲ ⁵/a + ŋ	1385	2892 0	0	
-#
 5808	Bambara	NINE	kɔ̀nɔ̀ⁿtɔ́ⁿ	kɔ̀nɔ̀ⁿtɔ́ⁿ	k ¹/ɔ n ɔ̃ t ⁵/ɔ̃	3123	2902	0	
 5809	Bambara	NINE	kúrámáⁿ	kúrámáⁿ	k ⁵/u r ⁵/a m ⁵/ã	3124	2911	0	
 5810	BozoDebo	NINE	kapi	kapi	k a p i	3124	2906	0	
@@ -6038,7 +5813,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5845	ToroSo	NINE	túwɔ́	túwɔ́	t ⁵/u w ⁵/ɔ	1389	2901	0	
 5846	ToroSo	NINE	sɔ̂j	sɔ̂j	s ⁵¹/ɔ + j	1392	2913 2904	0	
 5847	BonduSo	NINE	tɔ̀ây	tɔ̀ây	t ¹/ɔ ⁵¹/a + j	1392	2901 2912	0	
-#
 5848	SonghaiSenni	NOBLE	bòrkìn-ò	bòrkìn-ò	b ¹/o r k ¹/i n + ¹/o	3739	2928 2929	75	
 5849	ToroTegu	NOBLE	bɔ̀rcì-ní	bɔ̀rcì-ní	b ¹/ɔ r tʃ ¹/i + n ⁵/i	1399	2932 2931	75	
 5850	BenTey	NOBLE	bà:mà-yí-m	bà:mà-yí-m	b ¹/aː m ¹/a + j ⁵/i + m	1394	2916 2917 2918	0	
@@ -6061,7 +5835,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5867	BonduSo	NOBLE	nòː nálà	nòː nálà	n ¹/oː + n ⁵/a l ¹/a	1395	2919 2920	0	
 5868	Bangime	NOBLE	hɔ̄ɔ̄rɔ̀	hɔ̄ɔ̄rɔ̀	h ³/ɔː r ɔ̀	2490	269	4745	
 5869	Bambara	NOBLE	hɔ́rɔ̰́	hɔ́rɔ̰́	h ⁵/ɔ r ∼¹/ɔ	3127	268	4745	
-#
 5870	Ampari	NOSE	kìnì	kìnì	k ¹/i n ¹/i	1401	2933	76	
 5871	BankanTey	NOSE	círⁿè	círⁿè	tʃ ⁵/i ∼/r̃ ¹/e	1400	2933	0	
 5872	BenTey	NOSE	círⁿì	círⁿì	tʃ ⁵/i ∼/r̃ ¹/i	1400	2933	0	
@@ -6100,7 +5873,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5905	ToroSo	NOSE	kírⁿú	kírⁿú	k ⁵/i ∼/r̃ ⁵/u	1401	2933	76	
 5906	ToroSo	NOSE	kíŋù	kíŋù	k ⁵/i ŋ ¹/u	1401	2933	76	
 5907	BonduSo	NOSE	kìnjáà	kìnjáà	k ¹/i ⁿdʒ ⁵¹/aː	1401	2936	76	
-#
 5908	ToroTegu	NOW	nîŋ ~ níŋgì	nîŋ	n ⁵¹/i ŋ	1403	2952	0	
 5909	BenTey	NOW	núwⁿɔ̀yⁿ, nɛ́:	núwⁿɔ̀yⁿ	n ⁵/u ∼/w̃ ¹/ɔ + ∼/j	1403	2946 2945	0	
 5910	BankanTey	NOW	nɔ́ŋɔ̀yⁿ	nɔ́ŋɔ̀yⁿ	n ⁵/ɔ ŋ ¹/ɔ + ∼/j	1403	2944 2945	0	
@@ -6123,7 +5895,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5927	Soninke	NOW	sá	sá	s ⁵/a	3133	2943	4796	
 5928	SonghaiSenni	NOW	sáŋ	sáŋ	s ⁵/a ŋ	3741	271	4796	
 5929	Bambara	NOW	sísǎ̰	sísǎ̰	s ⁵/i s ⁵¹/ã	3132	273	4792	
-#
 5930	ToroTegu	NURSE	árú-m	árú-m	⁵/a r ⁵/u + m	1408	2954 2963	0	
 5931	BenTey	NURSE	árá-wú	árá-wú	⁵/a r ⁵/a + w ⁵/u	1408	2954 2955	0	
 5932	BankanTey	NURSE	árí-mí	árí-mí	⁵/a r ⁵/i + m ⁵/i	1408	2954 2955	0	
@@ -6147,7 +5918,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5950	Fulfulde	NURSE	muyninde	muy-ninde	m u j + n i ⁿd e	173	2957 2958	77	
 5951	TomoKan	NURSE	ʔàrà-mí	ʔàrà-mí	ʔ ¹/a r ¹/a + m ⁵/i	1408	2954 2955	0	
 5952	BonduSo	NURSE	árà-mì	árà-mì	⁵/a r ¹/a + m ¹/i	1408	2954 2955	0	
-#
 5953	BankanTey	OLD	pɛ̌-m	pɛ̌-m	p ¹⁵/ɛ + m	1415	2966 2967	0	
 5954	BenTey	OLD	díyⁿà-m	díyⁿà-m	d ⁵/i j̃ ¹/a + m	1412	2968 2967	0	
 5955	Bunoge	OLD	kɛ̀mnɔ̀	kɛ̀mnɔ̀	k ¹/ɛ m n ¹/ɔ	1414	2970	0	
@@ -6171,7 +5941,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5973	Jenaama	OLD	sílē	sílē	s ⁵/i l ³/e	3135	2964	0	
 5974	SonghaiSenni	OLD	zè:n-ò	zè:n-ò	z ¹/eː n + ¹/o	3743	274 2971	0	
 5975	SonghaiKiini	OLD	zɛ̀:n-ɔ̀	zɛ̀:n-ɔ̀	z ¹/ɛː n + ¹/ɔ	3743	274 2971	0	
-#
 5976	ToroTegu	OLD MAN	àn pày-nú	àn_pày-nú	¹/a n + p ¹/a j + n ⁵/u	1420	2979 2977 2993	0	
 5977	BenTey	OLD MAN	àrⁿà pɛ̌-m	àrⁿà_pɛ̌-m	¹/a ∼/r̃ ¹/a + p ¹⁵/ɛ + m	1417	2976 2977 2978	0	
 5978	Nanga	OLD MAN	àrⁿà pɛ̌:	àrⁿà_pɛ̌:	¹/a ∼/r̃ ¹/a + p ¹⁵/ɛː	1417	2976 2977	0	
@@ -6194,7 +5963,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 5995	BankanTey	OLD MAN	àrⁿà pɛ̌-m	àrⁿà pɛ̌-m	¹/a ∼/r̃ ¹/a + p ¹⁵/ɛ + m	1417	2976 2977 2978	0	
 5996	Bangime	OLD MAN	sìjɛ̀ndɛ̀	sìjɛ̀ndɛ̀	s ¹/i j ¹/ɛ + ⁿd ¹/ɛ	2495	2974 2975	0	
 5997	SonghaiSenni	OLD MAN	hàl-bé:r-ò	hàl-bé:r-ò	h ¹/a l + b ⁵/eː r + ¹/o	3744	5388 2991 2992	0	
-#
 5998	SonghaiSenni	OLD WOMAN	wòy zé:n-ò	wòy_zé:n-ò	w ¹/o j + z ⁵/eː n + ¹/o	3745	3007 3008 3009	0	
 5999	ToroTegu	OLD WOMAN	yà-pày-nú	yà_pày-nú	j ¹/a + p ¹/a j + n ⁵/u	1425	2995 2996 3013	0	
 6000	BenTey	OLD WOMAN	yà pɛ̌-m	yà_pɛ̌-m	j ¹/a + p ¹⁵/ɛ + m	1425	2995 2996 2997	0	
@@ -6216,7 +5984,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6016	Fulfulde	OLD WOMAN	deɓɓo mawnu	deɓɓo_mawnu	d e ɓ ɓ o + m a w n u	176	3001 3002	0	
 6017	Jenaama	OLD WOMAN	yùgòⁿ sílē	yùgòⁿ_sílē	j ¹/u ɡ õ + s ⁵/i l ³/e	3139	3006 0	4862	
 6018	BankanTey	OLD WOMAN	yà pɛ̌-m	yà pɛ̌-m	j ¹/a + p ¹⁵/ɛ + m	1425	2995 2996 2997	0	
-#
 6019	Ampari	ONE	tùdà	tùdà	t ¹/u d ¹/a	1433	3014	4878	
 6020	BankanTey	ONE	tùmá	tùmá	t ¹/u m ⁵/a	1433	3015	4878	
 6021	BenTey	ONE	tùwⁿɔ́	tùwⁿɔ́	t ¹/u ∼/w̃ ⁵/ɔ	1433	3015	4878	
@@ -6242,7 +6009,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6041	SonghaiSenni	ONE	fó:	fó:	f ⁵/oː	3746	3022	0	
 6042	ToroSo	ONE	túrú	túrú	t ⁵/u r ⁵/u	1433	3014	4878	
 6043	BonduSo	ONE	tòmɛ́ɛ̀	tòmɛ́ɛ̀	t ¹/o m ⁵¹/ɛː	1433	3015	4878	
-#
 6044	Bambara	ONION	jàbá	jàbá	dʒ ¹/a b ⁵/a	3142	3023	4894	
 6045	BankanTey	ONION	gâw	gâw	ɡ ⁵¹/a w	1438	3026	78	
 6046	Bunoge	ONION	yâ:	yâ:	j ⁵¹/aː	1437	3027	4895	
@@ -6268,7 +6034,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6066	Soninke	ONION	jàbâ	jàbâ	dʒ ¹/a b ⁵¹/a	3142	3023	4894	
 6067	SonghaiSenni	ONION	àlbázár-ò	àlbázár-ò	¹/a l b ⁵/a z ⁵/a r + ¹/o	3747	3032 3033	0	
 6068	BonduSo	ONION	gábù	gábù	ɡ ⁵/a b ¹/u	1438	3026	78	
-#
 6069	Bangime	OPEN	kèwòò	kèwòò	k ¹/e w ¹/oː	2499	3038	0	
 6070	SonghaiSenni	OPEN	hây	hây	h ⁵¹/a j	3748	3053	0	
 6071	Bambara	OPEN	dáyɛ̀lɛ́	dáyɛ̀lɛ́	d ⁵/a j ¹/ɛ + l ⁵/ɛ	3144	5204 5205	4916	
@@ -6301,7 +6066,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6098	Fulfulde	OPEN	omtaade	om-t-aade	o m + t + aː d e	179	3046 3047 3048	0	
 6099	Jenaama	OPEN	ā-ɥɛ̀	ā-ɥɛ̀	³/a + ɥ ¹/ɛ	3149	3049 5206	0	
 6100	Jamsay	OPEN	tó:	píní-rⁿé	p ⁵/i n ⁵/i + ∼/r̃ ⁵/e	1448	3039 3037	0	
-#
 6101	ToroTegu	ORPHAN	àtí:mè, àtî:ní:	àtí:mè	¹/a t ⁵/iː m ¹/e	1461	3081	80	
 6102	BenTey	ORPHAN	là:wà-gú-m	là:wà-gú-m	l ¹/aː w ¹/a + ɡ ⁵/u + m	1453	3061 3062 3063	0	
 6103	BankanTey	ORPHAN	nàrⁿìyⁿɛ̂-m	nàrⁿìyⁿɛ̂-m	n ¹/a ∼/r̃ ¹/i ∼/j ¹⁵/ɛ + m	1452	3059 3060	0	
@@ -6328,7 +6092,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6124	Soninke	ORPHAN	àlìyàtíimè	àlìyàtíimè	¹/a l ¹/i j ¹/a + t ⁵/i: + m ¹/e	3154	5210 3056 3087	80	
 6125	SonghaiSenni	ORPHAN	yàtí:mê	yàtí:mê	j ¹/a t ⁵/iː + m ⁵¹/e	3749	3075 5207	4958	
 6126	Bambara	ORPHAN	yàtíímɛ̌	yàtíímɛ̌	j ¹/a t ⁵/iː + m ¹⁵/ɛ	3151	282 3087	4958	
-#
 6127	Bangime	OTHER	tāàⁿ	tāàⁿ	t ³¹/ã:	2501	5057	4971	
 6128	Fulfulde	OTHER	goɗɗo	goɗɗo	ɡ o ɗ ɗ o	182	3094	0	
 6129	Jenaama	OTHER	tīnā	tīnā	t ³/i n ³/a	3156	3090	0	
@@ -6348,7 +6111,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6143	Mombo	OTHER	tó:	tó:	t ⁵/oː	1463	3088	4971	
 6144	TiranigeDiga	OTHER	tó:	tó:	t ⁵/oː	1463	3088	4971	
 6145	BozoTieyaxo	OTHER	bɔlɔ	bɔlɔ	b ɔ l ɔ	3155	283	0	
-#
 6146	Bangime	PATH OR ROAD	jɛ̀mbɛ̀	jɛ̀mbɛ̀	j ¹/ɛ ⁿb ¹/ɛ	2502	3098	0	
 6147	Fulfulde	PATH OR ROAD	laawol	laawol	l aː w + o l	183	3101 3102	0	
 6148	Jenaama	PATH OR ROAD	sèwⁿ	sèwⁿ	s ¹/e + ∼/w̃	3158	3104 3105	0	
@@ -6377,7 +6139,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6171	ToroSo	PATH OR ROAD	bɛ́dɛ́	bɛ́dɛ́	b ⁵/ɛ d ⁵/ɛ	1470	3109	0	
 6172	ToroSo	PATH OR ROAD	oju	oju	o dʒ u	1470	3095	0	
 6173	BonduSo	PATH OR ROAD	újú pɔ́ɔ́	újú pɔ́ɔ́	⁵/u dʒ ⁵/u + p ⁵/ɔː	1470	3095 3108	71	
-#
 6174	SonghaiSenni	PENIS	bènd-ò	bènd-ò	b ¹/e ⁿd + ¹/o	3752	3122 3123	0	
 6175	SonghaiSenni	PENIS	zòfól-ò	zòfól-ò	z ¹/o f ⁵/o l + ¹/o	3751	3125 3123	5005	
 6176	BozoDebo	PENIS	sɛⁿbo	sɛⁿbo	s ∼/ɛ b o	3159	3112	5005	
@@ -6401,7 +6162,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6194	TogoKan	PENIS	tɛ́rɛ́	tɛ́rɛ́	t ⁵/ɛ r ⁵/ɛ	1474	3111	0	
 6195	TommoSo	PENIS	tɛ́rɛ́	tɛ́rɛ́	t ⁵/ɛ r ⁵/ɛ	1474	3111	0	
 6196	YornoSo	PENIS	tɛ́rɛ́	tɛ́rɛ́	t ⁵/ɛ r ⁵/ɛ	1474	3111	0	
-#
 6197	SonghaiSenni	PERSON	mù:l-íyà	mù:l-íyà	m ¹/uː l + ⁵/i j ¹/a	3753	3138 5390	0	
 6198	Bambara	PERSON	mɔ̀gɔ́	mɔ̀gɔ́	m ¹/ɔ ɡ ⁵/ɔ	3161	3128	0	
 6199	Soninke	PERSON	sèrê	sèrê	s ¹/e r ⁵¹/e	3162	3140	0	
@@ -6433,7 +6193,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6225	ToroSo	PERSON	ínɛ́	ínɛ́	⁵/i n ⁵/ɛ	1481	3136	0	
 6226	ToroSo	PERSON	ìnɛ́	ìnɛ́	¹/i n ⁵/ɛ	1481	3136	0	
 6227	BonduSo	PERSON	nòó	nòó	n ¹⁵/o:	1481	3132	0	
-#
 6228	SonghaiSenni	PESTLE	hìŋg-ò	hìŋg-ò	h ¹/i ⁿɡ + ¹/o	3757	3159 3160	0	
 6229	Bangime	PESTLE	kùwⁿɛ̀ɛ̀	kùwⁿɛ̀ɛ̀	k ¹/u ∼/w̃ ¹/ɛː	2505	5058	5053	
 6230	Fulfulde	PESTLE	undugal	undugal	u ⁿd u ɡ + a l	186	3153 3154	0	
@@ -6471,7 +6230,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6262	TomoKan	PESTLE	dùmɛ̀ⁿ	dùmɛ̀ⁿ	d ¹/u m ∼/ɛ	1487	3148	0	
 6263	ToroSo	PESTLE	kùnàà íí	kùnàà íí	k ¹/u n ¹/aː + ⁵/iː	1485	3152 3147	5053	
 6264	BonduSo	PESTLE	tuŋɔ kɔlɛ	tuŋɔ kɔlɛ	t u ŋ ɔ + k ɔ l ɛ	1495	3148 3165	0	
-#
 6265	Bangime	PICK	pɔ̀rɔ̀ (1)	pɔ̀rɔ̀	p ¹/ɔ r ¹/ɔ	2506	5059	5090	
 6266	Fulfulde	PICK	teɓude	teɓ-ude	t e ɓ + u d e	187	3170 3171	0	
 6267	ToroTegu	PICK	kɔ́rú	kɔ́rú	k ⁵/ɔ r ⁵/u	1498	3169	0	
@@ -6504,7 +6262,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6294	BozoTiemaCewe	PICK	lɛ	lɛ	l ɛ	3170	3166	0	
 6295	Soninke	PICK	wùtú	wùtú	w ¹/u t ⁵/u	3168	3173	0	
 6296	BonduSo	PICK	bɛ̀lɛ́	bɛ̀lɛ́	b ¹/ɛ l ⁵/ɛ	1496	3167	5090	
-#
 6297	ToroTegu	PIG	tórú	tórú	t ⁵/o r ⁵/u	1500	3179	0	
 6298	BenTey	PIG	tórú-m	tórú-m	t ⁵/o r ⁵/u + m	1500	3179 3178	0	
 6299	BankanTey	PIG	àríyè-m	àríyè-m	¹/a r ⁵/i j ¹/e + m	1499	3177 3178	82	
@@ -6525,8 +6282,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6314	YandaDom	PIG	tól	tól	t ⁵/o l	1500	3179	0	
 6315	Bangime	PIG	sìmìɲáŋá	sìmì-ɲáŋá	s ¹/i m ¹/i + ɲ ⁵/a ŋ ⁵/a	2507	3175 5060	5112	
 6316	Jenaama	PIG	sìbòɲɔ̄ŋɔ̄	sìbòɲɔ̄ŋɔ̄	s ¹/i b ¹/o + ɲ ³/ɔ ŋ ³/ɔ	3171	3181 3176	5112	
-9631	SonghaiKiini	PIG			a l k í n ʃ i r	3905	5391	82	
-#
 6317	BozoHainyaxo	PISS	siⁿniⁿ	siⁿniⁿ	s ĩ n ĩ	3173	3183	0	
 6318	BozoPondorinord	PISS	koⁿoⁿji	koⁿoⁿji	k õ: dʒ i	3175	3187	0	
 6319	BozoTieyaxo	PISS	siⁿniⁿ	siⁿniⁿ	s ĩ n ĩ	3173	3183	0	
@@ -6564,7 +6319,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6351	Penange	PISS	mɔ̀:njì mánjé	mɔ̀:njì_mánjé	m ¹/ɔː ⁿdʒ ¹/i + m ⁵/a ⁿdʒ ⁵/e	1504	3187 3188	0	
 6352	ToroTegu	PISS	ánnú	ánnú	⁵/a n n ⁵/u	1511	3200	0	
 6353	ToroSo	PISS	ìⁿyárⁿá sááná	ìⁿyárⁿá sááná	¹/ĩ j ⁵/a ∼/r̃ ⁵/a + s ⁵/aː n ⁵/a	1507	3199 3190	0	
-#
 6354	Bangime	PLACE (POSITION)	mírⁿà	mírⁿà	m ⁵/i r̃ ¹/a	2510	3203	0	
 6355	Fulfulde	PLACE (POSITION)	waaldude ~ waaldunde	waaldude	w aː l d + u d e	189	3209 0	0	
 6356	Jenaama	PLACE (POSITION)	gə̄(y)ə̄wⁿ	gə̄ə̄wⁿ	ɡ ³/əː + w̃	3179	3205 3212	5168	
@@ -6592,7 +6346,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6378	ToroSo	PLACE (POSITION)	yàlú	yàlú	j ¹/a l ⁵/u	1515	3208	0	
 6379	ToroSo	PLACE (POSITION)	tai	tai	t a i	1519	3211	0	
 6380	BonduSo	PLACE (POSITION)	ɡándá-n	ɡándá-n	ɡ ⁵/a ⁿd ⁵/a + n	1518	3217 3220	0	
-#
 6381	SonghaiSenni	PLASTIC	mán-à:	mán-à:	m ⁵/a n + ¹/aː	3761	3229 5394	5188	
 6382	ToroTegu	PLASTIC	bù:zê:, bà:bî:	bù:zê:	b ¹/uː z ⁵¹/eː	1525	3225	0	
 6383	BenTey	PLASTIC	tà: bà:bî:	tà:_bà:bî:	t ¹/aː + b ¹/aː b ⁵¹/iː	1522	3223 3224	0	
@@ -6612,9 +6365,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6397	TiranigeDiga	PLASTIC	bàbí	bàbí	b ¹/a b ⁵/i	1525	3224	0	
 6398	Mombo	PLASTIC	bàbí tágyê:	bàbí_tágyê:	b ¹/a b ⁵/i + t ⁵/a ɡ j ⁵¹/eː	1525	3224 3223	0	
 6399	Penange	PLASTIC	pɛ̀t-pɛ̂t	pɛ̀t-pɛ̂t	p ¹/ɛ t + p ¹⁵/ɛ t	1526	3228 3224	0	
-#
 6400	SonghaiSenni	POCKET	zìfíy-ò	zìfíy-ò	z ¹/i f ⁵/i j + ¹/o	3762	3232 3233	0	
-#
 6401	BankanTey	PRICE	sàzá	sàzá	s ¹/a z ⁵/a	1529	3236	0	
 6402	BenTey	PRICE	sànjá	sànjá	s ¹/a ⁿdʒ ⁵/a	1529	3236	0	
 6403	Bunoge	PRICE	kó:gé	kó:gé	k ⁵/oː ɡ ⁵/e	1528	3238	5206	
@@ -6637,7 +6388,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6420	Soninke	PRICE	jònkô	jònkô	dʒ ¹/o ⁿk ⁵¹/o	3181	3234	5206	
 6421	Bambara	PRICE	sɔ̀ⁿgɔ́	sɔ̀ⁿgɔ́	s ɔ̃ ɡ ⁵/ɔ	3181	3234	5206	
 6422	SonghaiSenni	PRICE	háy-ó	háy-ó	h ⁵/a j + ⁵/o	3763	3241 3242	0	
-#
 6423	SonghaiSenni	PULL	zé:rí	zé:rí	z ⁵/eː r ⁵/i	3764	5396	5225	
 6424	BozoHainyaxo	PULL	sali	sali	s a l i	3184	3249	5225	
 6425	BozoPondorinord	PULL	sei	sei	s e i	3184	3249	5225	
@@ -6668,7 +6418,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6450	Jenaama	PULL	ā-sèy (1)	ā-sèy	³/a + s ¹/e j	3186	3252 3249	0	
 6451	Bambara	PULL	lásàmá	lásàmá	l ⁵/a + s ¹/a m ⁵/a	3183	3243 3244	0	
 6452	SonghaiSenni	PULL	kùgùsù	kùgùsù	k ¹/u ɡ ¹/u s ¹/u	3767	3257	5246	
-#
 6453	Bangime	PUMPKIN	tɔ̀ŋwⁿɛ̀ɛ̀	tɔ̀ŋwⁿɛ̀ɛ̀	t ¹/ɔ ŋ ∼/w̃ ¹/ɛː	2513	3258	0	
 6454	Fulfulde	PUMPKIN	bogooru	bogooru	b o ɡ oː r u	193	5211	5257	
 6455	ToroTegu	PUMPKIN	gɔ́:rⁿɔ́	gɔ́:rⁿɔ́	ɡ ɔː ∼/r̃ ⁵/ɔ	1538	3259	0	
@@ -6692,7 +6441,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6473	SonghaiSenni	PUMPKIN	bógó:r-ò	bógó:r-ò	b ⁵/o ɡ ⁵/oː r + ¹/o	3768	5212 3264	5257	
 6474	BozoDebo	PUMPKIN	jèbárá	jèbárá	dʒ ¹/e b ⁵/a r ⁵/a	3191	3267	0	
 6475	Bambara	PUMPKIN	jě	jě	j ¹⁵/e	3188	3086	0	
-#
 6476	Bambara	PUSH	dígí	dígí	d ⁵/i ɡ ⁵/i	3193	3268	5289	
 6477	SonghaiSenni	PUSH	tâŋ	tâŋ	t ⁵¹/a ŋ	3769	5397	5288	
 6478	ToroTegu	PUSH	dǎm	dǎm	d ¹⁵/a m	1546	3269	5289	
@@ -6727,7 +6475,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6507	BozoTiemaCewe	PUSH	tabi	tabi	t a b i	3193	300	5289	
 6508	SonghaiSenni	PUSH	tàŋ-à	tàŋ-à	t ¹/a ŋ + ¹/a	3769	5397 3275	5288	
 6509	SonghaiSenni	PUSH	fìtòw	fìtòw	f ¹/i t ¹/o w	3770	3276	0	
-#
 6510	SonghaiSenni	RAIN (PRECIPITATION)	kìɲɲa	kìɲɲa	k ¹/i ɲ ɲ a	3771	3285	0	
 6511	Bangime	RAIN (PRECIPITATION)	ɥɔ̀wⁿ	ɥɔ̀wⁿ	ɥ ¹/ɔ ∼/w̃	2516	3278	0	
 6512	Fulfulde	RAIN (PRECIPITATION)	kammu	kammu	k a m m u	196	3282	5312	
@@ -6754,7 +6501,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6533	ToroSo	RAIN (PRECIPITATION)	ã̀r̃ã́	ã̀r̃ã́	¹/a ∼/r̃ ⁵/a	1550	3281	0	
 6534	ToroSo	RAIN (PRECIPITATION)	àr̃á	àr̃á	¹/a ∼/r̃ ⁵/a	1550	3281	0	
 6535	BonduSo	RAIN (PRECIPITATION)	ààlé	ààlé	¹/aː l ⁵/e	1550	3281	0	
-#
 6536	BankanTey	RAINBOW	nùmú-m	nùmú-m	n ¹/u m ⁵/u + m	1558	3290 3291	0	
 6537	BenTey	RAINBOW	nùmbú-m	nùmbú-m	n ¹/u ⁿb ⁵/u + m	1559	3290 3291	0	
 6538	Bunoge	RAINBOW	nɔ́:mbɛ̀	nɔ́:mbɛ̀	n ɔː ⁿb ¹/ɛ	1559	3290	0	
@@ -6774,7 +6520,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6552	Bangime	RAINBOW	jìì-kɔ́ɔ́rɛ̀	jìì-kɔ́ɔ́rɛ̀	j ¹/iː + k ⁵/ɔː r ¹/ɛ	2517	3288 3289	0	
 6553	Fulfulde	RAINBOW	ciiɓociiɓongal	ciiɓocii-ɓongal	tʃ iː ɓ o tʃ iː + ɓ o ⁿɡ + a l	197	3295 3296 3297	0	
 6554	Jenaama	RAINBOW	sāmbōmpā	sāmbōmpā	s ³/a ⁿb ³/o ⁿp ³/a	3197	3298	0	
-#
 6555	ToroTegu	RAW	ɛ́tú, ɔ̀rú	ɛ́tú	⁵/ɛ t ⁵/u	1566	3308	0	
 6556	BenTey	RAW	cèsú ~ kèsú	cèsú	tʃ ¹/e s ⁵/u	1564	3305	0	
 6557	BankanTey	RAW	kèsúm	kèsúm	k ¹/e s ⁵/u + m	1564	3305 3306	0	
@@ -6796,13 +6541,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6573	Bangime	RAW	káárá	káárá	k ⁵/aː r ⁵/a	2518	5063	5338	
 6574	Jenaama	RAW	kāā (2)	kāā	k ³/aː	3198	3304	5338	
 6575	Jamsay	RAW	kòró	kòró	k ¹/o r ⁵/o	1563	3304	5338	
-#
 6576	SonghaiSenni	RAZOR	sì:n-ò	sì:n-ò	s ¹/iː n + ¹/o	3772	3312 3313	0	
 6577	Fulfulde	RAZOR	laɓi	laɓi	l a ɓ i	198	3311	5344	
 6578	Penange	RAZOR	sìl-mbè	sìlmbè	s ¹/i l + ⁿb ¹/e	1567	3309 3310	5343	
 6579	Bangime	RAZOR	sìrìbì (2)	sìrìbì	s ¹/i r ¹/i + b ¹/i	2519	5064 5065	5343	
 6580	Jenaama	RAZOR	sìrìmbè	sìrìmbè	s ¹/i r ¹/i ⁿb ¹/e	3199	3309	5343	
-#
 6581	SonghaiSenni	RED	kírêy	kírêy	k ⁵/i r ⁵¹/e + j	3773	3322 3323	0	
 6582	Soninke	RED	dùmbê	dùmbê	d ¹/u ⁿb ⁵¹/e	3200	304	0	
 6583	Ampari	RED	bɔ̀:mbɛ̀	bɔ̀:mbɛ̀	b ¹/ɔː ⁿb ¹/ɛ	1568	3314	5348	
@@ -6829,7 +6572,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6604	Jamsay	RED	bán	bán	b ⁵/a n	1568	3316	5348	
 6605	ToroSo	RED	bàrⁿú	bàrⁿú	b ¹/a ∼/r̃ ⁵/u	1568	3316	5348	
 6606	BonduSo	RED	bànù	bànù	b ¹/a n ¹/u	1568	3316	5348	
-#
 6607	SonghaiSenni	RIB	cérá:-[mòr-í:z-ò]	cérá:_mòr-í:z-ò	tʃ ⁵/e r ⁵/aː + m ¹/o r + ⁵/iː z + ¹/o	3774	5398 3338 3339 3340	0	
 6608	ToroTegu	RIB	jímrò	jímrò	dʒ ⁵/i m + r ¹/o	1582	3346 3327	0	
 6609	BenTey	RIB	[jɛ̀lɛ̀-kù:]-cìrⁿɛ̌yⁿ	jɛ̀lɛ̀-kù:_cìrⁿɛ̌yⁿ	dʒ ¹/ɛ l ¹/ɛ + k ¹/uː + tʃ ¹/i ∼/r̃ ¹⁵/ɛ ∼/j	1572	3329 3328 3330	0	
@@ -6853,7 +6595,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6627	Bangime	RIB	ɡɔ́ndɛ́ sɔ̌ɣɔ́yì	ɡɔ́ndɛ́_sɔ̀ɣɔ̀yì	ɡ ¹/ɔ ⁿd ⁵/ɛ + s ¹/ɔ ɣ ¹/ɔ j ¹/i	2521	3324 3325	0	
 6628	Fulfulde	RIB	biral	biral	b i r + a l	200	3335 3336	0	
 6629	BozoHainyaxo	RIB	bɛlɛɛ	bɛlɛɛ	b ɛ l ɛ:	3201	3329	0	
-#
 6630	ToroTegu	RIGHT	nǒyⁿ	nǒyⁿ	n ¹⁵/o + ∼/j	1584	3347 3348	0	
 6631	Gourou	RIGHT	yⁿǎ:	yⁿǎ:	∼/j ¹⁵/aː	1587	3353	0	
 6632	TommoSo	RIGHT	ɲ̀ɲɛ́	ɲ̀ɲɛ́	ɲ ɲ ⁵/ɛ	1588	3347	0	
@@ -6877,7 +6618,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6650	Jamsay	RIGHT	ɲǎ:	ɲǎ:	ɲ ¹⁵/aː	1584	3347	0	
 6651	Bambara	RIGHT	kiniⁿ	kiniⁿ	k i n ĩ	3202	5213	0	
 6652	Soninke	RIGHT	tàyê	tàyê	t ¹/a j ⁵¹/e	3203	3354	0	
-#
 6653	Bangime	RING	dórómbɛ̀	dórómbɛ̀	d ⁵/o r ⁵/o + ⁿb ¹/ɛ	2523	3356 3357	5405	
 6654	Fulfulde	RING	feggere	fegge-re	f e ɡ ɡ e + r e	202	3364 3365	0	
 6655	Jenaama	RING	dɔ̀lūmbē	dɔ̀lūmbē	d ¹/ɔ l ³/u + ⁿb ³/e	3205	3366 4842	5405	
@@ -6901,7 +6641,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6673	Mombo	RING	nɛ̀: sí: pégè	nɛ̀:sí:-pégè	n ¹/ɛː s ⁵/iː + p ⁵/e ɡ ¹/e	1592	3358 3367	0	
 6674	Penange	RING	nɛ̀:-pègú-sè (pl nɛ̀:-pègù-sé:-gè)	nɛ̀:-pègú-sè	n ¹/ɛː + p ¹/e ɡ ⁵/u + s ¹/e	1592	3358 3367 3363	0	
 6675	TomoKan	RING	nùmà-sɛ̀ʔɛ̀ⁿ	nùmà-sɛ̀ʔɛ̀ⁿ	n ¹/u m ¹/a + s ¹/ɛ ʔ ∼/ɛ	1591	3360 3361	0	
-#
 6676	Fulfulde	RIVER	maayo	maayo	m aː j o	203	3384	0	
 6677	Jenaama	RIVER	pàgùnāⁿ	pàgùnāⁿ	p ¹/a ɡ ¹/u n ³/ã	3207	3385	0	
 6678	SonghaiSenni	RIVER	ʔís-à:	ʔís-à:	ʔ ⁵/i s + ¹/aː	3778	3388 3389	0	
@@ -6924,7 +6663,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6695	PergeTegu	RIVER	gó:ró	gó:ró	ɡ ⁵/oː r ⁵/o	1600	3378	5433	
 6696	TogoKan	RIVER	góró	góró	ɡ ⁵/o r ⁵/o	1600	3378	5433	
 6697	Bangime	RIVER	ɡúwó	ɡúwó	ɡ ⁵/u w ⁵/o	2524	3377	5433	
-#
 6698	SonghaiSenni	ROOF	gàr-ò bôŋ	gàr-ò_bôŋ	ɡ ¹/a r + ¹/o + b ⁵¹/o ŋ	3779	3399 3400 3401	0	
 6699	BankanTey	ROOF	tèmbè-kû:	tèmbè-kû:	t ¹/e ⁿb ¹/e + k ⁵¹/uː	1604	3394 3395	5448	
 6700	Bunoge	ROOF	gá:ŋgù	gá:ŋgù	ɡ ⁵/aː ⁿɡ ¹/u	1603	3396	0	
@@ -6948,7 +6686,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6718	YornoSo	ROOF	dǎ:	dǎ:	d ¹⁵/aː	1608	3397	0	
 6719	Soninke	ROOF	bílì	bílì	b ⁵/i l ¹/i	3209	5218	0	
 6720	Bambara	ROOF	sáⁿfɛ́lá	sáⁿfɛ́lá	s ⁵/ã + f ⁵/ɛ l ⁵/a	3208	5215 5216	0	
-#
 6721	Soninke	ROOT	ɲììmê	ɲììmê	ɲ ¹/i: + m ⁵¹/e	3217	3419 4841	0	
 6722	ToroTegu	ROOT	wóró	wóró	w ⁵/o r ⁵/o	1613	3414	0	
 6723	BenTey	ROOT	wé:rí	wé:rí	w ⁵/eː r ⁵/i	1613	3408	0	
@@ -6988,7 +6725,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6757	ToroSo	ROOT	wélú	wélú	w ⁵/e l ⁵/u	1613	3408	0	
 6758	ToroSo	ROOT	kɛ́ẁⁿ	kɛ́ẁⁿ	k ⁵/ɛ ∼/w̃	1617	3413	0	
 6759	BonduSo	ROOT	pɔ̀n-jíí	pɔ̀n-jíí	p ¹/ɔ ⁿdʒ ⁵/iː	1620	5219	0	
-#
 6760	SonghaiSenni	ROTTEN	fúmbú	fúmbú	f ⁵/u ⁿb ⁵/u	3781	5399	0	
 6761	Bangime	ROTTEN	mɔ́ɡɔ́	mɔ́ɡɔ́	m ⁵/ɔ ɡ ⁵/ɔ	2529	3422	84	
 6762	Fulfulde	ROTTEN	ɲulude	ɲul-ude	ɲ u l + u d e	206	3429 3430	0	
@@ -7024,7 +6760,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6792	SonghaiSenni	ROTTEN	dús	dús	d ⁵/u s	3782	3421	0	
 6793	ToroSo	ROTTEN	ìlàà gábáy	ìlàà gábáy	¹/i l ¹/aː + ɡ ⁵/a b ⁵/a + j	1626	3435 3436 4843	0	
 6794	BonduSo	ROTTEN	ɡɔ̀mɛ́	ɡɔ̀mɛ́	ɡ ¹/ɔ m ⁵/ɛ	1621	3423	84	
-#
 6795	SonghaiSenni	ROUGH	kàs-ò	kàs-ò	k ¹/a s + ¹/o	3783	5400 3450	5539	
 6796	ToroTegu	ROUGH	gà:ⁿsú	gà:ⁿsú	ɡ ∼/ãː s ⁵/u	1628	317	5539	
 6797	BenTey	ROUGH	kúnjù-m	kúnjù-m	k ⁵/u ⁿdʒ ¹/u + m	1628	3442 3443	5539	
@@ -7045,7 +6780,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6812	SonghaiSenni	ROUGH	kású	kású	k ⁵/a s ⁵/u	3783	5401	5539	
 6813	Bangime	ROUGH	sɔ̀ɡɔ́j-bɛ̀	sɔ̀ɡɔ́j-bɛ̀	s ¹/ɔ ɡ ⁵/ɔ j + b ¹/ɛ	2530	3440 0	0	
 6814	Fulfulde	ROUGH	ɲaadeede	ɲaad-eede	ɲ aː d + eː d e	208	3447 3448	0	
-#
 6815	ToroTegu	RUN	zɔ̌w	zɔ̌w	z ¹⁵/ɔ w	1639	3454	0	
 6816	Gourou	RUN	zɔ̀wɔ́	zɔ̀wɔ́	z ¹/ɔ w ⁵/ɔ	1639	3454	0	
 6817	YornoSo	RUN	jɔ̀bɔ́-	jɔ̀bɔ́	dʒ ¹/ɔ b ⁵/ɔ	1638	3454	0	
@@ -7082,7 +6816,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6848	ToroSo	RUN	jóbú	jóbú	dʒ ⁵/o b ⁵/u	1638	3454	0	
 6849	ToroSo	RUN	ʤɔ́bɔ́	ʤɔ́bɔ́	dʒ ⁵/ɔ b ⁵/ɔ	1638	3454	0	
 6850	BonduSo	RUN	yɔ̀bɛ́	yɔ̀bɛ́	j ¹/ɔ b ⁵/ɛ	1636	3454	0	
-#
 6851	SonghaiSenni	SALT	kìr-ò	kìr-ò	k ¹/i r + ¹/o	3785	5403 3473	0	
 6852	ToroTegu	SALT	nɛ̌ŋ	nɛ̌ŋ	n ¹⁵/ɛ + ŋ	1642	3467 3468	0	
 6853	BenTey	SALT	nɛ̌m	nɛ̌m	n ¹⁵/ɛ + m	1642	3467 3468	0	
@@ -7120,7 +6853,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6886	ToroSo	SALT	nɛ̀wⁿú	nɛ̀wⁿú	n ¹/ɛ + ∼/w̃ ⁵/u	1642	3467 3462	0	
 6887	ToroSo	SALT	nèẃ	nèẃ	n ¹/e + w	1642	3467 3468	0	
 6888	BonduSo	SALT	nɛ́mù	nɛ́mù	n ⁵/ɛ + m ¹/u	1642	3467 3462	0	
-#
 6889	Bangime	SAND	ɲíímbɛ̀	ɲíímbɛ̀	ɲ ⁵/iː + ⁿb ¹/ɛ	2533	3477 3478	0	
 6890	Fulfulde	SAND	njaareendi	njaareendi	ⁿdʒ aː r eː + ⁿd i	211	3489 5221	0	
 6891	Jenaama	SAND	sɔ̀ⁿ-sɔ̀ⁿ	sɔ̀ⁿ-sɔ̀ⁿ	s ɔ̃ + s ɔ̃	3233	3476 3476	5607	
@@ -7158,7 +6890,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6923	SonghaiSenni	SAND	dèy-sàs-ò	dèy-sàs-ò	d ¹/e j + s ¹/a s + ¹/o	3787	5222 5223 3494	5607	
 6924	TogoKan	SAND	sɔ̀ⁿsɔ̀nɔ́	sɔ̀ⁿsɔ̀nɔ́	s ¹/ɔ̃ + s ¹/ɔ n ⁵/ɔ	1651	3476 3481	5607	
 6925	Bambara	SAND	cɛⁿcɛⁿ	cɛⁿcɛⁿ	tʃ ɛ̃ + tʃ ɛ̃	3231	3476 3476	0	
-#
 6926	Bangime	SAY	kéndé	kéndé	k ⁵/e ⁿd ⁵/e	2534	5071	5633	
 6927	Fulfulde	SAY	wiyde	wiyde	w i j d e	212	3500	0	
 6928	SonghaiSenni	SAY	nê	nê	n ⁵¹/e	3788	5404	5632	
@@ -7195,7 +6926,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6959	YandaDom	SAY	dǎm	dǎm	d ¹⁵/a m	1658	3497	5634	
 6960	YornoSo	SAY	tégé	tégé	t ⁵/e ɡ ⁵/e	1658	3497	5634	
 6961	BonduSo	SAY	dám	dám	d ⁵/a m	1658	3497	5634	
-#
 6962	BankanTey	SCALE	kòkòmbû:	kòkòmbû:	k ¹/o + k ¹/o + ⁿb ⁵¹/uː	1665	3504 3505 3506	5665	
 6963	BenTey	SCALE	cɛ̂:	cɛ̂:	tʃ ⁵¹/ɛː	1666	3504	0	
 6964	Bunoge	SCALE	kɛ̀jɛ̀lɛ̀	kɛ̀jɛ̀lɛ̀	k ¹/ɛ dʒ ¹/ɛ + l ¹/ɛ	1668	3507 3508	0	
@@ -7217,7 +6947,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 6981	Bangime	SCALE	kūjɛ̀	kūjɛ̀	k ³/u j ¹/ɛ	2535	5072	5665	
 6982	Fulfulde	SCALE	hefere	hefe-re	h e f e + r e	213	3511 3512	0	
 6983	Jenaama	SCALE	wógō (2)	wógō	w ⁵/o ɡ ³/o	3241	3513	5668	
-#
 6984	BenTey	SEE	yǐ	yǐ	j ¹⁵/i	1678	3522	5708	
 6985	BankanTey	SEE	yí	yí	j ⁵/i	1678	3522	5708	
 6986	Nanga	SEE	yǐ:	yǐ:	j ¹⁵/iː	1678	3522	5708	
@@ -7251,7 +6980,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7014	Soninke	SEE	ŋàrí	ŋàrí	ŋ ¹/a r ⁵/i	3248	3523	0	
 7016	ToroSo	SEE	ìyè	ìyè	¹/i + j ¹/e	1678	3522 3522	5708	
 7018	BonduSo	SEE	jí	jí	j ⁵/i	1678	3522	5708	
-#
 7019	SonghaiSenni	SELL	né:rê	né:rê	n ⁵/eː r ⁵¹/e	3789	3543	5723	
 7020	ToroTegu	SELL	dɔ̀rú	dɔ̀rú	d ¹/ɔ r ⁵/u	1681	3536	5711	
 7021	BenTey	SELL	tíyɛ́	tíyɛ́	t ⁵/i j ⁵/ɛ	1681	3535	5711	
@@ -7276,7 +7004,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7040	Soninke	SELL	gáágà	gáágà	ɡ ⁵/a: ɡ ¹/a	3254	3544	0	
 7041	Bambara	SELL	dádígí	dádígí	d ⁵/a + d ⁵/i ɡ ⁵/i	3250	3531 3532	5709	
 7042	Bambara	SELL	fèéré	fèéré	f ¹⁵/eː r ⁵/e	3253	3546	5723	
-#
 7043	BozoDebo	SEND	kaⁿiⁿ	kaⁿiⁿ	k ã ĩ	3256	3549	0	
 7044	BozoHainyaxo	SEND	hijɛⁿnɛⁿ	hijɛⁿnɛⁿ	h i dʒ ∼/ɛ n ∼/ɛ	3257	3550	0	
 7045	BozoKorondougounord	SEND	kaⁿiⁿ	kaⁿiⁿ	k ã ĩ	3256	3549	0	
@@ -7307,8 +7034,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7070	Soninke	SEND	qíyí	qíyí	q ⁵/i j ⁵/i	3256	3549	0	
 7071	Bambara	SEND	cí	cí	tʃ ⁵/i	3255	5227	5725	
 7072	BonduSo	SEND	tíyɛ̀	tíyɛ̀	t ⁵/i j ¹/ɛ	1684	3547	5725	
-9632	Bangime	SEND	tūndò		t ³/u n + d ¹/o	2905	330 0	5725	
-#
 7073	ToroTegu	SEVEN	sóyⁿ	sóyⁿ	s ⁵/o + ∼/j	1689	3554 3555	0	
 7074	BenTey	SEVEN	súyⁿɔ̀yⁿ	súyⁿɔ̀yⁿ	s ⁵/u ∼/j ¹/ɔ + ∼/j	1688	3554 3555	5745	
 7075	BankanTey	SEVEN	síyⁿɔ̀yⁿ	síyⁿɔ̀yⁿ	s ⁵/i ∼/j ¹/ɔ + ∼/j	1688	3554 3555	5745	
@@ -7345,7 +7070,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7106	ToroSo	SEVEN	sɔ́y	sɔ́y	s ⁵/ɔ + j	1689	3554 3555	0	
 7107	ToroSo	SEVEN	sɔ̂j	sɔ̂j	s ⁵¹/ɔ + j	1689	3554 3555	0	
 7108	BonduSo	SEVEN	sɔ̀yɛ́ⁿ	sɔ̀yɛ́ⁿ	s ¹/ɔ + j ⁵/ɛ	1689	3554 3560	0	
-#
 7109	Bangime	SEW	ɕìì-rì	ɕìì-rì	ɕ ¹/iː + r ¹/i	2540	3563 5074	0	
 7110	Fulfulde	SEW	ɲoowude	ɲoow-ude	ɲ oː w + u d e	217	3569 3570	0	
 7111	Jenaama	SEW	à-dēbē	à-dēbē	¹/a + d ³/e b ³/e	3263	3572 3567	0	
@@ -7376,7 +7100,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7136	ToroSo	SEW	lɔ́lɔ́ː θɛ̀	lɔ́lɔ́ː θɛ̀	l ¹/ɔ l ⁵/ɔː + θ ¹/ɛ	1701	3578 3579	0	
 7137	ToroSo	SEW	ájárà	ájárà	⁵/a dʒ ⁵/a + r ¹/a	1695	3571 3564	0	
 7138	BonduSo	SEW	kóy	kóy	k ⁵/o j	1692	3566	0	
-#
 7139	SonghaiSenni	SHARP	kâ:n	kâ:n	k ⁵¹/aː n	3792	3583	0	
 7140	SonghaiSenni	SHARP	kà:n-ò	kà:n-ò	k ¹/aː n + ¹/o	3792	3583 3598	0	
 7141	TomoKan	SHARP	ɛ̀lɛ̀lú wɔ̀	ɛ̀lɛ̀lú_wɔ̀	¹/ɛ l ¹/ɛ l ⁵/u + w ¹/ɔ	1712	3595 3596	0	
@@ -7411,7 +7134,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7170	BozoTieyaxo	SHARP	laⁿaⁿde	laⁿaⁿde	l ∼/ãː d e	3265	3579	5803	
 7171	BozoTiemaCewe	SHARP	laⁿaⁿdi	laⁿaⁿdi	l ∼/ãː d i	3265	3579	5803	
 7172	BonduSo	SHARP	ɛ̀lí	ɛ̀lí	¹/ɛ l ⁵/i	1705	3580	0	
-#
 7173	BankanTey	SHEEP	pɛ̀rɛ̌-m	pɛ̀rɛ̌-m	p ¹/ɛ r ¹⁵/ɛ + m	1713	3602 3603	0	
 7174	Bunoge	SHEEP	ʔálámà	ʔálámà	ʔ ⁵/a l ⁵/a + m ¹/a	1715	3605 3606	0	
 7175	DogulDom	SHEEP	pésgè	pésgè	p ⁵/e s + ɡ ¹/e	1714	3602 3604	0	
@@ -7440,7 +7162,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7198	ToroSo	SHEEP	pɛ̀gɛ́	pɛ̀gɛ́	p ⁵/e ð ⁵/u	1716	3602	5833	
 7199	ToroSo	SHEEP	péjù	péjù	p ⁵/e dʒ ¹/u	1716	3602	5833	
 7200	BonduSo	SHEEP	pɛ̀gɛ́	pɛ̀gɛ́	p ¹/ɛ ɡ ⁵/ɛ	1716	3602	5833	
-#
 7201	SonghaiSenni	SHEPHERD	kùr-k-ò	kùr-k-ò	k ¹/u r + k + ¹/o	3794	5406 3634 3635	0	
 7202	Bambara	SHEPHERD	sàgàgɛ̀ⁿná	sàgàgɛ̀ⁿná	s ¹/a ɡ ¹/a + ɡ ∼/ɛ n ⁵/a	3270	3613 3614	5844	
 7203	Soninke	SHEPHERD	nàgàànâ	nàgàànâ	n ¹/a ɡ ¹/a: n ⁵¹/a	3272	3636	0	
@@ -7466,7 +7187,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7223	TomoKan	SHEPHERD	dà:bà-jìrɛ̀-yⁿ	dà:bà-jìrɛ̀-yⁿ	d ¹/aː b ¹/a + dʒ ¹/i r ¹/ɛ + ∼/j	1727	3639 3624 3640	0	
 7224	Bangime	SHEPHERD	ŋámbá-rá-ḿ-búwɔ̀	ŋámbá-rá-ḿ-búwɔ̀	ŋ ⁵/a ⁿb ⁵/a + r ⁵/a + m + b ⁵/u w ¹/ɔ	2543	3615 3616 3617 3618	0	
 7225	Jenaama	SHEPHERD	bùwɔ̀yà	bùwɔ̀yà	b ¹/u w ¹/ɔ j ¹/a	3271	3628	0	
-#
 7226	Jamsay	SHIT (DEFECATE)	bɛ́: bɛ̌:	bɛ́:_bɛ̌:	b ⁵/ɛː + b ¹⁵/ɛː	1732	3643 3646	0	
 7227	Mombo	SHIT (DEFECATE)	sùgɔ̀ súgé	sùgɔ̀_súgé	s ¹/u ɡ ¹/ɔ + s ⁵/u ɡ ⁵/e	1731	3641 3647	0	
 7228	Fulfulde	SHIT (DEFECATE)	haɲude	haɲ-ude	h a ɲ + u d e	221	3644 3645	0	
@@ -7491,7 +7211,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7247	YandaDom	SHIT (DEFECATE)	súwɔ́	súwɔ́	s ⁵/u w ⁵/ɔ	1731	3641	0	
 7248	SonghaiSenni	SHIT (DEFECATE)	wá:	wá:	w ⁵/aː	3795	5229	0	
 7249	Bambara	SHIT (DEFECATE)	tɔ́ⁿtɔ́ⁿ	tɔ́ⁿtɔ́ⁿ	t ⁵/ɔ̃ t ⁵/ɔ̃	3273	5228	0	
-#
 7250	SonghaiSenni	SHOE	[tà:m-ù]	tà:m-ù	t ¹/aː m + ¹/u	3796	5232 3658	5886	
 7251	Bambara	SHOE	sàbàrá	sàbàrá	s ¹/a b ¹/a r ⁵/a	3275	5230	0	
 7252	Soninke	SHOE	tòhû	tòhû	t ¹/o h ⁵¹/u	3277	5231	5886	
@@ -7519,7 +7238,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7274	ToroSo	SHOE	tàgá	tàgá	t ¹/a ɡ ⁵/a	1734	3652	5886	
 7275	ToroSo	SHOE	táɡù	táɡù	t ⁵/a ɡ ¹/u	1734	3652	5886	
 7276	BonduSo	SHOE	tàgú	tàgú	t ¹/a ɡ ⁵/u	1734	3652	5886	
-#
 7277	ToroTegu	SHORT	tùkěy	tùkěy	t ¹/u k ¹⁵/e + j	1738	3662 3671	5897	
 7278	BenTey	SHORT	gɔ᷈:w	gɔ᷈:w	ɡ ɔː w	1739	3663	0	
 7279	BankanTey	SHORT	gɔ᷈:	gɔ᷈:	ɡ ɔː	1739	3663	0	
@@ -7547,7 +7265,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7301	TebulUre	SHORT	gɔ̀ɛ̌:	gɔ̀ɛ̌:	ɡ ¹/ɔ ¹⁵/ɛː	1739	3663	0	
 7302	ToroSo	SHORT	dèndúː	dùmí	d ¹/u m ⁵/i	1737	3667	5896	
 7303	BonduSo	SHORT	dèndúː	dèndúː	d ¹/e ⁿd ⁵/uː	1737	3664	5896	
-#
 7304	SonghaiSenni	SHOW	bánj-éyndí	bánj-éyndí	b ⁵/a ⁿdʒ + ⁵/e j ⁿd ⁵/i	3798	3687 3688	0	
 7305	Bambara	SHOW	yɛ̀lɛ́ⁿ	yɛ̀lɛ́ⁿ	j ¹/ɛ l ⁵/ɛ	3281	3676	0	
 7306	Bangime	SHOW	tɛ̄rɛ̀	tɛ̄rɛ̀	t ³/ɛ r ¹/ɛ	2547	340	5938	
@@ -7583,7 +7300,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7336	Bambara	SHOW	jìrá	jìrá	dʒ ¹/i r ⁵/a	3286	5233	5938	
 7337	ToroSo	SHOW	taɡara	taɡara	t a ɡ a + r a	1742	3677 3689	5938	
 7338	BonduSo	SHOW	tɛ̀ɛ̀rɛ̀	tɛ̀ɛ̀rɛ̀	t ¹/ɛː r ¹/ɛ	1742	3677	5938	
-#
 7339	Bangime	SICKLE OR SCYTHE	kúwⁿɔ́	kúwⁿɔ́	k ⁵/u ∼/w̃ ⁵/ɔ	2548	5078	5943	
 7340	Fulfulde	SICKLE OR SCYTHE	wawdu	wawdu	w a w d u	226	3695	0	
 7341	Bambara	SICKLE OR SCYTHE	wɔ̀lɔ̀sɔ́	wɔ̀lɔ̀sɔ́	w ¹/ɔ l ¹/ɔ s ⁵/ɔ	3287	5234	5939	
@@ -7606,7 +7322,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7358	TogoKan	SICKLE OR SCYTHE	kɔ̀rɔ́	kɔ̀rɔ́	k ¹/ɔ r ⁵/ɔ	1744	3690	0	
 7359	TomoKan	SICKLE OR SCYTHE	byà:là-wó	byà:là-wó	b j ¹/aː l ¹/a + w ⁵/o	1746	3698 3699	0	
 7360	SonghaiSenni	SICKLE OR SCYTHE	kó:m-à:	kó:m-à:	k ⁵/oː m + ¹/aː	3799	5235 3697	5943	
-#
 7361	ToroTegu	SIMILAR	X kâyⁿ, X sì kàyⁿ, sàlá X sì kàyⁿ	kâyⁿ	k ⁵¹/a ∼/j	1750	3705	0	
 7362	BenTey	SIMILAR	gâyⁿ→	gâyⁿ	ɡ ⁵¹/a ∼/j	1750	3705	0	
 7363	BankanTey	SIMILAR	gâyⁿ	gâyⁿ	ɡ ⁵¹/a ∼/j	1750	3705	0	
@@ -7630,7 +7345,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7381	Bambara	SIMILAR	fáná	fáná	f ⁵/a n ⁵/a	3289	3701	5959	
 7382	Fulfulde	SIMILAR	nanndude	nannude	n a n n + u d e	227	3708 3709	0	
 7383	Bangime	SIMILAR	dɔ̀ŋɔ̀ndɔ̀ (2)	dɔ̀ŋɔ̀ndɔ̀	d ¹/ɔ ŋ ¹/ɔ + ⁿd ¹/ɔ	2549	3703 3704	5961	
-#
 7384	Bambara	SING	dɔ̀ⁿkílí	dɔ̀ⁿkílí	d ɔ̃ + k ⁵/i l ⁵/i	3291	3712 3713	0	
 7385	Bangime	SING	ŋùɥⁿɛ̀-rɛ̀	ŋùɥⁿɛ̀-rɛ̀	ŋ ¹/u ∼/ɥ ¹/ɛ + r ¹/ɛ	2550	5079 3715	5980	
 7386	Fulfulde	SING	yimude	yim-ude	j i m + u d e	228	3719 3720	0	
@@ -7666,7 +7380,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7416	ToroSo	SING	ŋwàn	ŋwàn	ŋ w ¹/a n	1758	3717	0	
 7417	ToroSo	SING	níí níí	níí níí	n ⁵/iː + n ⁵/iː	1760	3714 3717	0	
 7418	BonduSo	SING	níí	níí	n ⁵/iː	1757	3714	5980	
-#
 7419	Bambara	SIT	tíyè	tíyè	t ⁵/i j ¹/e	3295	5237	6001	
 7420	SonghaiSenni	SIT	gòrò	gòrò	ɡ ¹/o r ¹/o	3802	3737	0	
 7421	Soninke	SIT	tááxú	tááxú	t ⁵/a x ⁵/a ⁵/u	3299	5238	0	
@@ -7708,7 +7421,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7457	ToroSo	SIT	dàyⁿɛ́	dàyⁿɛ́	d ¹/a ∼/j + ⁵/ɛ	1762	3722 3729	6001	
 7458	ToroSo	SIT	dééⁿ	dééⁿ	d ⁵/ẽː	1763	3723	6003	
 7459	BonduSo	SIT	dáŋ	dáŋ	d ⁵/a ŋ	1766	3740	0	
-#
 7460	ToroTegu	SIX	kúréy	kúréy	k ⁵/u r ⁵/e + j	1770	3742 3743	6039	
 7461	BenTey	SIX	kúròy	kúròy	k ⁵/u r ¹/o + j	1770	3742 3743	6039	
 7462	Nanga	SIX	kúrê	kúrê	k ⁵/u r ⁵¹/e	1770	3742	6039	
@@ -7746,7 +7458,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7494	ToroSo	SIX	kùlén	kùlén	k ¹/u l ⁵/e + n	1770	3742 3743	6039	
 7495	ToroSo	SIX	kúròy	kúròy	k ⁵/u r ¹/o + j	1770	3742 3743	6039	
 7496	BonduSo	SIX	kúróy	kúróy	k ⁵/u r ⁵/o + j	1770	3742 3743	6039	
-#
 7497	ToroTegu	SKIN	gùsú	gùsú	ɡ ¹/u s ⁵/u	1774	3748	6072	
 7498	Nanga	SKIN	gùsí	gùsí	ɡ ¹/u s ⁵/i	1774	3748	6072	
 7499	Jamsay	SKIN	gùjú	gùjú	ɡ ¹/u dʒ ⁵/u	1774	3748	6072	
@@ -7773,7 +7484,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7520	Soninke	SKIN	hààbê	hààbê	h ¹/a: b ⁵¹/e	3305	3752	0	
 7521	ToroSo	SKIN	gùðú	gùðú	ɡ ¹/u ð ⁵/u	1774	3748	6072	
 7522	ToroSo	SKIN	ɡújù	ɡújù	ɡ ⁵/u dʒ ¹/u	1774	3748	6072	
-#
 7523	SonghaiSenni	SKY	bé:né	bé:né	b ⁵/eː n ⁵/e	3805	3769	0	
 7524	ToroTegu	SKY	àlkǔmnɔ̀	àl-kǔmnɔ̀	¹/a l + k ¹⁵/u m n ¹/ɔ	1779	3774 3764	0	
 7525	BenTey	SKY	yàrǐ:, yàrí	yàrǐ:	j ¹/a r ¹⁵/iː	1776	3757	0	
@@ -7811,7 +7521,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7557	Bambara	SKY	kɑbɑ	kɑbɑ	k ɑ b ɑ	3311	5240	0	
 7558	ToroSo	SKY	àlà gàlá	àlà gàlá	¹/a l ¹/a + ɡ ¹/a l ⁵/a	1779	3754 3764	0	
 7559	BonduSo	SKY	ájàn	ájàn	⁵/a dʒ ¹/a + n	1777	3758 3759	0	
-#
 7560	BozoHainyaxo	SLAVE	jɔ̀ⁿ	jɔ̀ⁿ	dʒ ɔ̃	3314	3779	0	
 7561	SonghaiSenni	SLAVE	tàm-ò	tàm-ò	t ¹/a m + ¹/o	3806	3753 3783	0	
 7562	ToroTegu	SLAVE	gùnɔ́	gùnɔ́	ɡ ¹/u n ⁵/ɔ	1784	3777	6121	
@@ -7840,7 +7549,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7585	ToroSo	SLAVE	gùnò	gùnò	ɡ ¹/u n ¹/o	1784	3777	6121	
 7586	ToroSo	SLAVE	ɡùnón	ɡùnón	ɡ ¹/u n ⁵/o + n	1784	3777 3778	6121	
 7587	BonduSo	SLAVE	gùndɛ́	gùndɛ́	ɡ ¹/u ⁿd ⁵/ɛ	1784	3777	6121	
-#
 7588	Bangime	SLEEP	ɲām-bà (1)	ɲām-bà	ɲ ³/a m + b ¹/a	2557	3785 3786	0	
 7589	Fulfulde	SLEEP	ɗaanaade	ɗaan-aade	ɗ aː n + aː d e	235	3791 3792	0	
 7590	Jenaama	SLEEP	kùmù (1)	kùmù	k ¹/u m ¹/u	3316	3793	0	
@@ -7871,7 +7579,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7620	ToroSo	SLEEP	yèyí	yèyí	j ¹/e + j ⁵/i	1791	3790 3788	0	
 7621	ToroSo	SLEEP	ɡìrì íí	ɡìrì íí	ɡ ¹/i r ¹/i + ⁵/iː	1793	3796 3789	0	
 7622	BonduSo	SLEEP	nóyíí	nóyíí	n ⁵/o j ⁵/iː	1787	3790	0	
-#
 7623	Bangime	SLIP	ɡɛ̄rɛ̀ (1)	ɡɛ̄rɛ̀	ɡ ³/ɛ r ¹/ɛ	2558	3799	0	
 7624	Fulfulde	SLIP	yortude	yort-ude	j o r t + u d e	236	3807 3808	0	
 7625	ToroTegu	SLIP	tátúrú	tátúrú	t ⁵/a + t ⁵/u r ⁵/u	1796	3800 3803	0	
@@ -7892,7 +7599,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7640	Mombo	SLIP	sá:njè	sá:njè	s ⁵/aː ⁿdʒ ¹/e	1795	3800	0	
 7641	Penange	SLIP	sánjálè	sánjálè	s ⁵/a ⁿdʒ ⁵/a + l ¹/e	1795	3800 3805	0	
 7642	SonghaiSenni	SLIP	tànsì	tànsì	t ¹/a n s ¹/i	3808	3809	6172	
-#
 7643	SonghaiSenni	SMALL	kàtìyà	kàtìyà	k ¹/a t ¹/i + j ¹/a	3809	357 0	6185	
 7644	Bangime	SMALL	dáɡájɛ̀	dáɡájɛ̀	d ⁵/a ɡ ⁵/a + j ¹/ɛ	2560	5084 5085	6174	
 7645	Fulfulde	SMALL	famɗude	famɗ-ude	f a m ɗ + u d e	237	3817 3818	0	
@@ -7915,7 +7621,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7662	TommoSo	SMALL	dàgí	dàgí	d ¹/a ɡ ⁵/i	1801	3813	6174	
 7663	ToroTegu	SMALL	tɛ̀gɛ̌y	tɛ̀gɛ̌y	t ¹/ɛ ɡ ¹⁵/ɛ + j	1801	3813 3815	6174	
 7664	YornoSo	SMALL	ùjì-ý	ùjì-ý	¹/u dʒ ¹/i + j	1807	3824 3815	0	
-#
 7665	Bangime	SMELL	pìjⁿɔ̀wⁿ	pìjⁿɔ̀wⁿ	p ¹/i ∼/j̃ ¹/ɔ ∼/w̃	2561	3827	0	
 7666	Fulfulde	SMELL	urnaade	urn-aade	u r n + aː d e	239	3830 3831	0	
 7667	Jenaama	SMELL	tímī	tímī	t ⁵/i m ³/i	3324	5243	6203	
@@ -7939,7 +7644,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7686	Jamsay	SMELL	jìɲé	jìɲé	dʒ ¹/i ɲ ⁵/e	1817	3828	6203	
 7687	Bambara	SMELL	kásá	kásá	k ⁵/a s ⁵/a	3322	5244	0	
 7688	Bambara	SMELL	súmá	súmá	s ⁵/u m ⁵/a	3325	5242	0	
-#
 7689	ToroTegu	SMOKE	kúmó	kúmó	k ⁵/u m ⁵/o	1818	3838	0	
 7690	BenTey	SMOKE	kù-kùmbó	kù-kùmbó	k ¹/u + k ¹/u ⁿb ⁵/o	1819	3841 3838	0	
 7691	BankanTey	SMOKE	kùkúmbó	kùkúmbó	k ¹/u + k ⁵/u ⁿb ⁵/o	1819	3840 3838	0	
@@ -7975,7 +7679,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7721	ToroSo	SMOKE	kòkò mɔ́	kòkò mɔ́	k ¹/o + k ¹/o m ⁵/ɔ	1819	3848 3838	0	
 7722	BonduSo	SMOKE	kùmbù	kùmbù	k ¹/u ⁿb ¹/u	1818	3838	0	
 7723	Bangime	SMOKE	kòkò mɔ́	kòkò mɔ́	k ¹/o k ¹/o + m ⁵/ɔ	2562	5086 5087	0	
-#
 7724	SonghaiSenni	SMOOTH	mé:lê	mé:lê	m ⁵/eː l ⁵¹/e	3810	3858	0	
 7725	SonghaiSenni	SMOOTH	yúltú	yúltú	j ⁵/u l t ⁵/u	3906	3859	0	
 7726	Bambara	SMOOTH	nùgú	nùgú	n ¹/u ɡ ⁵/u	3329	3842	0	
@@ -8013,7 +7716,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7758	SonghaiSenni	SMOOTH	yùlt-ò	yùlt-ò	j ¹/u l t + ¹/o	3812	5409 3860	0	
 7759	ToroSo	SMOOTH	ɔ́r̃ɔ́ nì	ɔ́r̃ɔ́ nì	⁵/ɔ ∼/r ⁵/ɔ + n ¹/i	1826	3845 3857	0	
 7760	BonduSo	SMOOTH	óŋànà	óŋànà	⁵/o ŋ ¹/a + n ¹/a	1824	3847 3857	0	
-#
 7761	BozoHainyaxo	SNAKE	nɛgɛfɔɔ	nɛgɛfɔɔ	n ɛ ɡ ɛ + f ɔː	3336	3872 1577	0	
 7762	BozoPondorinord	SNAKE	mɛrɛdɛfɔ	mɛrɛdɛfɔ	m ɛ r ɛ + d ɛ f ɔ	3339	3864 3866	0	
 7763	BozoTieyaxo	SNAKE	muruduⁿpoⁿ	muruduⁿpoⁿ	m u r u d ũ + p õ	3338	3864 3874	0	
@@ -8055,7 +7757,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7799	SonghaiSenni	SNAKE	gónd-ó	gónd-ó	ɡ ⁵/o ⁿd + ⁵/o	3813	3883 3884	0	
 7800	ToroSo	SNAKE	yùgú-rù	yùgú-rù	j ¹/u ɡ ⁵/u + r ¹/u	1831	3877 3878	0	
 7801	BonduSo	SNAKE	síìŋ jàlá-ŋgó	síìŋ jàlá-ŋgó	s ⁵¹/iː ŋ + dʒ ¹/a l ⁵/a + ⁿɡ ⁵/o	1829	3887 3866 3870	0	
-#
 7802	ToroTegu	SOAP	ɛ́rá, ɛ̀rà pírú	ɛ́rá	⁵/ɛ r ⁵/a	1844	3903	0	
 7803	BenTey	SOAP	sǎmnà	sǎmnà	s ¹⁵/a m + n ¹/a	1839	3896 3892	6296	
 7804	BankanTey	SOAP	sàppínà	sàppínà	s ¹/a p p ⁵/i + n ¹/a	1839	3895 3892	6296	
@@ -8078,7 +7779,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7821	Soninke	SOAP	sààbúnè	sààbúnè	s ¹/a: b ⁵/u + n ¹/e	3341	3891 3892	6296	
 7822	Bambara	SOAP	sàfúnɛ́	sàfúnɛ́	s ¹/a f ⁵/u + n ⁵/ɛ	3341	3891 3892	6296	
 7823	SonghaiSenni	SOAP	sòs-ò	sòs-ò	s ¹/o s + ¹/o	3814	5246 0	0	
-#
 7824	SonghaiSenni	SONG	dò:n-ò	dò:n-ò	d ¹/oː n + ¹/o	3815	3910 3911	0	
 7825	Nanga	SONG	nùŋá	nùŋá	n ¹/u ŋ ⁵/a	1847	3905	6324	
 7826	PergeTegu	SONG	núŋgɔ̀	núŋgɔ̀	n ⁵/u ⁿɡ ¹/ɔ	1847	3905	6324	
@@ -8111,7 +7811,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7854	ToroSo	SONG	níí	níí	n ⁵/iː	1847	3904	6324	
 7855	ToroSo	SONG	níí-ǹ	níí-ǹ	n ⁵/iː + n	1847	3904 3914	6324	
 7856	BonduSo	SONG	nùnŋwó	nùnŋwó	n ¹/u n + ŋ w ⁵/o	1846	3905 3913	0	
-#
 7857	Soninke	SPEAR	kai	kai	k a i	3348	3918	0	
 7858	Bangime	SPEAR	pānʤà	pānʤà	p ³/a n dʒ ¹/a	2569	3915	0	
 7859	Fulfulde	SPEAR	waago	waago	w aː ɡ o	244	5248	6334	
@@ -8149,7 +7848,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7891	DogulDom	SPEAR	wárà	wárà	w ⁵/a r ¹/a	1851	3916	6336	
 7893	SonghaiSenni	SPEAR	yà:g-ò	yà:g-ò	j ¹/aː ɡ + ¹/o	3817	3929 3930	0	
 7894	BonduSo	SPEAR	sàmbéé	sàmbéé	s ¹/a ⁿb ⁵/eː	1849	3916	6331	
-#
 7895	Bangime	SPIN	kɛ̀rndɛ̀ (2)	kɛ̀rndɛ̀	k ¹/ɛ r + ⁿd ¹/ɛ	2570	3935 3936	0	
 7896	Soninke	SPIN	wùrùⁿtí	wùrùⁿtí	w ¹/u r ũ t ⁵/i	3358	3944	0	
 7897	BenTey	SPIN	ɔ́yⁿɔ́	ɔ́yⁿɔ́	⁵/ɔ ∼/j ⁵/ɔ	1859	3937	0	
@@ -8173,7 +7871,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7915	YandaDom	SPIN	ɔ́yⁿɔ́	ɔ́yⁿɔ́	⁵/ɔ ∼/j ⁵/ɔ	1859	3937	0	
 7916	SonghaiSenni	SPIN	bí:	bí:	b ⁵/iː	3818	3943	0	
 7917	Bambara	SPIN	mɛ̀lɛ̀kɛ́	mɛ̀lɛ̀kɛ́	m ¹/ɛ l ¹/ɛ + k ⁵/ɛ	3356	3934 0	6365	
-#
 7918	Bangime	SPIRIT	ɲāŋɡò	ɲāŋɡò	ɲ ³/a + ⁿɡ ¹/o	2571	3949 0	0	
 7919	ToroTegu	SPIRIT	ùsó	ùsó	¹/u s ⁵/o	1876	3963	0	
 7920	BenTey	SPIRIT	jínná:jò-m	jínná:jò-m	dʒ ⁵/i n n ⁵/aː dʒ ¹/o + m	1869	3951 3952	6388	
@@ -8201,7 +7898,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7942	SonghaiSenni	SPIRIT	lákkâl	lákkâl	l ⁵/a k k a ⁵¹ + l	3819	3958 0	193	
 7943	Bambara	SPIRIT	laguju	laguju	l a ɡ u dʒ u	3361	3964	193	
 7944	SonghaiSenni	SPIRIT	kàsíy-à:	kàsíy-à:	k ¹/a s ⁵/i j + ¹/aː	3820	3965 3966	0	
-#
 7945	Bangime	SPIT	tùwì	tùwì	t ¹/u w ¹/i	2572	5094	6411	
 7946	Jenaama	SPIT	à-tu᷆	à-tu᷆	¹/a + t ³¹/u	3363	3985 3970	6411	
 7947	Fulfulde	SPIT	tuttude	tutt-ude	t u t t + u d e	247	3980 3981	6411	
@@ -8233,7 +7929,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 7978	TiranigeDiga	SPIT	só:ndí tɔ́:	só:ndí_tɔ́:	s ⁵/oː ⁿd ⁵/i + t ɔː	1879	3974 3970	0	
 7979	Penange	SPIT	sò:njì swɛ́:	sò:njì_swɛ́:	s ¹/oː ⁿdʒ ¹/i + s w ⁵/ɛː	1879	3974 3975	0	
 7980	BonduSo	SPIT	ùlèè	ùlèè	¹/u l ¹/eː	1887	3984	0	
-#
 7981	SonghaiSenni	SPLEEN	dè:mál-ò	dè:mál-ò	d ¹/eː m ⁵/a l + ¹/o	3822	4002 4003	6442	
 7982	ToroTegu	SPLEEN	cɛ́lá-mpárèy	cɛ́lá-mpárèy	tʃ ⁵/ɛ l ⁵/a + ⁿp ⁵/a r ¹/e + j	1889	3999 3991 4858	0	
 7983	BenTey	SPLEEN	kɛ̀lɛ̀-pǎ:lày	kɛ̀lɛ̀-pǎ:lày	k ¹/ɛ l ¹/ɛ + p ¹⁵/aː l ¹/a + j	1889	3992 3991 4858	0	
@@ -8256,7 +7951,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8000	Penange	SPLEEN	jàŋgà-nɛ́mdɛ̀ (belly-tongue)	jàŋgà-nɛ́mdɛ̀	dʒ ¹/a ⁿɡ ¹/a + n ⁵/ɛ ⁿd ¹/ɛ	1894	4000 4001	0	
 8001	Bangime	SPLEEN	bɛ́rɛ́ (2)	bɛ́rɛ́	b ⁵/ɛ r ⁵/ɛ	2573	5095	0	
 8002	Fulfulde	SPLEEN	ɗaamol	ɗaamol	ɗ aː m + o l	248	3997 3998	0	
-#
 8003	SonghaiSenni	SPRING OR WELL	séw	séw	s ⁵/e w	3823	4019	6459	
 8004	ToroTegu	SPRING OR WELL	téwó	téwó	t ⁵/e w ⁵/o	1904	4023	0	
 8005	BankanTey	SPRING OR WELL	dǎyⁿ	dǎyⁿ	d ¹⁵/a + ∼/j	1898	4010 4860	0	
@@ -8276,7 +7970,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8019	Jenaama	SPRING OR WELL	tèndé	tèndé	t ¹/e ⁿd ⁵/e	3364	4015	6464	
 8020	Fulfulde	SPRING OR WELL	ɓunndu	ɓunndu	ɓ u n + ⁿd u	249	4013 4861	0	
 8021	Soninke	SPRING OR WELL	gèdê	gèdê	ɡ ¹/e d ⁵¹/e	3364	4020	6464	
-#
 8022	Fulfulde	STAR	albalda	albalda	a l b a l d a	250	4034	0	
 8023	ToroTegu	STAR	sémrěy	sémrěy	s ⁵/e m r ¹⁵/e + j	1912	4038 4037	0	
 8024	BenTey	STAR	tóró	tóró	t ⁵/o r ⁵/o	1906	4029	6475	
@@ -8312,7 +8005,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8054	Bambara	STAR	kwe	kwe	k w e	3365	4028	0	
 8055	ToroSo	STAR	tòró	tòró	t ¹/o r ⁵/o	1906	4029	6475	
 8056	BonduSo	STAR	ájí kɔ́lɔ̀-n	ájí kɔ́lɔ̀-n	⁵/a dʒ ⁵/i + k ⁵/ɔ l ¹/ɔ + n	1907	4032 4026 4031	0	
-#
 8057	Fulfulde	STEAL	wujjude	wujj-ude	w u dʒ dʒ + u d e	251	4048 4049	0	
 8058	BozoHainyaxo	STEAL	kee	kee	k eː	3368	4045	6510	
 8059	BozoPondorinord	STEAL	kwee	kwee	k w eː	3369	4045	0	
@@ -8347,7 +8039,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8088	ToroSo	STEAL	gùỹɔ́	gùỹɔ́	ɡ ¹/u ∼/j ⁵/ɔ	1915	4041	6510	
 8089	ToroSo	STEAL	ɡúw̃ɛ́ ɡúw̃ɛ́	ɡúw̃ɛ́ ɡúw̃ɛ́	ɡ ⁵/u ∼/w ⁵/ɛ + ɡ ⁵/u ∼/w ⁵/ɛ	1916	4045 4052	0	
 8090	BonduSo	STEAL	jàmínɛ́	jàmínɛ́	dʒ ¹/a m ⁵/i + n ⁵/ɛ	1914	4043 4054	0	
-#
 8091	ToroTegu	STOMACH	bètè-ká	bètè-ká	b ¹/e t ¹/e + k ⁵/a	1921	4058 4056	0	
 8092	BenTey	STOMACH	bìnjírì	bìnjírì	b ¹/i ⁿdʒ ⁵/i + r ¹/i	1919	4058 4863	0	
 8093	BankanTey	STOMACH	pìrè-kɔ̀rɔ̀ díyⁿàwⁿ	pìrè-kɔ̀rɔ̀_díyⁿàwⁿ	p ¹/i r ¹/e + k ¹/ɔ r ¹/ɔ + d ⁵/i ∼/j ¹/a ∼/w̃	1918	4055 4056 4057	0	
@@ -8365,7 +8056,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8105	Mombo	STOMACH	píndí-píndí	píndí-píndí	p ⁵/i ⁿd ⁵/i + p ⁵/i ⁿd ⁵/i	1921	4058 4060	0	
 8106	Penange	STOMACH	kújú	kújú	k ⁵/u dʒ ⁵/u	1922	4059	0	
 8107	TogoKan	STOMACH	pùró	pùró	p ¹/u r ⁵/o	1919	4055	0	
-#
 8108	Jenaama	STONE	kɔ̀yɔ̄wⁿ	kɔ̀yɔ̄wⁿ	k ¹/ɔ j ³/ɔ + ∼/w̃	3374	4070 4071	0	
 8109	BozoDebo	STONE	kɔru	kɔru	k ɔ r u	3371	4065	0	
 8110	BozoHainyaxo	STONE	sire	sire	s i r e	3371	4064	0	
@@ -8383,7 +8073,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8122	Fulfulde	STONE	haayre	haay-re	h aː j + r e	252	4068 4069	0	
 8123	Jamsay	STONE	tùmó	tùmó	t ¹/u m ⁵/o	1925	4066	0	
 8124	Bambara	STONE	gàjá	gàjá	ɡ ¹/a dʒ ⁵/a	3370	4063	0	
-#
 8125	Bambara	STRIKE OR BEAT	nogu	nogu	n o ɡ u	3375	4075	6554	
 8126	Soninke	STRIKE OR BEAT	bùgɔ́	bùgɔ́	b ¹/u ɡ ⁵/ɔ	3376	374	6555	
 8127	ToroTegu	STRIKE OR BEAT	tɛ́w	tɛ́w	t ⁵/ɛ w	1929	4084	0	
@@ -8405,8 +8094,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8143	BonduSo	STRIKE OR BEAT	dàgí	dàgí	d ¹/a ɡ ⁵/i	1929	4077	0	
 8144	TogoKan	STRIKE OR BEAT	lágá	lágá	l ⁵/a ɡ ⁵/a	1930	4077	0	
 8145	Bambara	STRIKE OR BEAT	kai	kai	k a i	3377	4086	0	
-9633	Bangime	STRIKE OR BEAT			d ¹/ɔ g ¹/ɔ	3076	5099	0	
-#
 8146	Bambara	SUCK	mosi	mosi	m o s i	3378	4087	6575	
 8147	SonghaiSenni	SUCK	dùm	dùm	d ¹/u m	3826	4096	0	
 8148	Bangime	SUCK	mɔ̀nʤɛ̀	mɔ̀nʤɛ̀	m ¹/ɔ ⁿdʒ ¹/ɛ	2578	4088	0	
@@ -8444,9 +8131,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8180	Bambara	SUCK	kuo	kuo	k u o	3385	4100	0	
 8181	Fulfulde	SUCK	muynude	muyn-ude	m u j n + u d e	253	4092 4093	6579	
 8182	BonduSo	SUCK	pɔ́mbɛ́	pɔ́mbɛ́	p ⁵/ɔ ⁿb ⁵/ɛ	1937	4099	0	
-#
 8183	ToroTegu	SUGAR	nɛ̀ŋ ètú, súkkàrà	nɛ̀ŋ_ètú	n ¹/ɛ ŋ + ¹/e t ⁵/u	1938	4101 4102	0	
-#
 8184	SonghaiSenni	SUN	wòyn-ò	wòyn-ò	w ¹/o j n + ¹/o	3827	4116 4117	0	
 8185	ToroTegu	SUN	nǒŋ	nǒŋ	n ¹⁵/o + ŋ	1942	4105 4867	0	
 8186	Nanga	SUN	ùsí	ùsí	¹/u s ⁵/i	1940	4106	0	
@@ -8482,7 +8167,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8216	Bambara	SUN	tòní	tòní	t ¹/o n ⁵/i	3387	4104	0	
 8217	ToroSo	SUN	nǎy	nǎy	n ¹⁵/a + j	1946	4105 4866	0	
 8218	BonduSo	SUN	ùjù	ùjù	¹/u dʒ ¹/u	1941	4106	6618	
-#
 8219	SonghaiSenni	SWALLOW	gôn	gôn	ɡ ⁵¹/o n	3828	4123	0	
 8220	ToroTegu	SWALLOW	mìrú	mìrú	m ¹/i r ⁵/u	1947	4120	6643	
 8221	BenTey	SWALLOW	mìrⁿɛ́	mìrⁿɛ́	m ¹/i ∼/r̃ ⁵/ɛ	1947	4120	6643	
@@ -8504,7 +8188,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8237	YornoSo	SWALLOW	mɛ̀rⁿɛ́	mɛ̀rⁿɛ́	m ¹/ɛ ∼/r̃ ⁵/ɛ	1947	4120	6643	
 8238	Jamsay	SWALLOW	mìrⁿé	mìrⁿé	m ¹/i ∼/r̃ ⁵/e	1947	4120	6643	
 8239	Soninke	SWALLOW	koⁿiⁿ	koⁿiⁿ	k õ ĩ	3390	4124	0	
-#
 8240	SonghaiSenni	SWEEP	fì:s-à	fì:s-à	f ¹/iː s + ¹/a	3829	4141 4142	0	
 8241	Bangime	SWEEP	ɡìjɛ̀ndɛ̀	ɡìjɛ̀ndɛ̀	ɡ ¹/i j ¹/ɛ + ⁿd ¹/ɛ	2581	4125 4126	6655	
 8242	Jenaama	SWEEP	à-kwɛ̄ⁿ	à-kwɛ̄ⁿ	¹/a + k w ³/ɛ̃	3396	4137 4138	0	
@@ -8540,7 +8223,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8272	Jamsay	SWEEP	sɛ́mɛ́	sɛ́mɛ́	s ⁵/ɛ m ⁵/ɛ	1950	4128	6657	
 8273	ToroSo	SWEEP	sɛ́mɛ̀	sɛ́mɛ̀	s ⁵/ɛ m ¹/ɛ	1950	4128	6657	
 8274	BonduSo	SWEEP	ínɡí-lè	ínɡí-lè	⁵/i ⁿɡ ⁵/i + l ¹/e	1954	4146 4147	0	
-#
 8275	ToroTegu	SWEET	ètú	ètú	¹/e t ⁵/u	1957	4149	104	
 8276	BenTey	SWEET	ɛ́rìm	ɛ́rìm	⁵/ɛ r ¹/i + m	1955	4149 4150	0	
 8277	TogoKan	SWEET	ɛ́lú	ɛ́lú	⁵/ɛ l ⁵/u	1956	4149	104	
@@ -8563,7 +8245,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8294	Fulfulde	SWEET	welude	wel-ude	w e l + u d e	257	4155 4156	104	
 8295	Jamsay	SWEET	érù	érù	⁵/e r ¹/u	1955	4149	0	
 8296	SonghaiSenni	SWEET	lélém	lélém	l ⁵/e l ⁵/e + m	3831	5411 5412	104	
-#
 8297	Bangime	SWIM	jìnà	jìnà	j ¹/i n ¹/a	2583	5101	6713	
 8298	Fulfulde	SWIM	yinnude	yinn-ude	j i n n + u d e	258	5326 4173	6713	
 8299	SonghaiSenni	SWIM	zí:	zí:	z ⁵/iː	3832	4179	0	
@@ -8588,7 +8269,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8318	Penange	SWIM	ɲí:ní kán	ɲí:ní_kán	ɲ ⁵/iː n ⁵/i + k ⁵/a n	1960	4161 4163	6713	
 8319	SonghaiSenni	SWIM	zí:-r-ó	zí:r-ó	z ⁵/iː r + ⁵/o	3832	4179 4185	0	
 8320	Soninke	SWIM	dàràká	dàràká	d ¹/a r ¹/a k ⁵/a	3402	4180	0	
-#
 8321	Bangime	TAIL	tììⁿ	tììⁿ	t ĩ:	2585	4188	6733	
 8322	Fulfulde	TAIL	laaci	laaci	l aː tʃ i	259	4190	0	
 8323	Jenaama	TAIL	píyɛ̄	píyɛ̄	p ⁵/i j ³/ɛ	3405	4189	6739	
@@ -8627,7 +8307,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8356	SonghaiSenni	TAIL	àn-zùf-ò	àn-zùf-ò	¹/a n + z ¹/u f + ¹/o	3833	4192 4193 4194	0	
 8357	ToroSo	TAIL	dúlɔ́	dúlɔ́	d ⁵/u l ⁵/ɔ	1971	4186	6733	
 8358	BonduSo	TAIL	dúlɔ́	dúlɔ́	d ⁵/u l ⁵/ɔ	1971	4186	6733	
-#
 8359	Bambara	TALK	fɔ́	fɔ́	f ⁵/ɔ	3408	4197	0	
 8360	Jamsay	TALK	tègú	tègú	t ¹/e ɡ ⁵/u	1976	4198	6761	
 8361	Fulfulde	TALK	haalude	haal-ude	h aː l + u d e	260	4206 4207	0	
@@ -8651,11 +8330,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8379	Bangime	TALK	dìɡà	dìɡà	d ¹/i ɡ ¹/a	2586	5102	6761	
 8380	Bambara	TALK	sàrá	sàrá	s ¹/a r ⁵/a	3410	4218	0	
 8381	Soninke	TALK	tùgá	tùgá	t ¹/u ɡ ⁵/a	3409	4198	6761	
-#
 8382	Bambara	TASTE	nɛ́ɛ́nɛ́	nɛ́ɛ́nɛ́	n ⁵/ɛː n ⁵/ɛ	3411	4219	0	
 8383	Bambara	TASTE	sídɛ́gɛ́ⁿ	sídɛ́gɛ́ⁿ	s ⁵/i d ⁵/ɛ ɡ ⁵/ɛ	3413	4221	0	
 8384	Soninke	TASTE	tèmú	tèmú	t ¹/e m ⁵/u	3412	4220	0	
-#
 8385	SonghaiSenni	TEN	ʔàttê	ʔàttê	ʔ ¹/a t t ⁵¹/e	3835	4231	0	
 8386	SonghaiSenni	TEN	wóy	wóy	w ⁵/o j	3836	4234	0	
 8387	ToroTegu	TEN	pɛ́:rú	pɛ́:rú	p ⁵/ɛː r ⁵/u	1986	4222	0	
@@ -8695,7 +8372,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8421	ToroSo	TEN	pɛ́l	pɛ́l	p ⁵/ɛ l	1986	4222	0	
 8422	ToroSo	TEN	pɛ́rù	pɛ́rù	p ⁵/ɛ r ¹/u	1986	4222	0	
 8423	BonduSo	TEN	píyɛ̀lì-n	píyɛ̀lì-n	p ⁵/i j ¹/ɛ l ¹/i + n	1988	4224 4233	0	
-#
 8424	Soninke	TESTICLES	kee	kee	k eː	3417	4245	0	
 8425	Bangime	TESTICLES	tój	tój	t ⁵/o j	2588	4236	6810	
 8426	Fulfulde	TESTICLES	ponte	ponte	p o ⁿt e	262	0	6814	
@@ -8722,7 +8398,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8447	Jamsay	TESTICLES	dɔ̀rɔ́	dɔ̀rɔ́	d ¹/ɔ r ⁵/ɔ	1989	4237	6810	
 8448	ToroSo	TESTICLES	dɔ́lɔ́	dɔ́lɔ́	d ⁵/ɔ l ⁵/ɔ	1989	4237	6810	
 8449	ToroSo	TESTICLES	dɔ́ɔ̀	dɔ́ɔ̀	d ⁵¹/ɔː	1989	4237	6810	
-#
 8450	Jenaama	THICK	bánū	bánū	b ⁵/a n ³/u	3418	4256	6835	
 8451	SonghaiSenni	THICK	kòm-ò	kòm-ò	k ¹/o m + ¹/o	3838	4260 4261	0	
 8452	BankanTey	THICK	káwⁿáwⁿ	káwⁿáwⁿ	k ⁵/a ∼/w̃ ⁵/a + w̃	1994	4248 4249	0	
@@ -8742,7 +8417,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8466	Bangime	THICK	mɛ̀rⁿɛ̀ (2)	mɛ̀rⁿɛ̀	m ¹/ɛ ∼/r̃ ¹/ɛ	2589	4247	0	
 8467	Soninke	THICK	téhètê	téhètê	t ⁵/e h ¹/e t ⁵¹/e	3419	4262	0	
 8468	YornoSo	THICK	démɛ́	démɛ́	d ⁵/e m ⁵/ɛ	1999	4257	0	
-#
 8469	Bangime	THIGH	tóŋɡórò	tóŋɡórò	t ⁵/o ⁿɡ ⁵/o + r ¹/o	2590	5103 5104	6848	
 8470	Fulfulde	THIGH	busal	busal	b u s + a l	264	4272 4273	0	
 8471	Jenaama	THIGH	kə́gə̄	kə́gə̄	k ⁵/ə ɡ ³/ə	3422	4266	0	
@@ -8772,7 +8446,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8496	TomoKan	THIGH	pàʔá	pàʔá	p ¹/a ʔ ⁵/a	2002	4269	0	
 8497	YornoSo	THIGH	pàgá	pàgá	p ¹/a ɡ ⁵/a	2002	4269	0	
 8498	SonghaiSenni	THIGH	ʔáŋkórá	ʔáŋkórá	ʔ ⁵/a ⁿk ⁵/o + r ⁵/a	3839	4275 0	6848	
-#
 8499	Fulfulde	THING	huunde	huunde	h uː ⁿd e	266	4286	0	
 8500	Jenaama	THING	pɔ̄	pɔ̄	p ³/ɔ	3425	4288	0	
 8501	BozoPondorisud	THING	fɔ	fɔ	f ɔ	3425	4281	0	
@@ -8805,7 +8478,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8532	ToroSo	THING	kíðɛ́	kíðɛ́	k ⁵/i + ð ⁵/ɛ	2007	4282 4290	0	
 8533	ToroSo	THING	kídʒɛ́	kídʒɛ́	k ⁵/i + d ʒ ⁵/ɛ	2007	4282 4292	0	
 8534	BonduSo	THING	kó-ŋgɛ̀	kó-ŋgɛ̀	k ⁵/o + ⁿɡ ¹/ɛ	2005	4282 4283	6873	
-#
 8535	SonghaiSenni	THINK	mí:lô	mí:lô	m ⁵/iː l ⁵¹/o	3840	5250	6908	
 8536	Bambara	THINK	míirù	míirù	m ⁵/i: r ¹/u	3427	4294	6908	
 8537	SonghaiSenni	THINK	hòŋgù	hòŋgù	h ¹/o ⁿɡ ¹/u	3841	4308	0	
@@ -8835,7 +8507,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8565	Fulfulde	THINK	miilude	miil-ude	m iː l + u d e	267	5249 4302	6908	
 8566	Jenaama	THINK	à-mīīlà	à-mīīlà	¹/a + m ³³/iː l ¹/a	3427	4303 4294	6908	
 8567	Soninke	THINK	míírí	míírí	m ⁵/iː r ⁵/i	3427	4294	6908	
-#
 8568	BankanTey	THORN	dòró	dòró	d ¹/o + r ⁵/o	2020	4313 4874	6932	
 8569	Nanga	THORN	dùró	dùró	d ¹/u + r ⁵/o	2020	4313 4317	6932	
 8570	PergeTegu	THORN	dò-dǒ:	dò-dǒ:	d ¹/o + d ¹⁵/oː	2020	4313 4317	6932	
@@ -8869,10 +8540,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8598	Soninke	THORN	sáásè	sáásè	s ⁵/a: + s ¹/e	3434	4314 4314	0	
 8599	SonghaiSenni	THORN	kàrg-ò	kàrg-ò	k ¹/a r ɡ + ¹/o	3842	4319 4320	0	
 8600	BonduSo	THORN	dǐː	dǐː	d ¹⁵/iː	2020	4313	6932	
-#
 8601	Bambara	THOUSAND	wáá	wáá	w ⁵/aː	3436	4323	0	
 8602	SonghaiSenni	THOUSAND	zèmbêr	zèmbêr	z ¹/e ⁿb ⁵¹/e r	3843	4324	0	
-#
 8603	ToroTegu	THREE	tà:lí	tà:lí	t ¹/aː l ⁵/i	2024	4325	6963	
 8604	BenTey	THREE	tà:nú	tà:nú	t ¹/aː n ⁵/u	2024	4325	6963	
 8605	BankanTey	THREE	tà:ní	tà:ní	t ¹/aː n ⁵/i	2024	4325	6963	
@@ -8909,7 +8578,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8636	ToroSo	THREE	táːrⁿú	táːrⁿú	t ⁵/aː ∼/r̃ ⁵/u	2024	4325	6963	
 8637	ToroSo	THREE	tàánú	tàánú	t ¹⁵/aː n ⁵/u	2024	4325	6963	
 8638	BonduSo	THREE	tàːndîː-ŋ	tàːndîː-ŋ	t ¹/aː ⁿd ⁵¹/iː + ŋ	2024	4325 4330	6963	
-#
 8639	Bambara	THROAT	káⁿ	káⁿ	k ⁵/ã	3440	4331	6985	
 8640	Bangime	THROAT	ɡòndò	ɡòndò	ɡ ¹/o ⁿd ¹/o	2595	4332	6985	
 8641	Fulfulde	THROAT	goddol	goddol	ɡ o d d + o l	270	4337 4338	0	
@@ -8931,7 +8599,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8657	YandaDom	THROAT	yɔ̀gɔ̀	yɔ̀gɔ̀	j ¹/ɔ ɡ ¹/ɔ	2027	4339	0	
 8658	YornoSo	THROAT	yɔ̀gɔ́	yɔ̀gɔ́	j ¹/ɔ ɡ ⁵/ɔ	2027	4339	0	
 8659	SonghaiSenni	THROAT	bókól-ò	bókól-ò	b ⁵/o k ⁵/o l + ¹/o	3846	4345 4346	0	
-#
 8660	Bangime	THROW	ɡwìjì	ɡwìjì	ɡ w ¹/i j ¹/i	2597	4349	99	
 8661	Fulfulde	THROW	faɗɗude	faɗɗ-ude	f a ɗ ɗ + u d e	271	4354 4355	100	
 8662	Jenaama	THROW	ā-pì (1)	ā-pì	³/a + p ¹/i	3443	4356 4357	0	
@@ -8954,7 +8621,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8679	Jamsay	THROW	kámá	kámá	k ⁵/a m ⁵/a	2033	4353	99	
 8680	SonghaiSenni	THROW	kèt-à	kèt-à	k ¹/e t + ¹/a	3847	4159 4359	0	
 8681	Soninke	THROW	bìtâ	bìtâ	b ¹/i t ⁵¹/a	3442	391	0	
-#
 8682	Jenaama	TIE	ā-sèy (2)	ā-sèy	³/a + s ¹/e j	3445	4375 4371	0	
 8684	Bangime	TIE	bū-wɔ̀	bū-wɔ̀	b ³/u + w ¹/ɔ	2598	4364 4365	0	
 8685	Bambara	TIE	lásìrí	lásìrí	l ⁵/a + s ¹/i r ⁵/i	3444	0 4363	7022	
@@ -8986,10 +8652,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8711	BozoTieyaxo	TIE	xari	xari	x a r i	3444	4370	7022	
 8712	BozoTiemaCewe	TIE	kari	kari	k a r i	3444	4370	7022	
 8713	BonduSo	TIE	páɡí	páɡí	p ⁵/a ɡ ⁵/i	2039	4368	0	
-#
 8714	SonghaiSenni	TOBACCO	sùnd-ò	sùnd-ò	s ¹/u ⁿd + ¹/o	3849	4377 4378	0	
 8715	Jamsay	TOBACCO	tɔ́wɔ̀	tɔ́wɔ̀	t ⁵/ɔ w ¹/ɔ	2042	4376	0	
-#
 8716	Bambara	TOE	nkɔni	nkɔni	ⁿk ɔ n i	3447	4379	7040	
 8717	ToroTegu	TOE	kùwɔ̀-[ì-rⁿú]	kùwɔ̀	k ¹/u w ¹/ɔ	2047	4381	0	
 8718	BenTey	TOE	lɔ̀sɔ̀-sî:	lɔ̀sɔ̀-sî:	l ¹/ɔ s ¹/ɔ + s ⁵¹/iː	2045	4382 4383	0	
@@ -9013,7 +8677,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8736	Bangime	TOE	bùjɛ̄-kūwⁿɛ̀ɛ̀	bùjɛ̄-kūwⁿɛ̀ɛ̀	b ¹/u j ³/ɛ + k ³/u ∼/w̃ ¹/ɛː	2599	4380 5109	0	
 8737	Jenaama	TOE	tàbā-kɔ̀ɔ̀njɛ́wⁿ	tàbā-kɔ̀ɔ̀njɛ́wⁿ	t ¹/a b ³/a + k ¹/ɔː ⁿdʒ ⁵/ɛ + ∼/w̃	3448	4388 4389 4390	0	
 8738	SonghaiSenni	TOE	cè:-kòb-í:z-ò	cè:kòb-í:z-ò	tʃ ¹/eː k ¹/o b + ⁵/iː z + ¹/o	3850	4393 4394 5414	0	
-#
 8739	ToroTegu	TOMORROW	sírà, húwⁿɔ̀	sírà	s ⁵/i r ¹/a	2052	4408	0	
 8740	BenTey	TOMORROW	ɛ́yⁿ, ɛ́yⁿ dé	ɛ́yⁿ	⁵/ɛ ∼/j	2053	4401	0	
 8741	PergeTegu	TOMORROW	úŋgù	úŋgù	⁵/u ⁿɡ ¹/u	2055	4402	0	
@@ -9038,7 +8701,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8760	Jamsay	TOMORROW	yògó	yògó	j ¹/o ɡ ⁵/o	2055	4403	0	
 8761	ToroSo	TOMORROW	ɛ́ŋ	yògó	j ¹/o ɡ ⁵/o	2055	4403	0	
 8762	BonduSo	TOMORROW	yògó	ɛ́ŋ	⁵/ɛ ŋ	2054	4410	0	
-#
 8763	Bangime	TONGS	kámbá-rà	kámbá-rà	k ⁵/a ⁿb ⁵/a + r ¹/a	2601	5110 4412	7085	
 8764	Fulfulde	TONGS	kampaaje	kampaaje	k a ⁿp aː + dʒ e	274	5253 4881	7085	
 8765	Jamsay	TONGS	ɛ̌w	ɛ̌w	¹⁵/ɛ w	2060	4413	0	
@@ -9060,7 +8722,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8781	TiranigeDiga	TONGS	ɛ̀:	ɛ̀:	¹/ɛː	2063	4419	0	
 8782	TogoKan	TONGS	ɛ̌w	ɛ̌w	¹⁵/ɛ w	2060	4420	0	
 8783	YornoSo	TONGS	ɛ̌w	ɛ̌w	¹⁵/ɛ w	2060	4413	0	
-#
 8784	Soninke	TONGUE	jàmbá	jàmbá	dʒ ¹/a ⁿb ⁵/a	3454	4433	0	
 8785	ToroTegu	TONGUE	lèlá	lèlá	l ¹/e l ⁵/a	2066	4426	0	
 8786	BenTey	TONGUE	lɛ̀mdɛ̂:	lɛ̀mdɛ̂:	l ¹/ɛ ⁿd ⁵¹/ɛː	2066	4426	0	
@@ -9088,7 +8749,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8808	SonghaiSenni	TONGUE	dè:nè	dè:nè	d ¹/eː n ¹/e	3852	5415	7106	
 8809	ToroSo	TONGUE	níínɛ́	níínɛ́	n ⁵/iː n ⁵/ɛ	2068	4428	7106	
 8810	ToroSo	TONGUE	nínnɛ̀	nínnɛ̀	n ⁵/i n n ¹/ɛ	2068	4428	7106	
-#
 8811	ToroTegu	TOOTH	jìrⁿó	jìrⁿó	dʒ ¹/i + ∼/r̃ ⁵/o	2070	4440 4439	0	
 8812	BenTey	TOOTH	ìrⁿú ~ ìrⁿí	ìrⁿú	¹/i + ∼/r̃ ⁵/u	2070	4440 4439	0	
 8813	BankanTey	TOOTH	ŋìrⁿɛ́, ɲìrⁿɛ́	ŋìrⁿɛ́	ŋ ¹/i + ∼/r̃ ⁵/ɛ	2070	4437 4439	7115	
@@ -9115,7 +8775,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8834	SonghaiSenni	TOOTH	hè:ⁿ	hè:ⁿ	h ẽː̃	3854	5416	0	
 8835	Soninke	TOOTH	kàmbê	kàmbê	k ¹/a ⁿb ⁵¹/e	3456	4445	0	
 8836	BonduSo	TOOTH	ìnɔ̌ː	ìnɔ̌ː	¹/i + n ¹⁵/ɔː	2071	4440 4441	7124	
-#
 8837	Bangime	TOUCH	dāɡà	dāɡà	d ³/a ɡ ¹/a	2604	5112	7133	
 8838	Fulfulde	TOUCH	memude	mem-ude	m e m + u d e	277	4451 4452	0	
 8839	Jenaama	TOUCH	kwālà bwɛ᷆	kwālà_bwɛ᷆	k w ³/a l ¹/a + b w ³¹/ɛ	3460	4453 4454	0	
@@ -9146,7 +8805,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8864	SonghaiSenni	TOUCH	túkâ	túkâ	t ⁵/u k ⁵¹/a	3855	5255	7133	
 8865	ToroSo	TOUCH	tábù	tábù	t ⁵/a b ¹/u	2073	4449	7133	
 8866	BonduSo	TOUCH	dòŋgí	dòŋgí	d ¹/o ⁿɡ ⁵/i	2073	4448	7133	
-#
 8867	SonghaiSenni	TRAP (PITFALL)	kùms-ò	kùms-ò	k ¹/u m s + ¹/o	3857	5257 4473	96	
 8868	ToroTegu	TRAP (PITFALL)	kúsěy	kúsěy	k ⁵/u s ¹⁵/e + j	2085	4462 4884	96	
 8869	BenTey	TRAP (PITFALL)	gúrúgúsù ~ gúrgúsù	gúrúgúsù	ɡ ⁵/u r ⁵/u + ɡ ⁵/u s ¹/u	2077	4464 4462	7159	
@@ -9172,7 +8830,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8889	Soninke	TRAP (PITFALL)	kálàŋŋê	kálàŋŋê	k ⁵/a l ¹/a ŋ + ŋ ⁵¹/e	3466	4477 4470	7159	
 8890	Bambara	TRAP (PITFALL)	pɛ̀gɛ́	pɛ̀gɛ́	p ¹/ɛ ɡ ⁵/ɛ	3464	4478	7162	
 8891	YornoSo	TRAP (PITFALL)	pɛ́rⁿɛ́	pɛ́rⁿɛ́	p ⁵/ɛ ∼/r̃ ⁵/ɛ	2080	4466	7162	
-#
 8892	BozoHainyaxo	TRAVERSE	kárá	kárá	k ⁵/a r ⁵/a	3469	4485	7186	
 8893	SonghaiSenni	TRAVERSE	kòttô	kòttô	k ¹/o t t ⁵¹/o	3858	4491	7185	
 8894	BozoPondorinord	TRAVERSE	bòòxó	bòòxó	b ¹/o: x ⁵/o	3468	4486	7182	
@@ -9197,7 +8854,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8913	Penange	TRAVERSE	púr-gú-ndè	púr-gú-ndè	p ⁵/u r + ɡ ⁵/u + ⁿd ¹/e	2094	4489 4485 4490	0	
 8914	Mombo	TRAVERSE	púrúgè	púrúgè	p ⁵/u r ⁵/u + ɡ ¹/e	2094	4480 4485	0	
 8915	YandaDom	TRAVERSE	tíŋɛ́	tíŋɛ́	t ⁵/i ŋ ⁵/ɛ	2093	4479	0	
-#
 8916	Bangime	TREE	dwàà	dwàà	d w ¹/aː	2607	5114	7196	
 8917	Fulfulde	TREE	boɓoori	boɓoori	b o ɓ oː r i	281	4498	0	
 8918	Jenaama	TREE	jūgū-náⁿ	jūgū-náⁿ	dʒ ³/u ɡ ³/u + n ⁵/ã	3470	4493 4499	7194	
@@ -9230,7 +8886,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8945	Penange	TREE	tìndìgɔ̀	tìndìgɔ̀	t ¹/i ⁿd ¹/i + ɡ ¹/ɔ	2098	4494 4496	0	
 8946	Nanga	TREE	tùmá	tùmá	t ¹/u m ⁵/a	2096	4494	7196	
 8947	Bambara	TREE	jírí	jírí	dʒ ⁵/i r ⁵/i	3471	4493	7196	
-#
 8949	Bambara	TROUGH	jímíⁿmínɛ́ⁿ	jímíⁿmínɛ́ⁿ	dʒ ⁵/i m ⁵/ĩ + m ⁵/i n ⁵/ɛ̃	3472	4500 4501	0	
 8950	ToroTegu	TROUGH	párá	párá	p ⁵/a r ⁵/a	2108	4514	0	
 8951	BenTey	TROUGH	kóró	kóró	k ⁵/o r ⁵/o	2103	4503	0	
@@ -9250,7 +8905,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8965	TogoKan	TROUGH	ìsí-kóró	ìsí-kóró	¹/i s ⁵/i + k ⁵/o r ⁵/o	2103	4509 4503	0	
 8966	TommoSo	TROUGH	gɛ̀-gɛ̀mmɛ́	gɛ̀-gɛ̀mmɛ́	ɡ ¹/ɛ + ɡ ¹/ɛ m m ⁵/ɛ	2106	4512 4513	0	
 8967	YornoSo	TROUGH	gì-gɛ̀mɛ́	gì-gɛ̀mɛ́	ɡ ¹/i + ɡ ¹/ɛ m ⁵/ɛ	2106	4512 4513	0	
-#
 8968	SonghaiSenni	TWENTY	wàráŋkà	wàráŋkà	w ¹/a r ⁵/a + ⁿk ¹/a	3860	4529 0	0	
 8969	ToroTegu	TWENTY	pé-lèy	pé-lèy	p ⁵/e + l ¹/e + j	2112	4516 4525 4518	0	
 8970	BenTey	TWENTY	pèrí-yěy	pèrí-yěy	p ¹/e r ⁵/i + j ¹⁵/e + j	2109	4516 4517 4518	0	
@@ -9276,7 +8930,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 8990	ToroSo	TWENTY	pɔ̌ːŋɔ̀y	pɔ̌ːŋɔ̀y	p ¹⁵/ɔː ŋ ¹/ɔ + j	2109	4516 4523	0	
 8991	ToroSo	TWENTY	pɛ́léȷ̀	pɛ́léȷ̀	p ⁵/ɛ l ⁵/e + j	2109	4516 4523	0	
 8992	BonduSo	TWENTY	pèlléy	pèlléy	p ¹/e l l ⁵/e + j	2109	4516 4523	0	
-#
 8993	ToroTegu	TWICE	kúwɔ́ lěy	kúwɔ́_lěy	k ⁵/u w ⁵/ɔ + l ¹⁵/e + j	2116	4540 4533 4535	0	
 8994	BenTey	TWICE	ná yěy	ná_yěy	n ⁵/a + j ¹⁵/e + j	2114	4532 4533 4535	0	
 8995	BankanTey	TWICE	ná yòy	ná_yòy	n ⁵/a + j ¹/o + j	2114	4532 4533 4534	0	
@@ -9297,7 +8950,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9010	Fulfulde	TWICE	buʔannde	buʔannde	b u ʔ a n + ⁿd e	284	4541 4542	0	
 9011	PergeTegu	TWICE	kúwɔ́ lěy	kúwɔ́ lěy	k ⁵/u w ⁵/ɔ + l ¹⁵/e + j	2116	4540 4533 4535	0	
 9012	Jamsay	TWICE	kɔ́: lɛ̀y	kɔ́:_lɛ̀y	k ɔː + l ¹/ɛ + j	2116	4538 4533 4535	0	
-#
 9013	SonghaiSenni	TWO	híŋká	híŋká	h ⁵/i + ⁿk ⁵/a	3861	4554 0	7256	
 9014	ToroTegu	TWO	lěy	lěy	l ¹⁵/e + j	2119	4553 4550	0	
 9015	BankanTey	TWO	yǒy	yǒy	j ¹⁵/o + j	2119	4549 4550	0	
@@ -9334,7 +8986,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9046	ToroSo	TWO	léy	léy	l ⁵/e + j	2119	4553 4550	0	
 9047	ToroSo	TWO	lɛ́j	lɛ́j	l ⁵/ɛ + j	2119	4553 4550	0	
 9048	BonduSo	TWO	nóòy	nóòy	n ⁵¹/o: + j	2120	4551 4550	0	
-#
 9049	ToroTegu	UNTIE	págú-rú	págú-rú	p ⁵/a ɡ ⁵/u + r ⁵/u	2124	4556 4557	0	
 9050	BenTey	UNTIE	págí-rí	págí-rí	p ⁵/a ɡ ⁵/i + r ⁵/i	2124	4556 4557	0	
 9051	BankanTey	UNTIE	pá:-rí	pá:rí	p ⁵/aː r ⁵/i	2123	4556	7277	
@@ -9358,7 +9009,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9069	Jamsay	UNTIE	mùŋù-rⁿó	mùŋù-rⁿó	m ¹/u ŋ ¹/u + ∼/r̃ ⁵/o	2127	4563 4557	0	
 9070	SonghaiSenni	UNTIE	férí	férí	f ⁵/e r ⁵/i	3862	5417	7277	
 9071	BozoPondorinord	UNTIE	taabe	taabe	t aː b e	3478	406	0	
-#
 9072	SonghaiSenni	URINE	tò:s-ò	tò:s-ò	t ¹/oː s + ¹/o	3863	5418 4573	0	
 9073	BankanTey	URINE	ɔ̀zû:	ɔ̀zû:	¹/ɔ z ⁵¹/uː	2128	4567	0	
 9074	BenTey	URINE	òmjú	òmjú	¹/o ⁿdʒ ⁵/u	2132	4568	7297	
@@ -9383,7 +9033,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9093	PergeTegu	URINE	ùsùrⁿú	ùsùrⁿú	¹/u s ¹/u + ∼/r̃ ⁵/u	2134	4571 0	0	
 9094	TiranigeDiga	URINE	ónjí	ónjí	⁵/o ⁿdʒ ⁵/i	2132	4568	7297	
 9095	TomoKan	URINE	ʔìnjùrù	ʔìnjùrù	ʔ ¹/i ⁿdʒ ¹/u + r ¹/u	2134	4571 0	0	
-#
 9096	ToroTegu	VAGINA	pɔ̀rɔ́	pɔ̀rɔ́	p ¹/ɔ r ⁵/ɔ	2141	4586	7317	
 9097	BenTey	VAGINA	jéré	jéré	dʒ ⁵/e r ⁵/e	2138	4578	0	
 9098	BankanTey	VAGINA	dúmbá	dúmbá	d ⁵/u ⁿb ⁵/a	2137	4578	7309	
@@ -9406,7 +9055,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9115	Jamsay	VAGINA	dɛ̀mɛ́	dɛ̀mɛ́	d ¹/ɛ m ⁵/ɛ	2138	4578	0	
 9116	SonghaiSenni	VAGINA	bùt-ò	bùt-ò	b ¹/u t + ¹/o	3864	5419 5420	0	
 9117	SonghaiSenni	VAGINA	dòf-ò	dòf-ò	d ¹/o f + ¹/o	3865	4588 5421	0	
-#
 9118	Soninke	VILLAGE	nuⁿŋuⁿ	nuⁿŋuⁿ	n ũ ŋ ũ	3484	4592	7337	
 9119	Fulfulde	VILLAGE	wuro	wuro	w u r o	291	4596	7346	
 9120	Jenaama	VILLAGE	nɔ̀gù	nɔ̀gù	n ¹/ɔ ɡ ¹/u	3484	4589	7337	
@@ -9442,7 +9090,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9150	SonghaiSenni	VILLAGE	kòyrà	kòyrà	k ¹/o j r ¹/a	3866	4597	0	
 9151	ToroSo	VILLAGE	áná	áná	⁵/a n ⁵/a	2148	4595	7337	
 9153	Bangime	VILLAGE	dījà	dījà	d ³/i j ¹/a	2616	5117	7331	
-#
 9154	ToroTegu	WAGES	tɔ́sú	tɔ́sú	t ⁵/ɔ s ⁵/u	2154	4599	0	
 9155	BankanTey	WAGES	tɔ́sí	tɔ́sí	t ⁵/ɔ s ⁵/i	2154	4599	0	
 9156	PergeTegu	WAGES	tɔ́sɔ́	tɔ́sɔ́	t ⁵/ɔ s ⁵/ɔ	2154	4599	0	
@@ -9459,7 +9106,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9167	Mombo	WAGES	sɔ́jɛ́	sɔ́jɛ́	s ⁵/ɔ dʒ ⁵/ɛ	2154	4600	0	
 9168	Nanga	WAGES	tɔ́sí	tɔ́sí	t ⁵/ɔ s ⁵/i	2154	4599	0	
 9169	TogoKan	WAGES	tɔ́jɔ́	tɔ́jɔ́	t ⁵/ɔ dʒ ⁵/ɔ	2154	4599	0	
-#
 9170	SonghaiSenni	WALL (OF HOUSE)	tèl-ò	tèl-ò	t ¹/e l + ¹/o	3867	4613 4614	0	
 9171	Fulfulde	WALL (OF HOUSE)	kokowol	kokowol	k o k o w + o l	292	5331 4612	7371	
 9172	Jenaama	WALL (OF HOUSE)	kɛ́rɛ̄	kɛ́rɛ̄	k ⁵/ɛ r ³/ɛ	3487	410	7366	
@@ -9485,7 +9131,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9192	Mombo	WALL (OF HOUSE)	túndú	túndú	t ⁵/u ⁿd ⁵/u	2164	4605	0	
 9193	ToroSo	WALL (OF HOUSE)	gìⁿrⁿùⁿ bèné	gìⁿrⁿùⁿ bèné	ɡ ¹/ĩ ∼/r̃ ¹/ũ + b ¹/e n ⁵/e	2157	4611 4617	7366	
 9194	Bangime	WALL (OF HOUSE)	kɔ́rⁿɔ́	kɔ́rⁿɔ́	k ⁵/ɔ ∼/r ⁵/ɔ	2617	5118	7366	
-#
 9195	TommoSo	WATER	díí	díí	d ⁵/iː	2169	411	7390	
 9196	DogulDom	WATER	ńɲù	ńɲù	n + ɲ ¹/u	2170	4627 4889	0	
 9197	DogulDom	WATER	ʔɲ́ì, ʔɲ́ù	ʔɲ́ì	ʔ + ɲ ¹/i	2170	4631 4890	0	
@@ -9524,7 +9169,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9230	ToroSo	WATER	díí	díí	d ⁵/iː	2169	411	7390	
 9231	ToroSo	WATER	dìí	dìí	d ¹⁵/i:	2169	411	7390	
 9232	BonduSo	WATER	ínjè	ínjè	⁵/i ⁿdʒ ¹/e	2169	4624	7390	
-#
 9233	Bangime	WEAVE	ɡɔ̄ɡɔ̀	ɡɔ̄ɡɔ̀	ɡ ³/ɔ ɡ ¹/ɔ	2620	4633	0	
 9234	Fulfulde	WEAVE	saɲude	saɲ-ude	s a ɲ + u d e	294	4636 4637	0	
 9235	Jenaama	WEAVE	ā-kòy	ā-kòy	³/a + k ¹/o j	3493	4638 4639	0	
@@ -9548,7 +9192,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9253	YandaDom	WEAVE	tíyɛ́	tíyɛ́	t ⁵/i j ⁵/ɛ	2172	4634	7408	
 9254	SonghaiSenni	WEAVE	cèy	cèy	tʃ ¹/e j	3869	5258	7408	
 9255	Bambara	WEAVE	dá	dá	d ⁵/a	3492	5259	0	
-#
 9256	ToroTegu	WEEK	ìwà jíró	ìwà-jíró	¹/i w ¹/a + dʒ ⁵/i r ⁵/o	2179	4653 4654	0	
 9257	BenTey	WEEK	jú:	jú:	dʒ ⁵/uː	2176	4642	7421	
 9258	BankanTey	WEEK	zú: yâ: zú: yâ:, ɛ́wá: yâ: ɛ́wá: yâ:	zú:-yâ:	z ⁵/uː + j ⁵¹/aː	2175	4642 4643	0	
@@ -9571,7 +9214,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9275	YornoSo	WEEK	júgú	júgú	dʒ ⁵/u ɡ ⁵/u	2176	4642	7421	
 9276	Jamsay	WEEK	júgú	júgú	dʒ ⁵/u ɡ ⁵/u	2176	4642	7421	
 9277	SonghaiSenni	WEEK	jìrbì-ʔí:yê	jìrbì-ʔí:yê	dʒ ¹/i r b ¹/i + ʔ ⁵/iː j ⁵¹/e	3870	4649 4650	0	
-#
 9278	Bambara	WET	cóbá	cóbá	tʃ ⁵/o b ⁵/a	3496	58	7440	
 9279	SonghaiSenni	WET	tá:y	tá:y	t ⁵/aː j	3871	4666	0	
 9280	Bangime	WET	tɔ́ndɛ̄	tɔ́ndɛ̄	t ∼⁵/ɔ d ³/ɛ	2622	4656	0	
@@ -9604,7 +9246,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9307	Penange	WET	ɛ̀mbɛ̀	ɛ̀mbɛ̀	¹/ɛ ⁿb ¹/ɛ	2182	4655	7440	
 9308	TogoKan	WET	ɔ̀rú	ɔ̀rú	¹/ɔ r ⁵/u	2183	4657	0	
 9309	BonduSo	WET	tèmbôː	tèmbôː	t ¹/e ⁿb ⁵¹/oː	2182	4655	7440	
-#
 9310	Bambara	WHITE	jɛ́máⁿ	jɛ́máⁿ	dʒ ⁵/ɛ m ⁵/ã	3501	4672	7472	
 9311	Soninke	WHITE	qúllè	qúllè	q ⁵/u l l ¹/e	3503	4683	0	
 9312	SonghaiSenni	WHITE	ká:r-ó	ká:r-ó	k ⁵/aː r + ⁵/o	3872	4681 4682	0	
@@ -9634,7 +9275,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9336	SonghaiSenni	WHITE	kà:rèy	kà:rèy	k ¹/aː r ¹/e j	3872	4681	0	
 9337	ToroSo	WHITE	pírú	pírú	p ⁵/i r ⁵/u	2191	4674	0	
 9338	BonduSo	WHITE	pílɔ̀-ŋ	pílɔ̀-ŋ	p ⁵/i l ¹/ɔ + ŋ	2191	4674 4675	0	
-#
 9339	SonghaiSenni	WIFE	ŋàndè	ŋàndè	ŋ ¹/a ⁿd ¹/e	3873	4698	0	
 9340	BankanTey	WIFE	yǎ-m	yǎ-m	j ¹⁵/a + m	2195	4688 4689	0	
 9341	Bunoge	WIFE	yɔ́	yɔ́	j ⁵/ɔ	2195	4688	0	
@@ -9661,7 +9301,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9362	Soninke	WIFE	yàqqê	yàqqê	j ¹/a q q ⁵¹/e	3506	4699	0	
 9363	Ampari	WIFE	ɛ̀rɛ̀rì	ɛ̀rɛ̀rì	¹/ɛ r ¹/ɛ r ¹/i	2194	4684	0	
 9364	BonduSo	WIFE	yà	yà	j ¹/aː	2195	4688	0	
-#
 9365	BenTey	WIND	ó:sò	ó:sò	⁵/oː s ¹/o	2199	4701	0	
 9366	Gourou	WIND	ó:só	ó:só	⁵/oː s ⁵/o	2199	4701	0	
 9367	BonduSo	WIND	énáná-ŋgó	énáná-ŋgó	⁵/e n ⁵/a n ⁵/a + ⁿɡ ⁵/o	2200	4702 4703	0	
@@ -9683,7 +9322,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9383	Jamsay	WIND	ó:ɲó	ó:ɲó	⁵/oː ɲ ⁵/o	2200	4701	0	
 9384	SonghaiSenni	WIND	hèw-ò	hèw-ò	h ¹/e w + ¹/o	3874	4708 4709	0	
 9385	Bambara	WIND	fiɛ̰	fiɛ̰	f i ∼/ɛ	3507	5260	0	
-#
 9386	SonghaiSenni	WING	kàm-[kít-ò]	kàm-kít-ò	k ¹/a m + k ⁵/i t + ¹/o	3876	5261 4726 4727	7530	
 9387	Fulfulde	WING	wifoongo	wifoongo	w i f oː ⁿɡ o	300	4723	0	
 9388	Jenaama	WING	kāmūⁿ	kāmūⁿ	k ³/a m ³/ũ	3509	416	7527	
@@ -9721,7 +9359,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9420	ToroSo	WING	gámúrú	gámúrú	ɡ ⁵/a m ⁵/u + r ⁵/u	2206	4714 4728	7527	
 9421	ToroSo	WING	ɡám̀ ɲú	ɡám̀ ɲú	ɡ ⁵/a m + ɲ ⁵/u	2208	4714 4725	7530	
 9423	Bangime	WING	kúwó	kúwó	k ⁵/u w ⁵/o	2626	5121	7527	
-#
 9424	Bangime	WOMAN	ŋìjɛ̀-rɛ́	ŋìjɛ̀-rɛ́	ŋ ¹/i j ¹/ɛ + r ⁵/ɛ	2628	4731 5122	7585	
 9425	Fulfulde	WOMAN	deɓɓo	deɓɓo	d e ɓ ɓ o	301	4736	0	
 9426	Jenaama	WOMAN	yùgòⁿ	yùgòⁿ	j ¹/u ɡ õ	3511	4734	7566	
@@ -9756,7 +9393,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9455	YornoSo	WOMAN	yǎ:-rⁿá	yǎ:-rⁿá	j ¹⁵/aː + ∼/r̃ ⁵/a	2218	4730 4732	7585	
 9456	Jamsay	WOMAN	ɲɛ̌-n	ɲɛ̌-n	ɲ ¹⁵/ɛ + n	2217	4737 4733	0	
 9457	BonduSo	WOMAN	yàː	yàː	j ¹/aː	2216	4730	7566	
-#
 9458	DogulDom	WOOD	bě:g, tê:-ŋ (pl tê:ⁿ yà:)	bě:g	b ¹⁵/eː + ɡ	2221	4746 4747	0	
 9459	TebulUre	WOOD	tìnɛ̌:	tìnɛ̌:	t ¹/i n + ¹⁵/ɛː	2222	4748 4747	0	
 9460	DonnoSo	WOOD	tànná	tànná	t ¹/a n + n ⁵/a	2219	4748 4749	7587	
@@ -9789,7 +9425,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9487	Soninke	WOOD	súwà	súwà	s ⁵/u w ¹/a	3517	4744	0	
 9488	BonduSo	WOOD	téːŋgó	téːŋgó	t ⁵/eː + ⁿɡ ⁵/o	2219	4740 4743	7587	
 9489	Bangime	WOOD	kúwɔ́ⁿ	kúwɔ́ⁿ	k ⁵/u w ∼⁵/ɔ	2629	5123	0	
-#
 9490	Soninke	WORK (LABOUR)	góllí	góllí	ɡ ⁵/o l l ⁵/i	3521	4751	88	
 9491	Bambara	WORK (LABOUR)	báárá	báárá	b ⁵/aː r ⁵/a	3520	4750	7610	
 9492	Jenaama	WORK (LABOUR)	kāyⁿ	kāyⁿ	k ³/a ∼/j	3523	4755	7619	
@@ -9816,14 +9451,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9513	Jamsay	WORK (LABOUR)	bírɛ́	bírɛ́	b ⁵/i r ⁵/ɛ	2223	4753	7610	
 9514	SonghaiSenni	WORK (LABOUR)	góy	góy	ɡ ⁵/o j	3879	5264	88	
 9515	Bambara	WORK (LABOUR)	baara	baara	b aː r a	3522	5263	7610	
-#
 9516	Soninke	WORLD	dúná	dúná	d ⁵/u n ⁵/a	3526	4757	0	
 9517	Bangime	WORLD	ɡàʤíjⁿɛ́	ɡàʤíjⁿɛ́	ɡ ¹/a dʒ ⁵/i ∼/j̃ ⁵/ɛ	2631	4758	0	
 9518	Nanga	WORLD	ɛ́:rí, ádúrⁿó	ɛ́:rí	⁵/ɛː r ⁵/i	2227	4759	0	
 9519	PergeTegu	WORLD	ɛ́:rú, ádúrⁿɔ́	ɛ́:rú	⁵/ɛː r ⁵/u	2227	4759	0	
 9520	Jamsay	WORLD	ɛ́:rú, àdúrⁿó	ɛ́:rú	⁵/ɛː r ⁵/u	2227	4759	0	
 9521	Bambara	WORLD	díɲɛ́	díɲɛ́	d ⁵/i ɲ ⁵/ɛ	3526	4757	0	
-#
 9522	BozoPondorisud	WRAPPER	tabasigi	tabasigi	t a b a + s i ɡ i	3527	58 4761	7640	
 9523	BozoTieyaxo	WRAPPER	taabe	taabe	t aː b e	3527	58	7640	
 9524	DonnoSo	WRAPPER	sɔ̀y-jìbé	sɔ̀y-jìbé	s ¹/ɔ j + dʒ ¹/i b ⁵/e	2232	4768 4765	0	
@@ -9850,7 +9483,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9546	Fulfulde	WRAPPER	disaare	disaa-re	d i s aː + r e	303	4769 4770	0	
 9547	Jenaama	WRAPPER	tààpè	tààpè	t ¹/aː p ¹/e	3527	58	7640	
 9548	SonghaiSenni	WRAPPER	fàtál-ò	fàtál-ò	f ¹/a t ⁵/a l + ¹/o	3880	4773 4774	0	
-#
 9549	BozoDebo	YEAR	jiⁿiⁿ	jiⁿiⁿ	dʒ ĩ:	3528	4784	0	
 9550	BozoHainyaxo	YEAR	jiⁿŋɔⁿ	jiⁿŋɔⁿ	dʒ ĩ ŋ ɔ̃	3529	4784	0	
 9551	BozoKorondougounord	YEAR	giⁿiⁿ	giⁿiⁿ	ɡ ĩ:	3530	58	7667	
@@ -9891,7 +9523,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9593	Soninke	YEAR	síinè	síinè	s ⁵/i: n ¹/e	3529	4784	0	
 9594	ToroSo	YEAR	àndí	àndí	¹/a ⁿd ⁵/i	2241	424	0	
 9595	BonduSo	YEAR	kɛ́ɛ́njù	kɛ́ɛ́njù	k ⁵/ɛː ⁿdʒ ¹/u	2241	4783	0	
-#
 9596	SonghaiSenni	YELLOW	túrî	túrî	t ⁵/u r ⁵¹/i	3882	4803	0	
 9597	ToroTegu	YELLOW	síttì	síttì	s ⁵/i t t ¹/i	2248	4804	0	
 9598	BenTey	YELLOW	nɔ̀rⁿɔ̀yⁿ-pírⁿà	nɔ̀rⁿɔ̀yⁿ-pírⁿà	n ¹/ɔ ∼/r̃ ¹/ɔ ∼/j + p ⁵/i ∼/r̃ ¹/a	2245	4795 4793	0	
@@ -9915,3 +9546,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	COGIDS	BORID	CONCEPT_IN_SOURCE
 9616	Bangime	YELLOW	ʒùɥɛ̀-m̀-búⁿ	ʒùɥɛ̀-m̀-búⁿ	ʒ ¹/u ɥ ¹/ɛ + m + b ⁵/ũ	2634	5126 4797 4798	0	
 9617	Fulfulde	YELLOW	oolol	oolol	oː l + o l	305	4800 4900	87	
 9620	Bambara	YELLOW	nɛ̀rɛ́	nɛ̀rɛ́	n ¹/ɛ r ⁵/ɛ	3532	5265	0	
+9621	Fulfulde	ANIMAL	daaba	daaba	d aː b a	900	5270	29	
+9622	Jenaama	ANIMAL	dààbā	dààbā	d ¹/aː b ³/a	1113	30	29	
+9623	SonghaiKiini	ANIMAL			d ⁵/aː bː ¹/a	2896	32	29	
+9624	Soninke	ANIMAL			d ⁵/aː b ¹/a	2902	30	29	
+9625	TomoKan	ANIMAL			d ⁵/aː b ⁵/aː	2309	31	29	
+9626	Penange	ANIMAL			d ⁵/aː b ⁵/a	2309	31	29	
+9627	Bangime	GET	kárà	kárà	k ³/a r ¹/a	3902	5005	47	
+9628	Bangime	HIDE (CONCEAL)		bɔ̄ɡɔ̀	b ³/ɔ g ¹/ɔ	3898	5019	0	
+9629	Fulfulde	MAN			ɡ o r k o	3904	5200	69	
+9630	Bangime	MARRY	būwɔ̀	būwɔ̀	b ³/u w ¹/ɔ	3899	242	0	
+9631	SonghaiKiini	PIG			a l k í n ʃ i r	3905	5391	82	
+9632	Bangime	SEND	tūndò		t ³/u n + d ¹/o	2905	330 0	5725	
+9633	Bangime	STRIKE OR BEAT			d ¹/ɔ g ¹/ɔ	3076	5099	0	
+9634	Bambara	MILLET	ɲó	ɲó	ɲ ⁵/o	3077	2691	4394	
+9635	BankanTey	ANIMAL	jáwdì-m	jáwdì-m	dʒ ⁵/a w d ¹/i + m	3897	479 49	29	
+9636	Bangime	BREAKFAST	tájkòj	tájkòj	t ⁵/a dʒ + k ¹/oː j e	3900	4939 5423	729	
+9637	Bangime	FEAR (FRIGHT)	pɔ̄dà	pɔ̄dà	p ³/ɔ d ¹/a	3901	4992	0	
+9638	SonghaiKiini	HORSE	bàrí	bàrí	b ¹/a r ¹/i	3665	2046	55	

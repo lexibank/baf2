@@ -24,7 +24,7 @@ PergeTegu-2_toage-1,49,PergeTegu,2_toage,pɛ́:,pɛ́:,p ⁵/ɛː,,Hantgan2022,6
 TogoKan-2_toage-1,50,TogoKan,2_toage,pɛ́:ⁿ,pɛ́:ⁿ,p ⁵/ɛ̃ː,,Hantgan2022,617,,,,,0
 YandaDom-2_toage-1,51,YandaDom,2_toage,pɛ́:,pɛ́:,p ⁵/ɛː,,Hantgan2022,617,,,,,0
 ToroSo-2_toage-1,52,ToroSo,2_toage,pèy pèy,pèy pèy,p ¹/e j + p ¹/e j,,Hantgan2022,1761,,,,,0
-ToroSo-2_toage-2,53,ToroSo,2_toage,péỳ,péỳ,p ⁵/e j,,Hantgan2022,617,,,,,0
+ToroSo-2_toage-2,53,ToroSo,2_toage,péỳ,pé-ỳ,p ⁵/e + j,,Hantgan2022,617,,,,,0
 BonduSo-2_toage-2,54,BonduSo,2_toage,kùnjì-lé,kùnjì-lé,k ¹/u ⁿdʒ ¹/i + l ⁵/e,,Hantgan2022,1169,,,,,0
 Bambara-3_ancestors-1,55,Bambara,3_ancestors,bɛ́ⁿbá,bɛ́ⁿbá,b ⁵/ɛ̃ b ⁵/a,,Hantgan2022,2815,,,,,0
 SonghaiKiini-3_ancestors-1,56,SonghaiKiini,3_ancestors,kàà,kàà,k ¹/aː,,Hantgan2022,3628,,,,,25
@@ -44,7 +44,7 @@ BozoKorondougounord-4_animal-1,69,BozoKorondougounord,4_animal,biraⁿteu,bira�
 BozoTiemaCewe-4_animal-1,70,BozoTiemaCewe,4_animal,koⁿoⁿbo,koⁿoⁿbo,k õː b o,,Hantgan2022,3030,,,,,40
 ToroTegu-4_animal-1,71,ToroTegu,4_animal,àrùzàká,àrùzàká,¹/a r ¹/u + z ¹/a k ⁵/a,,Hantgan2022,1089,,,,,0
 BenTey-4_animal-1,72,BenTey,4_animal,àrsɛ̌:-m,àrsɛ̌:-m,¹/a r + s ¹⁵/ɛː + m,,Hantgan2022,1089,,,,,0
-BankanTey-4_animal-1,73,BankanTey,4_animal,jáwdì-m,dá:bà-m,d ⁵/aː b ¹/a + m,,Hantgan2022,1060,,,,,29
+BankanTey-4_animal-1,73,BankanTey,4_animal,dá:bà-m,dá:bà-m,d ⁵/aː b ¹/a + m,,Hantgan2022,1060,,,,,29
 Nanga-4_animal-1,74,Nanga,4_animal,gàsɛ̀gɛ́,gàsɛ̀gɛ́,ɡ ¹/a + s ¹/ɛ ɡ ⁵/ɛ,,Hantgan2022,1089,,,,,0
 PergeTegu-4_animal-1,75,PergeTegu,4_animal,àsɛ̀gɛ́,àsɛ̀gɛ́,¹/a + s ¹/ɛ ɡ ⁵/ɛ,,Hantgan2022,1089,,,,,0
 Gourou-4_animal-1,76,Gourou,4_animal,gàrsɛ̀gɛ́,gàrsɛ̀gɛ́,ɡ ¹/a r + s ¹/ɛ ɡ ⁵/ɛ,,Hantgan2022,1089,,,,,0
@@ -63,13 +63,13 @@ TebulUre-4_animal-1,88,TebulUre,4_animal,àsɛ̀gɛ́,àsɛ̀gɛ́,¹/a + s ¹/�
 ToroSo-4_animal-1,89,ToroSo,4_animal,gìnì bɛ́l,gìnì bɛ́l,ɡ ¹/i n ¹/i + b ⁵/ɛ l,,Hantgan2022,1548,,,,,0
 ToroSo-4_animal-2,90,ToroSo,4_animal,ásɛ̀ɡɛ̀,ásɛ̀ɡɛ̀,⁵/a + s ¹/ɛ ɡ ¹/ɛ,,Hantgan2022,1089,,,,,0
 BonduSo-4_animal-2,91,BonduSo,4_animal,dúmɛ́ɛ̀,dúmɛ́ɛ̀,d ⁵/u m ⁵¹/ɛː,,Hantgan2022,1112,,,,,0
-Fulfulde-4_animal-1,9621,Fulfulde,4_animal,?,?,d aː b a,,Hantgan2022,900,,,,,29
-Jenaama-4_animal-1,9622,Jenaama,4_animal,?,?,d ¹/aː b ³/a,,Hantgan2022,1113,,,,,29
+Fulfulde-4_animal-1,9621,Fulfulde,4_animal,daaba,daaba,d aː b a,,Hantgan2022,900,,,,,29
+Jenaama-4_animal-1,9622,Jenaama,4_animal,dààbā,dààbā,d ¹/aː b ³/a,,Hantgan2022,1113,,,,,29
 SonghaiKiini-4_animal-1,9623,SonghaiKiini,4_animal,?,?,d ⁵/aː bː ¹/a,,Hantgan2022,2896,,,,,29
 Soninke-4_animal-1,9624,Soninke,4_animal,?,?,d ⁵/aː b ¹/a,,Hantgan2022,2902,,,,,29
 TomoKan-4_animal-1,9625,TomoKan,4_animal,?,?,d ⁵/aː b ⁵/aː,,Hantgan2022,2309,,,,,29
 Penange-4_animal-1,9626,Penange,4_animal,?,?,d ⁵/aː b ⁵/a,,Hantgan2022,2309,,,,,29
-BankanTey-4_animal-2,9635,BankanTey,4_animal,?,jáwdì-m,dʒ ⁵/a w d ¹/i + m,,Hantgan2022,3897,,,,,29
+BankanTey-4_animal-2,9635,BankanTey,4_animal,jáwdì-m,jáwdì-m,dʒ ⁵/a w d ¹/i + m,,Hantgan2022,3897,,,,,29
 Bangime-5_answer-1,92,Bangime,5_answer,jòò-rò,jòò-rò,j ¹/oː + r ¹/o,,Hantgan2022,2528,,,,,0
 Bambara-5_answer-1,93,Bambara,5_answer,lámìnɛ́,lámìnɛ́,l ⁵/a + m ¹/i n ⁵/ɛ,,Hantgan2022,3204,,,,,0
 ToroTegu-5_answer-1,94,ToroTegu,5_answer,císú,císú,tʃ ⁵/i + s ⁵/u,,Hantgan2022,2097,,,,,0
@@ -1432,7 +1432,7 @@ TebulUre-54_cloud-1,1452,TebulUre,54_cloud,àrⁿà-kùrbá (rain-...),àrⁿà-
 YandaDom-54_cloud-1,1453,YandaDom,54_cloud,kùrùbàrà,kùrùbàrà,k ¹/u r ¹/u + b ¹/a r ¹/a,,Hantgan2022,390,,,,,0
 BonduSo-54_cloud-1,1454,BonduSo,54_cloud,kùndà-kùndǎ:,kùndà-kùndǎ:,k ¹/u ⁿd ¹/a + k ¹/u ⁿd ¹⁵/aː,,Hantgan2022,386,,,,,0
 Ampari-54_cloud-1,1455,Ampari,54_cloud,ɔ̀rɔ̀ (ɔ̀rɔ̀ gé),ɔ̀rɔ̀,¹/ɔ r ¹/ɔ,,Hantgan2022,392,,,,,1218
-Bunoge-54_cloud-1,1456,Bunoge,54_cloud,póndù,póndù,p ⁵/o ⁿd ¹/u,,Hantgan2022,387,,,,,0
+Bunoge-54_cloud-1,1456,Bunoge,54_cloud,póndù,póndù,p ⁵/o ⁿd ¹/u,,Hantgan2022,387,,,,,1218
 DonnoSo-54_cloud-1,1457,DonnoSo,54_cloud,ànàgùlùmmɔ́,ànàgùlùmmɔ́,¹/a n ¹/a ɡ ¹/u + l ¹/u m m ⁵/ɔ,,Hantgan2022,389,,,,,0
 TiranigeDiga-54_cloud-1,1458,TiranigeDiga,54_cloud,á:ní,á:ní,⁵/aː n ⁵/i,,Hantgan2022,394,,,,,0
 Mombo-54_cloud-1,1459,Mombo,54_cloud,álè,álè,⁵/a l ¹/e,,Hantgan2022,391,,,,,0
@@ -1648,7 +1648,6 @@ SonghaiSenni-61_cow-1,1668,SonghaiSenni,61_cow,kòps-ò,kòps-ò,k ¹/ò p s ¹/
 Bambara-61_cow-1,1669,Bambara,61_cow,mìsí,mìsí,m ¹/i s ⁵/i,,Hantgan2022,2682,,,,,0
 ToroSo-61_cow-1,1670,ToroSo,61_cow,nàá,nàá,n ¹⁵/aː,,Hantgan2022,431,,,,,1354
 ToroSo-61_cow-2,1671,ToroSo,61_cow,nàjì,nàjì,n ¹/a j ¹/i,,Hantgan2022,431,,,,,1354
-BonduSo-61_cow-2,1672,BonduSo,61_cow,nɛ̀ɛ́,nɛ̀ɛ́,n ¹⁵/ɛ:,,Hantgan2022,431,,,,,1354
 Bangime-62_cry-1,1673,Bangime,62_cry,ʒīn-dò (1),ʒīn-dò,ʒ ³/i + ⁿd ¹/o,,Hantgan2022,2335,,,,,0
 Fulfulde-62_cry-1,1674,Fulfulde,62_cry,wullude,wull-ude,w u l l + u d e,,Hantgan2022,18,,,,,1372
 Jenaama-62_cry-1,1675,Jenaama,62_cry,wō,wō,w ³/o,,Hantgan2022,2684,,,,,1372
@@ -2210,8 +2209,8 @@ BozoKorondougousud-80_ear-1,2230,BozoKorondougousud,80_ear,tuolioⁿ,tuolioⁿ,t
 BozoKorondougousud-80_ear-2,2231,BozoKorondougousud,80_ear,tuolioⁿ,tuolioⁿ,t u o l i õ,,Hantgan2022,2741,,,,,1799
 BozoKotya-80_ear-1,2232,BozoKotya,80_ear,torioⁿ,torioⁿ,t o r i õ,,Hantgan2022,2741,,,,,1799
 BozoKotya-80_ear-2,2233,BozoKotya,80_ear,torioⁿ,torioⁿ,t o r i õ,,Hantgan2022,2741,,,,,1799
-BozoPondorinord-80_ear-1,2234,BozoPondorinord,80_ear,twɔ,twɔ,t w ɔ,,Hantgan2022,2742,,,,,0
-BozoPondorinord-80_ear-2,2235,BozoPondorinord,80_ear,twɔ,twɔ,t w ɔ,,Hantgan2022,2742,,,,,0
+BozoPondorinord-80_ear-1,2234,BozoPondorinord,80_ear,twɔ,twɔ,t w ɔ,,Hantgan2022,2741,,,,,0
+BozoPondorinord-80_ear-2,2235,BozoPondorinord,80_ear,twɔ,twɔ,t w ɔ,,Hantgan2022,2741,,,,,0
 BozoPondorisud-80_ear-1,2236,BozoPondorisud,80_ear,tuɔ,tuɔ,t u ɔ,,Hantgan2022,2741,,,,,1799
 BozoPondorisud-80_ear-2,2237,BozoPondorisud,80_ear,tuɔ,tuɔ,t u ɔ,,Hantgan2022,2741,,,,,1799
 BozoTieyaxo-80_ear-1,2238,BozoTieyaxo,80_ear,tɛlɛ,tɛlɛ,t ɛ l ɛ,,Hantgan2022,2741,,,,,1799
@@ -2219,7 +2218,6 @@ BozoTieyaxo-80_ear-2,2239,BozoTieyaxo,80_ear,tɛlɛ,tɛlɛ,t ɛ l ɛ,,Hantgan202
 BozoTiemaCewe-80_ear-1,2240,BozoTiemaCewe,80_ear,tara,tara,t a r a,,Hantgan2022,2741,,,,,1799
 BozoTiemaCewe-80_ear-2,2241,BozoTiemaCewe,80_ear,tara,tara,t a r a,,Hantgan2022,2741,,,,,1799
 Soninke-80_ear-1,2242,Soninke,80_ear,tárò,tárò,t ⁵/a r ¹/o,,Hantgan2022,2741,,,,,1799
-Soninke-80_ear-2,2243,Soninke,80_ear,tárò,tárò,t ⁵/a r ¹/o,,Hantgan2022,2741,,,,,1799
 ToroSo-80_ear-1,2244,ToroSo,80_ear,súɡúrù,súɡúrù,s ⁵/u ɡ ⁵/u + r ¹/u,,Hantgan2022,570,,,,,0
 BonduSo-80_ear-2,2245,BonduSo,80_ear,súnù,súnù,s ⁵/u n ¹/u,,Hantgan2022,572,,,,,1815
 SonghaiSenni-81_earring-1,2246,SonghaiSenni,81_earring,kòrb-ò,kòrb-ò,k ¹/o r b + ¹/o,,Hantgan2022,3598,,,,,0
@@ -2782,7 +2780,7 @@ Fulfulde-99_fearfright-1,2818,Fulfulde,99_fearfright,hulde,hulde,h u l + d e,,Ha
 Jamsay-99_fearfright-1,2819,Jamsay,99_fearfright,lì-lɛ̌:,lì-lɛ̌:,l ¹/i + l ¹⁵/ɛː,,Hantgan2022,691,,,,,0
 TiranigeDiga-99_fearfright-1,2820,TiranigeDiga,99_fearfright,yó:ní-yó,yó:ní-yó,j ⁵/oː n ⁵/i + j ⁵/o,,Hantgan2022,694,,,,,0
 BozoKorondougounord-99_fearfright-1,2821,BozoKorondougounord,99_fearfright,tabakeⁿde,tabakeⁿde,t a b a k ẽ + d e,,Hantgan2022,2795,,,,,0
-Bangime-99_fearfright-1,9637,Bangime,99_fearfright,pɔ̄dà,pɔ̄dà,p ³/ɔ d ¹/a,,Hantgan2022,3901,,,,,
+Bangime-99_fearfright-1,9637,Bangime,99_fearfright,pɔ̄dà,pɔ̄dà,p ³/ɔ d ¹/a,,Hantgan2022,3901,,,,,0
 Fulfulde-100_fight-1,2822,Fulfulde,100_fight,haɓude,haɓ-ude,h a ɓ + u d e,,Hantgan2022,58,,,,,0
 Jenaama-100_fight-1,2823,Jenaama,100_fight,kɛ̄lɛ̄,kɛ̄lɛ̄,k ³/ɛ l ³/ɛ,,Hantgan2022,2796,,,,,2284
 Bangime-100_fight-1,2824,Bangime,100_fight,kóré,kóré,k ⁵/o r ⁵/e,,Hantgan2022,2376,,,,,2284
@@ -3073,7 +3071,7 @@ ToroSo-108_flyinsect-1,3110,ToroSo,108_flyinsect,ɲɛ́ŋɛ̀,ɲɛ́ŋɛ̀,ɲ �
 BonduSo-108_flyinsect-2,3111,BonduSo,108_flyinsect,ɡɔ́ŋ,ɡɔ́ŋ,ɡ ⁵/ɔ + ŋ,,Hantgan2022,747,,,,,0
 BankanTey-109_flymovethroughair-1,3112,BankanTey,109_flymovethroughair,kísíyé,kísí-yé,k ⁵/i s ⁵/i + j ⁵/e,,Hantgan2022,749,,,,,0
 Bunoge-109_flymovethroughair-1,3113,Bunoge,109_flymovethroughair,píllè,píllè,p ⁵/i l + l ¹/e,,Hantgan2022,752,,,,,0
-Gourou-109_flymovethroughair-1,3114,Gourou,109_flymovethroughair,píré,píré,p ⁵/i r ⁵/e,,Hantgan2022,750,,,,,2496
+Gourou-109_flymovethroughair-1,3114,Gourou,109_flymovethroughair,píré,píré,p ⁵/i r ⁵/e,,Hantgan2022,752,,,,,2496
 BonduSo-109_flymovethroughair-1,3115,BonduSo,109_flymovethroughair,pírí-y,pírí-y,p ⁵/i r ⁵/i + j,,Hantgan2022,750,,,,,2496
 TebulUre-109_flymovethroughair-1,3116,TebulUre,109_flymovethroughair,cíll-í:,cíll-í:,tʃ ⁵/i l + l ⁵/iː,,Hantgan2022,752,,,,,0
 TogoKan-109_flymovethroughair-1,3117,TogoKan,109_flymovethroughair,kìrí kírì:,kìrí_kírì:,k ¹/i r ⁵/i + k ⁵/i r ¹/iː,,Hantgan2022,754,,,,,0
@@ -3090,7 +3088,7 @@ Penange-109_flymovethroughair-1,3128,Penange,109_flymovethroughair,pírígè,pí
 TiranigeDiga-109_flymovethroughair-1,3129,TiranigeDiga,109_flymovethroughair,pílí-yó,pírí-gè,p ⁵/i r ⁵/i + ɡ ¹/e,,Hantgan2022,750,,,,,2496
 Nanga-109_flymovethroughair-1,3130,Nanga,109_flymovethroughair,kísíyé,kísíyé,k ⁵/i s ⁵/i + j ⁵/e,,Hantgan2022,749,,,,,0
 Soninke-109_flymovethroughair-1,3131,Soninke,109_flymovethroughair,kámpí,kámpí,k ⁵/a ⁿp ⁵/i,,Hantgan2022,2833,,,,,0
-Bangime-109_flymovethroughair-1,3132,Bangime,109_flymovethroughair,pìrù,pìrù,p ¹/i r ¹/u,,Hantgan2022,2385,,,,,2496
+Bangime-109_flymovethroughair-1,3132,Bangime,109_flymovethroughair,pìrù,pìrù,p ¹/i r + ¹/u,,Hantgan2022,2385,,,,,2496
 Fulfulde-109_flymovethroughair-1,3133,Fulfulde,109_flymovethroughair,fiirude,fiir-ude,f iː r + u d e,,Hantgan2022,68,,,,,2496
 Jenaama-109_flymovethroughair-1,3134,Jenaama,109_flymovethroughair,pīīrī,pīīrī,p ³³/iː r ³/i,,Hantgan2022,2831,,,,,2496
 BozoDebo-109_flymovethroughair-1,3135,BozoDebo,109_flymovethroughair,piriⁿti,piriⁿti,p i r ĩ + t i,,Hantgan2022,2831,,,,,2496
@@ -3544,52 +3542,28 @@ Soninke-124_go-1,3582,Soninke,124_go,dàgá,dàgá,d ¹/a ɡ ⁵/a,,Hantgan2022,
 ToroSo-124_go-1,3583,ToroSo,124_go,yàá,yàá,j ¹⁵/aː,,Hantgan2022,855,,,,,48
 ToroSo-124_go-2,3584,ToroSo,124_go,yɛ́ː,yɛ́ː,j ⁵/ɛː,,Hantgan2022,855,,,,,48
 BonduSo-124_go-2,3585,BonduSo,124_go,ìnìì,ìnìì,¹/i n ¹/iː,,Hantgan2022,852,,,,,0
-Soninke-125_descent-1,3586,Soninke,125_descent,bóncóŋŋè,bóncóŋŋè,b ⁵/o ⁿtʃ ⁵/o ŋ + ŋ ¹/e,,Hantgan2022,2878,,,,,0
-ToroTegu-125_descent-1,3587,ToroTegu,125_descent,sígú,sígú,s ⁵/i ɡ ⁵/u,,Hantgan2022,858,,,,,2850
-BenTey-125_descent-1,3588,BenTey,125_descent,sí-yé,sí-yé,s ⁵/i j ⁵/e,,Hantgan2022,858,,,,,2850
-BankanTey-125_descent-1,3589,BankanTey,125_descent,síyé,síyé,s ⁵/i j ⁵/e,,Hantgan2022,858,,,,,2850
-Jamsay-125_descent-1,3590,Jamsay,125_descent,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-DogulDom-125_descent-1,3591,DogulDom,125_descent,sígè,sígè,s ⁵/i ɡ ¹/e,,Hantgan2022,858,,,,,2850
-TebulUre-125_descent-1,3592,TebulUre,125_descent,"súgó (súg-à:-, imprt súgó)",súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-YandaDom-125_descent-1,3593,YandaDom,125_descent,súwó,súwó,s ⁵/u w ⁵/o,,Hantgan2022,858,,,,,2850
-BonduSo-125_descent-1,3594,BonduSo,125_descent,súgí,súgí,s ⁵/u ɡ ⁵/i,,Hantgan2022,858,,,,,2850
-DonnoSo-125_descent-1,3595,DonnoSo,125_descent,súgò,súgò,s ⁵/u ɡ ¹/o,,Hantgan2022,858,,,,,2850
-TiranigeDiga-125_descent-1,3596,TiranigeDiga,125_descent,sígó,sígó,s ⁵/i ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-Bangime-125_descent-1,3597,Bangime,125_descent,sūɥè,sūɥè,s ³/u ɥ ¹/e,,Hantgan2022,2403,,,,,2850
-Fulfulde-125_descent-1,3598,Fulfulde,125_descent,jippaade,jipp-aade,dʒ i p p + aː d e,,Hantgan2022,87,,,,,0
-Jenaama-125_descent-1,3599,Jenaama,125_descent,yàwⁿ,yàwⁿ,j ¹/a + ∼/w̃,,Hantgan2022,2877,,,,,0
-Mombo-125_descent-1,3600,Mombo,125_descent,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
-Nanga-125_descent-1,3601,Nanga,125_descent,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
-Penange-125_descent-1,3602,Penange,125_descent,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
-PergeTegu-125_descent-1,3603,PergeTegu,125_descent,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
-TogoKan-125_descent-1,3604,TogoKan,125_descent,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-TommoSo-125_descent-1,3605,TommoSo,125_descent,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-YornoSo-125_descent-1,3606,YornoSo,125_descent,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
-SonghaiSenni-125_descent-1,3607,SonghaiSenni,125_descent,zùmbù,zùmbù,z ¹/u ⁿb ¹/u,,Hantgan2022,3643,,,,,2850
-ToroSo-126_godowndescend-1,3608,ToroSo,126_godowndescend,ɡòò,ɡòò,ɡ ¹⁵/oː,,Hantgan2022,859,,,,,0
-BonduSo-126_godowndescend-1,3609,BonduSo,126_godowndescend,gwé,gwé,ɡ w ⁵/e,,Hantgan2022,859,,,,,0
-SonghaiSenni-126_godowndescend-1,3634,SonghaiSenni,126_godowndescend,hùn,hùn,h ¹/u n,,Hantgan2022,3655,,,,,0
-Bangime-126_godowndescend-1,3635,Bangime,126_godowndescend,bīrè,bīrè,b ³/i + r ¹/e,,Hantgan2022,2413,,,,,0
-Fulfulde-126_godowndescend-1,3636,Fulfulde,126_godowndescend,yaltude,yalt-ude,j a l t + u d e,,Hantgan2022,96,,,,,0
-Jenaama-126_godowndescend-1,3637,Jenaama,126_godowndescend,bā,bā,b ³/a,,Hantgan2022,2904,,,,,0
-Jamsay-126_godowndescend-1,3638,Jamsay,126_godowndescend,gǒ:,gǒ:,ɡ ¹⁵/oː,,Hantgan2022,913,,,,,0
-YandaDom-126_godowndescend-1,3639,YandaDom,126_godowndescend,gó,gó,ɡ ⁵/o,,Hantgan2022,913,,,,,0
-Nanga-126_godowndescend-1,3640,Nanga,126_godowndescend,gǒ:,gǒ:,ɡ ¹⁵/oː,,Hantgan2022,913,,,,,0
-YornoSo-126_godowndescend-1,3641,YornoSo,126_godowndescend,gǒ:,gǒ:,ɡ ¹⁵/oː,,Hantgan2022,913,,,,,0
-TogoKan-126_godowndescend-1,3642,TogoKan,126_godowndescend,gǒ:,gǒ:,ɡ ¹⁵/oː,,Hantgan2022,913,,,,,0
-PergeTegu-126_godowndescend-1,3643,PergeTegu,126_godowndescend,gǒ:,gǒ:,ɡ ¹⁵/oː,,Hantgan2022,913,,,,,0
-ToroTegu-126_godowndescend-1,3644,ToroTegu,126_godowndescend,gú,gú,ɡ ⁵/u,,Hantgan2022,913,,,,,0
-BenTey-126_godowndescend-1,3645,BenTey,126_godowndescend,gǒ,gǒ,ɡ ¹⁵/o,,Hantgan2022,913,,,,,0
-BankanTey-126_godowndescend-1,3646,BankanTey,126_godowndescend,gó,gó,ɡ ⁵/o,,Hantgan2022,913,,,,,0
-Gourou-126_godowndescend-1,3647,Gourou,126_godowndescend,gó:,gó:,ɡ ⁵/oː,,Hantgan2022,913,,,,,0
-TommoSo-126_godowndescend-1,3648,TommoSo,126_godowndescend,gòó,gòó,ɡ ¹⁵/o:,,Hantgan2022,913,,,,,0
-DogulDom-126_godowndescend-1,3649,DogulDom,126_godowndescend,gě:,gě:,ɡ ¹⁵/eː,,Hantgan2022,913,,,,,0
-TebulUre-126_godowndescend-1,3650,TebulUre,126_godowndescend,"gǒ (gǒ-yà-y ~ gw-â:-y, imprt gó)",gǒ,ɡ ¹⁵/o,,Hantgan2022,913,,,,,0
-BonduSo-126_godowndescend-2,3651,BonduSo,126_godowndescend,gwé,gwé,ɡ w ⁵/e,,Hantgan2022,913,,,,,0
-Bunoge-126_godowndescend-1,3652,Bunoge,126_godowndescend,"gê:, gó:ŋgè, gú:ndè",gê:,ɡ ⁵¹/eː,,Hantgan2022,913,,,,,0
-TiranigeDiga-126_godowndescend-1,3653,TiranigeDiga,126_godowndescend,"gó:, sàlè gó:",gó:,ɡ ⁵/oː,,Hantgan2022,913,,,,,0
-Mombo-126_godowndescend-1,3654,Mombo,126_godowndescend,gwé:,gwé:,ɡ w ⁵/eː,,Hantgan2022,913,,,,,0
-Penange-126_godowndescend-1,3655,Penange,126_godowndescend,"gú:ndè ('goːut'), gó:ŋgè ('emerge'), gwé: ('leave')",gú:-ndè,ɡ ⁵/uː + ⁿd ¹/e,,Hantgan2022,913,,,,,0
+Soninke-126_godowndescend-1,3586,Soninke,126_godowndescend,bóncóŋŋè,bóncóŋŋè,b ⁵/o ⁿtʃ ⁵/o ŋ + ŋ ¹/e,,Hantgan2022,2878,,,,,0
+ToroTegu-126_godowndescend-1,3587,ToroTegu,126_godowndescend,sígú,sígú,s ⁵/i ɡ ⁵/u,,Hantgan2022,858,,,,,2850
+BenTey-126_godowndescend-1,3588,BenTey,126_godowndescend,sí-yé,sí-yé,s ⁵/i j ⁵/e,,Hantgan2022,858,,,,,2850
+BankanTey-126_godowndescend-1,3589,BankanTey,126_godowndescend,síyé,síyé,s ⁵/i j ⁵/e,,Hantgan2022,858,,,,,2850
+Jamsay-126_godowndescend-1,3590,Jamsay,126_godowndescend,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+DogulDom-126_godowndescend-1,3591,DogulDom,126_godowndescend,sígè,sígè,s ⁵/i ɡ ¹/e,,Hantgan2022,858,,,,,2850
+TebulUre-126_godowndescend-1,3592,TebulUre,126_godowndescend,"súgó (súg-à:-, imprt súgó)",súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+YandaDom-126_godowndescend-1,3593,YandaDom,126_godowndescend,súwó,súwó,s ⁵/u w ⁵/o,,Hantgan2022,858,,,,,2850
+BonduSo-126_godowndescend-1,3594,BonduSo,126_godowndescend,súgí,súgí,s ⁵/u ɡ ⁵/i,,Hantgan2022,858,,,,,2850
+DonnoSo-126_godowndescend-1,3595,DonnoSo,126_godowndescend,súgò,súgò,s ⁵/u ɡ ¹/o,,Hantgan2022,858,,,,,2850
+TiranigeDiga-126_godowndescend-1,3596,TiranigeDiga,126_godowndescend,sígó,sígó,s ⁵/i ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+Bangime-126_godowndescend-1,3597,Bangime,126_godowndescend,sūɥè,sūɥè,s ³/u ɥ ¹/e,,Hantgan2022,2403,,,,,2850
+Fulfulde-126_godowndescend-1,3598,Fulfulde,126_godowndescend,jippaade,jipp-aade,dʒ i p p + aː d e,,Hantgan2022,87,,,,,0
+Jenaama-126_godowndescend-1,3599,Jenaama,126_godowndescend,yàwⁿ,yàwⁿ,j ¹/a + ∼/w̃,,Hantgan2022,2877,,,,,0
+Mombo-126_godowndescend-1,3600,Mombo,126_godowndescend,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
+Nanga-126_godowndescend-1,3601,Nanga,126_godowndescend,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
+Penange-126_godowndescend-1,3602,Penange,126_godowndescend,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
+PergeTegu-126_godowndescend-1,3603,PergeTegu,126_godowndescend,sígé,sígé,s ⁵/i ɡ ⁵/e,,Hantgan2022,858,,,,,2850
+TogoKan-126_godowndescend-1,3604,TogoKan,126_godowndescend,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+TommoSo-126_godowndescend-1,3605,TommoSo,126_godowndescend,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+YornoSo-126_godowndescend-1,3606,YornoSo,126_godowndescend,súgó,súgó,s ⁵/u ɡ ⁵/o,,Hantgan2022,858,,,,,2850
+SonghaiSenni-126_godowndescend-1,3607,SonghaiSenni,126_godowndescend,zùmbù,zùmbù,z ¹/u ⁿb ¹/u,,Hantgan2022,3643,,,,,2850
 Bangime-127_goupascend-1,3610,Bangime,127_goupascend,ɥījè,ɥījè,ɥ ³/i j ¹/e,,Hantgan2022,2404,,,,,0
 Fulfulde-127_goupascend-1,3611,Fulfulde,127_goupascend,imud,im-ude,i m u + ⁿd e,,Hantgan2022,88,,,,,0
 Jenaama-127_goupascend-1,3612,Jenaama,127_goupascend,tāwⁿ,tāwⁿ,t ³/a + ∼/w̃,,Hantgan2022,2881,,,,,0
@@ -4113,27 +4087,27 @@ Bunoge-145_hornanatomy-1,4124,Bunoge,145_hornanatomy,kɛ́lɛ̀,kɛ́lɛ̀,k ⁵
 TiranigeDiga-145_hornanatomy-1,4125,TiranigeDiga,145_hornanatomy,"kɛ̀:lɛ̀ŋgè (Boui), kɛ̀:lɛ̀wⁿ (Ningo, Pl kɛ̀:lɛ̀ŋ-gè)",kɛ̀:lɛ̀-ŋgè,k ¹/ɛː l ¹/ɛ + ⁿɡ ¹/e,,Hantgan2022,973,,,,,0
 ToroSo-145_hornanatomy-1,4126,ToroSo,145_hornanatomy,kɛ́lɛ́,kɛ́lɛ́,k ⁵/ɛ l ⁵/ɛ,,Hantgan2022,973,,,,,0
 BonduSo-145_hornanatomy-2,4127,BonduSo,145_hornanatomy,kɛ̀lɔ̀ː,kɛ̀lɔ̀ː,k ¹/ɛ l ¹/ɔː,,Hantgan2022,973,,,,,0
-ToroTegu-146_horse-1,4128,ToroTegu,146_horse,"sòŋgú, sòŋú, sǒŋ",sòŋ-gú,s ¹/o ŋ + ɡ ⁵/u,,Hantgan2022,977,,,,,0
-BenTey-146_horse-1,4129,BenTey,146_horse,sǒ-m,sǒ-m,s ¹⁵/o + m,,Hantgan2022,975,,,,,0
-Nanga-146_horse-1,4130,Nanga,146_horse,sǒŋ,sǒŋ,s ¹⁵/o ŋ,,Hantgan2022,977,,,,,0
-PergeTegu-146_horse-1,4131,PergeTegu,146_horse,sǒm,sǒm,s ¹⁵/o m,,Hantgan2022,976,,,,,3306
+ToroTegu-146_horse-1,4128,ToroTegu,146_horse,"sòŋgú, sòŋú, sǒŋ",sòŋ-gú,s ¹/o ŋ + ɡ ⁵/u,,Hantgan2022,977,,,,,3306
+BenTey-146_horse-1,4129,BenTey,146_horse,sǒ-m,sǒ-m,s ¹⁵/o + m,,Hantgan2022,975,,,,,3306
+Nanga-146_horse-1,4130,Nanga,146_horse,sǒŋ,sǒŋ,s ¹⁵/o + ŋ,,Hantgan2022,977,,,,,3306
+PergeTegu-146_horse-1,4131,PergeTegu,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,976,,,,,3306
 TogoKan-146_horse-1,4132,TogoKan,146_horse,sɔ̌ⁿ,sɔ̌ⁿ,s ɔ̃,,Hantgan2022,976,,,,,3306
-TommoSo-146_horse-1,4133,TommoSo,146_horse,sóm,sóm,s ⁵/o + m,,Hantgan2022,975,,,,,0
-DogulDom-146_horse-1,4134,DogulDom,146_horse,sómú,sómú,s ⁵/o + m ⁵/u,,Hantgan2022,975,,,,,0
-TebulUre-146_horse-1,4135,TebulUre,146_horse,sòmé,sòmé,s ¹/o + m ⁵/e,,Hantgan2022,975,,,,,0
-YandaDom-146_horse-1,4136,YandaDom,146_horse,sòm,sòm,s ¹/o + m,,Hantgan2022,975,,,,,0
+TommoSo-146_horse-1,4133,TommoSo,146_horse,sóm,sóm,s ⁵/o + m,,Hantgan2022,975,,,,,3306
+DogulDom-146_horse-1,4134,DogulDom,146_horse,só + mú,sómú,s ⁵/o + m ⁵/u,,Hantgan2022,975,,,,,3306
+TebulUre-146_horse-1,4135,TebulUre,146_horse,sòmé,sòmé,s ¹/o + m ⁵/e,,Hantgan2022,975,,,,,3306
+YandaDom-146_horse-1,4136,YandaDom,146_horse,sòm,sòm,s ¹/o + m,,Hantgan2022,975,,,,,3306
 BonduSo-146_horse-1,4137,BonduSo,146_horse,bàné,bàné,b ¹/a n ⁵/e,,Hantgan2022,974,,,,,55
 Bunoge-146_horse-1,4138,Bunoge,146_horse,sé (sê: nɔ̀),sé,s ⁵/e,,Hantgan2022,976,,,,,3306
 TomoKan-146_horse-1,4139,TomoKan,146_horse,sò-wⁿ (X só:ⁿ),sò-wⁿ,s ¹/o + ∼/w̃,,Hantgan2022,976,,,,,3306
-TiranigeDiga-146_horse-1,4140,TiranigeDiga,146_horse,"sóɲóní (Boui), sóɲjóní (Ningo)",sóɲó-ní,s ⁵/o ɲ ⁵/o + n ⁵/i,,Hantgan2022,977,,,,,0
-Mombo-146_horse-1,4141,Mombo,146_horse,sóɲónì,sóɲó-nì,s ⁵/o ɲ ⁵/o + n ¹/i,,Hantgan2022,977,,,,,0
-Penange-146_horse-1,4142,Penange,146_horse,sònjòm,sònjò-m,s ¹/o ⁿdʒ ¹/o + m,,Hantgan2022,975,,,,,0
+TiranigeDiga-146_horse-1,4140,TiranigeDiga,146_horse,"sóɲóní (Boui), sóɲjóní (Ningo)",sóɲó-ní,s ⁵/o ɲ ⁵/o + n ⁵/i,,Hantgan2022,977,,,,,3306
+Mombo-146_horse-1,4141,Mombo,146_horse,sóɲónì,sóɲó-nì,s ⁵/o ɲ ⁵/o + n ¹/i,,Hantgan2022,977,,,,,3306
+Penange-146_horse-1,4142,Penange,146_horse,sònjòm,sònjò-m,s ¹/o ⁿdʒ ¹/o + m,,Hantgan2022,975,,,,,3306
 Bangime-146_horse-1,4143,Bangime,146_horse,búwó,búwó,b ⁵/u w ⁵/o,,Hantgan2022,2424,,,,,0
 Fulfulde-146_horse-1,4144,Fulfulde,146_horse,puccu,puccu,p u tʃ tʃ u,,Hantgan2022,107,,,,,0
 Jenaama-146_horse-1,4145,Jenaama,146_horse,sìyóⁿ,sìyóⁿ,s ¹/i j ⁵/õ,,Hantgan2022,2941,,,,,3306
-Jamsay-146_horse-1,4146,Jamsay,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,0
-BankanTey-146_horse-1,4147,BankanTey,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,0
-YornoSo-146_horse-1,4148,YornoSo,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,0
+Jamsay-146_horse-1,4146,Jamsay,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,3306
+BankanTey-146_horse-1,4147,BankanTey,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,3306
+YornoSo-146_horse-1,4148,YornoSo,146_horse,sǒm,sǒm,s ¹⁵/o + m,,Hantgan2022,975,,,,,3306
 Bambara-146_horse-1,4149,Bambara,146_horse,sò,sò,s ¹/o,,Hantgan2022,2941,,,,,3306
 BozoDebo-146_horse-1,4150,BozoDebo,146_horse,sie,sie,s i e,,Hantgan2022,2941,,,,,3306
 BozoHainyaxo-146_horse-1,4151,BozoHainyaxo,146_horse,suo,suo,s u o,,Hantgan2022,2941,,,,,3306
@@ -4147,8 +4121,8 @@ BozoTiemaCewe-146_horse-1,4158,BozoTiemaCewe,146_horse,sie,sie,s i e,,Hantgan202
 Soninke-146_horse-1,4159,Soninke,146_horse,sî ~ sìì,sî ~ sìì,s ⁵¹/i,,Hantgan2022,2941,,,,,3306
 SonghaiSenni-146_horse-1,4160,SonghaiSenni,146_horse,bàry-ò,bàry-ò,b ¹/a r j + ¹/o,,Hantgan2022,3665,,,,,55
 ToroSo-146_horse-1,4161,ToroSo,146_horse,sɔ́ɔ́,sɔ́ɔ́,s ⁵/ɔː,,Hantgan2022,976,,,,,3306
-ToroSo-146_horse-2,4162,ToroSo,146_horse,sɔ́ŋù,sɔ́ŋù,s ⁵/ɔ + ŋ ¹/u,,Hantgan2022,977,,,,,0
-BonduSo-146_horse-2,4163,BonduSo,146_horse,bàn,bàn,b ¹⁵/aː + n,,Hantgan2022,979,,,,,55
+ToroSo-146_horse-2,4162,ToroSo,146_horse,sɔ́ŋù,sɔ́ŋù,s ⁵/ɔ + ŋ ¹/u,,Hantgan2022,977,,,,,3306
+SonghaiKiini-146_horse-1,9638,SonghaiKiini,146_horse,bàrí,bàrí,b ¹/a r ¹/i,,Hantgan2022,3665,,,,,55
 Bambara-147_host-1,4164,Bambara,147_host,fèéré,fèéré,f ¹⁵/eː r ⁵/e,,Hantgan2022,2942,,,,,0
 Bambara-147_host-2,4165,Bambara,147_host,nà,nà,n ¹/a,,Hantgan2022,2944,,,,,0
 Bangime-147_host-1,4166,Bangime,147_host,nʤààtìɡì,nʤààtìɡì,n dʒ ¹/aː + t ¹/i ɡ ¹/i,,Hantgan2022,2425,,,,,3337
@@ -5176,7 +5150,7 @@ SonghaiSenni-182_market-1,5187,SonghaiSenni,182_market,héb-ó,héb-ó,h ⁵/e b
 ToroTegu-183_marrow-1,5188,ToroTegu,183_marrow,síwó,síwó,s ⁵/i w ⁵/o,,Hantgan2022,1238,,,,,4216
 BenTey-183_marrow-1,5189,BenTey,183_marrow,bú:sǎm,bú:sǎm,b ⁵/uː s ¹⁵/a + m,,Hantgan2022,1245,,,,,4238
 BankanTey-183_marrow-1,5190,BankanTey,183_marrow,"nɔ̀:-nî:, m̀búsâm",nɔ̀:nî:,n ¹/ɔː n ⁵¹/iː,,Hantgan2022,1240,,,,,0
-Nanga-183_marrow-1,5191,Nanga,183_marrow,nɔ̀ndí,nɔ̀ndí,n ¹/ɔ ⁿd ⁵/i,,Hantgan2022,1242,,,,,0
+Nanga-183_marrow-1,5191,Nanga,183_marrow,nɔ̀ndí,nɔ̀ndí,n ¹/ɔ ⁿd ⁵/i,,Hantgan2022,1242,,,,,4217
 PergeTegu-183_marrow-1,5192,PergeTegu,183_marrow,búsâm,búsâm,b ⁵/u s ⁵¹/a + m,,Hantgan2022,1245,,,,,4238
 Gourou-183_marrow-1,5193,Gourou,183_marrow,bú:sɔ̀m,bú:sɔ̀m,b ⁵/uː s ¹/ɔ + m,,Hantgan2022,1245,,,,,4238
 TogoKan-183_marrow-1,5194,TogoKan,183_marrow,sìyè-iⁿ bɔ́:nɔ́,sìyè-iⁿ_bɔ́:nɔ́,s ¹/i j ¹/e + ĩ + b ɔː n ⁵/ɔ,,Hantgan2022,1244,,,,,0
@@ -5390,11 +5364,11 @@ BonduSo-191_millet-1,5401,BonduSo,191_millet,yó-ŋgó,yó-ŋgó,j ⁵/o + ⁿɡ
 Bunoge-191_millet-1,5402,Bunoge,191_millet,sé:ŋgè,sé:-ŋgè,s ⁵/eː + ⁿɡ ¹/e,,Hantgan2022,1291,,,,,0
 TiranigeDiga-191_millet-1,5403,TiranigeDiga,191_millet,yò:gè,yò:-gè,j ¹/oː + ɡ ¹/e,,Hantgan2022,1291,,,,,0
 Penange-191_millet-1,5404,Penange,191_millet,sè:ŋgè,sè:-ŋgè,s ¹/eː + ⁿɡ ¹/e,,Hantgan2022,1291,,,,,0
-Bangime-191_millet-1,5405,Bangime,191_millet,dɛ́mɛ̀,dɛ́mɛ̀,d ⁵/ɛ m ¹/ɛ,,Hantgan2022,2474,,,,,4393
+Bangime-191_millet-1,5405,Bangime,191_millet,dɛ́mɛ̀,dɛ́mɛ̀,d ⁵/ɛ + m ¹/ɛ,,Hantgan2022,2474,,,,,4393
 Fulfulde-191_millet-1,5406,Fulfulde,191_millet,gawri,gawri,ɡ a w r i,,Hantgan2022,153,,,,,0
 Jenaama-191_millet-1,5407,Jenaama,191_millet,pīⁿ (1),pīⁿ,p ³/ĩ,,Hantgan2022,3079,,,,,0
 BankanTey-191_millet-1,5408,BankanTey,191_millet,yû:,yû:,j ⁵¹/uː,,Hantgan2022,1290,,,,,4394
-Mombo-191_millet-1,5409,Mombo,191_millet,sé:ŋgè,sé:ŋgè,s ⁵/eː ⁿɡ ¹/e,,Hantgan2022,1292,,,,,0
+Mombo-191_millet-1,5409,Mombo,191_millet,sé:ŋgè,sé:ŋgè,s ⁵/eː + ⁿɡ ¹/e,,Hantgan2022,1292,,,,,0
 Nanga-191_millet-1,5410,Nanga,191_millet,yû:,yû:,j ⁵¹/uː,,Hantgan2022,1290,,,,,4394
 TogoKan-191_millet-1,5411,TogoKan,191_millet,ɲú:,ɲú:,ɲ ⁵/uː,,Hantgan2022,1293,,,,,0
 TomoKan-191_millet-1,5412,TomoKan,191_millet,ʔínjá,ʔínjá,ʔ ⁵/i ⁿdʒ ⁵/a,,Hantgan2022,1294,,,,,0
@@ -5405,8 +5379,8 @@ BozoKorondougounord-191_millet-1,5416,BozoKorondougounord,191_millet,piⁿiⁿ,p
 BozoKorondougousud-191_millet-1,5417,BozoKorondougousud,191_millet,piⁿiⁿ,piⁿiⁿ,p ĩ:,,Hantgan2022,3079,,,,,0
 BozoKotya-191_millet-1,5418,BozoKotya,191_millet,jɛⁿŋ,jɛⁿŋ,dʒ ∼/ɛ + ŋ,,Hantgan2022,3080,,,,,0
 BozoPondorinord-191_millet-1,5419,BozoPondorinord,191_millet,jɛⁿpii,jɛⁿpii,dʒ ∼/ɛ + p iː,,Hantgan2022,3081,,,,,0
-BozoPondorisud-191_millet-1,5420,BozoPondorisud,191_millet,jɛⁿpiⁿ,jɛⁿpiⁿ,dʒ ∼/ɛ + p ĩ,,Hantgan2022,3081,,,,,0
-BozoTieyaxo-191_millet-1,5421,BozoTieyaxo,191_millet,jʸeⁿ,jʸeⁿ,dʒ j ẽ,,Hantgan2022,3078,,,,,4393
+BozoPondorisud-191_millet-1,5420,BozoPondorisud,191_millet,jɛⁿpiⁿ,jɛⁿpiⁿ,dʒ ∼/ɛ + p ĩ,,Hantgan2022,3081,,,,,4393
+BozoTieyaxo-191_millet-1,5421,BozoTieyaxo,191_millet,jʸeⁿ,jʸeⁿ,dʒ j ẽ,,Hantgan2022,3078,,,,,0
 Soninke-191_millet-1,5422,Soninke,191_millet,yìllê,yìllê,j ¹/i l l ⁵¹/e,,Hantgan2022,3082,,,,,0
 SonghaiSenni-191_millet-1,5423,SonghaiSenni,191_millet,hèyn-ò,hèyn-ò,h ¹/e j n + ¹/o,,Hantgan2022,3721,,,,,0
 ToroSo-191_millet-1,5424,ToroSo,191_millet,yúú,yúú,j ⁵/uː,,Hantgan2022,1290,,,,,4394
@@ -6563,7 +6537,7 @@ SonghaiSenni-237_razor-1,6576,SonghaiSenni,237_razor,sì:n-ò,sì:n-ò,s ¹/iː 
 Fulfulde-237_razor-1,6577,Fulfulde,237_razor,laɓi,laɓi,l a ɓ i,,Hantgan2022,198,,,,,5344
 Penange-237_razor-1,6578,Penange,237_razor,sìl-mbè,sìlmbè,s ¹/i l + ⁿb ¹/e,,Hantgan2022,1567,,,,,5343
 Bangime-237_razor-1,6579,Bangime,237_razor,sìrìbì (2),sìrìbì,s ¹/i r ¹/i + b ¹/i,,Hantgan2022,2519,,,,,5343
-Jenaama-237_razor-1,6580,Jenaama,237_razor,sìrìmbè,sìrìmbè,s ¹/i r ¹/i ⁿb ¹/e,,Hantgan2022,3199,,,,,5344
+Jenaama-237_razor-1,6580,Jenaama,237_razor,sìrìmbè,sìrìmbè,s ¹/i r ¹/i ⁿb ¹/e,,Hantgan2022,3199,,,,,5343
 SonghaiSenni-238_red-1,6581,SonghaiSenni,238_red,kírêy,kírêy,k ⁵/i r ⁵¹/e + j,,Hantgan2022,3773,,,,,0
 Soninke-238_red-1,6582,Soninke,238_red,dùmbê,dùmbê,d ¹/u ⁿb ⁵¹/e,,Hantgan2022,3200,,,,,0
 Ampari-238_red-1,6583,Ampari,238_red,bɔ̀:mbɛ̀,bɔ̀:mbɛ̀,b ¹/ɔː ⁿb ¹/ɛ,,Hantgan2022,1568,,,,,5348
@@ -7169,7 +7143,7 @@ Mombo-258_sheep-1,7185,Mombo,258_sheep,ánnà,ánnà,⁵/a n n ¹/a,,Hantgan2022
 Penange-258_sheep-1,7186,Penange,258_sheep,àlàmùnɔ̀_y,àlàmùnɔ̀_y,¹/a l ¹/a m ¹/u n ¹/ɔ + j,,Hantgan2022,1718,,,,,0
 TiranigeDiga-258_sheep-1,7187,TiranigeDiga,258_sheep,ámbá ~ á:ná,ámbá,⁵/a ⁿb ⁵/a,,Hantgan2022,1715,,,,,0
 Bangime-258_sheep-1,7188,Bangime,258_sheep,ŋámbárà,ŋámbárà,ŋ ⁵/a ⁿb ⁵/a + r ¹/a,,Hantgan2022,2542,,,,,0
-Fulfulde-258_sheep-1,7189,Fulfulde,258_sheep,mbaalu,mbaalu,ⁿb aː l u,,Hantgan2022,219,,,,,5833
+Fulfulde-258_sheep-1,7189,Fulfulde,258_sheep,mbaalu,mbaalu,ⁿb aː l u,,Hantgan2022,219,,,,,0
 Jenaama-258_sheep-1,7190,Jenaama,258_sheep,sɔ̀gɔ̀,sɔ̀gɔ̀,s ¹/ɔ ɡ ¹/ɔ,,Hantgan2022,3267,,,,,0
 PergeTegu-258_sheep-1,7191,PergeTegu,258_sheep,pé:sú,pé:sú,p ⁵/eː s ⁵/u,,Hantgan2022,1716,,,,,5833
 TomoKan-258_sheep-1,7192,TomoKan,258_sheep,pèjí,pèjí,p ¹/e dʒ ⁵/i,,Hantgan2022,1716,,,,,5833
@@ -8847,7 +8821,7 @@ TebulUre-321_trappitfall-1,8885,TebulUre,321_trappitfall,támbárá,támbárá,t
 Bambara-321_trappitfall-1,8886,Bambara,321_trappitfall,jáⁿ,jáⁿ,dʒ ⁵/ã,,Hantgan2022,3462,,,,,0
 Bambara-321_trappitfall-2,8887,Bambara,321_trappitfall,nkɔ̀lɛ́,nkɔ̀lɛ́,ⁿk ¹/ɔ l ⁵/ɛ,,Hantgan2022,3466,,,,,0
 Soninke-321_trappitfall-1,8888,Soninke,321_trappitfall,bàppê,bàppê,b ¹/a p p ⁵¹/e,,Hantgan2022,3465,,,,,0
-Soninke-321_trappitfall-2,8889,Soninke,321_trappitfall,kálàŋŋê,kálàŋŋê,k ⁵/a l ¹/a ŋ + ŋ ⁵¹/e,,Hantgan2022,3466,,,,,0
+Soninke-321_trappitfall-2,8889,Soninke,321_trappitfall,kálàŋŋê,kálàŋŋê,k ⁵/a l ¹/a ŋ + ŋ ⁵¹/e,,Hantgan2022,3466,,,,,7159
 Bambara-321_trappitfall-3,8890,Bambara,321_trappitfall,pɛ̀gɛ́,pɛ̀gɛ́,p ¹/ɛ ɡ ⁵/ɛ,,Hantgan2022,3464,,,,,7162
 YornoSo-321_trappitfall-1,8891,YornoSo,321_trappitfall,pɛ́rⁿɛ́,pɛ́rⁿɛ́,p ⁵/ɛ ∼/r̃ ⁵/ɛ,,Hantgan2022,2080,,,,,7162
 BozoHainyaxo-322_traverse-1,8892,BozoHainyaxo,322_traverse,kárá,kárá,k ⁵/a r ⁵/a,,Hantgan2022,3469,,,,,7186
@@ -9430,19 +9404,19 @@ TommoSo-343_wood-1,9471,TommoSo,343_wood,tìnú,tìnú,t ¹/i + n ⁵/u,,Hantgan
 ToroTegu-343_wood-1,9472,ToroTegu,343_wood,tìrⁿú,tìrⁿú,t ¹/i + ∼/r̃ ⁵/u,,Hantgan2022,2219,,,,,7587
 YandaDom-343_wood-1,9473,YandaDom,343_wood,té:,té:,t ⁵/eː,,Hantgan2022,2219,,,,,7587
 YornoSo-343_wood-1,9474,YornoSo,343_wood,tǐn,tǐn,t ¹⁵/i + n,,Hantgan2022,2219,,,,,7587
-BozoDebo-343_wood-1,9475,BozoDebo,343_wood,sua,sua,s u a,,Hantgan2022,3518,,,,,0
-BozoHainyaxo-343_wood-1,9476,BozoHainyaxo,343_wood,sua,sua,s u a,,Hantgan2022,3518,,,,,0
-BozoKorondougounord-343_wood-1,9477,BozoKorondougounord,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
-BozoKorondougounord-343_wood-2,9478,BozoKorondougounord,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
-BozoKorondougousud-343_wood-1,9479,BozoKorondougousud,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
-BozoKorondougousud-343_wood-2,9480,BozoKorondougousud,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
+BozoDebo-343_wood-1,9475,BozoDebo,343_wood,sua,sua,s u a,,Hantgan2022,3517,,,,,0
+BozoHainyaxo-343_wood-1,9476,BozoHainyaxo,343_wood,sua,sua,s u a,,Hantgan2022,3517,,,,,0
+BozoKorondougounord-343_wood-1,9477,BozoKorondougounord,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
+BozoKorondougounord-343_wood-2,9478,BozoKorondougounord,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
+BozoKorondougousud-343_wood-1,9479,BozoKorondougousud,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
+BozoKorondougousud-343_wood-2,9480,BozoKorondougousud,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
 BozoKotya-343_wood-1,9481,BozoKotya,343_wood,cua,cua,tʃ u a,,Hantgan2022,3517,,,,,7587
-BozoPondorinord-343_wood-1,9482,BozoPondorinord,343_wood,swa,swa,s w a,,Hantgan2022,3518,,,,,0
-BozoPondorisud-343_wood-1,9483,BozoPondorisud,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
-BozoPondorisud-343_wood-2,9484,BozoPondorisud,343_wood,suba,suba,s u b a,,Hantgan2022,3518,,,,,0
-BozoTieyaxo-343_wood-1,9485,BozoTieyaxo,343_wood,suaa,suaa,s u aː,,Hantgan2022,3518,,,,,0
+BozoPondorinord-343_wood-1,9482,BozoPondorinord,343_wood,swa,swa,s w a,,Hantgan2022,3517,,,,,0
+BozoPondorisud-343_wood-1,9483,BozoPondorisud,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
+BozoPondorisud-343_wood-2,9484,BozoPondorisud,343_wood,suba,suba,s u b a,,Hantgan2022,3517,,,,,0
+BozoTieyaxo-343_wood-1,9485,BozoTieyaxo,343_wood,suaa,suaa,s u aː,,Hantgan2022,3517,,,,,0
 BozoTiemaCewe-343_wood-1,9486,BozoTiemaCewe,343_wood,kiɛ,kiɛ,k i ɛ,,Hantgan2022,3519,,,,,0
-Soninke-343_wood-1,9487,Soninke,343_wood,súwà,súwà,s ⁵/u w ¹/a,,Hantgan2022,3518,,,,,0
+Soninke-343_wood-1,9487,Soninke,343_wood,súwà,súwà,s ⁵/u w ¹/a,,Hantgan2022,3517,,,,,0
 BonduSo-343_wood-2,9488,BonduSo,343_wood,téːŋgó,téːŋgó,t ⁵/eː + ⁿɡ ⁵/o,,Hantgan2022,2219,,,,,7587
 Bangime-343_wood-1,9489,Bangime,343_wood,kúwɔ́ⁿ,kúwɔ́ⁿ,k ⁵/u w ∼⁵/ɔ,,Hantgan2022,2629,,,,,0
 Soninke-344_worklabour-1,9490,Soninke,344_worklabour,góllí,góllí,ɡ ⁵/o l l ⁵/i,,Hantgan2022,3521,,,,,88
