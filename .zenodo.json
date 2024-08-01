@@ -15,7 +15,12 @@
         "linguistics"
     ],
     "title": "CLDF dataset underlying the study \"First steps towards the detection of contact layers in Bangime: a multi-disciplinary, computer-assisted approach\" from 2022",
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        }
+    ],
     "access_right": "open",
     "communities": [
         {
