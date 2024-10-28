@@ -38,7 +38,7 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         data = fetch(
                 "bangime", 
-                base_url="https://digling.org/edictor",
+                base_url="https://lingulist.de/digling/edictor",
                 to_lingpy=False,
                 columns=[
                     "DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS",
